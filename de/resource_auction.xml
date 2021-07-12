@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="auction_bid_invalid"><![CDATA[Gebot ungültig]]></item>
+ <item name="auction_bid_credits_to_little"><![CDATA[Für dieses Gebot hast du zu wenig Credits.]]></item>
+ <item name="auction_bid_minBid_not_reached"><![CDATA[Dein Gebot ist zu niedrig. Das neue Gebot muss mindestens %MINIMUM_BID% Credits über dem Letzten liegen.]]></item>
+ <item name="auction_bid_saved"><![CDATA[Gebot abgegeben]]></item>
+ <item name="auction_item_package"><![CDATA[(%AMOUNT% Einheiten)]]></item>
+ <item name="auction_my_bid"><![CDATA[Mein Gebot:]]></item>
+ <item name="auction_error_generic"><![CDATA[Ein Fehler ist aufgetreten. Bitte versuche es erneut.]]></item>
+ <item name="auction_quantityManager_laser"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Laserschüsse<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
+ <item name="auction_quantityManager_rocket"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Raketen<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
+ <item name="auction_quantityManager_mine"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Minen<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
+ <item name="auction_quantityManager_logfile"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Logfile<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
+ <item name="auction_quantityManager_ore"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Erze<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
+ <item name="auction_buy_amount_invalid"><![CDATA[Ungültige Menge]]></item>
+ <item name="auction_book_back_money"><![CDATA[Rückbuchung Auktionsgebot (%ITEMNAME%)]]></item>
+ <item name="auction_filter"><![CDATA[Filter]]></item>
+ <item name="auction_filter_battery"><![CDATA[Batterien]]></item>
+ <item name="auction_filter_rocket"><![CDATA[Raketen und Minen]]></item>
+ <item name="auction_filter_generator"><![CDATA[Generatoren]]></item>
+ <item name="auction_filter_extra"><![CDATA[Extras]]></item>
+ <item name="auction_filter_weapon"><![CDATA[Waffen]]></item>
+ <item name="auction_filter_ship"><![CDATA[Schiffe]]></item>
+ <item name="auction_filter_booster"><![CDATA[Booster]]></item>
+ <item name="auction_filter_shipdesign"><![CDATA[Schiffdesigns]]></item>
+ <item name="auction_filter_module"><![CDATA[Module]]></item>
+ <item name="auction_filter_special"><![CDATA[Spezial]]></item>
+ <item name="auction_filter_history"><![CDATA[Auktion wählen]]></item>
+ <item name="auction_title"><![CDATA[AUKTIONSHAUS]]></item>
+ <item name="auction_type_hour"><![CDATA[STÜNDLICH]]></item>
+ <item name="auction_type_day"><![CDATA[TÄGLICH]]></item>
+ <item name="auction_type_week"><![CDATA[WÖCHENTLICH]]></item>
+ <item name="auction_current"><![CDATA[AUKTION]]></item>
+ <item name="auction_mybids"><![CDATA[MEINE GEBOTE]]></item>
+ <item name="auction_history"><![CDATA[CHRONIK]]></item>
+ <item name="auction_countdown"><![CDATA[Auktion endet in]]></item>
+ <item name="auction_choose"><![CDATA[Auktion wählen]]></item>
+ <item name="auction_winner"><![CDATA[Gewinner]]></item>
+ <item name="auction_price"><![CDATA[Preis]]></item>
+ <item name="auction_place_bid"><![CDATA[BIETEN]]></item>
+ <item name="auction_buy_instant"><![CDATA[SOFORTKAUF]]></item>
+ <item name="auction_buy_instant_invalid"><![CDATA[Für dieses Item steht Sofortkauf leider nicht zur Verfügung.]]></item>
+ <item name="auction_ttip_bid"><![CDATA[Jetzt bieten]]></item>
+ <item name="auction_ttip_bid_disabled"><![CDATA[Bitte wähle zuerst ein Item, bevor Du bietest.]]></item>
+ <item name="auction_ttip_buy"><![CDATA[Jetzt für Uridium kaufen]]></item>
+ <item name="auction_ttip_buy_disabled"><![CDATA[Bitte wähle zuerst ein Item.]]></item>
+ <item name="auction_ttip_buy_permitted"><![CDATA[Auf dieses Item kann nur geboten werden.]]></item>
+ <item name="auction_item_name"><![CDATA[Item-Name]]></item>
+ <item name="auction_item_type"><![CDATA[Typ]]></item>
+ <item name="auction_item_highest"><![CDATA[Höchstbietender]]></item>
+ <item name="auction_item_current"><![CDATA[Gebot]]></item>
+ <item name="auction_item_yours"><![CDATA[Dein Gebot]]></item>
+ <item name="auction_item_instant"><![CDATA[Sofortkauf]]></item>
+ <item name="auction_item_winner"><![CDATA[Käufer]]></item>
+ <item name="auction_bid_low"><![CDATA[Dein Gebot war leider zu niedrig.]]></item>
+ <item name="auction_bid_nobids"><![CDATA[Du hast bisher noch kein Gebot abgegeben.]]></item>
+ <item name="auction_bid_captcha"><![CDATA[Gib zuerst den Captcha-Code richtig ein, bevor Du ein Gebot abgibst.]]></item>
+ <item name="auction_bid_toofast"><![CDATA[Achtung, Du hast zu schnell für zu viele Items geboten.]]></item>
+ <item name="auction_bid_characters"><![CDATA[Bitte gib als Betrag nur Zahlen ein (ohne Punkt & Komma).]]></item>
+ <item name="auction_enable_mail"><![CDATA[Bestätigungsmail aktivieren.]]></item>
+ <item name="auction_disable_mail"><![CDATA[Bestätigungsmail deaktivieren.]]></item>
+ <item name="auction_mail_label"><![CDATA[Bestätigungsmail]]></item>
+</resource>

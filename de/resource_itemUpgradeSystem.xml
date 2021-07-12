@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="itemUpgrSyst_upgrDescr_left_head"><![CDATA[Schritt 1]]></item>
+ <item name="itemUpgrSyst_upgrDescr_left_text"><![CDATA[Wähle ein Item aus, das Du upgraden möchtest.]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_lasers"><![CDATA[Laser]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_rocketLaunchers"><![CDATA[Rocketlauncher]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_shieldGenerators"><![CDATA[Schildgeneratoren]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_drones"><![CDATA[Drohnen]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_modules"><![CDATA[Module]]></item>
+ <item name="itemUpgrSyst_selectItem_level"><![CDATA[Level]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_head"><![CDATA[Schritt 2]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_text"><![CDATA[Entscheide,
+    wie viele Upgrade-Boosts Du beim Upgrade-Versuch verwenden möchtest.
+    Jeder Boost erhöht die Chance, dass der Upgrade-Versuch erfolgreich ist, um
+    <span class="highlight">5%</span>.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_choose"><![CDATA[Bitte wähle unter Schritt 1 ein Item aus, das Du upgraden möchtest.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_head"><![CDATA[Schritt 3]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_text"><![CDATA[Nachdem Du das Item und die
+        Anzahl der Upgrade-Boosts ausgewählt hast, kannst Du jetzt den Upgrade-Versuch starten.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_vouchers"><![CDATA[Upgrade-Gutscheine:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_probability"><![CDATA[Upgrade-Erfolgschance:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_costs"><![CDATA[Upgrade-Kosten gesamt:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_damage"><![CDATA[Schaden:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_shield"><![CDATA[Schild-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_damageShield"><![CDATA[Schaden/Schild-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_defm-1"><![CDATA[Deflektor-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_dmgm-1"><![CDATA[Hitpoint/Booster-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_honm-1"><![CDATA[Hitpoint/Booster-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_hulm-1"><![CDATA[Hitpoint-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-hr"><![CDATA[Hitpoint/Schaden-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-lr"><![CDATA[Hitpoint/Schaden-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-mr"><![CDATA[Hitpoint/Schaden-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ram-la"><![CDATA[Hitpoint/Schaden-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ram-ma"><![CDATA[Hitpoint/Schaden-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_repm-1"><![CDATA[Hitpoint/Reparatur-Bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_xpm-1"><![CDATA[Hitpoint/Booster-Bonus:]]></item>
+ <item name="itemUpgrSyst_right_upgradeButton"><![CDATA[Upgrade]]></item>
+ <item name="itemUpgrSyst_right_upgrade_start_upper"><![CDATA[UPGRADE STARTEN]]></item>
+ <item name="itemUpgrSyst_right_upgrade_attempt_start_upper"><![CDATA[UPGRADE-VERSUCH STARTEN]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_headProgress"><![CDATA[Fortschritt Upgrade]]></item>
+ <item name="itemUpgrSyst_right_progressButton"><![CDATA[Fortschritt]]></item>
+ <item name="itemUpgrSyst_right_upgradeLogButton"><![CDATA[Upgrade Log]]></item>
+ <item name="itemUpgrSyst_right_upgradeCollectAllButton"><![CDATA[Alles abholen]]></item>
+ <item name="itemUpgrSyst_right_upgradeFinishAllButton"><![CDATA[Alle beenden]]></item>
+ <item name="itemUpgrSyst_right_upgradeListInfo"><![CDATA[Upgrade-Versuch zu %PERCENT%% abgeschlossen]]></item>
+ <item name="itemUpgrSyst_right_upgraded"><![CDATA[Upgrade von Level %LEVEL_OLD% auf Level %LEVEL_NEW%]]></item>
+ <item name="itemUpgrSyst_right_not_upgraded"><![CDATA[Upgrade-Versuch gescheitert]]></item>
+ <item name="itemUpgrSyst_history_update_module_success"><![CDATA[Modul-Upgrade auf Level %NEW_LEVEL% erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_module_fail"><![CDATA[Modul-Upgrade auf Level %NEW_LEVEL% nicht erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_laser_success"><![CDATA[Laser-Upgrade auf Level %NEW_LEVEL% erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_laser_fail"><![CDATA[Laser-Upgrade auf Level %NEW_LEVEL% nicht erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_shieldgenerator_success"><![CDATA[Generatoren-Upgrade auf Level %NEW_LEVEL% erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_shieldgenerator_fail"><![CDATA[Generatoren-Upgrade auf Level %NEW_LEVEL% nicht erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_rocketlauncher_success"><![CDATA[Rocketlauncher-Upgrade auf Level %NEW_LEVEL% erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_rocketlauncher_fail"><![CDATA[Rocketlauncher-Upgrade auf Level %NEW_LEVEL% nicht erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_drone_success"><![CDATA[Drohnen-Upgrade auf Level %NEW_LEVEL% erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_drone_fail"><![CDATA[Drohnen-Upgrade auf Level %NEW_LEVEL% nicht erfolgreich.]]></item>
+ <item name="itemUpgrSyst_history_update_complete_all"><![CDATA[Item-Upgrades durchgeführt (%AMOUNT_SUCCESS% erfolgreich, %AMOUNT_FAIL% nicht erfolgreich).]]></item>
+ <item name="itemUpgrSyst_balance_update_module"><![CDATA[Modul-Upgrade-Versuch auf Level %NEW_LEVEL% gestartet.]]></item>
+ <item name="itemUpgrSyst_balance_update_laser"><![CDATA[Laser-Upgrade-Versuch auf Level %NEW_LEVEL% gestartet.]]></item>
+ <item name="itemUpgrSyst_balance_update_shieldgenerator"><![CDATA[Generatoren-Upgrade-Versuch auf Level %NEW_LEVEL% gestartet.]]></item>
+ <item name="itemUpgrSyst_balance_update_rocketlauncher"><![CDATA[Rocketlauncher-Upgrade-Versuch auf Level %NEW_LEVEL% gestartet.]]></item>
+ <item name="itemUpgrSyst_balance_update_drone"><![CDATA[Drohnen-Upgrade-Versuch auf Level %NEW_LEVEL% gestartet.]]></item>
+ <item name="itemUpgrSyst_help"><![CDATA[Mit dem Upgrade-System kannst Du Deinen Lasern,
+        Schildgeneratoren, Rocketlaunchern und Drohnen einen permanenten Bonus geben. <br></br>Alle Items haben 15
+        Level für das Upgrade. Das Upgrade für jedes Level und Item muss einzeln durchgeführt werden.<br><br>
+        Es gibt keine Garantie, dass der Upgrade-Versuch erfolgreich ist, außer Du beeinflusst den Prozess
+        mit Upgrade-Boosts. <br><br>Du kannst die Anzahl der Upgrade-Boosts in Schritt 2 des Item-Upgrades
+        beeinflussen (bis hin zu einer 100%igen Erfolgschance).]]></item>
+ <item name="itemUpgrSyst_attempt_start"><![CDATA[Itemupgrade gestartet.]]></item>
+ <item name="itemUpgrSyst_attempt_start_fail_credits"><![CDATA[Für dieses Item-Upgrade hast Du nicht genug Credits.]]></item>
+ <item name="itemUpgrSyst_attempt_start_fail_uridium"><![CDATA[Für dieses Item-Upgrade hast Du nicht genug Uridium.]]></item>
+ <item name="itemUpgrSyst_attempt_success"><![CDATA[Itemupgrade erfolgreich.]]></item>
+ <item name="itemUpgrSyst_attempt_fail"><![CDATA[Itemupgrade nicht erfolgreich.]]></item>
+ <item name="itemUpgrSyst_ready_click"><![CDATA[Fertig - hier klicken]]></item>
+ <item name="itemUpgrSyst_percent_value"><![CDATA[%VALUE%%]]></item>
+ <item name="itemUpgrSyst_minute_value"><![CDATA[%VALUE% Minute(n)]]></item>
+ <item name="itemUpgrSyst_upgrDescr_maxUpgradeHint"><![CDATA[*Max Upgrading Level ist %MAX_LEVEL%]]></item>
+</resource>

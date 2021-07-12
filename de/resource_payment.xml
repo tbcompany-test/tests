@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="payment_starter_packs_headline"><![CDATA[Starter-Pakete]]></item>
+ <item name="payment_starter_packs_headline_new"><![CDATA[Start Kits]]></item>
+ <item name="payment_starter_packs_text"><![CDATA[Immer im Kreuzfeuer? Schlag bei diesem Angebot zu ... und dann zurück!]]></item>
+ <item name="payment_premium_members_headline"><![CDATA[Premium-Mitglieder]]></item>
+ <item name="payment_premium_members_text"><![CDATA[Unverzichtbar für ambitionierte Piloten. Unterwerfe das All!]]></item>
+ <item name="payment_advantage_packs_headline"><![CDATA[Vorteilspakete]]></item>
+ <item name="payment_advantage_packs_headline_new"><![CDATA[Sparpakete]]></item>
+ <item name="payment_advantage_packs_text"><![CDATA[Schneller, härter, effizienter. Mit Dir legt sich keiner an!]]></item>
+ <item name="payment_equipment_packs_headline"><![CDATA[Ausrüstungspakete]]></item>
+ <item name="payment_deal_packs_headline"><![CDATA[Best Deals]]></item>
+ <item name="payment_equipment_packs_text"><![CDATA[Feuer frei! Lehre Deine Gegner das Fürchten - mit mächtigen Waffen und stahlharten Schutzschilden.]]></item>
+ <item name="payment_get_uridium"><![CDATA[Hol Dir Uridium]]></item>
+ <item name="payment_earn_uridium"><![CDATA[Cash for action]]></item>
+ <item name="payment_lottery_text_title"><![CDATA[KAPSEL-LOTTERIE]]></item>
+ <item name="payment_lottery_text_description"><![CDATA[Kapseln erhältst Du auf drei Arten. Zerstöre entweder den HITAC-NPC oder besiege seine Minions und hol Dir Fragmente fürs Buchstabenpuzzle. Wenn Du willst, kannst Du neue Kapseln auch im PAYMENT-Bereich kaufen.
+Auf der URIDIUM- Seite kannst Du Deine Kapseln in Lose für beide Ziehungen umwandeln. Klick dazu einfach den Knopf unter dem Umwandler an. Wenn Du mehr als eine Kapsel zum Lotterielos machen möchtest, kannst Du im dazugehörigen Menü die Anzahl erhöhen.]]></item>
+ <item name="payment_lottery_text_remaincapsules"><![CDATA[Verbleibende Kapseln]]></item>
+ <item name="payment_lottery_button_payment"><![CDATA[Mehr Kapseln kaufen]]></item>
+ <item name="payment_lottery_text_sunconverter"><![CDATA[Sonnen Umwandler]]></item>
+ <item name="payment_lottery_text_moonconverter"><![CDATA[Mond Umwandler]]></item>
+ <item name="payment_lottery_text_frostconverter"><![CDATA[Frost-Umwandler]]></item>
+ <item name="payment_lottery_text_hitacconverter"><![CDATA[Kapsel-Umwandler]]></item>
+ <item name="payment_lottery_text_converter"><![CDATA[Kapsel-Konverter]]></item>
+ <item name="payment_lottery_text_convert"><![CDATA[Umwandeln]]></item>
+ <item name="payment_lottery_select_defaulttext"><![CDATA[Menge wählen]]></item>
+ <item name="payment_lottery_text_log_head"><![CDATA[Sofort-Belohnungs-Log]]></item>
+ <item name="payment_lottery_text_log_description"><![CDATA[Auch im Logbuch erhältlich]]></item>
+ <item name="payment_lottery_text_log_text_capsules"><![CDATA[%amount% umgewandelte Kapseln]]></item>
+ <item name="payment_lottery_text_disclaimer"><![CDATA[Ausschluss vom Gewinnspiel:
+    Mitarbeiter von Bigpoint und den evtl. beteiligten Kooperationspartnern und deren Angehörige sind von
+    der Teilnahme ausgeschlossen. Bei einem Verstoß gegen diese Teilnahmebedingungen behält sich Bigpoint
+    das Recht vor, Personen vom Gewinnspiel auszuschließen. Ausgeschlossen werden auch Personen, die sich
+    unerlaubter Hilfsmittel bedienen oder sich anderweitig durch Manipulation Vorteile verschaffen.
+    Gegebenenfalls können in diesen Fällen auch nachträglich Gewinne aberkannt und zurückgefordert werden.
+    Außerdem möchten wir Dich darüber informieren, dass Nutzer aus Italien, Brasilien und einigen US-Staaten
+    von der Teilnahme am Gewinnspiel mit den Sachpreisen ausgeschlossen sind.]]></item>
+ <item name="payment_lottery_text_dialog_nocapsules"><![CDATA[Du hast keine Kapseln zum Umwandeln. Im Payment kannst Du Dich neu eindecken: %LINK_START%Mehr Kapseln kaufen%LINK_END%]]></item>
+ <item name="payment_lottery_tooltip_moonconverter"><![CDATA[Im Mond-Umwandler kannst du Kapseln in Lose für die Item-Lotterie mit tollen Ingame-Preisen umwandeln.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter"><![CDATA[Im Frost-Umwandler kannst Du Kapseln in Lose für die Hitac-Lotterie mit galaktischen Ingame-Preisen umwandeln.]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter"><![CDATA[Im Kapsel-Umwandler kannst Du Kapseln in Lose für die Hitac-Lotterie mit galaktischen Ingame-Preisen umwandeln.]]></item>
+ <item name="payment_lottery_tooltip_sunconverter"><![CDATA[Im Sonnen-Umwandler kannst du Kapseln in Lose für die Partner-Lotterie mit tollen Sachpreisen umwandeln.]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country"><![CDATA[Leider ist es in Deinem Land nicht erlaubt, an der Partner-Lotterie teilzunehmen.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_sunconverter"><![CDATA[Du hast Deine Kapsel(n) erfolgreich im Sonnen-Umwandler eingelöst.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_moonconverter"><![CDATA[Du hast Deine Kapsel(n) erfolgreich im Mond-Umwandler eingelöst.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_frostconverter"><![CDATA[Du hast Deine Kapsel(n) erfolgreich im Frost-Umwandler eingelöst!]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_hitacconverter"><![CDATA[Du hast Deine Kapsel(n) erfolgreich im Kapsel-Umwandler eingelöst!]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header"><![CDATA[Lotterie-Gewinne des Sonnen-Umwandlers]]></item>
+ <item name="partnerPromo _popup_prizes_antec_teaser"><![CDATA[TEASER]]></item>
+ <item name="partnerPromo _popup_prizes_antec_content"><![CDATA[Gewinne tolle Preise im Sonnen-Umwandler! Wenn Du Deine Kapseln im Sonnen-Umwandler in Lotterie-Lose einlöst, hast Du die einmalige Chance, ein brandneues <span class="breakingNewsHighlightBlue"><b>SCHENKER S413 Slim Gaming Notebook</b></span> zu gewinnen. Außerdem gibt es noch über 50 weitere tolle Hardware Preise von ROCCAT™ zu gewinnen. Achtung: Die Ziehung gilt für den gesamten Orbit und nicht pro Server. (Abb. können abweichen)]]></item>
+ <item name="partnerPromo _popup_prizes_antec_footer"><![CDATA[FOOTER]]></item>
+ <item name="payment_lottery_tooltip_sunconverter_default"><![CDATA[Im Sonnen-Umwandler kannst du Kapseln in Lose für die Gutschein-Lotterie transformieren.]]></item>
+ <item name="payment_lottery_tooltip_moonconverter_default"><![CDATA[Im Mond-Umwandler kannst du Kapseln in Lose für die Item-Lotterie mit tollen Ingame-Preisen wie 1 Million Uridium oder einem LF4-Laser-Paket umwandeln.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter_default"><![CDATA[Im Frost-Umwandler kannst Du Kapseln in Lose für die Hitac-Lotterie mit galaktischen Ingame-Preisen umwandeln: frostige Schiffsdesigns, ein Eisportal, LF4-Laser-Pakete uvm. warten! ]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter_default"><![CDATA[Im Kapsel-Umwandler kannst Du Kapseln in Lose für die Hitac-Lotterie mit galaktischen Ingame-Preisen umwandeln: Es gibt unter anderem LF-4-Magmaspalter, LF-4-Laser-Pakete, Indoktrinierungsöl, Inferno-Designs und eine einmonatige Premiummitgliedschaft zu gewinnen!]]></item>
+ <item name="payment_lottery_text_description_default"><![CDATA[Kapseln erhältst Du auf drei Arten. Zerstöre entweder das "HITAC 2.0" Mutterschiff oder besiege seine Minions und hol Dir Fragmente fürs Buchstabenpuzzle. Wenn Du willst, kannst Du neue Kapseln auch im PAYMENT-Bereich kaufen. Auf der URIDIUM-Seite kannst Du Deine Kapseln in Lose für die Sonne- und Mond-Ziehungen umwandeln. Klick dazu einfach den Knopf unter dem Umwandler an. Wenn Du mehr als eine Kapsel zum Lotterielos machen möchtest, kannst Du im dazugehörigen Menü die Anzahl erhöhen.]]></item>
+ <item name="payment_lottery_text_description_frostevent"><![CDATA[Kapseln erhältst Du auf drei Wegen: Zerstöre das Frost-Hitac-Mutterschiff, oder besiege seine Frost-Minions und hol Dir von ihnen Fragmente für das Buchstabenpuzzle. Oder geh den bequemen Weg und kaufe die Kapseln im Shop! Auf der Uridium-Seite wandelst Du die Kapseln im Frost-Umwandler in Lose für die Ziehung um. Klick dazu auf den Button unter dem Umwandler. Wenn Du mehr als eine Kapsel zum Lotterielos machen möchtest, kannst Du im dazugehörigen Menü die Anzahl erhöhen. ]]></item>
+ <item name="payment_lottery_text_description_hitacevent"><![CDATA[Kapseln erhältst Du auf drei Wegen: Zerstöre das Hitac-Mutterschiff, oder besiege seine Minions und hol Dir von ihnen Fragmente für das Buchstabenpuzzle. Oder geh den bequemen Weg und kaufe die Kapseln im Shop! Auf der Uridium-Seite wandelst Du die Kapseln im Kapsel-Umwandler in Lose für die Ziehung um. Klick dazu auf den Button unter dem Umwandler. Wenn Du mehr als eine Kapsel zum Lotterielos machen möchtest, kannst Du im dazugehörigen Menü die Anzahl erhöhen. ]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header_default"><![CDATA[Lotterie-Gewinne]]></item>
+ <item name="partnerPromo_popup_prizes_content_default"><![CDATA[<b>Gewinne tolle Preise im Sonnen-Umwandler!</b><br><br>
+	Wenn Du Deine Kapseln im Sonnen-Umwandler in Lotterie-Lose einlöst, hast Du die Chance, tolle Hardware zu gewinnen:<br><br>
+	<ul>
+		<li>1x SCHENKER S413 Slim Gaming Notebook</li>
+		<li>5x ROCCAT™ Ryos MK Glow Tastaturen</li>
+		<li>5x ROCCATTM Kone XTD Mäuse</li>
+		<li>5x ROCCATTM Kave 5.1 Headsets</li>
+		<li>20x ROCCATTM Isku Tastaturen</li>
+		<li>20x ROCCATTM Kone Pure Mäuse</li>
+		<li>… und viele mehr!</li>
+	</ul>
+	<br><br>
+<b>Achtung:</b> Die Ziehung gilt für den gesamten Orbit und nicht pro Server (Abb. können abweichen).<br><br><br>
+<b>Gewinne tolle Preise im Mond-Umwandler!</b><br><br>
+Wenn Du Deine Kapseln im Mond-Umwandler in Lotterie-Lose einlöst, hast Du die Chance pro Server, tolle Ingame-Preise zu gewinnen:<br><br>
+<ul>
+		<li>1 x 1 Mio Uridium</li>
+		<li>1 x 30 voll aufgerüstete LF4-Laser</li>
+		<li>2 x 10 voll aufgerüstete LF4-Laser</li>
+		<li>5 x 5 voll aufgerüstete LF4-Laser</li>
+		<li>1 x 30 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+		<li>2 x 10 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+		<li>5 x 5 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+		<li>5 x 50.000 Schuss UCB-100 Laser-Munition</li>
+		<li>20 x 100.000 Uridium</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_darkorbit"><![CDATA[<b>Gewinne tolle Preise im Sonnen-Umwandler!</b><br><br>
+	Wenn Du Deine Kapseln im Sonnen-Umwandler in Lotterie-Lose einlöst, hast Du die Chance, tolle Gutscheine für einen der
+	größten Onlineshops zu gewinnen:<br><br>
+	<ul>
+		<li>1x Gutschein im Wert von 1.500 €</li>
+		<li>3x Gutscheine im Wert von 350 €</li>
+		<li>11x Gutscheine im Wert von 150 €</li>
+	</ul>
+	<br><br>
+<b>Achtung:</b> Die Ziehung gilt für den gesamten Orbit und nicht pro Server (Abb. können abweichen).<br><br><br>
+<b>Gewinne tolle Preise im Mond-Umwandler!</b><br><br>
+Wenn Du Deine Kapseln im Mond-Umwandler in Lotterie-Lose einlöst, hast Du die Chance pro Server, tolle Ingame-Preise zu gewinnen:<br><br>
+<ul>
+		<li>1 x 1 Mio Uridium</li>
+		<li>1 x 30 voll aufgerüstete LF4-Laser</li>
+		<li>2 x 10 voll aufgerüstete LF4-Laser</li>
+		<li>5 x 5 voll aufgerüstete LF4-Laser</li>
+		<li>1 x 30 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+		<li>2 x 10 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+		<li>5 x 5 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+		<li>5 x 50.000 Schuss UCB-100 Laser-Munition</li>
+		<li>20 x 100.000 Uridium</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_frost"><![CDATA[<b>Gewinne starke Preise im Frost-Umwandler!</b>
+<br /><br />
+Wenn Du Deine Kapseln im Frost-Umwandler in Lose einlöst, hast Du pro Server die Chance auf astronautisch-coole Ingame-Preise:
+<br /><br />
+<ul>
+<li>1x 1 Mio Uridium</li>
+<li>20x 100.000 Uridium</li>
+<li>1x 30 voll aufgerüstete LF4-Laser</li>
+<li>2x 10 voll aufgerüstete LF4-Laser</li>
+<li>5x 5 voll aufgerüstete LF4-Laser</li>
+<li>1x 30 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+<li>2x 10 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+<li>5x 5 voll aufgerüstete SG3N-B02 Schild-Generatoren</li>
+<li>5x 50.000 Schuss UCB-100 Laser-Munition</li>
+<li>10x 1 Arctic Spectrum</li>
+<li>10x 1 Arctic Sentinel </li>
+<li>10x 1 Arctic Venom</li>
+<li>10x 1 Arctic Nostromo Ambassador</li>
+<li>10x 1 Arctic Pusat</li>
+<li>10x 1 Arctic Vengeance Lightning</li>
+<li>10x 1 Eisportal</li>
+</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_hitac"><![CDATA[<b>Gewinne starke Preise im Kapsel-Umwandler!</b><br><br>Wenn Du Deine Kapseln im Kapsel-Umwandler für Lotterielose einlöst, hast Du die Chance, astronomisch-coole Preise zu gewinnen! Folgende Preise können auf jedem einzelnen Server gewonnen werden:<ul>
+<li>1x: 30 LF-4 Magmaspalter</li>
+<li>2x: 10 LF-4 Magmaspalter</li>
+<li>5x: 5 LF-4 Magmaspalter</li>
+<li>1x: 30 LF-4-Laser Level 16</li>
+<li>2x: 10 LF-4-Laser Level 16</li>
+<li>5x: 5 LF-4-Laser Level 16</li>
+<li>3x: 1350 Indoktrin-Öl</li>
+<li>20x: 450 Indoktrin-Öl</li>
+<li>20x: 1 Monat Premium</li>
+<li>5x: 1 Inferno-Design für Pusat, Venom, Spectrum, Sentinel und V-Lightning</li>
+</ul>]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country_default"><![CDATA[Leider ist die Teilhnahme an der Sachpreis-Lotterie in Deinem Land nicht erlaubt.]]></item>
+ <item name="payment_to_banking"><![CDATA[Zum Banking]]></item>
+ <item name="payment_to_banking_upper"><![CDATA[ZUM BANKING]]></item>
+ <item name="payment_to_deals"><![CDATA[ZU DEN DEALS]]></item>
+ <item name="subscription_uridium_start_xl_history"><![CDATA[Uridium-Vorteilspaket XL abonniert]]></item>
+ <item name="subscription_rebate_start_xl_history"><![CDATA[Rabatt-Vorteilspaket XL abonniert]]></item>
+ <item name="subscription_double_start_xl_history"><![CDATA[Doppler-Vorteilspaket XL abonniert]]></item>
+ <item name="subscription_uridium_start_normal_history"><![CDATA[Uridium-Vorteilspaket abonniert]]></item>
+ <item name="subscription_rebate_start_normal_history"><![CDATA[Rabatt-Vorteilspaket abonniert]]></item>
+ <item name="subscription_double_start_normal_history"><![CDATA[Doppler-Vorteilspaket abonniert]]></item>
+ <item name="subscription_uridium_ends_xl_history"><![CDATA[Abo für Uridium-Vorteilspaket XL beendet]]></item>
+ <item name="subscription_rebate_ends_xl_history"><![CDATA[Abo für Rabatt-Vorteilspaket XL beendet]]></item>
+ <item name="subscription_double_ends_xl_history"><![CDATA[Abo für Doppler-Vorteilspaket XL beendet]]></item>
+ <item name="subscription_uridium_ends_normal_history"><![CDATA[Abo für Uridium-Vorteilspaket beendet]]></item>
+ <item name="subscription_rebate_ends_normal_history"><![CDATA[Abo für Rabatt-Vorteilspaket beendet]]></item>
+ <item name="subscription_double_ends_normal_history"><![CDATA[Abo für Doppler-Vorteilspaket beendet]]></item>
+ <item name="subscription_uridium_booking_history"><![CDATA[Uridium-Bonus gebucht]]></item>
+ <item name="subscription_rebate_booking_history"><![CDATA[Rabatt-Bonus automatisch verlängert]]></item>
+ <item name="subscription_double_booking_history"><![CDATA[Doppler-Bonus gebucht]]></item>
+ <item name="payment_hl_1_new"><![CDATA[Doppler-Vorteilspaket:]]></item>
+ <item name="payment_teaser_1_new"><![CDATA[Action-Spaß im Doppelpack: Der Inhalt jeder Bonusbox wird dir zweimal gebucht!]]></item>
+ <item name="payment_hl_2_new"><![CDATA[Uridium-Vorteilspaket:]]></item>
+ <item name="payment_teaser_2_new"><![CDATA[Du schreibst schwarze Zahlen, Deine Feinde sehen rot: <br />Wir überweisen jede Woche 10.000 Uridium auf Dein Konto!]]></item>
+ <item name="payment_hl_3_new"><![CDATA[Rabatt-Vorteilspaket:]]></item>
+ <item name="payment_teaser_3_new"><![CDATA[Mehr Luxus für weniger Geld: Hol Dir mit diesem Vorteilspaket einen 25%-Bonus auf jeden Item-Kauf mit Uridium.]]></item>
+ <item name="payment_hl_4_new"><![CDATA[Start Kits - Vengeance, Leonov und Goliath:]]></item>
+ <item name="payment_teaser_4_new"><![CDATA[Neu in DarkOrbit? Greif jetzt zu, spar bis zu 30 % und dominiere das All!]]></item>
+ <item name="payment_hl_5_new"><![CDATA[Sparpakete - Challenger-, Pro- und Elite-Paket:]]></item>
+ <item name="payment_teaser_5_new"><![CDATA[Du bist ein Sparfuchs und kalkulierst knallhart? Dann greif zu und spare 50% oder mehr!]]></item>
+ <item name="abo_uridium_new"><![CDATA[Gutschrift Uridium]]></item>
+ <item name="promo_pepsi_text_top"><![CDATA[Bitte gib hier Deinen Code ein:]]></item>
+ <item name="promo_pepsi_success"><![CDATA[Der Code wurde erfolgreich eingelöst!]]></item>
+ <item name="promo_pepsi_error_1"><![CDATA[Achtung, es ist ein Fehler aufgetreten.<br />Bitte versuche es später erneut!]]></item>
+ <item name="promo_pepsi_error_2"><![CDATA[Achtung, es ist ein Fehler aufgetreten.<br />Dein Account ist für eine Stunde gesperrt. Bitte versuche es später erneut!]]></item>
+ <item name="promo_pepsi_error_504"><![CDATA[Achtung, es ist ein Fehler aufgetreten.<br />Aufgrund mehrfacher Eingabe eines ungültigen Codes ist das System für einige Zeit gesperrt!]]></item>
+ <item name="promo_pepsi_error_509"><![CDATA[Achtung, es ist ein Fehler aufgetreten.<br />Der eingegebene Code ist ungültig!]]></item>
+ <item name="promo_pepsi_error_510"><![CDATA[Achtung, es ist ein Fehler aufgetreten.<br />Der eingegebene Code wurde bereits benutzt!]]></item>
+ <item name="promo_pepsi_package_redeemed"><![CDATA[Pepsi Promopaket erhalten!]]></item>
+ <item name="preroll_watched"><![CDATA[Belohnung für Pre-Roll-Werbung erhalten!]]></item>
+ <item name="preroll_csi"><![CDATA[Bonus für die Teilnahme an der Umfrage erhalten!]]></item>
+ <item name="preroll_payment_link"><![CDATA[Genug von Werbung? Investiere in den Shop!]]></item>
+ <item name="preroll_hint"><![CDATA[Sieh Dir die Werbung vollständig an und erhalte am Ende 100 Uridium!]]></item>
+ <item name="galaxyGate_cinema_watched"><![CDATA[Extra-Energie durch Kinobesuch erhalten!]]></item>
+ <item name="payment_targeted_deal_text"><![CDATA[Schnapp Dir jetzt dieses starke Angebot!]]></item>
+</resource>
