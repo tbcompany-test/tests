@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="messaging_subNav_inbox"><![CDATA[INBOX]]></item>
+ <item name="messaging_subNav_inbox_long"><![CDATA[Inbox]]></item>
+ <item name="messaging_subNav_outbox"><![CDATA[OUTBOX]]></item>
+ <item name="messaging_subNav_outbox_long"><![CDATA[Outbox]]></item>
+ <item name="messaging_subNav_contacts"><![CDATA[CONTACTS]]></item>
+ <item name="messaging_subNav_contacts_long"><![CDATA[Contacts]]></item>
+ <item name="messaging_subNav_notes"><![CDATA[NOTES]]></item>
+ <item name="messaging_subNav_notes_long"><![CDATA[Notes]]></item>
+ <item name="messaging_common_sysMessageSender"><![CDATA[DarkOrbit]]></item>
+ <item name="messaging_common_auctionSender"><![CDATA[Interplanetary Auction]]></item>
+ <item name="messaging_common_clan"><![CDATA[Clan:]]></item>
+ <item name="messaging_common_selectAll"><![CDATA[All]]></item>
+ <item name="messaging_common_newMessage"><![CDATA[New message]]></item>
+ <item name="messaging_common_newMessage_long"><![CDATA[Create new message]]></item>
+ <item name="messaging_common_okayBtn"><![CDATA[OK]]></item>
+ <item name="messaging_common_confirmBtn"><![CDATA[OK]]></item>
+ <item name="messaging_common_abortBtn"><![CDATA[Cancel]]></item>
+ <item name="messaging_common_pageInfo"><![CDATA[%start%-%end% to %total%]]></item>
+ <item name="messaging_common_save"><![CDATA[Save]]></item>
+ <item name="messaging_common_reply"><![CDATA[Reply]]></item>
+ <item name="messaging_common_forward"><![CDATA[Forward]]></item>
+ <item name="messaging_common_replyAll"><![CDATA[Reply to all]]></item>
+ <item name="messaging_common_saveAsNote"><![CDATA[Save as note]]></item>
+ <item name="messaging_common_blacklist"><![CDATA[Blacklist]]></item>
+ <item name="messaging_common_blacklist_long"><![CDATA[Open blacklist]]></item>
+ <item name="messaging_common_newNote"><![CDATA[New note]]></item>
+ <item name="messaging_common_newNote_long"><![CDATA[Create new note]]></item>
+ <item name="messaging_filter_all"><![CDATA[All]]></item>
+ <item name="messaging_filter_unread"><![CDATA[Unread]]></item>
+ <item name="messaging_filter_clan"><![CDATA[Clan]]></item>
+ <item name="messaging_filter_system"><![CDATA[System]]></item>
+ <item name="messaging_filter_auction"><![CDATA[Auction]]></item>
+ <item name="messaging_filter_info"><![CDATA[Info]]></item>
+ <item name="messaging_folderView_recipients"><![CDATA[To:]]></item>
+ <item name="messaging_folderView_userWrote"><![CDATA[%username% wrote:]]></item>
+ <item name="messaging_contacts_sendAnInvite"><![CDATA[sent you a request...]]></item>
+ <item name="messaging_contacts_confirm"><![CDATA[Accept]]></item>
+ <item name="messaging_contacts_decline"><![CDATA[Decline]]></item>
+ <item name="messaging_tooltip_mailStatusAnswered"><![CDATA[Answered messages]]></item>
+ <item name="messaging_tooltip_mailStatusRead"><![CDATA[Read message]]></item>
+ <item name="messaging_tooltip_mailStatusUnread"><![CDATA[Unread message]]></item>
+ <item name="messaging_tooltip_messageDelete"><![CDATA[Delete message]]></item>
+ <item name="messaging_tooltip_addToBlacklist"><![CDATA[Put sender on blacklist]]></item>
+ <item name="messaging_tooltip_selectAll"><![CDATA[Select all]]></item>
+ <item name="messaging_tooltip_deleteSelected"><![CDATA[Delete selected]]></item>
+ <item name="messaging_tooltip_noteForward"><![CDATA[Forward note]]></item>
+ <item name="messaging_tooltip_noteDelete"><![CDATA[Delete note]]></item>
+ <item name="messaging_tooltip_friendCancel"><![CDATA[Delete friend]]></item>
+ <item name="messaging_tooltip_sendMessage"><![CDATA[Send message]]></item>
+ <item name="messaging_tooltip_blockAllNotifications"><![CDATA[Automatically ignores all invites]]></item>
+ <item name="messaging_notes_premiumBlocked"><![CDATA[Cannot be viewed. Note limit exceeded.]]></item>
+ <item name="messaging_msgWrite_replyAcronym"><![CDATA[RE:]]></item>
+ <item name="messaging_msgWrite_search"><![CDATA[Search]]></item>
+ <item name="messaging_msgWrite_contacts"><![CDATA[Contacts]]></item>
+ <item name="messaging_msgWrite_recipients"><![CDATA[To:]]></item>
+ <item name="messaging_msgWrite_subject"><![CDATA[Subject:]]></item>
+ <item name="messaging_msgWrite_sendMessage"><![CDATA[Send message]]></item>
+ <item name="messaging_msgWrite_cancel"><![CDATA[Cancel]]></item>
+ <item name="messaging_msgWrite_messageToClan"><![CDATA[Message to clan]]></item>
+ <item name="messaging_help_title"><![CDATA[Help]]></item>
+ <item name="messaging_help_inbox_h"><![CDATA[Inbox]]></item>
+ <item name="messaging_help_inbox_p"><![CDATA[The inbox contains all messages that are sent to you. Here you can read, answer or delete them. Use the dropdown menu to select the messages you would like to view. Click New Message to send a message to another player.
+<br /><br />Messages can be saved for a maximum of 14 days, after which they are automatically deleted by the system. If you would like to save a message for more than 14 days, please save it as a note.]]></item>
+ <item name="messaging_help_compose_h"><![CDATA[Create new message]]></item>
+ <item name="messaging_help_compose_p"><![CDATA[To send another player a message, simply enter the player's nickname in the field to the upper left. If the player is on your server, you may add that player to the recipient list by using the plus button. If you have saved friends to your friend list, you can use the list to add them as a recipient.
+<br /><br />To prevent spamming, only 5 players may receive a message at the same time.  An exception to this is for clan messages, which can be sent to all clan members.]]></item>
+ <item name="messaging_help_sent_h"><![CDATA[Sent messages]]></item>
+ <item name="messaging_help_sent_p"><![CDATA[The outbox contains all the messages that you send to other players. You may delete them here whenever you would like. If you would like to keep them, save the message as a note.]]></item>
+ <item name="messaging_help_contacts_h"><![CDATA[Contacts]]></item>
+ <item name="messaging_help_contacts_p"><![CDATA[In 'Contacts', you can save players and friends that you send frequent messages to. This saves you from having to search for them each time you would like to write to them. Clan members are automatically added to the contact list.<br /><br />You may add as many contacts as you wish to the contact list. There are various options of doing this:<br /><br /><ol><li>View the profile page of a specific player and send them a friend request.</li>
+<li>Enter the nickname in the seach field in the contact tab, and then click the plus symbol to add the player to your contact list.</li>
+<li>When you click a player name, his or her pilot menu opens. Simply click the letter symbol to send the player a message.</li></ol>]]></item>
+ <item name="messaging_help_notes_h"><![CDATA[Notes]]></item>
+ <item name="messaging_help_notes_p"><![CDATA[Hey you can make notes on other players or important events. Here you may also save messages that would like to retain. Messages in your inbox are automatically deleted after 14 days. If you save them as a note, you can keep those messages for as long as you wish.<br /><br />Note: You may only save a maximum of 10 notes. Premium players may save up to 50.]]></item>
+ <item name="messaging_errorLayer_system_title"><![CDATA[Unknown error]]></item>
+ <item name="messaging_errorLayer_system_text"><![CDATA[An unknown error occurred. Click OK to restart the messaging system.]]></item>
+ <item name="messaging_errorLayer_blocked_title"><![CDATA[Error]]></item>
+ <item name="messaging_errorLayer_blocked_text"><![CDATA[The recipient does not wish to receive any messages.]]></item>
+ <item name="messaging_errorLayer_spam_title"><![CDATA[Spam]]></item>
+ <item name="messaging_errorLayer_spam_text"><![CDATA[Your messaging account has been blocked and therefore cannot send any more messages. To unblock your account, please contact support.]]></item>
+ <item name="messaging_errorLayer_blacklisted_title"><![CDATA[Blacklist]]></item>
+ <item name="messaging_errorLayer_blacklisted_text"><![CDATA[The recipient has blacklisted you, and therefore you cannot send him or her a message.]]></item>
+ <item name="messaging_errorLayer_subjectTooShort_title"><![CDATA[Subject too short]]></item>
+ <item name="messaging_errorLayer_subjectTooShort_text"><![CDATA[The subject entered is too short. It must contain at least 3 characters.]]></item>
+ <item name="messaging_errorLayer_subjectTooLong_title"><![CDATA[Subject too long]]></item>
+ <item name="messaging_errorLayer_subjectTooLong_text"><![CDATA[The subject entered is too long. It may not contain more than 50 characters.]]></item>
+ <item name="messaging_errorLayer_bodyTooShort_title"><![CDATA[Message too short]]></item>
+ <item name="messaging_errorLayer_bodyTooShort_text"><![CDATA[The message entered is too short. It must contain at least 5 characters.]]></item>
+ <item name="messaging_errorLayer_wrongCaptcha_title"><![CDATA[Incorrect code]]></item>
+ <item name="messaging_errorLayer_wrongCaptcha_text"><![CDATA[The Captcha code you entered was incorrect]]></item>
+ <item name="messaging_errorLayer_maxUnknownUser_title"><![CDATA[Too many recipients]]></item>
+ <item name="messaging_errorLayer_maxUnknownUser_text"><![CDATA[This message cannot be sent, as there are more than 10 recipients that are neither from your contacts nor members of your clan.]]></item>
+ <item name="messaging_errorLayer_bodyTooLong_title"><![CDATA[Message too long]]></item>
+ <item name="messaging_errorLayer_bodyTooLong_text"><![CDATA[The message entered is too long. The message limit is 5,000 characters.]]></item>
+ <item name="messaging_errorLayer_noRecipient_title"><![CDATA[No recipient]]></item>
+ <item name="messaging_errorLayer_noRecipient_text"><![CDATA[No recipient was added.]]></item>
+ <item name="messaging_errorLayer_tooManyRecipients_title"><![CDATA[Too many recipients]]></item>
+ <item name="messaging_errorLayer_tooManyRecipients_text"><![CDATA[The maximum number of recipients allowed is five.]]></item>
+ <item name="messaging_errorLayer_addOfClanWhileRecipients_title"><![CDATA[Add recipient]]></item>
+ <item name="messaging_errorLayer_addOfClanWhileRecipients_text"><![CDATA[You have reached the maximum number of recipients allowed. You may only send a message to 5 players OR to the entire clan.]]></item>
+ <item name="messaging_errorLayer_replyNoRecipientSwitch_title"><![CDATA[You may not edit the recipients.]]></item>
+ <item name="messaging_errorLayer_replyNoRecipientSwitch_text"><![CDATA[You may not edit the recipient when replying to a message.]]></item>
+ <item name="messaging_errorLayer_notesLimitReached_title"><![CDATA[Note limit reached]]></item>
+ <item name="messaging_errorLayer_notesLimitReached_text"><![CDATA[You've reached the maximum number of notes allowed (%notesLimit%). Please delete one first before creating a new one.]]></item>
+ <item name="messaging_errorLayer_restrictionUnknownUser_title"><![CDATA[Error]]></item>
+ <item name="messaging_errorLayer_restrictionUnknownUser_text"><![CDATA[This message was not sent! Level %userlevel% players may only send %maxMessages% messages to users that are not in their contacts or clan for a span of 24 hours.]]></item>
+ <item name="messaging_confirmLayer_contactRequestDecline_title"><![CDATA[Decline friend request]]></item>
+ <item name="messaging_confirmLayer_contactRequestDecline_text"><![CDATA[Do you really want to decline the friend request?]]></item>
+ <item name="messaging_confirmLayer_contactCancelInvitation_title"><![CDATA[Withdraw contact request]]></item>
+ <item name="messaging_confirmLayer_contactCancelInvitation_text"><![CDATA[Are you sure you want to withdraw this contact request?]]></item>
+ <item name="messaging_successLayer_deleteDeclinedInvitation_title"><![CDATA[Your contact request]]></item>
+ <item name="messaging_successLayer_deleteDeclinedInvitation_text"><![CDATA[The rejected contact request has been deleted]]></item>
+ <item name="messaging_confirmLayer_contactDelete_title"><![CDATA[Delete friend]]></item>
+ <item name="messaging_confirmLayer_contactDelete_text"><![CDATA[Do you really want to remove this player from your friend list?]]></item>
+ <item name="messaging_confirmLayer_noteDelete_title"><![CDATA[Delete note]]></item>
+ <item name="messaging_confirmLayer_noteDelete_text"><![CDATA[Do you really want to delete the note?]]></item>
+ <item name="messaging_confirmLayer_messageDelete_title"><![CDATA[Delete message]]></item>
+ <item name="messaging_confirmLayer_messageDelete_text"><![CDATA[Do you really want to delete the message?]]></item>
+ <item name="messaging_confirmLayer_addToBlacklist_title"><![CDATA[Add to blacklist]]></item>
+ <item name="messaging_confirmLayer_addToBlacklist_text"><![CDATA[Do you really want to add %username% to your blacklist? He/she won't be able to send you any messages anymore.]]></item>
+ <item name="messaging_confirmLayer_blackListDelete_title"><![CDATA[Remove from blacklist]]></item>
+ <item name="messaging_confirmLayer_blackListDelete_text"><![CDATA[Do you really want to remove %username% from your blacklist? He/she will be able to send you messages again.]]></item>
+ <item name="messaging_confirmLayer_messageMultiDelete_title"><![CDATA[Delete messages]]></item>
+ <item name="messaging_confirmLayer_messageMultiDelete_text"><![CDATA[Do you really want to delete the selected messages?]]></item>
+ <item name="messaging_confirmLayer_blockAllInvites_title"><![CDATA[Contact Requests]]></item>
+ <item name="messaging_confirmLayer_blockAllInvites_text"><![CDATA[Are you sure you want to block all contact requests? Any pending requests will be rejected, and all requests you have made will be withdrawn.]]></item>
+ <item name="messaging_successLayer_contactRequestAccepted_title"><![CDATA[Friend request accepted]]></item>
+ <item name="messaging_successLayer_contactRequestAccepted_text"><![CDATA[Your request to become friends has been accepted.]]></item>
+ <item name="messaging_successLayer_noteSaved_title"><![CDATA[Save note]]></item>
+ <item name="messaging_successLayer_noteSaved_text"><![CDATA[The note was successfully saved!]]></item>
+ <item name="messaging_successLayer_messageSavedAsNote_title"><![CDATA[Save as note]]></item>
+ <item name="messaging_successLayer_messageSavedAsNote_text"><![CDATA[The message was successfully saved as a note!]]></item>
+ <item name="messaging_successLayer_messageSent_title"><![CDATA[Message sent]]></item>
+ <item name="messaging_successLayer_messageSent_text"><![CDATA[The message was successfully sent!]]></item>
+ <item name="messaging_successLayer_unblockAllInvites_title"><![CDATA[Contact Requests]]></item>
+ <item name="messaging_successLayer_blockAllInvites_text"><![CDATA[All contact requests will now be blocked.]]></item>
+ <item name="messaging_successLayer_unblockAllInvites_text"><![CDATA[Contact requests can now be received again.]]></item>
+ <item name="messaging_label_blockAllInvitation"><![CDATA[Block all invites]]></item>
+ <item name="messaging_label_yourInviteIsPending"><![CDATA[Your invite is still pending.]]></item>
+ <item name="messaging_label_yourInviteWasDeclined"><![CDATA[Your invite was declined.]]></item>
+ <item name="messaging_label_cancelYourInvite"><![CDATA[Cancel]]></item>
+ <item name="messaging_label_deleteYourInvite"><![CDATA[Delete]]></item>
+ <item name="messaging_systemMessage_1_subject"><![CDATA[Welcome to the DarkOrbit Messaging System!]]></item>
+ <item name="messaging_systemMessage_1_body"><![CDATA[Hello Space Pilot,<br />
+<br />We would like to introduce our latest update to DarkOrbit - the messaging system! The old, internal clan messaging system has been revamped completely, and the new system contains brand new functions.<br />
+<br />
+New additions:<br />
+<br />
+<ul>
+<li>Messages can now be sent quickly and easily to several players</li>
+<li>Overview is clearly arranged and more compact.</li>
+<li>E-Mails are saved for two weeks. At which time the system automatically delets them. If you wish to keep certain e-mails, you may save them a note.</li>
+<li>Easy access to your friend list and send messages conveniently (Initially, friends can only be entered via their profile page).</li>
+<li>The handy note system allows you to save up to ten messages or to save created notes permanently. Premium players may save up to 50 notes.</li>
+<li>The blacklist allows you to block messages from unwelcome players.</li>
+</ul>
+<br />Please be advised that messages containing pornographic, racist or promotional contents will not be tolerated. Violations of this policy will be dealt with in accordance to our Terms and Conditions.<br /><br />
+Should you have any additional questions or require additional information, please read our the FAQs in the forum.<br />
+<br />Please enjoy the new messaging system.
+<br /><br />
+Your DarkOrbit Team]]></item>
+ <item name="messaging_systemMessage_2_subject"><![CDATA[Welcome to the %FACTION%]]></item>
+ <item name="messaging_systemMessage_2_body"><![CDATA[Welcome, Recruit, to the %FACTION%!
+<br /><br />Choosing our company, was certainly the best decision! We need lots of young and enthusiastic space pilots like yourself. From what I have heard you were one of the best from in your space academy. With your help, we'll surely gain a decisive advantage over the other companies.
+<br /><br />
+Do you want to take off right away? Then just click the start button. That will take you right to the space map, and from there you can start your mission.
+<br /><br />
+You're quite lucky: we have just the right <strong>starter mission</strong> for you. Train your piloting skills, collect your start armor and start making a name for yourself as a space pilot.
+<br /><br />
+To start, you will receive a couple of easier missions to test your flying skills. This will give you the chance to increase your experience as a space pilot. If you successfully complete a mission, you will receive additional equipment for your ship. <strong>Fly back to the station and head for the hangar</strong> to equip your ship. In the <strong>Equipment</strong> area, you'll find places on your ship where you can mount your new equipment. Once you have completed all the beginning missions successfully, you will find new missions and challenges in <strong>Missions on the main page</strong>.
+<br /><br />
+As a young recruit, you will receive lots of support from your company. <strong>Enjoy the premium benefits for 2 weeks for free</strong> and repair your ship for free, short reload times for rockets and lower Uridium prices, among many other benefits.
+<br /><br />
+Have a safe flight, Space Pilot, and welcome to DarkOrbit!]]></item>
+ <item name="messaging_systemMessage_3_subject"><![CDATA[Your company's Support Pack]]></item>
+ <item name="messaging_systemMessage_3_body"><![CDATA[Congratulations, Space Pilot!
+<br /><br />
+You have proven yourself a force to be reckoned with and won fame and honor for your company. To make sure you're as safe as possible while battling aliens and other companies, your company is sending you this Support Pack. To redeem it and book your items, follow this link - %LINK%
+<br /><br />
+<ul>
+<li><strong>[color=#6BA0D0]1 Banking Doubler[/color]</strong>
+<br />
+If you purchase Uridium via the Uridium page in your account, twice the amount of the currency will be credited to your account for this transaction. For instance, if you purchase 30,000 Uridium, 60,000 Uridium will be credited to your account.*
+</li>
+<br />
+<li><strong>[color=#6BA0D0]10,000 Uridium[/color]</strong>
+<br />
+You can buy new equipment, repair your ships and drones, or upgrade your items with 10,000 Uridium, the premium DarkOrbit currency.
+</li>
+<br />
+<li><strong>Two LF3 lasers</strong>
+<br />
+Two of these elite lasers will really beef up your offensive potential. Equip your ship with them and benefit from their impressive firepower.
+</li>
+<br />
+<li><strong>[color=#6BA0D0]5,000 rounds of MCB-50 laser ammo[/color]</strong>
+<br />
+A real help no matter where you are in outer space - with 5,000 rounds of the elite MCB-50 ammo, your fight against aliens and enemy players will be a piece of cake.
+</li>
+<br />
+<li><strong>[color=#6BA0D0]150 PLT-3030-Rockets[/color]</strong>
+<br />
+PLT-3030 missiles are basically a death sentence for most aliens and your enemies won't be excited to see them either.
+</li>
+</ul>
+<br />
+<br />
+To a successful partnership, Pilot!
+<br />
+Company Board of Directors
+<br /><br />
+*Not valid during any other special events such as Happy Hours. For soccer events, the multiplier will multiply your original purchase value and will not multiply the goal-multiplied value.]]></item>
+ <item name="messaging_systemMessage_3_link"><![CDATA[CLICK HERE]]></item>
+ <item name="messaging_systemMessage_3_success"><![CDATA[The items were just credited to your account.]]></item>
+ <item name="messaging_systemMessage_3_error"><![CDATA[The items have already been posted to your account. This link is no longer valid!]]></item>
+ <item name="messaging_systemMessage_4_subject"><![CDATA[One-time offer]]></item>
+ <item name="messaging_systemMessage_4_body"><![CDATA[Hi Space Pilot,
+<br /><br />
+Your company appreciates your tireless efforts in ceaselessly battling their enemies, and would like to reward you with a special, one-time offer: when you purchase 5,000 Uridium now, you'll receive quadruple that amount credited to your account. Instead of just [color=#6BA0D0]5,000 Uridium, you'll receive 20,000![/color] credited to your account.
+<br /><br />
+With so much Uridium, you'll be able to invest in a booster or purchase valuable items for your ship.
+<br /><br />
+Follow this link to take advantage of this special offer - %LINK%
+<br /><br />
+To a successful partnership, Pilot!
+<br /><br />
+Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_4_link"><![CDATA[CLICK HERE]]></item>
+ <item name="messaging_systemMessage_4_success"><![CDATA[Change to special offer?]]></item>
+ <item name="messaging_systemMessage_4_error"><![CDATA[You have already taken advantage of this offer. This link is no longer valid!]]></item>
+ <item name="messaging_systemMessage_5_subject"><![CDATA[Hoards of Aliens]]></item>
+ <item name="messaging_systemMessage_5_body"><![CDATA[Hello Space Pilot,
+<br /><br />
+There's so much to discover in outer space and so many battles to be fought on different fronts. The Galaxy Gate is just such a front. At the Galaxy Gate, you'll encounter wave after wave of aliens that you must keep at bay. If you come out in one piece, you'll receive a handsome reward.
+<br /><br />
+In order to use the Galaxy Gate to jump into new adventures, you need the individual pieces required to assemble it. You can get those individual pieces in the materializer.
+<br /><br />
+Your company has a vested interest in you honing your battle skills in the Galaxy Gate, so they are offering you [color=#6BA0D0]50 charges of extra energy for free[/color]. You'll receive vouchers for your extra energy charges - each voucher allows you to use the materializer once.
+<br /><br />
+Follow this link directly to the Galaxy Gate materializer - %LINK%
+<br /><br />
+To a successful partnership, Pilot!
+<br /><br />
+Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_5_link"><![CDATA[CLICK HERE]]></item>
+ <item name="messaging_systemMessage_5_success"><![CDATA[50 charges of extra energy have been credited to your account!]]></item>
+ <item name="messaging_systemMessage_5_error"><![CDATA[The items have already been posted to your account. This link is no longer valid!]]></item>
+ <item name="messaging_systemMessage_6_subject"><![CDATA[Renew now! For an entire month, all premium advantages will be available for special prices.]]></item>
+ <item name="messaging_systemMessage_6_body"><![CDATA[Hello Space Pilot,
+<br /><br />
+To make the beginning of your pilot career easier, your company is offering you free premium advantages for the two weeks directly after you've signed up. These premium advantages - like free ship repairs - will soon no longer be available.
+<br /><br />
+Because your company wants you to hone your skills, they are making you this one-time special offer: [color=#6BA0D0]For can't-miss prices, you can use all premium advantages for an additional month.[/color]
+<br /><br />
+This offer is available for a limited time only. Follow this link to have a closer look - %LINK%
+<br /><br />
+To a successful partnership, Pilot!
+<br /><br />
+Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_6_link"><![CDATA[CLICK HERE]]></item>
+ <item name="messaging_systemMessage_6_success"><![CDATA[Change to special offer?]]></item>
+ <item name="messaging_systemMessage_6_error"><![CDATA[This offer is no longer valid!]]></item>
+ <item name="messaging_follow_us"><![CDATA[FOLLOW US:]]></item>
+ <item name="messaging_informationtag_frauprotection"><![CDATA[DarkOrbit employees will never ask for your password or user data. Nor will they ask that you register on another site.]]></item>
+ <item name="messaging_systemMessage_7_subject"><![CDATA[Solar Clash 2012 Winners]]></item>
+ <item name="messaging_systemMessage_7_body"><![CDATA[Greetings Space Pilot!
+    <br /><br />
+    Solar Clash 2012 was a resounding success! The Company Board is therefore proud to present      the winners to you:
+    <br /><br />
+    1. Place: %WINNER1%<br />
+    2. Place: %WINNER2%<br />
+    3. Place: %WINNER3%
+    <br /><br />
+    Keep up the good work, Pilot!
+    <br /><br />
+    Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_8_subject"><![CDATA[Important! Flash Player Update]]></item>
+ <item name="messaging_systemMessage_8_body"><![CDATA[Hello Space Pilot,
+<br /><br />
+your experience as a fighter and flier has surely taught you to keep your trigger finger on the pulse of the times! We know that as well, which is why DarkOrbit will be switching to the Flash Player Version 11, just in time for its birthday on December 11th.
+<br /><br />
+This will allow you to play DarkOrbit in fullscreen mode. Not only that, but the performance will be optimized and new features will be added to maximize your galactic fun!
+<br /><br />
+Don't forget to update your Flash Player as well, so that you can experience DarkOrbit in a way that you never have before! Get ready for the future!
+<br /><br />
+The following link will forward you to the new version of the Flash Player: <a href="http://get.adobe.com/flashplayer/" target="_blank">Download FlashPlayer</a>
+<br /><br />
+Keep up the good work, pilot!
+<br /><br />
+Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_9_subject"><![CDATA[Umfrage]]></item>
+ <item name="messaging_systemMessage_9_body"><![CDATA[Hallo Space-Pilot,
+<br /><br />
+    hilf uns, Darkorbit zu verbessern und sichere Dir die Chance auf 10.000 Uridium!
+    Alles was Du tun musst ist, an unserer kurzen Umfrage teilzunehmen.
+    Klicke dazu folgenden Link: %SURVEYLINK%
+<br /><br />
+Auf gute Zusammenarbeit, Pilot!
+<br /><br />
+Der Firmenvorstand]]></item>
+ <item name="messaging_systemMessage_10_subject"><![CDATA[Quick and secure - New server selection!]]></item>
+ <item name="messaging_systemMessage_10_body"><![CDATA[Hallo Space-Pilot,
+<br /><br />
+<span class="breakingNewsHighlightBlue"><b>We're about to make your lives in the Orbit much easier</b></span>! Instead of having to logout and switch servers on the external homepage, <span class="breakingNewsHighlightBlue"><b>you can access the server selection window within the internal homepage</b></span>. Keep your eyes peeled for the new server button next to the home button. It's so convenient! Don't take our word for it - give it a try!
+<br /><br />
+Keep up the great work, Pilot!
+<br /><br />
+Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_11_subject"><![CDATA[Thank you - from DarkOrbit and Razer!]]></item>
+ <item name="messaging_systemMessage_11_body"><![CDATA[Hello Space Pilot,
+<br /><br /> Thank you for participating in the Jackpot Arena – we hope you had a great time! As a thank you for your participation, our friends at Razer (http://www.razerzone.com)
+are offering you some great deals on their products! <br /><br />
+You have until April 14th to select
+the corresponding link and code below and get a free Razer scarf if you purchase the minimum amount that is also listed below.
+<br /><br />
+USA: %%LINK1%% <span style="font-weight:bold">JACKPOTARENAUS</span> - starting at $79 USD<br />
+Canada: %%LINK2%% <span style="font-weight:bold">JACKPOTARENACA</span> - starting at $79 CAD<br />
+Europe: %%LINK3%% <span style="font-weight:bold">JACKPOTARENAEU</span> - starting at €79<br />
+Great Britain: %%LINK4%% <span style="font-weight:bold">JACKPOTARENAGB</span> - starting at £69<br />
+<br /><br />
+Thanks for making the first Jackpot Arena such a success!
+<br /><br />
+Company Board of Directors]]></item>
+ <item name="messaging_systemMessage_12_subject"><![CDATA[Bot use detected]]></item>
+ <item name="messaging_systemMessage_12_body"><![CDATA[Hello Space Pilot,
+<br /><br />
+Your DarkOrbit account has been banned from all instances for a period of 3 days because our anti-bot system detected you as a bot user. This happened because our anti-bot system detected you as a bot user. As further punishment, your Pilot Sheet was reset and all LF4 lasers and SG3N-BO2 generators that you may own have had their upgrade level removed. Botting is strictly forbidden in the DarkOrbit terms and conditions, which you agreed to upon registering your account.  Any further instances of botting will lead to your accounts being <strong>permanently banned</strong>.
+<br /><br />
+Your DarkOrbit Team]]></item>
+ <item name="messaging_systemMessage_13_subject"><![CDATA[Pilot Name changed]]></item>
+ <item name="messaging_systemMessage_13_body"><![CDATA[Greetings, Pilot, <br><br> Your current Pilot name on this server is <strong>%%NEWPILOTNAME%%</strong>,
+but your account name remains the same. <br><br> This change is due to the fact that there is another Pilot on that server who has the same name.
+If you want to change your Pilot name, please use the Pilot Profile link in the "USER INFO" panel, or use this link - <a href="%%PILOTSHEETLINK%%"> - to edit your profile</a>. <br><br> Your DarkOrbit Team]]></item>
+ <item name="messaging_clanMessage_acceptApply_subject"><![CDATA[Your application for %%CLANTAG%% has been accepted]]></item>
+ <item name="messaging_clanMessage_acceptApply_body"><![CDATA[Hello %%USERNAME%%,
+<br /><br />
+Your application to the %%CLANNAME%% Clan has been accepted.
+<br /><br />
+Here's to working together, Pilot!]]></item>
+ <item name="messaging_clanMessage_declineApply_subject"><![CDATA[Your application for %%CLANTAG%% was declined]]></item>
+ <item name="messaging_clanMessage_declineApply_body"><![CDATA[Hello %%USERNAME%%,
+<br /><br />
+Your application for the %%CLANNAME%% clan has been declined.
+<br /><br />
+We wish you continued success, Pilot!]]></item>
+ <item name="messaging_reCaptcha_msg_headline"><![CDATA[Recaptcha]]></item>
+ <item name="messaging_reCaptcha_msg_infotext"><![CDATA[Please enter in the words displayed below. You are receiving this message because one or more recipients are either not from your contacts or in your clan.]]></item>
+ <item name="messaging_reCaptcha_msg_button_send"><![CDATA[Send]]></item>
+ <item name="messaging_reCaptcha_msg_button_cancel"><![CDATA[Cancel]]></item>
+ <item name="messaging_systemMessage_14_subject"><![CDATA[Compensation for account suspension]]></item>
+ <item name="messaging_systemMessage_14_body"><![CDATA[Hallo %USERNAME%,
+<br><br>
+We would like to express our sincerest apologies for the faulty script that caused your account to be temporarily suspended. We have unblocked all affected users immediately and would like to compensate you with the following items and bonuses that have been added to your account:
+<br><br>
+<li>1 month of Premium status for your account with all respective bonuses and discounts.</li>
+<li>A free Hades Gate (If you currently have a Hades Gate active, you have received 500 Extra Energy instead).</li>
+<li>A DMG-01 Damage booster with a duration of 48 hours.</li>
+<li>1.000 UCB-100 batteries for your lasers, quadrupling their damage.</li>
+<br>Again, we apologise for the inconvenience, and hope for your successful and enjoyable future in DarkOrbit.
+<br><br>
+Your DarkOrbit team]]></item>
+    <item name="msg_event_reward_arenaseason_subject"><![CDATA[Ultimate Battle Arena Seasons]]></item>
+    <item name="msg_event_reward_arenaseason_booked"><![CDATA[Hi %USERNAME%,
+        <br /><br />
+        Congratulations! You were one of the top players in the Ultimate Battle Arena this Season! You'll find your rewards when you enter the game. For now, bask in the admiration and envy of your peers, and keep an eye out for challengers!
+        <br /><br />
+        Your DarkOrbit Team]]></item>
+    <item name="msg_event_reward_arenaseason_deleted"><![CDATA[Hi there %USERNAME%,
+        <br /><br />
+        We are sorry to have to tell you that you are no longer the Champion of the Ultimate Battle Arena. Time to fight to reclaim your title!
+        <br /><br />
+        Your DarkOrbit Team]]></item>
+
+ <item name="messaging_auctionMessage_1_subject"><![CDATA[You were outbid.]]></item>
+ <item name="messaging_auctionMessage_1_body"><![CDATA[Hi, %USERNAME%,
+<br><br>
+Your bid on %ITEMNAME% (%SHORTITEMNAME%) was outbid. The Credits have been credited back to you.
+<br><br>
+Your DarkOrbit Team]]></item>
+ <item name="messaging_auctionMessage_2_subject"><![CDATA[Item purchased.]]></item>
+ <item name="messaging_auctionMessage_2_body"><![CDATA[Hi, %USERNAME%,
+<br><br>
+Congratulations! Your bid of %AMOUNT% Credits won you the auction for %ITEMNAME% (%SHORTITEMNAME%)!
+<br><br>
+Your DarkOrbit Team]]></item>
+</resource>

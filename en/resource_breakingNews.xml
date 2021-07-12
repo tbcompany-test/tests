@@ -1,0 +1,2161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+
+	<!-- 	#################################################
+			# 												#
+			# The texts have been categorized as follows	#
+			#	 											#
+			# Country specific holiday events				#
+			# Permanent announcements (Subscriptions,		#
+			#	Communication Channels, etc.)				#
+			# Game Feature News								#
+			# Event Related Sales etc.						#
+			# TR Specific Sales								#
+			# Tiered Spender								#
+			# Galaxy Gate Special Sales -					#
+			#	GG Weekend, GG Double Rewards,				#
+			#	GG Extra Rewards							#
+			# Starter Packs									#
+			# One Day Sales Events (Bonus Days, Flash		#
+			#	Sales, etc.                                 #
+			# Repeatable Events                             # 
+			# Ship and Design Sales							#
+			# Booty Box Refreshes	                        #
+			# Reworked Sale BNs                             #
+			# Unsorted and Miscellaneous					#
+			#												#
+			#################################################
+	-->
+
+<!--The following texts are for the country specific bank holiday events-->
+
+	<item name="breakingNewsTitle_minijuegos2012"><![CDATA[Do not miss this super exclusive offer!]]></item>
+	<item name="breakingNewsTeaser_minijuegos2012"><![CDATA[Enhance your fleet with some fantastic deals.]]></item>
+	<item name="breakingNewsContent_minijuegos2012"><![CDATA[Hello Space Pilots,<br><br>Save %percentageSavingVariable% % on a %packageNameVariable% and get %packagaDetailsVariable% for a bargain price!<br>This is a limited offer, so take care not to miss out!<br><br>]]></item>
+	<item name="breakingNewsFooter_minijuegos2012"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_hungarianRevolution"><![CDATA[Forradalmi Űrpilóták!]]></item>
+	<item name="breakingNewsTeaser_hungarianRevolution"><![CDATA[A mai napon ünnepeljük Magyarország újkori történetének egyik meghatározó eseményét, az 1848-49-es forradalom és szabadságharcot, amely a nemzeti identitásunk egyik alapköve.<br><br>]]></item>
+	<item name="breakingNewsContent_hungarianRevolution"><![CDATA[Ezen neves nap alkalmával úgy határoztunk, hogy meglepjük a magyar pilótákat egy eventsorozattal:<br>
+		<ul>
+		<li>14:00-16:00 óra között: Spaceball</li>
+		<li>17:00-18:00 óra között: Admin vs. User</li>
+		<li>18:00-20:00 óra között: Level Invasion Gate</li>
+		<li>Ingyenes javítás egész nap</li>
+		<li>Különleges bónuszdobozok egész nap</li>
+		</ul>
+		<br />Jó szórakozást kívánunk az ünnepnapra!]]></item>
+	<item name="breakingNewsFooter_hungarianRevolution"><![CDATA[A DarkOrbit csapata”]]></item>
+
+	<item name="breakingNewsTitle_huRevolution2015"><![CDATA[Forradalmi Űrpilóták!]]></item>
+	<item name="breakingNewsTeaser_huRevolution2015"><![CDATA[A mai napon ünnepeljük Magyarország újkori történetének egyik meghatározó eseményét, az 1848-49-es forradalom és szabadságharcot, amely a nemzeti identitásunk egyik alapköve.]]></item>
+	<item name="breakingNewsContent_huRevolution2015"><![CDATA[Üdv, Űrpilóták!<br /><br />
+		Ezen neves nap alkalmával úgy határoztunk, hogy meglepjük a magyar pilótákat egy eventsorozattal:<br>
+		<ul>
+		<li>13:00-15:00 óra között: Level Invasion Gate</li>
+		<li>16:00-18:00 óra között: Spaceball</li>
+		<li>19:00-22:00 óra között: Sector Control</li>
+		<li>Ingyenes javítás egész nap</li>
+		<li>Különleges bónuszdobozok egész nap</li>
+		</ul>
+		<br />Jó szórakozást kívánunk az ünnepnapra!]]></item>
+	<item name="breakingNewsFooter_huRevolution2015"><![CDATA[A DarkOrbit csapata]]></item>
+
+	<item name="breakingNewsTitle_defenderOfFatherlandRU2014"><![CDATA[Операция «Защити Отечество!» в DarkOrbit]]></item>
+	<item name="breakingNewsTeaser_defenderOfFatherlandRU2014"><![CDATA[Отметим 23 февраля захватывающими турнирами и особыми бонусными коробками с российской символикой!]]></item>
+	<item name="breakingNewsContent_defenderOfFatherlandRU2014"><![CDATA[Здравия желаем, защитники космического Отечества!<br><br>
+		Пилоты, ваша Родина – это космос, и ваша первостепенная задача – защищать её от посягательств любых непрошеных гостей. Чтобы не терять боевой формы и по первому звонку быть готовыми ринуться в бой, в День защитника Отечества мы устраиваем особые космические учения!<br><br>
+		Только на российских серверах DarkOrbit 23-го февраля с 00:01 до 23:59 часов по московскому времени пройдёт акция во имя мужества и преданности космической Отчизне!<br><br>
+		Отточите свои боевые навыки в уровневых интервент-портах с 18:00 до 21:00 по Москве, а с 22:00 до 01:00 вам понадобится второе дыхание для участия в Скормагеддоне! Попутно ищите специальные бонусные коробки с символикой российского флага! В подарок на День защитника Отечества дроиды будут неуязвимы на протяжении всей акции!<br><br>
+		На вас вся надежда, защитники!]]></item>
+	<item name="breakingNewsFooter_defenderOfFatherlandRU2014"><![CDATA[Ваша команда DarkOrbit]]></item>
+
+	<item name="breakingNewsTitle_stPatricksDay"><![CDATA[Everything is green in DarkOrbit!<br><br>]]></item>
+	<item name="breakingNewsTeaser_stPatricksDay"><![CDATA[As is befitting of Saint Patrick's Day, the entire day is one big party in DarkOrbit!<br><br>]]></item>
+	<item name="breakingNewsContent_stPatricksDay"><![CDATA[The Irish are a colorful people and what better way to mark St. Patrick's Day than to turn everything in the universe green! Collect boxes with laser ammo, rockets, energy, uridium and lots of additional items all day long!<br><br>What would a holiday celebration in DarkOrbit be without a proper shootout? Absolutely nothing! That's why there are two games to take on. First test yourself against fellow pilots in Team Death Match!
+		And then there is Level Invasion Gate where survival is the name of the game!
+		Here you will be forced to display a great deal of stamina and durability as throngs of opponents keep coming and coming.<br><br> And as the Irish are a peaceable lot, all normal ship repairs are free the entire day! Let your inner daredevil out!<br><br>Engage your engines and hit max throttle on a day full of prizes and action!<br><br>
+		Happy Saint Patrick's Day!<br>]]></item>
+	<item name="breakingNewsFooter_stPatricksDay"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_independanceDay2014"><![CDATA[Independence Day: the action-packed holiday celebration!]]></item>
+	<item name="breakingNewsTeaser_independanceDay2014"><![CDATA[The 4th of July in DarkOrbit - come and celebrate America's Independence Day!]]></item>
+	<item name="breakingNewsContent_independanceDay2014"><![CDATA[Greetings space pilot,<br><br>
+		Today we are celebrating Independence Day in DarkOrbit Reloaded. There are tons of fireworks just waiting around to be shot into the sky. To mark the occasion, DarkOrbit has all sorts of exciting events and surprises lined up:<br><br>
+		<ul style="line-height:180%">
+		<li>The <span class="breakingNewsHighlightBlue"><b>Independence Goliath Design</b></span> will be available all day long at the special discount price in the payment section.</li>
+		<li><span class="breakingNewsHighlightBlue"><b>Level Invasion Gate</b></span> from from 2:00 p.m. and 5:00 p.m. (local server time)</li>
+		<li><span class="breakingNewsHighlightBlue"><b>Spaceball</b></span> 7:00 p.m. and 10:00 p.m. (local server time)</li>
+		<li><span class="breakingNewsHighlightBlue"><b>Invulnerable Drones</b></span> Your drones will not receive any damage during the entire event.</li>
+		<li>All day long <span class="breakingNewsHighlightBlue"><b>fireworks</b></span> will be available in the shop.</li>
+		</ul>
+		<br>
+		Come out, party hard and get in on this action-packed day!<br>
+		Good luck, pilot!]]></item>
+	<item name="breakingNewsFooter_independanceDay2014"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_cosmonautDay2014"><![CDATA[День космонавтики в DarkOrbit]]></item>
+	<item name="breakingNewsTeaser_cosmonautDay2014"><![CDATA[Захватываюшие турниры и бонусные коробки с российской символикой в память о первом полёте человека в космос]]></item>
+	<item name="breakingNewsContent_cosmonautDay2014"><![CDATA[Здравия желаем, пилоты-космонавты!<br><br>
+		53 года тому назад в космос полетел первый в мире человек и облетел планету Земля за 108 минут. Им был никто иной, как наш соотечественник и отважный парень Юрий Гагарин! С тех вся страна отмечает <b>День космонавтики</b>, в честь которого команда DarkOrbit приготовила для вас увлекательнейшие турниры и особенные призы!<br><br>
+		Весь день <b>12 апреля с 00:01 до 23:59</b> по Моске мы будем чтить на российских серверах DarkOrbit память первого космонавта и совершать достойные его подвиги!<br><br>
+		Продемонстрируйте свои боевые навыки в <b> матчах "Контроля за сектором" с 17:00 до 20:00</b> по Москве, а <b>с 21:00 до 00:00</b> вам понадобится второе дыхание для отражения нападения <b>Ice Meteoroids</b>. Попутно ищите <b>специальные бонусные коробки с символикой российского флага</b>! В подарок на День космонавтики <b>дроиды будут неуязвимы</b> на протяжении всей акции!<br><br>
+		Покорите космос заново в знаменательный день 12 апреля!!<br /><br />]]></item>
+	 <item name="breakingNewsFooter_cosmonautDay2014"><![CDATA[Ваша команда DarkOrbit]]></item>
+	 
+	<item name="breakingNewsTitle_YurisDay"><![CDATA[The first step into Space]]></item>
+	<item name="breakingNewsTeaser_YurisDay"><![CDATA[Commemorating the first flight of a human into space]]></item>
+	<item name="breakingNewsContent_YurisDay"><![CDATA[On the 12th of April 1961, Yuri Gagarin was the first human in the history of mankind to leave the boundaries of Earth’s gravity and fly into space. Thirty years later the first Space Shuttle took flight and ever since many missions were launched on this day, exploring space and pushing further and further into the great unknown.<br /><br />
+		This day is celebrated worldwide by a global community of people committed to shaping the future of space exploration.<br /><br />
+		We too want to join in and so today from midnight to midnight, this on-day event will celebrated on all servers with<br /><br />
+		<ul>
+		<li>Fireworks</li>
+		<li>Drones take no damage</li>
+		<li>Bonus boxes on 1-1 to 3-8, 4-x and 5-x included</li>
+		<li>Plus more</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_YurisDay"><![CDATA[Enjoy the Party.]]></item>
+
+	<item name="breakingNewsTitle_mayDay2015"><![CDATA[Get ready for May Day!]]></item>
+	<item name="breakingNewsTeaser_mayDay2015"><![CDATA[Celebrate spring with DarkOrbit, and enjoy some fresh, fast-paced action!]]></item>
+	<item name="breakingNewsContent_mayDay2015"><![CDATA[Hello Space Pilots,<br><br>
+		DarkOrbit calls for action to welcome May. Light up the sky with fireworks to celebrate and collect valuable items from event bonus boxes.<br><br>
+		Keep an eye out for Sector Control from 10 am until 12 pm, followed by the Level Invasion Gate from 1 pm until 3 pm. If that weren’t enough, Team Death Match will run from 4 pm until 6 pm and Spaceball from 7 pm until 10 pm. All stated times are local server time.<br><br>
+		Of course, drones will not take damage the whole event.<br><br>
+		So, lock, load and enjoy!]]></item>
+	<item name="breakingNewsFooter_mayDay2015"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_ColumbusDay2014"><![CDATA[DarkOrbit celebrates Columbus Day]]></item>
+	<item name="breakingNewsTeaser_ColumbusDay2014"><![CDATA[It's Columbus Day!]]></item>
+	<item name="breakingNewsContent_ColumbusDay2014"><![CDATA[We're celebrating Columbus Day together! Join in the celebration by playing mini-games, or if you prefer to make a bang as you set off gorgeous fireworks, look for them in Bonus Boxes and in the Shop! Have fun!]]></item>
+	<item name="breakingNewsFooter_ColumbusDay2014"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_victoryDay2013"><![CDATA[V-E Day in Space]]></item>
+	<item name="breakingNewsTeaser_victoryDay2013"><![CDATA[A New Era of Peace]]></item>
+	<item name="breakingNewsContent_victoryDay2013"><![CDATA[Greetings Space Pilots,<br><br>
+		On May 9th, 1945, one of the worst military conflicts in our history came to an end. Today, we'd like to take the time to honor the memory of the victims and help lay the foundation for a better future.<br> <br>There will, of course, also be time for fun and action. Between 2pm and 4pm, an exciting competition will be taking place in the Level Invasion Gate and, from 6pm to 8pm, Sector Control is on the menu.<br> <br>
+		There will be free repairs all day and drones won't take damage. You can also collect special boxes in the color and design of your national flag.<br> <br>
+		See you out on the maps!]]></item>
+	<item name="breakingNewsFooter_victoryDay2013"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_IndependenceDay2013PL"><![CDATA[Independence Day!]]></item>
+	<item name="breakingNewsTeaser_IndependenceDay2013PL"><![CDATA[Celebrate Poland's Independence Day with DarkOrbit!]]></item>
+	<item name="breakingNewsContent_IndependenceDay2013PL"><![CDATA[What better way to celebrate Poland's Independence Day than with fireworks, games, and prizes? Keep a sharp eye out for Bonus Boxes colored like the Polish flag, as they can drop fireworks (among other great prizes)! If you can't wait to set off your sparklers, fireworks will also be available for purchase in the shop. Best of all, you can join in Level Invasion Gate, Team Deathmatch, and Spaceball games!<br><br>Happy Independence Day!<br>]]></item>
+	<item name="breakingNewsFooter_IndependenceDay2013PL"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_GuyFawkesDay2014GB"><![CDATA[Less Gunpowder, More Rockets]]></item>
+	<item name="breakingNewsTeaser_GuyFawkesDay2014GB"><![CDATA[Remember, Remember - to celebrate with DarkOrbit!]]></item>
+	<item name="breakingNewsContent_GuyFawkesDay2014GB"><![CDATA[What better way to celebrate Guy Fawkes Day than with fireworks, games, and prizes?
+		<br>Keep a sharp eye out for Bonus Boxes that look a little like the Union Jack, as they may drop fireworks (among other brilliant prizes)! If you can't wait to set off your sparklers, fireworks will also be available for purchase in the shop.
+		<br>Best of all, you can join in Sector Control and Spaceball!
+		<br>Stay warm in deep space on Bonfire Night!]]></item>
+	<item name="breakingNewsFooter_GuyFawkesDay2014GB"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_ThanksGiving2014"><![CDATA[A DarkOrbit Thanksgiving]]></item>
+	<item name="breakingNewsTeaser_ThanksGiving2014"><![CDATA[Givin' You Thanks]]></item>
+	<item name="breakingNewsContent_ThanksGiving2014"><![CDATA[Who says you can’t enjoy a little turkey and stuffing in deep space? Join the celebration and enjoy our special Roast Turkey Cargo Boxes. There are special opportunities available for you to enjoy, while you make room for some piping hot pumpkin pie.<br><br>Happy Thanksgiving.]]></item>
+	<item name="breakingNewsFooter_ThanksGiving2014"><![CDATA[Terrific Turkey]]></item>
+
+	<item name="breakingNewsTitle_trNationalDay16"><![CDATA[May 19th]]></item>
+	<item name="breakingNewsTeaser_trNationalDay16"><![CDATA[25% more honor and experience in DarkOrbit!]]></item>
+	<item name="breakingNewsContent_trNationalDay16"><![CDATA[Hello Space Pilots,<br /><br />        
+		To celebrate 19th of May, all space pilots who log into Darkorbit will receive 25% bonus HON and TP during the day!<br /><br />
+		The opportunity to gain bonus experience in all Darkorbit Turkey servers throughout the day waiting for you! Login now and enjoy the faster rise in DarkOrbit!<br /><br />
+		For more details, please <a href="http://tr.bigpoint.com/darkorbit/board/threads/19-mayis-atatuerkue-anma-genclik-ve-spor-bayrami-kutlu-olsun.119708/">check the Forum</a>!]]></item>
+	<item name="breakingNewsFooter_trNationalDay16"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_ferragosto2012"><![CDATA[Das Fest des Augustes]]></item>
+	<item name="breakingNewsTeaser_ferragosto2012"><![CDATA[Der Sommer auf dem Höhepunkt im Orbit!]]></item>
+	<item name="breakingNewsContent_ferragosto2012"><![CDATA[Hallo Space-Piloten!<br><br>
+		Der Sommer ist auf seinem Höhepunkt und man kann die Hitze nun sogar im Orbit spüren: Am <b>15.08</b>  tobt im All das <span class="breakingNewsHighlightBlue"><b>Fest des Augustes!</b></span><br><br>
+		Wir feiern exklusiv auf <span class="breakingNewsHighlightBlue"><b>allen italienischen Servern</b></span> ein echtes Sommerfest mit Event-Games, gratis Basis-Reparaturen und ganz besonderen <b>italienischen Spezial Boxen</b>!<br><br>
+		Spielt mit beim <b>Spaceball von 14:00 bis 16:00 Uhr</b> und lasst es danach beim <b>Level Invasion Gate von 18:00 bis 20:00 Uhr</b> krachen. Wie es sich für eine richtige Feier gehört, sind natürlich alle Basis-Reparaturen umsonst und Drohnen nehmen keinen Schaden!<br><br>
+		Schnappt Euch Eure Space-Erfrischung, genießt den Feiertag und kämpft mit!<br><br>]]></item>
+	<item name="breakingNewsFooter_ferragosto2012"><![CDATA[Euer DarkOrbit-Team]]></item>
+	 
+	<item name="breakingNewsTitle_CzDemocracy2014"><![CDATA[Oslavte Den boje za svobodu a demokracii jak se patří!]]></item>
+	<item name="breakingNewsTeaser_CzDemocracy2014"><![CDATA[DarkOrbit slaví Den boje za svobodu a demokracii spolu s Čechy!]]></item>
+	<item name="breakingNewsContent_CzDemocracy2014"><![CDATA[Jak jinak oslavit Den boje za svobodu a demokracii než akcemi, ohňostroji a cenami?<br><br>
+		Mějte oči na stopkách a hledejte bonusové boxy v národních barvách – mohou se v nich skrývat ohňostroje a jiné skvělé ceny! Pokud se vám nechce čekat, můžete si ohňostroje zakoupit přímo v obchodě.<br><br>
+		Dále se můžete těšit na akční hry jako Brána invaze a Spaceball!<br><br>
+		Užijte si oslavy!<br>]]></item>
+	<item name="breakingNewsFooter_CzDemocracy2014"><![CDATA[Váš DarkOrbit tým]]></item>
+	 
+	<item name="breakingNewsTitle_ImmaculateConceptionIT2013"><![CDATA[Feast of the Immaculate Conception]]></item>
+	<item name="breakingNewsTeaser_ImmaculateConceptionIT2013"><![CDATA[The whole galaxy is celebrating this holiday!]]></item>
+	<item name="breakingNewsContent_ImmaculateConceptionIT2013"><![CDATA[Hello Space Pilots,<br><br>Enter the orbit and celebrate the Immaculate Conception with us all day on the 8th of December. Special Bonus Boxes are waiting for you and we’ll have <span class="breakingNewsHighlightBlue"> Spaceball (13:00-15:00)</span>  and  <span class="breakingNewsHighlightBlue">Team Deathmatch (21:00-23:00)</span> events for you to enjoy.<br><br>
+	Join now and celebrate with an action packed day!]]></item>
+	<item name="breakingNewsFooter_ImmaculateConceptionIT2013"><![CDATA[Your DarkOrbit team]]></item>
+	  
+	<item name="breakingNewsTitle_janHusDay2014"><![CDATA[DarkOrbit slaví den Jana Husa a vy všichni jste zváni!]]></item>
+	<item name="breakingNewsTeaser_janHusDay2014"><![CDATA[Den Jana Husa ve hře DarkOrbit – vyrazte do boje za správnou věc!]]></item>
+	<item name="breakingNewsContent_janHusDay2014"><![CDATA[Ahoj vesmírní piloti,<br><br>
+		K uctění památky slavného kritika církve bude DarkOrbit pořádat Den Jana Husa. Vyrazte do boje za správnou věc a užijte si den plný akce a překvapení! Po celý den se můžete těšit na:<br>
+		<ul style="line-height:180%">
+		<li>Speciální bonusové boxy</li>
+		<li>Rakety WIZ-X v obchodě</li>
+		</ul><br>
+		Tak na co čekáte? Vyrazte do boje za pravdu!<br><br>]]></item>
+	<item name="breakingNewsFooter_janHusDay2014"><![CDATA[Váš DarkOrbit tým]]></item>
+	 
+	<item name="breakingNewsTitle_bastilleDay2014"><![CDATA[Jour de la Bastille]]></item>
+	<item name="breakingNewsTeaser_bastilleDay2014"><![CDATA[Liberté, égalité, fraternité - faites la révolution en orbite !]]></item>
+	<item name="breakingNewsContent_bastilleDay2014"><![CDATA[Salut, pilotes de l'espace,
+		<br><br>
+		Pour fêter dignement le 14 juillet, faites péter des feux d'artifice monstrueux dans l'espace ! Un événement bleu blanc rouge s'apprête à embraser la galaxie lors de jeux bourrés d'action. Alors, soyez au rendez-vous pour ne rien rater !<br><br>
+		<ul style="line-height:180%">
+		<li>Des boîtes bonus aux couleurs de la France dériveront dans l'espace toute la journée.</li>
+		<li>Disponible en magasin : munitions feux d'artifice</li>
+		<li>Infiltration (13h - 15h)</li>
+		<li>Portail Invasion de niveau : 1, 2, 3 (16h – 18h)</li>
+		<li>Crazy Cubi (19h – 22h)</li>
+		<li>Drones sont immunisés contre les dégâts !</li>
+		</ul>
+		Montrez à vos ennemis qu'ils sont tous égaux à vos yeux en n'en épargnant aucun !]]></item>
+	<item name="breakingNewsFooter_bastilleDay2014"><![CDATA[Votre équipe DarkOrbit]]></item>
+
+	<item name="breakingNewsTitle_constitutionDayMX2015"><![CDATA[Viva Mexico!]]></item>
+	<item name="breakingNewsTeaser_constitutionDayMX2015"><![CDATA[Aniversario de la Constitución!]]></item>
+	<item name="breakingNewsContent_constitutionDayMX2015"><![CDATA[¡Hola pilotos!<br><br>
+		Una vez más celebramos el día de la Constitución Mexicana en DarkOrbit. ¡No te lo pierdas!<br><br>
+		Tendremos Cajas Bono especiales todo el día junto con los juegos Spaceball a las 14:00 y Capture the Beacon a las 19:00 hora local del servidor.<br><br>
+		¡Te esperamos!]]></item>
+	<item name="breakingNewsFooter_constitutionDayMX2015"><![CDATA[El equipo de DarkOrbit]]></item>
+
+	<item name="breakingNewsTitle_fathersDay2015"><![CDATA[Vatertag 2015 - der Herrentag der Zukunft!]]></item>
+	<item name="breakingNewsTeaser_fathersDay2015"><![CDATA[Partytime im Weltall ... schalala lala!]]></item>
+	<item name="breakingNewsContent_fathersDay2015"><![CDATA[Hallo Space-Piloten,<br><br>
+		jetzt geht's los: Heute wird in DarkOrbit gefeiert, bis die Milchstraße brennt, es ist Vatertag! Seid dabei und zischt mit Euren Spacepiloten-Kumpeln um den intergalaktischen Block - bei so viel Action bleibt kein Auge trocken! Das Level Invasion Gate wartet von 13:00 bis 15:00 Uhr auf Euch, von 16:00 bis 18:00 Uhr wird es nochmals frostig im All, geht auf die Jagd nach Ice Meteroids! Zum Ausklang könnt Ihr von 19:00 bis 22:00 Uhr dann noch bei dem Infiltration-Event ein paar Feinde aufspüren und vernichten.<br><br>
+		Also, macht Euch auf die Jagd nach den speziellen Bollerwagen-Bonus-Boxen, die nur heute durchs All holpern und nehmt keine Rücksicht auf Verluste – am Herrentag nehmen Eure Drohnen keinen Schaden!]]></item>
+	<item name="breakingNewsFooter_fathersDay2015"><![CDATA[Euer DarkOrbit-Team]]></item>
+	
+	<item name="breakingNewsTitle_trBonusXpNational"><![CDATA[19 Mayıs DarkOrbit'te Kutlanır!]]></item>
+	<item name="breakingNewsTeaser_trBonusXpNational"><![CDATA[Darkorbit’te daha fazla  TP ve ŞP kazanın!]]></item>
+	<item name="breakingNewsContent_trBonusXpNational"><![CDATA[Merhaba Uzay Pilotları,<br><br>
+        19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramınızı ona yaraşır şekilde kutluyoruz! Tüm DarkOrbit oyuncularımız bu bayrama davetlidir!<br><br>
+        Tüm gün boyunca %25 daha fazla tecrübe ve şeref puanı kazanma fırsatı sizlerle! Ayrıca oyundaki Bonus kutuları Türk Bayrağı ile süsleniyor! Bu şöleni kaçırmayın!<br>
+        <a href="http://tiny.cc/19mayis" target="_blank">Forum</a> 
+]]></item>
+	<item name="breakingNewsFooter_trBonusXpNational"><![CDATA[DarkOrbit Turkey Team]]></item>
+	
+	<item name="breakingNewsTitle_trRepublicDay2017"><![CDATA[Yaşasın Cumhuriyet!]]></item>
+	<item name="breakingNewsTeaser_trRepublicDay2017"><![CDATA[Cumhuriyet Bayramının 94. Yılı kutlu olsun!]]></item>
+	<item name="breakingNewsContent_trRepublicDay2017"><![CDATA[Merhaba Uzay Pilotları,<br><br>
+		Mustafa Kemal Atatürk önderliğinde kazanılan Milli Mücadele ile tarihte eşine çok az rastlanır bir başarı gerçekleştirilmiştir. Mustafa Kemal Atatürk’ü ve silah arkadaşlarını, canından aziz bildiği vatanı için kanlarını bu toprağa dökmüş şehitlerimizi rahmet ve minnetle bir kez daha yad ediyoruz.<br><br>
+		Bu bayramda da havai fişekler, kıran kırana maçlar ve muhteşem ödüller Türkiye sunucularında sizi bekliyor!<br><br>Gözünüz harika ödüller içeren Türk bayraklı avantaj kutularında olsun.]]></item>
+	 <item name="breakingNewsFooter_trRepublicDay2017"><![CDATA[DarkOrbit Ekibi]]></item>
+
+<!--End of country specific holiday events-->
+<!-- ====================================== -->
+<!--Permanent announcements (Subscriptions, Communication Channels, etc.)-->
+
+	<item name="breakingNewsTitle_Subscriptions2016"><![CDATA[Fly to Victory!]]></item>
+	<item name="breakingNewsTeaser_Subscriptions2016"><![CDATA[Get the best value Discounts, Advantages and Premium Accounts. Right now!]]></item>
+	<item name="breakingNewsContent_Subscriptions2016"><![CDATA[Greetings Pilot!<br /><br />DarkOrbit is offering a multitude of fabulous opportunities for Veteran Pilots and New Recruits. With valuable Subscriptions, resplendent Rebates, illustrious Uridium and superb Special Offers to tempt you all:<br /><br /><strong>Doubler  / XL Doubler Advantage Packs</strong><br /><br />Double up the rewards from each and every Booty Box. Subscribe now for a period of one week or why not treat yourself to eight week of additional treasures! <br /><br /><strong>Rebate / XL Rebate Advantage Packs</strong><br /><br />Shopping has never been more rewarding with a “Rebate Advantage Pack”. Purchase one for either a single week or an eight-week period and save on all in-game Uridium puchases. <br /><br /><strong>Uridium / XL Uridium Advantage Packs</strong><br /><br />You want Uridium? You’ve got it when you grab this offer and get 10,000 Uridium automatically for one or eight weeks, without having to worry about any special offers. <br /><br /><strong>1/6/12 mo Premium – Enjoy the good things in life with special bonuses every pilot needs including:</strong>
+		<ul>
+			<li>5% off all Uridium purchases (bonus stacks with Rebate Advantage Pack)</li>
+			<li>2 additional Action Bars</li>
+			<li>50% shorter rocket reload time</li>
+			<li>Free ship and P.E.T. repairs anywhere, 50% off drone repairs</li>
+			<li>Automatic resource refining, access to all radar CPU advantages, 500 extra units of cargo space</li>
+			<li>+100% repair robot efficiency</li>
+			<li>5-second logout</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_Subscriptions2016"><![CDATA[There’s never been a better time to fly to victory!]]></item>
+
+	<item name="breakingNewsTitle_SocialChannels"><![CDATA[Stay on top of the News]]></item>
+	<item name="breakingNewsTeaser_SocialChannels"><![CDATA[Follow us on the 'net and get all the background information and more!]]></item>
+	<item name="breakingNewsContent_SocialChannels"><![CDATA[Hi Spacepilots!<br /><br />Follow DarkOrbit on all relevant gaming channels to stay on top of the news. Chat with the team, give us your feedback and get all the nitty-gritty about your favorite game.<br /><br />The DarkOrbit team is present on the following channels:
+		<ul>
+		<li><a href=https://discord.gg/j3MygA6 target="_blank">Discord live chat</a> - instant contact to the team and your friends</li>
+		<li><a href="https://www.twitch.tv/darkorbit/" target="_blank">Twitch.tv</a> - regular live streams with the team</li>
+		<li><a href="https://www.facebook.com/darkorbit" target="_blank">Facebook</a> - pix, stories and stuff</li>
+		<li><a href="https://twitter.com/darkorbit" target="_blank">@darkorbit</a> - keep up to date with instant announcements</li>
+		<li><a href="https://www.youtube.com/darkorbithq"> target="_blank">YouTube</a> - archives of previous trailers, podcasts and Twitch streams</li>
+		<li><a href="http://www.bigpoint.com/darkorbit/board/" target="_blank">Forums</a> (for your language forum, click on the "Forum" link at the bottom of the page)</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_SocialChannels"><![CDATA[Join us on your preferred channel to keep up-to-date with the game and all events.]]></item>
+	
+	<item name="breakingNewsTitle_DiscordServer"><![CDATA[DarkOrbit Discord Server]]></item>
+	<item name="breakingNewsTeaser_DiscordServer"><![CDATA[Join the DarkOrbit Discord Community, and chat with other players, moderators and developers!]]></item>
+	<item name="breakingNewsContent_DiscordServer"><![CDATA[Greetings, pilots!<br /><br />
+			A new way to connect with fellow Pilots, moderators and developers is here - you can now join our Discord server for free by <a href="https://discord.gg/0xowMaZN7rPF61TQ" target="_blank">clicking here</a>. Whether you are using the browser, client or mobile version of Discord, staying up to date with what’s going on has just become a whole lot easier. Make sure to enable desktop or push notifications to get the latest announcements as soon as they go live!<br /><br />Moderated language chats, easy Q&A’s and a friendly and relaxed atmosphere await you, so we hope to see you online soon!]]></item>
+	<item name="breakingNewsFooter_DiscordServer"><![CDATA[<strong><a href="https://discordapp.com/invite/0xowMaZN7rPF61TQ" target="_blank">Join us today!</a></strong>]]></item>
+
+<!--End of permanent announcements - e.g Subscriptions, Communication Channels, etc.-->
+<!-- ================================================================================ -->
+<!--The following news are for Features-->
+
+	<item name="breakingNewsTitle_pirateBootyIteration2"><![CDATA[NEW: Blueprints for pirate drones]]></item>
+	<item name="breakingNewsContent_pirateBootyIteration2"><![CDATA[Hello Space Pilots,<br /><br />
+		We’ve received intel on the blueprints for pirate weapon systems found in the pirate booty. Several pilots have reported finding pieces of a blueprint for producing a pirate drone.<br /><br /><br />
+		<span class="breakingNewsHighlightBlue"><b>Collect pieces blueprints for the pirate drone</b></span><br />
+		Collect enough of these pieces from the pirate booty and you’ll be able to construct the pirate drone without any extra charge. If you're missing a piece of the blueprint, you can buy the missing piece for Uridium. Every piece you collect will decrease the price for instantly constructing the drone.<br /><br />
+		<span class="breakingNewsHighlightBlue"><b>Constructing in the Tech Center</b></span><br />
+		Once you've collected all the blueprint pieces you can start construction in the Tech Center. Here you can also see how many pieces of the blueprints that you've already collected and how much Uridium it would cost to build instantly.<br /><br />
+		Every pilot will receive: <span class="breakingNewsHighlightBlue"><b>five blueprint pieces from their company</b></span> to make the challenge of building a pirate drone easier.<br /><br />Claim this pirate technology for yourself and put it to good use.]]></item>
+
+	<item name="breakingNewsTitle_botDetectionCaptcha"><![CDATA[+++ Unlock encrypted bonus boxes +++]]></item>
+	<item name="breakingNewsContent_botDetectionCaptcha"><![CDATA[Greetings Space Pilots!<br><br>As some of you may have noticed, there seems to be more and more locked bonus boxes floating around space. They appear to be encrypted with some kind of special code to keep them locked.<br><br>We've got good news for you - these boxes can easily be cracked, but you're going to have to do it manually if you want to get at what's inside. Autopilot just won't cut it this time. Plus it will also help to keep the game fair for all hard-working pilots out there!</p><p><br><br><span class="breakingNewsHighlightBlue"><b>Here's an overview of the new bonus-box feature:</b></span><br><br></p>
+	<ul><li>The bonus boxes are randomly encrypted.</li>
+	<li>To crack a box's lock, you just have to enter the correct code shown.</li>
+	<li>If you provide the <span class="breakingNewsHighlightBlue"><b>correct code</b></span>, the content of the next box you collect will be <span class="breakingNewsHighlightBlue"><b>doubled</b></span>.</li>
+	<li>If you enter the <span class="breakingNewsHighlightBlue"><b>incorrect code</b></span>, you will have to try again. You won't be able to continue collecting boxes until you've entered the correct code.</li></ul><p><br><br>
+	That's all for now, pilots! If you have any other questions or need more information on how to open the bonus boxes, then click on <b>Forum</b> to find the information you need in the FAQ.</p><p><br><br>
+	See you in space,<br><br></p><p>Your DarkOrbit Team]]></item>
+		
+	<item name="breakingNewsTitle_redAndBlueBootyBoxes"><![CDATA[Discover red and blue pirate booty!]]></item>
+	<item name="breakingNewsTeaser_redAndBlueBootyBoxes"><![CDATA[Go hunt down colorful pirate booty - the rewards will astound you!]]></item>
+	<item name="breakingNewsContent_redAndBlueBootyBoxes"><![CDATA[Hello Space Pilots,<br><br>
+		On our reconnaissance flights we have discovered some <span class="breakingNewsHighlightBlue"><b>special chests</b></span>. It seems that it's special pirate cargo containing <span class="breakingNewsHighlightBlue"><b>priceless items</b></span>.<br><br>
+		We've hidden a couple of these red and blue chests all about DarkOrbit. Our scientists have developed a few <span class="breakingNewsHighlightBlue"><b>special booty keys</b></span> to open up these mysterious chests. The keys are color coded - red and blue of course.<br><br>
+		The red chests seem to have <span class="breakingNewsHighlightBlue"><b>double the chance of winning a LF-4-Laser</b></span> compared to the normal chests! Incredible! And the blue chests?? Well, our scientists have even calculated <span class="breakingNewsHighlightBlue"><b>a three-fold increase of your chance at a LF-4-Laser</b></span>! Not only that, but some of them contain special ships like the <span class="breakingNewsHighlightBlue"><b>Spearhead</b></span>, <span class="breakingNewsHighlightBlue"><b>Aegis</b></span> or the <span class="breakingNewsHighlightBlue"><b>Citadel</b></span>, while others still have the <span class="breakingNewsHighlightBlue"><b>rare Havoc drone design</b>!</span><br><br>
+		It's not all rosy, though. Apparently these chests disappear after a limited time in Orbit. Be quick and start your search today!<br><br>
+		Don't hesitate in getting the right key for the right chest in the payment section.<br><br>
+		Happy collecting!]]></item>
+	<item name="breakingNewsFooter_redAndBlueBootyBoxes"><![CDATA[Your DarkOrbit Team]]></item>	
+		
+	<item name="breakingNewsTitle_emailVerification"><![CDATA[Sign up for the DarkOrbit newsletter now!]]></item>
+	<item name="breakingNewsTeaser_emailVerification"><![CDATA[Never miss out on gift coupon codes or important intel again!]]></item>
+	<item name="breakingNewsContent_emailVerification"><![CDATA[Greetings, Pilots!<br /><br />
+		Want to make sure you get every gift code while staying informed about the latest game news?
+		Then sign up for the newsletter now in your <a href="%ACCOUNTCENTERLINK%" target="_blank">DarkOrbit Account Center</a> and validate your email address!]]></item>
+	<item name="breakingNewsFooter_emailVerification"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_friendInvite"><![CDATA[Get Unique Incentives with Friend Invites!]]></item>
+	<item name="breakingNewsTeaser_friendInvite"><![CDATA[Improve your ship by inviting your friends to play DarkOrbit. Get unique and powerful Nostromo ship designs!]]></item>
+	<item name="breakingNewsContent_friendInvite"><![CDATA[Greetings, Pilots!<br /><br />
+		Imagine for a moment getting LF-4 lasers and exclusive ship designs for free! Can it possibly be true?<br /><br />
+		Yes, it can! With our overhauled Friend Invite Bonus Program, you can now get amazing rewards just by inviting your friends to play DarkOrbit - for example, LF-4 lasers and exclusive designs. Make your Nostromo more powerful than you ever thought you could!<br /><br />
+		This is your chance to overpower your enemies with a little help from your friends! Invite your friends now: %FRIENDINVITELINK%!]]></item>
+	<item name="breakingNewsFooter_friendInvite"><![CDATA[Your DarkOrbit team]]></item>	
+		
+	<item name="breakingNewsTitle_petCustomization"><![CDATA[Stand Out In the Crowd!]]></item>
+	<item name="breakingNewsTeaser_petCustomization"><![CDATA[PETLOOKZ™ - a new look for your P.E.T.]]></item>
+	<item name="breakingNewsContent_petCustomization"><![CDATA[Greetings, pilots!<br /><br />After the wildly successful introduction of the DRONELOOKZ™ system, M.A.S.Q.U.E. has done it again!<br /><br /><strong>PETLOOKZ™</strong> enables all P.E.T.s to be individually customized, meaning you no longer have to choose between style and stats!<br /><br />The first designs are now <a href="/indexInternal.es?action=internalDock&tpl=internalDockCustomization">available everywhere in human space</a>:<br /><br />Get ready for the <strong>Arctic, Green and Red</strong> P.E.T. skins!<br /><br />PETLOOKZ™ will fit all P.E.T.s, so every pilot can easily equip the new designs.<br /><br />Give yourself a P.E.T. you can be proud of by visiting the shop today.]]></item>
+	<item name="breakingNewsFooter_petCustomization"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_shipCustomization"><![CDATA[SHIPLOOKZ™ - Now Live Across All Space!]]></item>
+	<item name="breakingNewsTeaser_shipCustomization"><![CDATA[From Drones to P.E.T.s, to Ships – M.A.S.Q.U.E. extends their palette of products once again.]]></item>
+	<item name="breakingNewsContent_shipCustomization"><![CDATA[Greetings, pilots!<br /><br />Starting today, DarkOrbit offers you a new exciting range of customization options for your ship collection.
+		Your benefits
+		<ul>
+		<li>Streamlined ship handling</li>
+		<li>Better overview of your ship collection</li>
+		<li>Clearer separation between ships, stats and designs</li>
+		<li>Fast access to ships and equipment</li>
+		<li>More design variety</li>
+		</ul>
+		You can enjoy the updated Ship Management system right now!]]></item>
+	<item name="breakingNewsFooter_shipCustomization"><![CDATA[<a href="http://www.bigpoint.com/darkorbit/board/threads/114097/">Please refer to the full documentation on our FAQ forums for details.</a>]]></item>
+
+	<item name="breakingNewsTitle_spaceCup2016"><![CDATA[Space Cup ’16]]></item>
+	<item name="breakingNewsTeaser_spaceCup2016"><![CDATA[12 new Missions! Country Ship designs! Spaceball! Referee Bots!]]></item>
+	<item name="breakingNewsContent_spaceCup2016"><![CDATA[Greetings, pilots!<br /><br />Starting on Friday, the 10th of June (0:00h LST), DarkOrbit invites you to join a month of celebrating European football.<br /><br />For the duration of the European football festival in France, we have organized football-themed events, 24 really cool country designs for your Champion Goliath, and a new “Championship” drone design.<br /><br />You can also bet on your team’s performance in the daily matches with the Soccer Bonus.<br /><br />Good Luck to you and your favorite team.]]></item>
+	<item name="breakingNewsFooter_spaceCup2016"><![CDATA[Who do you think will play against Germany in the final?]]></item>
+
+	<item name="breakingNewsTitle_projectNano"><![CDATA[Project: Nano]]></item>
+	<item name="breakingNewsTeaser_projectNano"><![CDATA[The Assembly expanded – Introducing “Hardware”]]></item>
+	<item name="breakingNewsContent_projectNano"><![CDATA[Greetings, pilots!<br /><br />The Assembly has opened up many new opportunities to craft a variety of items, from consumables to exclusive ships and designs.
+		We’re now adding a new set of complex and demanding blueprints, and a new set of special resources: “Hardware”.
+		These “Hardware” items are used in rare designs, special ships, and even drone formations! You can create them from the basic resources scrap, mucosum, prismatium and plasmide.
+		To launch the new blueprints, the “Project: Nano” event will be taking place! Get access to exclusive “Lava” designs for your Pusat and Spectrum, gain the ability to craft the Lance drone formation, and much more!
+		From Monday, 25th of July 2016, midnight LST until Sunday, 7th of August 2016, 23:59h LST, new missions, event-exclusive blueprints, boxes, and more will make it easy for all players to learn about the new system.
+		More information can be found on the forums in the FAQ section.]]></item>
+	<item name="breakingNewsFooter_projectNano"><![CDATA[Keep calm and craft on!]]></item>
+	
+	<item name="breakingNewsTitle_permaLF4"><![CDATA[Permanent LF-4 Enhancement]]></item>
+	<item name="breakingNewsTeaser_permaLF4"><![CDATA[Something‘s changed!]]></item>
+	<item name="breakingNewsContent_permaLF4"><![CDATA[The extermination of M.A.S.Q.U.E., the Permafrost Fissure. Almost like someone else is out there, watching us, seeing how we react.<br />
+		Well, pilots. We react to any threat. Prepare for any incursion into our space and are preparing to fight any new enemy. To that end, the specialists have been looking at the Unstable LF-4’s and have developed new designs based on these new elements. This new technology.<br />
+		We are pleased to confirm that the LF-4 Magmadrill, Paritydrill and Hyperplasmoid will be available soon. Three unique designs to suit different needs.<br />
+		Let’s show the enemy we have teeth!<br />
+		This feature will be permanently available starting 23 February<br />
+		<strong>The summary</strong><br />
+		<ul>
+			<li>New Daily and Weekly Quests</li>
+			<li>Customized LF-4 Enhancements</li>
+			<li>Magmadrill – Base Damage 212 + 5 Boost Damage PvP Only</li>
+			<li>Paritydrill – Base Damage 212 + 5 Boost Damage PvE only</li>
+			<li>Hyperplasmoid – Base Damage 212 + 0.5% HP Boost Per Laser</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_permaLF4"><![CDATA[Could this be a sign of things to come?]]></item>
+
+	<item name="breakingNewsTitle_CrossServerZones"><![CDATA[Engage in Epic PVP Battles]]></item>
+	<item name="breakingNewsTeaser_CrossServerZones"><![CDATA[Refractions: The first Cross-Server Zone is now open]]></item>
+	<item name="breakingNewsContent_CrossServerZones"><![CDATA[Humanities need to master the universe is legendary. Breaking new barriers and achieving new goals.<br /><br />The results can sometimes be unexpected!<br /><br />Attempting to discover the secrets of an ancient alien artefact, scientists triggered a new region of space. A refraction of the universe itself, where all possibilities can happen and histories secrets will start to be revealed.<br /><br />Now you can enter Refractions, the first permanent Cross-Server Zone for DarkOrbit. Allowing players from all servers to meet in epic PVP battles. Allowing you to fight for your faction’s best interests or your own and with a new set of quests dedicated to this new map.<br /><br />For further information, please consult P G Harris (PhD) “On the nature of the Multiverse” (Mars University Press) or the Cross-Server Zone FAQ on the forums.]]></item>
+	<item name="breakingNewsFooter_CrossServerZones"><![CDATA[Click on the Triangular Logo in the game and play your part.]]></item>
+	
+<item name="breakingNewsTitle_apocalypseBox"><![CDATA[A Fresh Apocalypse!]]></item>
+<item name="breakingNewsTeaser_apocalypseBox"><![CDATA[All New Content!]]></item>
+<item name="breakingNewsContent_apocalypseBox"><![CDATA[We’re delighted to tell you the Apocalypse Box has been refreshed. With all new drone designs!
+Fine pilots will recognize the opportunities every Apocalypse Box contains. With Poison Enigma, Ocean Enigma, Argon Enigma, Argon Hammerclaw and Argon Cyborg drones now available!
+Whether you buy your way to an opportunity or craft the keys yourself. The opportunity is there for the taking! 
+Apocalypse Key Assembly Recipe 
+Scrap – 20
+Aurus – 10 
+Schism – 5 
+5 Seconds Craft Time 
+<ul>
+<li>Full Loot List Available in Your Forum</li>
+<li>Keys can be crafted, or purchased in the shop under extras </li>
+</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br />Note: The Assembly recipe, the Apocalypse Booty Boxes, and the Schism drops are only available during the event. Alternatively, packs of 5 to 155 keys are available in the shop.]]></item>
+<item name="breakingNewsFooter_apocalypseBox"><![CDATA[Join the Revolution!]]></item>
+
+<item name="breakingNewsTitle_rbOverhaul"><![CDATA[Red and Blue Booty Boxes Updated!]]></item>
+<item name="breakingNewsTeaser_rbOverhaul"><![CDATA[Brand New Content!]]></item>
+<item name="breakingNewsContent_rbOverhaul"><![CDATA[<p>Great news, Pilots!</p>
+<p>We’ve revamped the Red and Blue Booty Boxes to feature some highly sought-after items, including the rarest of P.E.T designs for the Mimesis, Cyborg and Hammerclaw. Add a chance of getting the ores for crafting the enhanced LF-4 and, we think you’ll agree, they’re awesome!</p>
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>
+<p><strong>Red</strong></p>
+<ul>
+<li>10 Scrap</li>
+<li>5 Aurus</li>
+<li>3 Schism</li>
+</ul>
+<p><strong>Blue</strong></p>
+<ul>
+<li>20 Scrap</li>
+<li>10 Aurus</li>
+<li>5 Schism</li>
+</ul>
+<p>The full list of box contents can be found on your forum.</p>
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>
+<p>Happy collecting!</p>]]></item>
+<item name="breakingNewsFooter_rbOverhaul"><![CDATA[Enhanced Booty Rewards!]]></item>
+
+<item name="breakingNewsTitle_permQuestsXsr"><![CDATA[Refractions Returns]]></item>
+	<item name="breakingNewsTeaser_permQuestsXsr"><![CDATA[Fight the Past!]]></item>
+	<item name="breakingNewsContent_permQuestsXsr"><![CDATA[Pilots, a whole series of missions have opened up in Refractions. Ones that will test your skills as a solo fighter or bring you head-to-head with the other factions.<br><br>
+		Get ready for action, adventure and sweet rewards in the Cross Server Zone!<br> ]]></item>
+	<item name="breakingNewsFooter_permQuestsXsr"><![CDATA[Target the Enemy!]]></item>
+
+<item name="breakingNewsTitle_dailyLoginBonusNew"><![CDATA[Daily Login Bonus]]></item>
+<item name="breakingNewsTeaser_dailyLoginBonusNew"><![CDATA[A Month of Prizes!]]></item>
+<item name="breakingNewsContent_dailyLoginBonusNew"><![CDATA[Pilots. You’re in for a treat! From now on, every month, we will have a Daily Login Bonus Calendar.<br /><br />Running throughout every month, with steadily increasing rewards and special milestones, there are 25 bonuses to claim. This means you can miss a few days and still receive the grand prize – as long as you join us for at least 25 days a month.<br /><br />There’s also a special bonus for any existing Premium players, on the 25th day they login.<br /><br />The calendar will reset at the end of the month, so you’ll know how many days you have left to grab all the loot.<br /><br />Enjoy!]]></item>
+<item name="breakingNewsFooter_dailyLoginBonusNew"><![CDATA[Get a Daily Reward!]]></item>
+
+<item name="breakingNewsTitle_petUpdate"><![CDATA[Enhance your P.E.T.]]></item>
+<item name="breakingNewsTeaser_petUpdate"><![CDATA[Unreal Updates]]></item>
+<item name="breakingNewsContent_petUpdate"><![CDATA[The techs have been working overtime in the hangers to release the new P.E.T. upgrade, so you can enhance any P.E.T.<br /><br />What you can get:
+<ul>
+					<li>P.E.T. Level raised to 20.</li>
+					<li>New P.E.T. slots so you can fit more lasers and generators.</li>
+					<li>New gear. Sacrificial Flame – allowing you to aid a comrade in battle when you sacrifice your P.E.T.</li>
+</ul>
+There are also rumors that the designers have created some even better Protocols. But, we’ll need to wait and see if anything becomes available.
+]]></item>
+<item name="breakingNewsFooter_petUpdate"><![CDATA[Welcome Upgrade News]]></item>
+
+
+<!--End of Game Feature News-->
+<!-- ======================== -->
+<!--Event Related Sales etc.-->
+
+	<item name="breakingNewsTitle_spacePlague"><![CDATA[Parasite Tide]]></item>
+	<item name="breakingNewsTeaser_spacePlague"><![CDATA[A Parasite Tide is crashing over humanity - will you become a willing host, or fight the spread of the disease?]]></item>
+	<item name="breakingNewsContent_spacePlague"><![CDATA[Greetings, Pilots!<br><br>
+		A strange new plague is spreading through the human population. Why is it making its victims act so out of character? Could it have something to do with the mysterious new alien species, whose appearance is so off-putting? <br><br>
+		The Parasite Tide is crashing over DarkOrbit! <br><br>
+		Will you manage to avoid being infected? Will you become a ministering angel, fighting the infection and curing your fellow players, all while taking the fight to the disgusting Gygerim? With your fellow humans turning against you as well as the new alien threat to meet, it's a perilous course to fly!<br><br>
+		...Or will you become a willing host to their strange parasite offspring, allowing the faint whispers of alien instinct to guide your steps, spreading their contagious blessing to other ships, and resisting all serums and treatments? It's a dangerous line to tread!<br><br>
+		Complete unique new missions for both infected and uninfected players, unlock new achievements and titles, meet and defeat horrifying new alien motherships - and if you have reached level 21, you'll find a whole new story arc of epic missions waiting for you to conquer!<br><br>
+		When the Parasite Tide arrives, it's kill or cure.... or sometimes, both!<br> ]]></item>
+	<item name="breakingNewsFooter_spacePlague"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_wildPets"><![CDATA[Attack of the Killer P.E.T.s]]></item>
+	<item name="breakingNewsTeaser_wildPets"><![CDATA[“The most hilarious event of the year!” (Prof. Emmet Farnsworth, Sc.D.)]]></item>
+	<item name="breakingNewsContent_wildPets"><![CDATA[One minute a faithful companion, the next minute a disruptive pest! The heroes of DarkOrbit are called on to help cyberneticist Dr. Confusius: during the creation of his newest P.E.T., a bug in the programming has caused his latest creation to go on the rampage.<br /><br />
+		Starting on the 21st of September, this two-week event promises a whole new level of excitement:
+		<ul>
+		<li>14 new missions for both high-level and low-level pilots</li>
+		<li>A new “Attack of the Killer P.E.T.s” event gate for both Lv. 5-13 and Lv. 14+ players</li>
+		<li>5 new achievements and titles</li>
+		<li>Special P.E.T. boxes, packages and sales</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_wildPets"><![CDATA[Can you fix the bug and make space safe again?]]></item>
+
+	<item name="breakingNewsTitle_MasqueSaleEvent"><![CDATA[M.A.S.Q.U.E. SpaceTech Summit]]></item>
+	<item name="breakingNewsTeaser_MasqueSaleEvent"><![CDATA[Excellence in Cutting Edge Technology]]></item>
+	<item name="breakingNewsContent_MasqueSaleEvent"><![CDATA[Greetings, pilots!<br /><br />
+		Free from being the contractually exclusive technology partner for SecuriTek, M.A.S.Q.U.E. surprised leading journalists this week with invitations to their first intergalactic “SpaceTech Summit” to discuss their future plans.
+		During their keynote, M.A.S.Q.U.E. salesperson Rupert van Koeken revealed that during their huge public launch event, pilots will be able to participate in a variety of activities and profit from special sales encompassing the whole range of M.A.S.Q.U.E.’s specialty products:
+		<ul>
+		<li>Enjoy exclusive M.A.S.Q.U.E. missions every day of the event</li>
+		<li>Join the M.A.S.Q.U.E. Bonus Box scavenger hunt</li>
+		<li>Get Red and Blue Booty Keys at special prices</li>
+		<li>Collect the Yamato and Defcom ships within the Kuiper Gate</li>
+		</ul>
+		The event will start on the 18th of April, 2016, at midnight, and will conclude on the 1st of May, 2016, at 23:59 LST.
+		For more information about exact schedules, dates, and more, check out the official FAQ on our forums.]]></item>
+	<item name="breakingNewsFooter_MasqueSaleEvent"><![CDATA[You remember the Helix? We’re betting you’ll forget about them soon enough.]]></item>
+	 
+	<item name="breakingNewsTitle_prometheusDay"><![CDATA[Prometheus Day Sales]]></item>
+	<item name="breakingNewsTeaser_prometheusDay"><![CDATA[Shining a Light in the Dark]]></item>
+	<item name="breakingNewsContent_prometheusDay"><![CDATA[Greetings, pilots!<br /><br />
+		During the Three-Day War in 2369, the crew of the International Space Station Prometheus took extreme action to destroy an invading Sibelon mothership. On that day, humanity learned that out beyond the limits of human space lay dangers far more threatening than our petty human disputes.<br /><br />
+		To commemorate this tragedy, MMO, EIC, and VRU signed the “Prometheus Day Treaty,” simplifying trade between the factions and opening up their markets to all mankind.<br /><br />
+		This weekend, we’re celebrating the event by opening up the doors to their combined arsenals.<br /><br />
+		Sales change daily and include:
+		<ul>
+		<li>Ship Design packages</li>
+		<li>Item sales (Booty Key, P.E.T.s, Ammunition, etc.)</li>
+		<li>Extra energy</li>
+		<li>Subscriptions</li>
+		<li>Ghostifier and Halloween Drone Designs</li>
+		<li>Special Uridium + Premium packages</li>
+		</ul>
+		And to make the best use of the extended Bonus Box Doublers, different Bonus Boxes can be collected every day (Helix, P.E.T., UBA, and Halloween).]]></item>
+	<item name="breakingNewsFooter_prometheusDay"><![CDATA[Come back daily to discover the offer of the day!]]></item>
+
+	<item name="breakingNewsTitle_prometheusDay2016"><![CDATA[Awesome Prometheus Sales]]></item>
+	<item name="breakingNewsTeaser_prometheusDay2016"><![CDATA[A Shining Beacon of Victory]]></item>
+	<item name="breakingNewsContent_prometheusDay2016"><![CDATA[Celebrate the sacrifice of the Prometheus crew during the Three-Day War	when they destroyed the incoming Sibelon threat and ended the war. To commemorate this tragedy, MMO, EIC, and VRU signed the “Prometheus Day Treaty,” simplifying trade between the factions and opening up their markets to all mankind.<br /><br />
+			<ul>
+			<li>6 exclusive missions (4 Daily, 2 Epic)</li>
+			<li>6 awesome sets of Prometheus Fragments, with special Premium and Platinum Fragment sets, with additional prizes!</li>
+			<li>Pramantha Booty Boxes, opened with Prometheus Fragments giving a selection of scintillating prizes.</li>
+			<li>10% Chance of an Argon Solace, Argon Venom Design when you complete the Alpha, Beta or Gamma Gates</li>
+			</ul>]]></item>
+	<item name="breakingNewsFooter_prometheusDay2016"><![CDATA[The Best Bet for Victory!]]></item>
+	
+	<item name="breakingNewsTitle_frostEvent"><![CDATA[Hitac Lottery, Fresh From the Freezer]]></item>
+	<item name="breakingNewsTeaser_frostEvent"><![CDATA[Cool prices, icy action, and flash-frozen aliens - the Hitac invasion is deeply chill!]]></item>
+	<item name="breakingNewsContent_frostEvent"><![CDATA[Greetings, pilots!<br /><br />
+			It's a warm and fuzzy feeling to know that Hitac motherships can be depended on to return, alongside their minions, for some nice predictable death and plunder-- what? What do you mean, they've changed?! Alert, all pilots: scouts from all Companies are reporting seemingly indestructible ice armor enveloping the Hitac invaders' ships.<br /><br />
+			Indestructible? Hah! That's not a word in our vocabulary. Charge!<br /><br />
+			Destroy the Frost Hitac motherships to acquire the coveted capsules to be used in the lottery. Or focus on the frost minions, who drop letters - once you can put together the word "FROST", you can earn a capsule that way.<br /><br />
+			Then, visit the Uridium page to feed your capsules into the frost converter and try your luck in the Hitac Lottery. The prizes that await you are beyond cool - from new arctic ship designs to a mysterious Ice Portal to sweet LF4 laser package deals to the chance to win a million Uridium!<br /><br />
+			Good luck!]]></item>
+	<item name="breakingNewsFooter_frostEvent"><![CDATA[Your extremely chill DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_frostEvent-layer"><![CDATA[An arctic Hitac event fresh out of the deep freeze]]></item>
+	<item name="breakingNewsTeaser_frostEvent-layer"><![CDATA[Keep a cool head and you, too, can make a killing from the frosty Hitac Lottery!]]></item>
+	<item name="breakingNewsContent_frostEvent-layer"><![CDATA[Battle stations!<br /><br />A Hitac invasion is on its way. If we can trust the rumors, their arrival is changing the very appearance of deep space in our reality!<br /><br />
+		One thing is certain: there are some seriously cool new prizes to be won in the Hitac Lottery! Resist the Hitac invasion, be diligent in gathering up capsules, and exchange them for lottery tickets in the frost converter.<br /><br />
+		Don't miss your chance at the new arctic ship designs! In addition, a mysterious Ice Portal, LF4 laser bundles, a million Uridium, and many more possible prizes await you.<br /><br />
+		Enjoy the frostiest Hitac event ever!]]></item>
+	<item name="breakingNewsFooter_frostEvent-layer"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_carnival2016"><![CDATA[Masquerade]]></item>
+	<item name="breakingNewsTeaser_carnival2016"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockCustomization">Nothing is as it seems: this year's carnival is a real M.A.S.Q.U.E.rade!</a>]]></item>
+	<item name="breakingNewsContent_carnival2016"><![CDATA[Greetings, pilots!<br /><br />
+		Just in time for Carnival, it's a galaxy-wide masquerade! Look for all your favorite Carnival festivities, from fireworks to Carnival Boxes to WIZ-X Rockets, and meet the enigmatic spokesperson for the tech concern M.A.S.Q.U.E., who is here with a few lucrative missions you won't want to miss!<br /><br />
+		That's not all: there's a special season starting in the Ultimate Battle Arena, sponsored by M.A.S.Q.U.E., who are offering up their brand-new DRONELOOKZ (tm) as prizes! That's right: you, too, will be able to choose to have your drones look one way and act another with this cosmetic tech - and if the UBA isn't your speed, look for them in the shop!<br /><br />
+		It's a mad M.A.S.Q.U.E.rade; dress up your drones and have a wonderful Carnival!]]></item>
+	<item name="breakingNewsFooter_carnival2016"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_easter2016"><![CDATA[Spring Sabotage]]></item>
+	<item name="breakingNewsTeaser_easter2016"><![CDATA[SecuriTek and M.A.S.Q.U.E. are squaring off!]]></item>
+	<item name="breakingNewsContent_easter2016"><![CDATA[Greetings, pilot!<br /><br />
+		It looks like the start of a very lucrative friendship between yourself and the enigmatic person behind the Scaramouche mask! Now that you've caught M.A.S.Q.U.E.'s eyes, you can be sure that some sexy new tech will regularly find its way to you, as you help them in their struggle against sabotage by SecuriTek, their previous exclusive employers.<br /><br />
+		Enjoy a fortnight of fireworks and fun as you hunt alien eggs, participate in a special UBA season with exclusive new rewards, and new epic missions! And you'll be able to take advantage of M.A.S.Q.U.E.'s amazing PETLOOKZ system with two new cosmetic P.E.T. designs, each in several colors.<br /><br />
+		Celebrate spring with sheer, exuberant deep-space mayhem!]]></item>
+	<item name="breakingNewsFooter_easter2016"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_saimonRebellion"><![CDATA[Saimon says…]]></item>
+	<item name="breakingNewsTeaser_saimonRebellion"><![CDATA[...defeat us or die!]]></item>
+	<item name="breakingNewsContent_saimonRebellion"><![CDATA[Greetings, pilots!<br /><br /> It’s never quiet in space.<br /><br />Humanity has encountered many hostile races in the depths of space. We just drove the Hitac back to their pocket of space and are now facing a new threat: The Saimon have amassed an army far greater than we imagined they could muster.<br /><br />Starting on the 12th of September, it’s your task to join the human forces and repel the attack.<br /><br />The Saimon Rebellion event introduces
+		<ul>
+			<li>The new Scatter Laser – a shotgun-style craftable weapon</li>
+			<li>A new Fusion Shield Generator – slightly weaker with faster out-of-combat recovery</li>
+			<li>New Pusat and Spectrum designs (Blaze, Ocean, and Legend)</li>
+			<li>Ability balancing update for Diminisher, Lightning, Sentinel, Solace, Spectrum and Venom</li>
+			<li>New UBA, Gate and Box rewards including new recipes</li>
+			<li>New Event missions</li>
+		</ul>
+		The event is scheduled to run for two weeks, so you have plenty of opportunity to collect all the cool stuff and find out more about the Saimon Rebellion.<br /><br />Get to the FAQ section of our forums for details on the event, the recipes and much, much more!]]></item>
+	<item name="breakingNewsFooter_saimonRebellion"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_halloween2016"><![CDATA[Rumble on the Pumpkin Patch!]]></item>
+	<item name="breakingNewsTeaser_halloween2016"><![CDATA[Everyone’s favorite spine-chilling Halloween Event returns!]]></item>
+	<item name="breakingNewsContent_halloween2016"><![CDATA[Greetings Space Pilots,<br/><br />Come and celebrate the return of the Halloween event. With even spookier goings on:
+			<ul>
+				<li>The terrifying Tunnel of Terror is back!</li>
+				<li>Enjoy ghoulishly good new Halloween drone designs, the Ghostifier Item, the Pumpkin Boxes and the Ghost NPC.</li>
+				<li>The haunting Halloween specific titles are available again!</li>
+			</ul>
+			But that’s not all!<br/><br />We’re adding the following eerie new content:
+			<ul>
+				<li>New Item: Spectral Lancer Lasers (does additional damage against aliens)</li>
+				<li>New permanent recipes: Short Term Boosters (1h versions)</li>
+				<li>Chimera, Phantom, Mirage and Enigma Blaze, Borealis and Sandstorm designs (only available during the event)</li>
+				<li>Some seriously, satisfying Booty Box reward changes.</li>
+			</ul>
+			The event starts on the 17th of October 2016, 0:00h LST and ends on October, 31st, 23:59h LST.]]></item>
+	<item name="breakingNewsFooter_halloween2016"><![CDATA[Don’t let the boogeyman get you!]]></item>
+		
+	<item name="breakingNewsTitle_xmas2016"><![CDATA[Still Going Strong - Happy 10th Birthday DarkOrbit]]></item>
+	<item name="breakingNewsTeaser_xmas2016"><![CDATA[Celebrate our 10th Birthday and join us for the Winter Season. It’s gonna be a blast!]]></item>
+	<item name="breakingNewsContent_xmas2016"><![CDATA[We breathed life into the first DarkOrbit server on the 11th December 2006. Since then our marvelous sci-fi game has gone through several changes, with the promise of more awesome things to come.<br /><br />So let’s kick-off with something special.<br /><br />From the 1st December 2016, you can enjoy the following Birthday and Winter Event’s features:
+				<ul>
+					<li><strong>Goliath-X</strong>: A stunning new addition to your fleet</li>
+					<li><strong>Cold Wave 2016</strong>: Missions for everyone – old and new</li>
+					<li><strong>Demaner Hunt reloaded</strong>: They’re stronger and sturdier than before, but so much more rewarding</li>
+					<li><strong>The Breach</strong>: The “birthday  gate” will open on the 11th December</li>
+					<li><strong>Shadow Dance</strong>: A brilliant new quest line which may change the DarkOrbit universe – for ever!</li>
+					<li><strong>and more</strong>: Life-time achievement titles, new designs for ships, drones and P.E.T.s, Ice Meteroids, Assembly recipes</li>
+				</ul>
+			The event will end on the 31st of December 2016, 23:59h LST.]]></item>
+	<item name="breakingNewsFooter_xmas2016"><![CDATA[All the details are listen in the 10-year-anniversay FAQ on our forums.]]></item>
+
+	<item name="breakingNewsTitle_permafrostFissure"><![CDATA[A Cold Day in Hell]]></item>
+	<item name="breakingNewsTeaser_permafrostFissure"><![CDATA[Breach the Subglacial Fissure]]></item>
+	<item name="breakingNewsContent_permafrostFissure"><![CDATA[A star quake has ripped open a Subglacial Fissure to hitherto uncharted areas of the galaxy. With new elements, scientists think will unlocked a new era in physics and weapon development.<br /><br />They’ve already crafted some of these elements into the Unstable LF-4. Developed and made available to every pilot brave enough to enter the Subglacial Fissure.<br /><br />Embark on dangerous and rewarding missions, craft your own “Subglacial CPU”, to enter the fissure and collect all the materials required to create the new Unstable LF-4. Be wary though, pilot. You’re not the only species who are seeking these elements.<br /><br />The event starts on the 24th of January 2017 and will end on the 28th of February, 23:59h LST.
+	<strong>The summary</strong>
+		<ul>
+			<li>New missions to get you started</li>
+			<li>New Subglacial Fissure Gate</li>
+			<li>New CPU to open your own Gate</li>
+			<li>New “Unstable LF-4” – the same basic stats as regular LF-4 but with a bit of variance in their DMG output</li>
+			<li>New Boosters: Proxium drop chance , Proxium reward and the combined “Ultimate Proxium Booster”</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_permafrostFissure"><![CDATA[Overthrow the UFO?]]></item>
+	
+<item name="breakingNewsTitle_plagueAlert"><![CDATA[Plague Alert!]]></item>
+<item name="breakingNewsTeaser_plagueAlert"><![CDATA[Get ready for infection!]]></item>
+<item name="breakingNewsContent_plagueAlert"><![CDATA[<p>The plague spreads, as the threat to humanity intensifies. Nyx returns, with a serious message from the UNN, trying to help uncover the reasons for this new threat and uncovering something more. As other aliens start to fall under the curse. Pilots, it is time to gear up and prevent this threat once again.</p>
+<p>A new quest line, with standard and an enhanced LF-4 as quest rewards, sends you to kill the infected aliens to release Blighted Gygerthralls, containing valuable Hybrid Alloy. <br /> Craft the Immunizer CPU to access to the Quarantine Zone and take the battle to all-new enemies!</p>
+<p>A new boss lurks inside the Quarantine Zone. Those who are victorious in killing it will gain a number of rewards, including the rare Indoctrine Oil for the Mimesis, Hammerclaw and Cyborg: As well as Ore Packages which contain resources needed for LF-4 enhancements.<br /> However make no mistake, this new boss will not go down without a fight.</p>
+<p>Engage in Nyx’s quests to uncover more details of what’s going on and be prepared to battle in Plague Alert!</p>
+]]></item>
+<item name="breakingNewsFooter_plagueAlert"><![CDATA[Can the infection be stopped?]]></item>
+
+<item name="breakingNewsTitle_winterEventUpdate"><![CDATA[A Very Merry DarkOrbit]]></item>
+	<item name="breakingNewsTeaser_winterEventUpdate"><![CDATA[Celebrate DarkOrbit in Style!]]></item>
+	<item name="breakingNewsContent_winterEventUpdate"><![CDATA[Let’s raise a glass to DarkOrbit and celebrate with a Winter event which is packed with classic goodies. As well as celebrating our 11th Birthday with the ever popular Skoll Gate<br /><br />
+From the events launch you can enjoy the following Birthday and Winter Event’s features:
+				<ul>
+					<li><strong>Winter Daily Login Bonus</strong>: With some special designs to celebrate.</li>
+					<li><strong>Cold Wave</strong>: Missions for everyone – old and new.</li>
+					<li><strong>Skoll Gate</strong>: The “birthday  gate” will open on our birthday.</li>
+					<li><strong>and more</strong>: Life-time achievement titles and Ice Meteroids.</li>
+				</ul>
+Time to get ready for action!]]></item>
+	<item name="breakingNewsFooter_winterEventUpdate"><![CDATA[Ho, ho ho!]]></item>
+	
+<item name="breakingNewsTitle_skollGate"><![CDATA[Bring on the Birthday Gate!]]></item>
+<item name="breakingNewsTeaser_skollGate"><![CDATA[Happy 11th Birthday]]></item>
+<item name="breakingNewsContent_skollGate"><![CDATA[Are you ready to enter the Skoll Gate, back by popular demand to celebrate our 11th Birthday.<br /><br />
+If you play the Skoll Gate and face the waves of wintry opponents you could win:
+				<ul>
+					<li>Ice Rockets.</li>
+					<li>Indoctrine Oil.</li>
+					<li>Enhanced LF-4's.</li>
+				</ul>
+With two levels of difficulty to challenge you! There's plenty of action to be had.]]></item>
+<item name="breakingNewsFooter_skollGate"><![CDATA[Skoll, Skoll, Skoll, Skoll!]]></item>
+
+	
+<!--End of Event specific sales-->
+<!-- =========================== -->
+<!--TR Specific Sales-->
+ 
+	<item name="breakingNewsTitle_tieredEvent"><![CDATA[Hezarfen Göreve Hazır!]]></item>
+	<item name="breakingNewsTeaser_tieredEvent"><![CDATA[Türk Gücü Emrinizde!]]></item>
+	<item name="breakingNewsContent_tieredEvent"><![CDATA[Merhaba Uzay Pilotları<br /><br />
+			Türk mühendislerinin ürünü Hezarfen uzay savaşlarını sallamaya geliyor!<br /><br />
+			Şanlı Türk bayrakları ile donatılan Hezarfen tasarımı DarkOrbit’te!<br /><br />
+			<a href="http://tr.bigpoint.com/darkorbit/board/threads/test1.79581/" target="_blank">Detaylı bilgi Forum Sayfamızda</a>]]></item>
+	<item name="breakingNewsFooter_tieredEvent"><![CDATA[DarkOrbit Türkiye Ekibi]]></item>
+
+	<item name="breakingNewsTitle_snatchTime"><![CDATA[Kapışma Zamanı!]]></item>
+	<item name="breakingNewsTeaser_snatchTime"><![CDATA[DarkOrbit’te ortalık karışıyor]]></item>
+	<item name="breakingNewsContent_snatchTime"><![CDATA[Merhaba uzay pilotu,<br /><br />
+			Yepyeni etkinlik Kapışma Zamanı bugün başlıyor<br /><br />
+			Admin gemileri ile amansız bir mücadele için hazır olun!<br /><br />
+			<a href="http://tr.bigpoint.com/darkorbit/board/threads/kapsma-zaman.80354/" target="_blank">Detaylı bilgi Forum Sayfamızda</a>]]></item>
+	<item name="breakingNewsFooter_snatchTime"><![CDATA[DarkOrbit Türkiye Ekibi]]></item>
+
+	<item name="breakingNewsTitle_TrXpHappyHour"><![CDATA[Zafer Bayramı!]]></item>
+	<item name="breakingNewsTeaser_TrXpHappyHour"><![CDATA[30 Ağustos kutlaması]]></item>
+	<item name="breakingNewsContent_TrXpHappyHour"><![CDATA[Merhaba uzay pilotu,<br /><br />
+		Zafer Bayramını %50 TP bonusu ile kutluyoruz!<br /><br />
+		30 Ağustos günü 19:00-21:00 saatleri arasında fazladan %50 TP!<br /><br />
+		<a href="https://www.facebook.com/darkorbit" target="_blank">DarkOrbit Türkiye Facebook Sayfası</a>]]></item>
+	<item name="breakingNewsFooter_TrXpHappyHour"><![CDATA[DarkOrbit Türkiye Ekibi]]></item>
+
+	<item name="breakingNewsTitle_TrLiraEvent"><![CDATA[Sadece 1 TL!]]></item>
+	<item name="breakingNewsTeaser_TrLiraEvent"><![CDATA[1 TL’ye mühiş paket]]></item>
+	<item name="breakingNewsContent_TrLiraEvent"><![CDATA[Merhaba uzay pilotu,<br><br>
+		1-3 Eylül tarihleri arasında 1 TL paketi DarkOrbitte<br><br>
+		30.000 Uridium değerindeki ürünler 1 TL, kaçırmayın!<br><br>
+		Dükkan/Ekstralara göz atın]]></item>
+	<item name="breakingNewsFooter_TrLiraEvent"><![CDATA[DarkOrbit Türkiye Ekibi]]></item>
+
+	<item name="breakingNewsTitle_snatchTime2"><![CDATA[Kapışmaya Devam!]]></item>
+	<item name="breakingNewsTeaser_snatchTime2"><![CDATA[DarkOrbit’te kapışma tam gaz!]]></item>
+	<item name="breakingNewsContent_snatchTime2"><![CDATA[Sevgili DarkOrbit oyuncusu,<br /><br />Birincisi yoğun ilgi gören kapışma etkinliği devam ediyor!<br />Admin gemilerine karşı amansız mücadeleye hazır olun!<br /><a href="http://en.bigpoint.com/darkorbit/board/threads/test.89575/" target="_blank">Kapışma etkinliği detaylı konusu</a>]]></item>
+	<item name="breakingNewsFooter_snatchTime2"><![CDATA[DarkOrbit Türkiye Ekibi]]></item>
+
+	<item name="breakingNewsTitle_tieredEvent2"><![CDATA[<b>Feast Of Sacrifice</b>]]></item>
+	<item name="breakingNewsTeaser_tieredEvent2"><![CDATA[<b>Superb Gifts On Feast!</b>]]></item>
+	<item name="breakingNewsContent_tieredEvent2"><![CDATA[Hello Space Pilot,<br /><br />Special gifts for Feast is waiting for you! Dont miss the Hercules, BAT Formation and EE!<br /><br /><a href="http://tr.bigpoint.com/darkorbit/board/threads/tse.94477/" target="_blank">Forum Topic</a> ]]></item>
+	<item name="breakingNewsFooter_tieredEvent2"><![CDATA[DarkOrbit Turkey Team]]></item>
+
+	<item name="breakingNewsTitle_trBonusXp416"><![CDATA[23 Nisan’da Çocuklar Gibi Şeniz!]]></item>
+	<item name="breakingNewsTeaser_trBonusXp416"><![CDATA[Darkorbit’te daha fazla XP kazanın!]]></item>
+	<item name="breakingNewsContent_trBonusXp416"><![CDATA[Merhaba Uzay Pilotları,<br /><br />Ulu Önder Atatürk’ün bizlere ve tüm dünyaya armağanı olan 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’nı DarkOrbit’te kutluyoruz!<br /><br />Tüm gün boyunca %25 daha fazla tecrübe ve şeref puanı kazanma fırsatı sizlerle! Ayrıca oyundaki Bonus kutuları Türk Bayrağı ile süsleniyor! Bu şöleni kaçırmayın!<br />
+	<a href="http://tr.bigpoint.com/darkorbit/board/threads/cocuklar-gibi-seniz.119556/" target="_blank">Forum</a>]]></item>
+		<item name="breakingNewsFooter_trBonusXp416"><![CDATA[DarkOrbit Turkey Team]]></item>
+
+	<item name="breakingNewsTitle_sugarFestTR"><![CDATA[Happy Ramadan!]]></item>
+	<item name="breakingNewsTeaser_sugarFestTR"><![CDATA[May the festival of lights be the harbinger of joy and prosperity! ]]></item>
+	<item name="breakingNewsContent_sugarFestTR"><![CDATA[Greetings, pilots!<br /><br />In order to celebrate the Sugar Festival, we also have super tasty event planned for you! We offer rare packages specially designed Ramadan Feast. We combined  50% Bonus Experience and 50% Bonus Honor Points into one package and added rare  Lance Drone Formation into your favourite Tiered Spender Event.
+	Galaxy Gates Double Day, Turkey Bonus Boxes and many more are awaiting you... Jump into forum for event calendar and detailed information!
+	<a href="http://tr.bigpoint.com/darkorbit/board/threads/121414/" target="_blank">Forum</a>]]></item>
+	<item name="breakingNewsFooter_sugarFestTR"><![CDATA[DarkOrbit Turkey Team]]></item>
+
+	<item name="breakingNewsTitle_sugarFestInt"><![CDATA[Happy Eid al-Fitr!]]></item>
+	<item name="breakingNewsTeaser_sugarFestInt"><![CDATA[The four sweetest days in DarkOrbit!]]></item>
+	<item name="breakingNewsContent_sugarFestInt"><![CDATA[Greetings, pilots!<br /><br />The end of Ramadan is approaching, so it’s time for us to join in the Sugar Feast celebrations!
+		All over the world, communities celebrate the end of their month of fasting by feasting and enjoying sweet treats. This festival is called Eid al-Fitr.
+		Our special treat for you is the Goliath Surgeon, which is included in this weekend’s Uridium package sales. And, to make it extra sweet, we have re-released the Lance drone formation!
+		<ol>
+			<li>15,000 Uridium and 2 weeks Premium</li>
+			<li>30,000 Uridium and 2 weeks Premium plus 1 week rebate advantage package</li>
+			<li>75,000 Uridium, 1 week Premium plus 1 month rebate advantage package</li>
+			<li>150,000 Uridium, 500 Extra Energy, one Hercules design plus one Goliath Surgeon</li>
+			<li>330,000 Uridium, 500 Extra Energy, one Hercules design, one Goliath Surgeon, 1 month of Premium <em>and</em> Lance drone formation!</li>
+		</ol>]]></item>
+	<item name="breakingNewsFooter_sugarFestInt"><![CDATA[Have a great Ramadan!]]></item>
+	
+<item name="breakingNewsTitle_trCharityMarch2017"><![CDATA[Charity for our Fallen Heroes]]></item>
+<item name="breakingNewsTeaser_trCharityMarch2017"><![CDATA[]]></item>
+<item name="breakingNewsContent_trCharityMarch2017"><![CDATA[In honor of our fallen heroes, and to support his family in their time of great loss, DarkOrbit is proud to announce the Fatsali Kerem Bundle.
+<strong>Each package contains: </strong>
+<ul>
+	<li>G –Champion Ship Design</li>
+<li>Hezarfen Ship Design</li>
+<li>Phantom Blaze Drone Design x 10</li>
+</ul>
+All proceeds for this bundle will be donated to charity!
+]]></item>
+<item name="breakingNewsFooter_trCharityMarch2017"><![CDATA[In honor and respect.]]></item>
+
+<!--End of TR specific news-->
+<!-- ======================= -->
+<!--Tiered Spender-->
+
+	<item name="breakingNewsTitle_tieredSpender60"><![CDATA[Free Gift with Every Uridium Purchase]]></item>
+	<item name="breakingNewsTeaser_tieredSpender60"><![CDATA[We invite you to enjoy the Gift Bonus sale.]]></item>
+	<item name="breakingNewsContent_tieredSpender60"><![CDATA[With every Uridium purchase you will receive a special bonus gift – ranging from Extra Energy to special Drone designs and more.
+			<u>And here’s what you get with each Uridium Package:</u><br />
+			<ol>
+			<li>15,000 Uridium and 2 weeks Premium</li>
+			<li>30,000 Uridium and 2 weeks Premium plus 1 week rebate advantage package</li>
+			<li>75,000 Uridium, 1 week Premium plus 1 month rebate advantage package</li>
+			<li>150,000 Uridium, 500 Extra Energy, one Hercules design plus one Goliath Surgeon</li>
+			<li>330,000 Uridium, 500 Extra Energy, one Hercules design, one Goliath Surgeon, 1 month of Premium <em>and</em> Lance drone formation!</li>
+			</ol>
+			Check out the Uridium offers between now and Monday 23:59h Local Server Time.]]></item>
+	<item name="breakingNewsFooter_tieredSpender60"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_tieredSpender216"><![CDATA[Uridium, Ships, Hercules designs and more!]]></item>
+	<item name="breakingNewsTeaser_tieredSpender216"><![CDATA[Cool bonuses with every <a href="/indexInternal.es?action=internalPayment">Uridium purchase</a>]]></item>
+	<item name="breakingNewsContent_tieredSpender216"><![CDATA[Greetings, pilots!<br /><br />
+		This weekend, starting on Friday at midnight, all the way through until Monday, 23:59h (Local Server Time), you will get great bonuses with every Uridium purchase!
+		Buy the Uridium package of your choice and get the following exciting bonuses:
+		<ul>
+		<li>15,000 Uridium package: 2 weeks premium</li>
+		<li>30,000 Uridium package: 2 weeks premium and 1 week Rebate Advantage Package</li>
+		<li>75,000 Uridium package: 1 month premium plus 1 week Rebate Advantage Package</li>
+		<li>150,000 Uridium: 500 Extra Energy, a Defcom ship and one Hercules Drone design</li>
+		<li>330,000 Uridium: 500 Extra Energy, a Defcom ship, one 1 Hercules design, a Goliath Surgeon and one Month Premium</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_tieredSpender216"><![CDATA[<a href="/indexInternal.es?action=internalPayment">Get your package today!]]></item>
+
+	<item name="breakingNewsTitle_tieredSpenderProjectNano"><![CDATA[Free Gift with Every Uridium Purchase]]></item>
+	<item name="breakingNewsTeaser_tieredSpenderProjectNano"><![CDATA[This weekend we invite you to enjoy the Gift Bonus sale.]]></item>
+	<item name="breakingNewsContent_tieredSpenderProjectNano"><![CDATA[Greetings, pilots!<br /><br />With every Uridium purchase you will receive a special bonus gift – ranging from Extra Energy to special Drone designs and more.
+		<u>And here’s what you get with each Uridium Package:</u><br /><br />
+		<ul>
+			<li>15,000 Uridium</strong> - 2 High-Frequency Cables + 1 Nano Cases</li>
+			<li>30,000 Uridium - 3 High-Frequency Cables + 3 Nano Cases</li>
+			<li>75,000 Uridium - 4 High-Frequency Cables, 3 Nano Cases + 2 Prismatic Sockets</li>
+			<li>150,000 Uridium - 5 high frequency cables, 5 Nano Cases, 3 Prismatic Sockets and 2 Nano Condensers</li>
+			<li>330,000 Uridium - 5 high frequency cables, 5 Nano Cases, 3 Prismatic Sockets, 3 Nano Condensors, 2 Hybrid Processors + 2 Micro Transistors</li>
+		</ul>
+		Check out the Uridium offers between now and Monday 23:59h Local Server Time.]]></item>
+	<item name="breakingNewsFooter_tieredSpenderProjectNano"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_tieredSpender_v7"><![CDATA[Craft your dream!]]></item>
+	<item name="breakingNewsTeaser_tieredSpender_v7"><![CDATA[Get Free Hardware with Every Uridium Purchase!]]></item>
+	<item name="breakingNewsContent_tieredSpender_v7"><![CDATA[Today only! With each and every Uridium purchase you’ll receive special crafting materials.<br /><br /><u>Here’s what you get with each Uridium Package:</u>
+		<ul>
+			<li><strong>15,000 Uridium</strong> - 250 Scrap</li>
+			<li><strong>30,000 Uridium</strong> - 500 Scrap</li>
+			<li><strong>75,000 Uridium</strong> - 500 Scrap + 5 Schism Crystals</li>
+			<li><strong>150,000 Uridium</strong> - 700 Scrap + 10 Schism Crystals + 1 Micro Transistor</li>
+			<li><strong>330,000 Uridium</strong> - 1000 Scrap + 40 Schism Crystals + 6 Micro Transistor</li>
+		</ul>
+	You can only get the Uridium offers between now and Monday 23:59h Local Server Time. Don’t miss out!]]></item>
+	<item name="breakingNewsFooter_tieredSpender_v7"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_tieredSpender8"><![CDATA[Free Gift with Every Uridium Purchase]]></item>
+	<item name="breakingNewsTeaser_tieredSpender8"><![CDATA[We invite you to enjoy the Gift Bonus sale.]]></item>
+	<item name="breakingNewsContent_tieredSpender8"><![CDATA[With every Uridium purchase you will receive a special bonus gift – ranging from Extra Energy to special Drone designs and more.
+		<u>And here’s what you get with each Uridium Package:</u><br />
+		<ul>
+		<li>15,000 Uridium + 2 weeks Premium and 50 Extra Energy</li>
+		<li>30,000 Uridium + 2 weeks Premium, 1 week Rebate Advantage Package, 50 Extra Energy and 5 Green Booty Keys</li>
+		<li>75,000 Uridium + 2 weeks Premium, 2 weeks Rebate Advantage Package, 2 weeks Double Advantage Package, 100 Extra Energy and 20 Green Booty Keys</li>
+		<li>150,000 Uridium + 2 weeks Premium, 500 Extra Energy, 40 Green Booty Keys, Yamato Ship and a Hercules Drone Design</li>
+		<li>330,000 Uridium + 1 month Premium, 500 Extra Energy, 40 Green Booty Keys, Yamato Ship, a Hercules Drone Design and a Goliath Surgeon ship</li>
+		</ul>
+		Check out the Uridium offers between now and Monday 23:59h Local Server Time.]]></item>
+	<item name="breakingNewsFooter_tieredSpender8"><![CDATA[Your DarkOrbit Team]]></item>
+	
+	<item name="breakingNewsTitle_tieredRefresh517"><![CDATA[Grab a Free Gift with Every Uridium Purchase]]></item>
+	<item name="breakingNewsTeaser_tieredRefresh517"><![CDATA[Enjoy the Gift Bonus sale!]]></item>
+	<item name="breakingNewsContent_tieredRefresh517"><![CDATA[Get a special bonus gift with every Uridium purchase! – With a host of exciting offers.
+		<u>And here’s what you get with each Uridium Package:</u><br />
+		<ul>
+		<li>15,000 Uridium + 2 Weeks Premium, 50 Extra Energy and 10 Bifenon.</li>
+		<li>30,000 Uridium + 2 Weeks Premium, 1 Week Rebate Advantage Pack, 50 Extra Energy, 5 BK-100 (Green Booty Keys), 20 Bifenon, and 4 Tetrathrin.</li>
+		<li>75,000 Uridium + 2 Weeks Premium, 2 Weeks Rebate Advantage Pack, 2 Weeks Double Advantage Pack, 100 Extra Energy, 20 BK-100 (Green Booty Keys), 40 Bifenon, and 10 Tetrathrin.</li>
+		<li>150,000 Uridium + 2 Weeks Premium, 500 Extra Energy, 40 BK-100 (Green Booty Keys), 80 Bifenon, 20 Tetrathrin, 10 Kyhalon, a Lava Pusat and a Lava Pusat Drone.</li>
+		<li>330,000 Uridium + 1 Month Premium, 650 Extra Energy, 50 BK-100 (Green Booty Keys), 160 Bifenon, 80 Tetrathrin, 50 Kyhalon, a Lava Spectrum and a Lava Spectrum Drone.</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_tieredRefresh517"><![CDATA[A Stellar Bonus!]]></item>
+	
+<item name="breakingNewsTitle_tieredRefresh917"><![CDATA[Indoctrine Oil with Each Uridium Purchase]]></item>
+<item name="breakingNewsTeaser_tieredRefresh917"><![CDATA[Boost your Stocks!]]></item>
+<item name="breakingNewsContent_tieredRefresh917"><![CDATA[Get Indoctrine Oil with every Uridium purchase! – Grab enough Uridium and you could be flying one of the ships that can be crafted from this valuable resource.
+		<u>And here’s what you get with each Uridium Package:</u><br />
+		<ul>
+		<li>15,000 Uridium + 3 Indoctrine Oil.</li>
+		<li>30,000 Uridium + 10 Indoctrine Oil.</li>
+		<li>75,000 Uridium + 30 Indoctrine Oil.</li>
+		<li>150,000 Uridium + 70 Indoctrine Oil.</li>
+		<li>330,000 Uridium + 145 Indoctrine Oil.</li>
+		</ul>]]></item>
+<item name="breakingNewsFooter_tieredRefresh917"><![CDATA[Oils well that ends well!]]></item>
+
+<!--End of tiered Spender-->
+<!-- ===================== -->
+<!--Galaxy Gate Special Sales - GG Weekend, GG Double Rewards, GG Extra Rewards-->
+
+	<item name="breakingNewsTitle_GGMaterializerDay"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Galaxy Gate Materializer Day!</a>]]></item>
+	<item name="breakingNewsTeaser_GGMaterializerDay"><![CDATA[Spin the wheel for Goliath designs, booster packages, or even LF-4s!]]></item>
+	<item name="breakingNewsContent_GGMaterializerDay"><![CDATA[Greetings, pilots!<br /><br />
+	When you spin the wheel to build your Galaxy Gate, today you’ll also have a chance to receive something special: <br /><br />
+	We have tweaked the drop packages a bit, so in addition to the popular possibilities to win ammo, repair vouchers, etc., today, with every spin you could win:
+	<ul>
+	<li>LF-4</li>
+	<li>Random booster for 10 hours</li>
+	<li>Random Goliath skill design</li>
+	</ul>]]></item>
+	<item name="breakingNewsFooter_GGMaterializerDay"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Create your Galaxy Gates today</a>]]></item>
+
+	<item name="breakingNewsTitle_GGWeekend1"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+	<item name="breakingNewsTeaser_GGWeekend1"><![CDATA[Topping off the Galaxy Gate rewards!]]></item>
+	<item name="breakingNewsContent_GGWeekend1"><![CDATA[Greetings, pilots!<br /><br />M.A.S.Q.U.E.’s R&D department is churning out a lot of special gear lately! Using their patented GateDropz™ military-grade locators, they have found pockets of hidden space in certain Galaxy Gates that can yield extra rewards for space pilots venturing into them.<br /><br />As it requires a high amount of vacuum energy, the duration for which this equipment works is limited! <br /><br />This weekend, from midnight on Friday through to Sunday at 23:59 LST, all pilots will have a chance to win special rewards for finishing the selected Gates!<br /><br />Here’s what you could win:
+		<ul>
+			<li><strong>Delta Gate: One LF-4</strong></li>
+			<li><strong>Epsilon Gate: Collector's joy - Chimera and Phantom</strong></li>
+			<li><strong>Kuiper Gate: Goliath surprise pack</strong></li>
+			<li><strong>Lambda Gate: Collector's joy - Mirage and Enigma</strong></li>
+		</ul>
+		<strong>Package Contents</strong>
+		You have a chance to win <strong>one</strong> of the following rewards from the corresponding package.
+		<ul>
+			<li><strong>LF-4</strong>: One LF-4 or 10,000 UCB-100</li>
+			<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+			<li><strong>Collector's joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+			<li><strong>Collector's joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange Mirage designs</li>
+			<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that should you already own one of these, you will not receive a duplicate identical design.) </li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_GGWeekend1"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Create your Galaxy Gates today</a>.]]></item>
+
+	<item name="breakingNewsTitle_GGWeekend2"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+	<item name="breakingNewsTeaser_GGWeekend2"><![CDATA[Topping off the Galaxy Gate rewards!]]></item>
+	<item name="breakingNewsContent_GGWeekend2"><![CDATA[Greetings, pilots!<br /><br />M.A.S.Q.U.E.’s R&D department is churning out a lot of special gear lately! Using their patented GateDropz™ military-grade locators, they have found pockets of hidden space in certain Galaxy Gates that can yield extra rewards for space pilots venturing into them.<br /><br />As it requires a high amount of vacuum energy, the duration for which this equipment works is limited! <br /><br />This weekend, from midnight on Friday through to Sunday at 23:59 LST, all pilots will have a chance to win special rewards for finishing the selected Gates! <br /><br />Here’s what you could win:
+		<ul>
+			<li><strong>Delta Gate: Goliath surprise pack</strong></li>
+			<li><strong>Epsilon Gate: Awesome drones</strong></li>
+			<li><strong>Kuiper Gate: One LF-4</strong></li>
+			<li><strong>Lambda Gate: Collector's joy - Chimera and Phantom</strong></li>
+		</ul>
+		<strong>Package Contents</strong>
+		You have a chance to win <strong>one</strong> of the following rewards from the corresponding package.
+		<ul>
+			<li><strong>LF-4</strong>: One LF-4 or 10,000 UCB-100</li>
+			<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+			<li><strong>Collector's joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+			<li><strong>Collector's joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange Mirage designs</li>
+			<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that should you already own one of these, you will not receive a duplicate identical design.) </li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_GGWeekend2"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Create your Galaxy Gates today</a>.]]></item>
+
+	<item name="breakingNewsTitle_GGWeekend3"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+	<item name="breakingNewsTeaser_GGWeekend3"><![CDATA[Topping off the Galaxy Gate rewards!]]></item>
+	<item name="breakingNewsContent_GGWeekend3"><![CDATA[Greetings, pilots!<br /><br />M.A.S.Q.U.E.’s R&D department is churning out a lot of special gear lately! Using their patented GateDropz™ military-grade locators, they have found pockets of hidden space in certain Galaxy Gates that can yield extra rewards for space pilots venturing into them.<br /><br />As it requires a high amount of vacuum energy, the duration for which this equipment works is limited! <br /><br />This weekend, from midnight on Friday through to Sunday at 23:59 LST, all pilots will have a chance to win special rewards for finishing the selected Gates!<br /><br />Here’s what you could win:
+		<ul>
+			<li><strong>Delta Gate: Awesome drones</strong></li>
+			<li><strong>Epsilon Gate: Goliath surprise pack</strong></li>
+			<li><strong>Kuiper Gate: Collector's joy - Chimera and Phantom</strong></li>
+			<li><strong>Lambda Gate: Collector's joy - Mirage and Enigma</strong></li>
+		</ul>
+		<strong>Package Contents</strong>
+		You have a chance to win <strong>one</strong> of the following rewards from the corresponding package.
+		<ul>
+			<li><strong>LF-4</strong>: One LF-4 or 10,000 UCB-100</li>
+			<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+			<li><strong>Collector's joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+			<li><strong>Collector's joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange Mirage designs</li>
+			<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that should you already own one of these, you will not receive a duplicate identical design.) </li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_GGWeekend3"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Create your Galaxy Gates today</a>.]]></item>
+
+	<item name="breakingNewsTitle_GGWeekend4"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+	<item name="breakingNewsTeaser_GGWeekend4"><![CDATA[Topping off the Galaxy Gate rewards!]]></item>
+	<item name="breakingNewsContent_GGWeekend4"><![CDATA[Greetings, pilots!<br /><br />M.A.S.Q.U.E.’s R&D department is churning out a lot of special gear lately! Using their patented GateDropz™ military-grade locators, they have found pockets of hidden space in certain Galaxy Gates that can yield extra rewards for space pilots venturing into them.<br /><br />As it requires a high amount of vacuum energy, the duration for which this equipment works is limited! <br /><br />This weekend, from midnight on Friday through to Sunday at 23:59 LST, all pilots will have a chance to win special rewards for finishing the selected Gates! <br /><br />Here’s what you could win:
+		<ul>
+			<li><strong>Delta Gate: Collector's joy</strong> - Chimera and Phantom</li>
+			<li><strong>Epsilon Gate: Collector's joy</strong> - Mirage and Enigma</li>
+			<li><strong>Kuiper Gate: Awesome drones</strong></li>
+			<li><strong>Lambda Gate: Collector's joy</strong> - Chimera and Phantom</li>
+		</ul>
+		<strong>Package Contents</strong>
+		You have a chance to win <strong>one</strong> of the following rewards from the corresponding package.
+		<ul>
+			<li><strong>LF-4</strong>: One LF-4 or 10,000 UCB-100</li>
+			<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+			<li><strong>Collector's joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+			<li><strong>Collector's joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange Mirage designs</li>
+			<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that should you already own one of these, you will not receive a duplicate identical design.) </li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_GGWeekend4"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Create your Galaxy Gates today</a>.]]></item>
+
+	<item name="breakingNewsTitle_kronosGateDoublePartsEvent"><![CDATA[The Kronos Gate Event!]]></item>
+	<item name="breakingNewsTeaser_kronosGateDoublePartsEvent"><![CDATA[Twice the parts, twice the fun! Get your Kronos Gate parts while you can.]]></item>
+	<item name="breakingNewsContent_kronosGateDoublePartsEvent"><![CDATA[Greetings, Space Pilots!<br><br>
+		Now visiting the Galaxy Gate is twice as lucrative as usual! For a limited time, you can get two parts of the highly sought-after Kronos Gate when you play through one of the Galaxy Gates.<br><br>
+		Exceptions: Gates that give out 1 Kronos Gate part (ex: Delta) are not a part of the offer. Gates that give out an uneven number of parts (ex: 3 parts) will only give out one part in the last passage.<br><br>
+		A lot of you have expressed that you'd like to be able to unlock the Kronos Gate faster than usual and now you finally can!]]></item>
+	<item name="breakingNewsFooter_kronosGateDoublePartsEvent"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_ExtraEnergyDeal"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockSpecials">Extra Energy Super Deals</a>]]></item>
+	<item name="breakingNewsTeaser_ExtraEnergyDeal"><![CDATA[EE Packages to save you up to 69%!]]></item>
+	<item name="breakingNewsContent_ExtraEnergyDeal"><![CDATA[Today is Mega-Discount Day!<br /><br />Head over to the in-game shop to get your mega deal. Save up to 69% on GG Materializer spins (as compared to the original price)!<br /><br />On offer now:
+		<ul>
+		<li>Extra Energy Mega Discount: 900 EE (63% discount)</li>
+		<li>Extra Energy Mega Discount L: 3,000 EE (66% off) </li>
+		<li>Extra Energy Mega Discount XL: 5,300 EE (save 69%)</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_ExtraEnergyDeal"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockSpecials">Get your Mega Discount now!</a>]]></item>
+
+	<item name="breakingNewsTitle_GGBonusRewards"><![CDATA[Galaxy Gate Double Rewards Day!]]></item>
+	<item name="breakingNewsTeaser_GGBonusRewards"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">Break through the waves and earn double the rewards</a>]]></item>
+	<item name="breakingNewsContent_GGBonusRewards"><![CDATA[Greetings, pilots!<br /><br />All pilots report to the Galaxy Gate builder immediately!
+			Today, all pilots will receive double the standard rewards for completing and surviving a Gate.
+			That means double the usual XP, Honor, Booty keys, Logfiles, etc., etc.
+			<a href="/indexInternal.es?action=internalGalaxyGates">Create your Galaxy Gates today</a>.]]></item>
+	<item name="breakingNewsFooter_GGBonusRewards"><![CDATA[Your DarkOrbit Team]]></item>
+
+<!--End of Galaxy Gate related sales-->
+<!-- ============================== -->
+<!--Starter Packs-->
+
+	<item name="breakingNewsTitle_permStarterPacks"><![CDATA[Gear up with one of our starship starter packs!]]></item>
+	<item name="breakingNewsTeaser_permStarterPacks"><![CDATA[Get an action-ready starship including competitive equipment for a bargain.]]></item>
+	<item name="breakingNewsContent_permStarterPacks"><![CDATA[Greetings, pilots!<br /><br />
+		Ever wanted to fly a Goliath, Vengeance or Leonov? Well, this is your chance to make a dream come true, the ship manufacturers allow a discount on these ships including useful equipment.<br />
+		Do not miss [DEEPLINK]this exclusive offer[/DEEPLINK] and get ready for your next mission out in DarkOrbit!]]></item>
+	<item name="breakingNewsFooter_permStarterPacks"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_newStarterPacks"><![CDATA[Boost your skills and speed up opening your first Gate]]></item>
+	<item name="breakingNewsTeaser_newStarterPacks"><![CDATA[<a href="/indexInternal.es?action=internalPayment"> Starter Packs now with Extra Energy and Log Files</a>]]></item>
+	<item name="breakingNewsContent_newStarterPacks"><![CDATA[Greetings, pilots!<br /><br />For new pilots and veterans alike the DarkOrbit Starter Packs offer a ton of goodness!
+	Ships (e.g. Goliath ,Vengeance and Leonov), weapons (e.g. a set of LF-3s, rocket launchers, etc.), generators and equipment (CPUs, repair bots, etc.) are part and parcel of every pilot’s basic gear.
+	Now these packs also contain 300 Extra Energy and more than 130 Log Files!
+	Whether you are new to the game or a wishing to extend your collection of ships, these packages offer everything your heart desires.]]></item>
+	<item name="breakingNewsFooter_newStarterPacks"><![CDATA[<a href="/indexInternal.es?action=internalPayment"> All offers are available in the Payment section now!</a>]]></item>
+
+<!--End of Starter Packs-->
+<!-- ================== -->
+<!-- One Day Sales Events (Bonus Days, Flash Sales, etc.)-->
+
+	<item name="breakingNewsTitle_resourceDeal"><![CDATA[Killer deals on booty keys and log-disks]]></item>
+	<item name="breakingNewsContent_resourceDeal"><![CDATA[<span class="breakingNewsHighlightBlue"><b>Big time savings now!</b></span><br /><br />
+	The threat is growing and danger is all around, pilots! Act now before it's too late. Arm your ship to the teeth before heading back to space. Load up on booty keys and plenty of log-disks and be prepared for anything!<br /><br />
+	Act now and save tons with the Top Deals for booty keys and log-disks:<br /><br />
+			<ul>
+			<li>Open the shop page,</li>
+			<li>Click Extras,</li>
+			<li>Select your Top Deal</li>
+			<li>... make your order today!</li>
+			</ul>
+			<br />
+	In comparison to just buying the items in the hangar, when you buy one of these super saving offers, you'll get <span class="breakingNewsHighlightBlue"><b>booty keys and log-disks</b></span> on top!
+			Take action now and get your hands on awesome items all for one blowout price!<br /><br />
+		MOVE FAST: This offer is available only for a limited time!!<br /><br />]]></item>
+
+	<item name="breakingNewsTitle_LF4Friday"><![CDATA[+++ Salvaged pirate cargo: Large stockpile of LF4 lasers detected +++]]></item>
+	<item name="breakingNewsContent_LF4Friday"><![CDATA[Attention, space pilots!<br /><br />
+	An SOS signal from a pirate freighter which was traveling through our sectors on a top-secret mission has just been picked up. It appears the ship was heavily damaged and forced to dump its cargo.<br /><br />
+	A system scan shows that you'll find <span class="breakingNewsHighlightBlue"><b>twice as much rare LF4 lasers</b></span> as usual among the pirate booty - an opportunity we must capitalize on now! I call on every pilot in the fleet to ship out and salvage the lost LF4 laser cannons now!<br /><br />According to our calculations, there isn't much time left - the lasers can only withstand space's freezing temperatures for so long. Move fast, before it's too late!<br /><br />Over and out, Your Director<br /><br />]]></item>
+
+	<item name="breakingNewsTitle_leapDay"><![CDATA[Once every 4 years a leap day comes into Orbit]]></item>
+	<item name="breakingNewsTeaser_leapDay"><![CDATA[Once upon a time... four years ago in Orbit]]></item>
+	<item name="breakingNewsContent_leapDay"><![CDATA[Maybe a couple of the veterans out there can recall teh first leap year day in Orbit four years ago. Today, we'll be marking the occasion for a second time. It is indeed a rare occasion!
+		<br /><br />
+		Take part and tell tales to your relatives ... <br /><br />
+		The second leap year in the history of DarkOrbit must be duly celebrated. This time with a glance at the past. Four years ago the boss NPCs were introduced to our galaxy. A notable occasion indeed! Therefore there is<br /><br />
+		<span class="breakingNewsHighlightBlue"><b>TODAY ONLY - 29 February 2012</b></span><br /><br />
+		<span class="breakingNewsHighlightBlue"><b>Rewards are doubled for every NPC boss and 25% of NPC bosses carry a 4-fold bonus with them!</b></span><br /><br />
+	The next leap year is not until February 2016 - hop to it, Pilots! Happy boss hunting!]]></item>
+	<item name="breakingNewsFooter_leapDay"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_dealEnergyVoucher"><![CDATA[Outta-this-world deals on energy & jump coupons]]></item>
+	<item name="breakingNewsTeaser_dealEnergyVoucher"><![CDATA[Coupons, coupons, coupons!]]></item>
+	<item name="breakingNewsContent_dealEnergyVoucher"><![CDATA[Use your head and save today! Top Deals for Extra Energy and Jump Vouchers:<br /><br />
+			<ul>
+			<li>Open shop page,</li>
+			<li>Click Extras,</li>
+			<li>Select your Top Deal</li>
+			<li>... Make your order today!</li>
+			</ul>
+			<br />
+		You'll get lots more <span class="breakingNewsHighlightBlue"><b>extra energy</b></span> and <span class="breakingNewsHighlightBlue"><b>jump coupons</b></span> with these amazing offers compared to purchasing them normally - all at no charge! The XL offers even contains booty keys!<br /><br />Act now and snag your extra energy and jump coupons for this amazing price!<br /><br />IMPORTANT: This offer is only available for a limited time!]]></item>
+	<item name="breakingNewsFooter_dealEnergyVoucher"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_dealPet"><![CDATA[Top Deals for P.E.T. & FUEL]]></item>
+	<item name="breakingNewsTeaser_dealPet"><![CDATA[Discounts, discounts, discounts!]]></item>
+	<item name="breakingNewsContent_dealPet"><![CDATA[Use your head and save today with the Top Deals for the P.E.T. and FUEL:        <br /><br />
+			<ul>
+			<li>Open the shop page,</li>
+			<li>Click P.E.T./Gears,</li>
+			<li>Select your Top Deal</li>
+			<li>... and you're done!</li>
+			</ul>
+			<br />
+			In comparison to a direct purchase, this excellent deal affords you all sorts of <span class="breakingNewsHighlightBlue"><b>gears</b></span> and <span class="breakingNewsHighlightBlue"><b>AI protocols</b></span> for free, to boot!<br /><br />Hurry up and get your P.E.T. Deals for insanely low prices!<br /><br />IMPORTANT: This offer is only available for a limited time!]]></item>
+	<item name="breakingNewsFooter_dealPet"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_paymentItemsDiscount"><![CDATA[Out-of-this-world deals in DarkOrbit]]></item>
+	<item name="breakingNewsTeaser_paymentItemsDiscount"><![CDATA[Set your sights on stellar deals!]]></item>
+	<item name="breakingNewsContent_paymentItemsDiscount"><![CDATA[Greetings, Space Pilots!<br><br>
+		DarkOrbit is raining special offers on you like a meteor shower. The best pilots take advantage of these deals to arm themselves for the next battle in orbit. So, heads up - those who don't get in on the action may not get another chance. There are a number of deals - shield packs, new ship designs and even spaceships - just waiting to be bought in payment.<br><br>Be there to take advantage of the savings before they vanish into thin air.<br><br>Wanna know more? Click the layer and have a look in payment - you won't regret it!]]></item>
+	<item name="breakingNewsFooter_paymentItemsDiscount"><![CDATA[Your DarkOrbit Team]]></item>
+	 
+	<item name="breakingNewsTitle_itemUpgradeVoucher"><![CDATA[Total success with the Upgrade Vouchers!]]></item>
+	<item name="breakingNewsTeaser_itemUpgradeVoucher"><![CDATA[Up for grabs for a limited time - Equip your ship to the hilt whenever you like!]]></item>
+	<item name="breakingNewsContent_itemUpgradeVoucher"><![CDATA[Greetings Space Pilots!<br><br>
+		Things can always be better - The only way you'll teach your enemies their lesson is if you head into battle with fully armed items! Get the new Upgrade Vouchers to upgrade your equipment for the basic price and immediately increase your chances of success to 100%.<br><br>Don't miss out and you can get one of the highly sought after vouchers at a special price. You can find them right away in the extras section of the shop or by clicking the green button on the site.  The Vouchers will be automatically redeemed with every upgrade. Perfection has never been so affordable!<br><br>
+		The Vouchers are only available for a limited time, so get while the getting's good!]]></item>
+	<item name="breakingNewsFooter_itemUpgradeVoucher"><![CDATA[Your DarkOrbit Team]]></item>
+	 
+	<item name="breakingNewsTitle_flashSaleLf3"><![CDATA[LF-3 FLASH SALE!]]></item>
+	<item name="breakingNewsTeaser_flashSaleLf3"><![CDATA[Act now to save 15% on the LF-3 in the Uridium shop!]]></item>
+	<item name="breakingNewsContent_flashSaleLf3"><![CDATA[Laser madness!<br><br>Today only, for 2 short hours, you can get your hands on the LF-3 for an astounding 15% discount. (Fear not, Premium and subscription members: all other discounts are added on top of it!) Don't hesitate - act now!<br><br>]]></item>
+	<item name="breakingNewsFooter_flashSaleLf3"><![CDATA[Your DarkOrbit team]]></item>
+	 
+	<item name="breakingNewsTitle_flashSaleIris"><![CDATA[IRIS FLASH SALE!]]></item>
+	<item name="breakingNewsTeaser_flashSaleIris"><![CDATA[Act now to save 15% on the Iris drone in the Uridium shop!]]></item>
+	<item name="breakingNewsContent_flashSaleIris"><![CDATA[Drone power!
+		<br><br>Today only, for 2 short hours, you can get your hands on the Iris - no matter how many drones you already have! - at a breathtaking 15% discount. (Don't worry, Premium and subscription members: all other discounts are added on top of it.) He who hesitates is lost; act now!<br><br>]]></item>
+	<item name="breakingNewsFooter_flashSaleIris"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_flashSaleGG"><![CDATA[GALAXY GATE FLASH SALES!]]></item>
+	<item name="breakingNewsTeaser_flashSaleGG"><![CDATA[Act now and save 10% on galaxy gate energy boosts!]]></item>
+	<item name="breakingNewsContent_flashSaleGG"><![CDATA[Greetings, Pilots!<br><br>Only today we are offering 10% rebate on galaxy gate energy boosts! (Fear not, Premium and subscription members: all other discounts are added on top of it!) Pilots, do not miss this chance - build your next galaxy gate right now and get your rewards!]]></item>
+	<item name="breakingNewsFooter_flashSaleGG"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_50centItem"><![CDATA[Super Booster Deal]]></item>
+	<item name="breakingNewsTeaser_50centItem"><![CDATA[Get a decent rebate on the 10 hour DMG/SHD/HP Booster pack!]]></item>
+	<item name="breakingNewsContent_50centItem"><![CDATA[Greetings, Pilots!<br><br>Today, from 00:00 through 23:59 (local server time), you can get three boosters for a bargain!
+		<ul>
+		<li>DMG-B02 Damage booster (+10% damage, 10 hours, affects your whole group)</li>
+		<li>SHD-B02 Shield Booster (+25% shield, 10 hours, affects your whole group)</li>
+		<li>HP-B02 Hitpoint Booster (+10% hitpoints, 10 hours, affects your whole group)</li>
+		</ul>
+		More details are to be found in [DEEPLINK]payment[/DEEPLINK].]]></item>
+	<item name="breakingNewsFooter_50centItem"><![CDATA[Your DarkOrbit team]]></item>
+
+	<item name="breakingNewsTitle_gigaHappyHour"><![CDATA[G3t Urid1vm CHeaP3r!]]></item>
+	<item name="breakingNewsTeaser_gigaHappyHour"><![CDATA[Special Uri bonus sponsored by the Helix Crew!]]></item>
+	<item name="breakingNewsContent_gigaHappyHour"><![CDATA[All Uridium purchases in the next 60 minutes are discounted BIG.<br><br>
+	Not Mega Happy Hour big but BIGGER!<br><br>
+	Get now more for same!]]></item>
+	<item name="breakingNewsFooter_gigaHappyHour"><![CDATA[Your Helix Crew!]]></item>
+	 
+	<item name="breakingNewsTitle_helixLF4_Layer"><![CDATA[HELIX LF-4 DAY!]]></item>
+	<item name="breakingNewsContent_helixLF4_Layer"><![CDATA[The Helix has increased your chances of finding valuable items, and tripled your chances at a deadly LF-4 Laser. Green Booty hasn’t been this fun since the days of Captain Kirk!]]></item>
+	<item name="breakingNewsTitle_helixBooty_Layer"><![CDATA[NEW ULTRA BOOTY!]]></item>
+	<item name="breakingNewsContent_helixLBooty_Layer"><![CDATA[Sponsored by the Helix! Ultra Blue and Ultra Red Booty – take advantage of triple the chance at priceless items and top-of-the-line starships!]]></item>
+
+	<item name="breakingNewsTitle_eventExpDay"><![CDATA[50% EP Booster: Order 5,000 Uridium today and benefit from 50% more EP all day long!]]></item>
+	<item name="breakingNewsTeaser_eventExpDay"><![CDATA[Your one-time deal for 50% more experience]]></item>
+	<item name="breakingNewsContent_eventExpDay"><![CDATA[Greetings, Pilots!<br />
+		Want to level up quicker? Then take advantage of this one-time deal <b>TODAY ONLY</b> and rake in more experience points!	<br />
+		<ul>
+		<li>For every 5,000 Uridium ordered today, you’ll receive 50% more EP for one full day.</li>
+		<li>The more you order, the bigger the EP payoff: For every order of 5,000 Uridium, an extra day will be tacked on up to a maximum of five days.</li>
+		<li>Want five full days of extra EP? Then order 25,000 Uridium right off the bat and receive the 50% EP booster for the next five days!</li>
+		</ul>
+		<br />
+		Upon purchase, the 50% EP booster will be activated immediately (booster duration is calculated in real time). [DEEPLINK]Order <b>TODAY</b>[/DEEPLINK] before it’s too late!]]></item>
+	<item name="breakingNewsFooter_eventExpDay"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_eventHonDay"><![CDATA[50% honor booster: Order 5,000 Uridium today and benefit from extra honor for 24 hours straight!]]></item>
+	<item name="breakingNewsTeaser_eventHonDay"><![CDATA[Your one-time deal for 50% more honor]]></item>
+	<item name="breakingNewsContent_eventHonDay"><![CDATA[Greetings, Pilots!<br />
+		Get 50% more honor for kills and missions and give your space pilot career a boost. Climb the ranks!
+		<ul>
+		<li>For every 5,000 Uridium ordered, you'll receive 50% more honor for one full day!</li>
+		<li>An extra day will be tacked on for every 5,000 Uridium up to a maximum of five days.</li>
+		<li>Want five full days of extra honor? Then order 25,000 Uridium now!</li>
+		</ul><br />
+		The 50% honor booster will be activated immediately upon purchase (booster duration is calculated in real time). [DEEPLINK]Order <b>TODAY</b>[/DEEPLINK] before it’s too late!]]></item>
+	<item name="breakingNewsFooter_eventHonDay"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_eventBKLFSale"><![CDATA[Killer deals on booty keys and log-disks]]></item>
+	<item name="breakingNewsTeaser_eventBKLFSale"><![CDATA[Big time savings now!]]></item>
+	<item name="breakingNewsContent_eventBKLFSale"><![CDATA[The threat is growing and danger is all around, pilots! Act now before it's too late. Arm your ship to the teeth before heading back to space. Load up on booty keys and plenty of log-disks and be prepared for anything!<br /><br />
+		Act now and save tons with the Top Deals for booty keys and log-disks:<br />
+		<ul>
+		<li>Open the shop page,</li>
+		<li>Click Extras,</li>
+		<li>Select your Top Deal</li>
+		<li>... make your order today!</li>
+		</ul>    <br />
+		In comparison to just buying the items in the hangar, when you buy one of these super saving offers, you'll get <span class="breakingNewsHighlightBlue"><b>booty keys and log-disks</b></span> on top! Take action now and get your hands on awesome items all for one blowout price!<br />
+		<b>MOVE FAST:</b> This [DEEPLINK]offer[/DEEPLINK] is available only for a limited time!!]]></item>
+	<item name="breakingNewsFooter_eventBKLFSale"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_eventEEJVSale"><![CDATA[Outta-this-world deals on energy & jump coupons]]></item>
+	<item name="breakingNewsTeaser_eventEEJVSale"><![CDATA[Coupons, coupons, coupons!]]></item>
+	<item name="breakingNewsContent_eventEEJVSale"><![CDATA[Use your head and save today! Top Deals for Extra Energy and Jump Vouchers:<br /><br />
+		<ul>
+		<li>Open shop page,</li>
+		<li>Click Extras,</li>
+		<li>Select your Top Deal</li>
+		<li>... make your order today!</li>
+		</ul><br />
+		You'll get lots more <span class="breakingNewsHighlightBlue"><b>extra energy</b></span> and <span class="breakingNewsHighlightBlue"><b>jump coupons</b></span> with these amazing offers compared to purchasing them normally - all at no charge! The XL offers even contains booty keys!<br />
+		Act now and snag your extra energy and jump coupons for this amazing price!<br />
+		<b>IMPORTANT:</b> This [DEEPLINK]offer[/DEEPLINK] is only available for a limited time!]]></item>
+	<item name="breakingNewsFooter_eventEEJVSale"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_redEnigmaWeekend"><![CDATA[<a href="/indexInternal.es?action=internalGalaxyGates">“Red” Kronos Days Weekend</a>]]></item>
+	<item name="breakingNewsTeaser_redEnigmaWeekend"><![CDATA[Last Chance to get Red Enigma Drone Designs]]></item>
+	<item name="breakingNewsContent_redEnigmaWeekend"><![CDATA[The Carnival may be over but the Evil You in the Kronos gate still has not let go of the Red Enigma Drone Designs!<br /><br />
+	This weekend, starting Friday at midnight and ending on Sunday at 23:59 (Local Server Time), you have the last chance to win one of the awesome DRONELOOKZ™ designs hidden in the Evil You’s stash.]]></item>
+	<item name="breakingNewsFooter_redEnigmaWeekend"><![CDATA[Get your <a href="/indexInternal.es?action=internalGalaxyGates">Kronos Gate parts</a>  and build your gate to face the challenge.]]></item>
+
+	<item name="breakingNewsTitle_asLight"><![CDATA[Title]]></item>
+	<item name="breakingNewsTeaser_asLight"><![CDATA[teaser]]></item>
+	<item name="breakingNewsContent_asLight"><![CDATA[Greetings, pilots!<br /><br />Text]]></item>
+	<item name="breakingNewsFooter_asLight"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_BootyKeyDeal"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockSpecials">Booty Keys Mega Deals</a>]]></item>
+	<item name="breakingNewsTeaser_BootyKeyDeal"><![CDATA[Booty Key Packages save you up to 69%!]]></item>
+	<item name="breakingNewsContent_BootyKeyDeal"><![CDATA[Today is Mega-Discount Day!<br /><br />Head over to the in-game shop to get your mega deal. Save up to 69% on Booty Keys (as compared to the original price)! <br /><br />On offer now:
+		<ul>
+		<li>Booty Key Mega Discount: 60 Keys (63% off)</li>
+		<li>Booty Key Mega Discount L: 185 Keys (save 66%)</li>
+		<li>Booty Key Mega Discount XL: 350 Keys (69% discount)</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_BootyKeyDeal"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockSpecials">Get your Mega Discount now!</a>]]></item>
+
+	<item name="breakingNewsTitle_DoubleXpDay"><![CDATA[<a href="/indexInternal.es?action=internalPayment">Double XP and Honor Day!</a>]]></item>
+	<item name="breakingNewsTeaser_DoubleXpDay"><![CDATA[Get a 24-hour Double XP and Honor Booster with your purchase]]></item>
+	<item name="breakingNewsContent_DoubleXpDay"><![CDATA[Hello Space Pilots!<br /><br />Today for every purchase from Bigpoint Payment equalling 15,000 Uridium, you will enjoy 24 hours of double XP and Honor!
+		The Small Print:
+		<ul>
+			<li>You are not limited to purchasing Uridium: other packages (e.g. subscriptions, starter packages, etc.) are valid for this offer, too.</li>
+			<li>You can earn a maximum of 5 days’ worth of XP/Honor bonuses from today’s purchases.</li>
+			<li>Single purchases worth multiple 15k-Uridium-package-equivalents (e.g. the Daredevil Starter pack or 6 months of Premium), will extend the bonus up to a maximum of 5 days (Daredevil: 3 days; 6 months Premium: 5 days).</li>
+			<li>Bonus does not apply to multiple purchases below the 15k Uridium equivalent mark that are made at different times!</li>
+		</ul>]]></item>
+	<item name="breakingNewsFooter_DoubleXpDay"><![CDATA[<a href="/indexInternal.es?action=internalPayment">Get your bonus now!</a>]]></item>
+
+<!--One Day Sales Events (Bonus Days, Flash Sales, etc.)-->
+<!-- ================================================== -->
+<!--Repeatable events-->
+
+<item name="breakingNewsTitle_ubaRepeatable"><![CDATA[Ultimate Battle Arena is Back!]]></item>
+<item name="breakingNewsTeaser_ubaRepeatable"><![CDATA[Can you become the Arena Champion?]]></item>
+<item name="breakingNewsContent_ubaRepeatable"><![CDATA[It's time to test yourself in the Ultimate Battle Arena. Engage in furious 1 v 1 matches in order to gain Arena points, and earn a spot in the top 50 to be eligible for rewards at the end of the season. The rewards pool has been updated to include the rare ores needed to craft the new powerful Enhanced LF-4s. For a full FAQ, and updated rewards list, please visit your local forum. Do you have what it takes to hold the Arena Gold Title?
+
+	<strong>The summary</strong>
+	<ul>
+	<li>Full FAQ Available in Your Forum</li>
+	<li>BIfenon, Kyhalon, and Tetrathrin in Rewards Pool</li>
+	</UL>]]></item>
+<item name="breakingNewsFooter_ubaRepeatable"><![CDATA[Fortune favors the bold!]]></item>
+
+<item name="breakingNewsTitle_battleInfluenceRepeat"><![CDATA[Battle for Influence]]></item>
+<item name="breakingNewsTeaser_battleInfluenceRepeat"><![CDATA[Faction Wars]]></item>
+<item name="breakingNewsContent_battleInfluenceRepeat"><![CDATA[Join your faction in battle and take on your rivals to find out who is really behind the recent attacks on humanity.<br /><br />Climb the leaderboards and earn valuable rewards for you and your whole faction during DarkOrbit’s Blightstorm: Battle for Influence event!]]></item>
+<item name="breakingNewsFooter_battleInfluenceRepeat"><![CDATA[Your Faction Needs You!]]></item>
+
+<item name="breakingNewsTitle_battleInfluenceEnd_eic"><![CDATA[Bound for Victory]]></item>
+<item name="breakingNewsTeaser_battleInfluenceEnd_eic"><![CDATA[EIC Victorious!]]></item>
+<item name="breakingNewsContent_battleInfluenceEnd_eic"><![CDATA[Brilliant work! We expected nothing less but you’ve really shown the other factions who’s boss. Now we’ll interrogate any captives and see if we can prove they’re to blame for the recent attacks. Meanwhile, keep an eye out for any reprisals.<br /><br /><strong>We’re Bound for Victory!</strong>]]></item>
+<item name="breakingNewsFooter_battleInfluenceEnd_eic"><![CDATA[Earth Triumphs]]></item>
+
+<item name="breakingNewsTitle_battleInfluenceEnd_mmo"><![CDATA[Union is Power]]></item>
+<item name="breakingNewsTeaser_battleInfluenceEnd_mmo"><![CDATA[MMO Victory!]]></item>
+<item name="breakingNewsContent_battleInfluenceEnd_mmo"><![CDATA[Good job pilot, the MMO is delighted with your actions and you’ve certainly shown the enemy forces who’s in charge. While we sift through the wreckage to find evidence of their involvement in heinous crimes we’d like you to keep your eyes peeled for any further threats.<br /><br /><strong>Remember: Union is Power!</strong>]]></item>
+<item name="breakingNewsFooter_battleInfluenceEnd_mmo"><![CDATA[Mars Glory!]]></item>
+
+<item name="breakingNewsTitle_battleInfluenceEnd_vru"><![CDATA[Transform the Future]]></item>
+<item name="breakingNewsTeaser_battleInfluenceEnd_vru"><![CDATA[VRU Wins!]]></item>
+<item name="breakingNewsContent_battleInfluenceEnd_vru"><![CDATA[Nice work my friend. Your actions have caused great celebrations in the VRU command center. Now we’ll check the warzones and see if we can prove the other factions were behind the recent attacks. Keep doing great work out there.
+<br /><br /><strong>Keep Transforming the Future!</strong>]]></item>
+<item name="breakingNewsFooter_battleInfluenceEnd_vru"><![CDATA[Venus Victory!]]></item>
+
+<item name="breakingNewsTitle_dominationReoccuringLive"><![CDATA[Domination!]]></item>
+<item name="breakingNewsTeaser_dominationReoccuringLive"><![CDATA[Bring the galaxy under your control!]]></item>
+<item name="breakingNewsContent_dominationReoccuringLive"><![CDATA[It’s time for a real killer adventure! One that will bring you to the verge of despair.<br /><br />Strengthen the influence of your Company! Prove your superiority! Trust only your comrades and your skills as pilots!<br /><br /><strong>Domination Event</strong>
+<ul>
+<li>Achieve Domination status for your faction by capturing the Domination Beacons on Battle Maps and gaining Domination Points!</li>
+<li>Conquer all Domination Beacons on a Battle Map to build a Clan Battle Station for even more Domination Points!</li>
+<li>Your Company needs 9 Domination Points to dominate the Battle Maps, providing their pilots with massive advantages and great bonuses!</li>
+</ul>]]></item>
+<item name="breakingNewsFooter_dominationReoccuringLive"><![CDATA[Triumph in your Domination!]]></item>
+
+<item name="breakingNewsTitle_dominationReoccuringPre"><![CDATA[Domination!]]></item>
+<item name="breakingNewsTeaser_dominationReoccuringPre"><![CDATA[Domination starts in a week – prepare yourself!]]></item>
+<item name="breakingNewsContent_dominationReoccuringPre"><![CDATA[Times are tough and the Companies rattle their sabers. A new conflict is imminent – seize control!<br /><br />Head into battle. Team up with your comrades and strengthen the power of your Company to gain their trust and glorious riches!]]></item>
+<item name="breakingNewsFooter_dominationReoccuringPre"><![CDATA[Prepare for Domination!]]></item>
+
+<item name="breakingNewsTitle_demanerRepeatable"><![CDATA[Warbond: Demaner]]></item>
+<item name="breakingNewsTeaser_demanerRepeatable"><![CDATA[Authority is Strength!]]></item>
+<item name="breakingNewsContent_demanerRepeatable"><![CDATA[The Ministry returns and the hunt for the Demaner is on once more. Help them gather information to aid their plans as you battle against these new, tougher Demaner.<br /><br />Can the Ministry's message of unity be trusted? Are you read for the challenge? Battle hard to be the best and receive valuable rewards as the future starts to be rewritten in Warbond: Demaner!]]></item>
+<item name="breakingNewsFooter_demanerRepeatable"><![CDATA[Hunt the Demaner]]></item>
+
+<item name="breakingNewsTitle_petsGoneWild"><![CDATA[Rogue P.E.T. Rampage]]></item>
+<item name="breakingNewsTeaser_petsGoneWild"><![CDATA[Tame the Beasts!]]></item>
+<item name="breakingNewsContent_petsGoneWild"><![CDATA[A cyber virus has spread through the companies, causing chaos.
+As you receive emergency transmissions from the EIC, MMO and VRU, it’s up to you to help each organization clear up their mess. Working for the enemy never proved so lucrative.
+Battle through 30 action packed missions, with three brand-new protocols to gain and a host of other prizes to win. It’s time to bring the P.E.T.s back under control!
+]]></item>
+<item name="breakingNewsFooter_petsGoneWild"><![CDATA[Bring them under control!]]></item>
+
+<item name="breakingNewsTitle_pirateRaidSep2017"><![CDATA[Warbond: Pirate Raid]]></item>
+<item name="breakingNewsTeaser_pirateRaidSep2017"><![CDATA[Halt the Uber Raiders.]]></item>
+<item name="breakingNewsContent_pirateRaidSep2017"><![CDATA[It’s time to step up to the mark. Uber pirates have been seen gathering forces in the depth of space and Nyx warns this can mean only one thing. A powerful Pirate Raid!<br /><br />There’s only one thing for it. Arm your ship and prepare for battle as you help Nyx rid the galaxy of this new threat. With fresh rewards, including Enhanced LF-4 ores for each Uber you defeat, there’s no better time to be on the winning side!]]></item>
+<item name="breakingNewsFooter_pirateRaidSep2017"><![CDATA[Standby for Action!]]></item>
+
+
+<!--End of Repeatable events-->
+<!-- ================================================== -->
+<!--Ship and Design Sales-->
+
+	<item name="breakingNewsTitle_surgeonSale"><![CDATA[The Doctor is In – Surgeon Design on Sale!]]></item>
+	<item name="breakingNewsTeaser_surgeonSale"><![CDATA[Medical advice needed? Get the Surgeon design right now!]]></item>
+	<item name="breakingNewsContent_surgeonSale"><![CDATA[Greetings, Pilots!<br /><br />
+		You have not had the chance to get the Surgeon design last weekend? Well, you are lucky. The ship manufacturers have decided to put it on sale this weekend to show gratitude for the overwhelming success of the UBA Expo.<br /><br />
+		Still undecided? Here are the benefits the Surgeon design will provide you:
+		<ul>
+		<li>6% damage bonus</li>
+		<li>6% honor bonus</li>
+		<li>6% XP bonus and</li>
+		<li>1 additional generator slot</li>
+		</ul><br /><br />
+		What are you waiting for? Visit <a href="/indexInternal.es?action=internalDock&tpl=internalDockShipModel">UBA Expo</a> right now. You may also find other interesting items offered for a bargain.]]></item>
+	<item name="breakingNewsFooter_surgeonSale"><![CDATA[Your DarkOrbit Team]]></item>
+
+	<item name="breakingNewsTitle_shipExpoTartarus"><![CDATA[Firepower and Speed: The Tartarus]]></item>
+	<item name="breakingNewsTeaser_shipExpoTartarus"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockShips">This hi-tech assault vessel combines superb firepower and speed</a>]]></item>
+	<item name="breakingNewsContent_shipExpoTartarus"><![CDATA[Greetings, pilots!<br /><br /> Setting out to shake up the ship market, M.A.S.Q.U.E.’s first ship has hit the streets: The Tartarus.<br/><br/>A well-balanced combination of superb firepower and exceptional potential for speed makes this a fine, top-of-the-line Assault vessel.<br/><br/><strong>Tech specs Summary</strong>
+		<ul>
+			<li>Two new special abilities: “Rapid Fire” and “Speed Boost”</li>
+			<li>14 Laser slots, 15 Generator slots</li>
+			<li>260k HP, 220 Speed</li>
+			<li> Pilots with a full matching set of Chimera / Phantom designs will enjoy the Tartarus’ special visual effect. When the Speed Boost is activated, the P.E.T. and Drones dock with your ship.</li>
+		</ul>
+		Available in Hot-Fusion Red (default), Sunburst Orange (option) or Cool Mint (option), the Tartarus adds a missile launcher Rapid-Fire skill and a Speed Boost skill to every gourmet spice… errr… space pilot’s arsenal.]]></item>
+	<item name="breakingNewsFooter_shipExpoTartarus"><![CDATA[Available <a href="/indexInternal.es?action=internalDock&tpl=internalDockShips">now</a>!]]></item>
+
+	<item name="breakingNewsTitle_shipExpoMimesis"><![CDATA[Deceive and Disguise: The Mimesis]]></item>
+	<item name="breakingNewsTeaser_shipExpoMimesis"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockShips">Ideal for long-range scouting missions </a>]]></item>
+		<item name="breakingNewsContent_shipExpoMimesis"><![CDATA[Greetings, pilots!<br /><br /> Fresh from the auto-forges of M.A.S.Q.U.E., the Mimesis offers a hotpot of delicious features: spicy skills and vivid visuals.<br/><br/>The Mimesis is the first choice for long-range scouts: Implementing a state-of-the-art holographic emitter and cleverly rerouting your ship’s energy lines, this ship is M.A.S.Q.U.E.’s reconnaissance specialist.<br/><br/><strong>Tech specs Summary</strong>
+		<ul>
+			<li>Three new special abilities: “Hologram”, “Scramble”, “Phase Out”</li>
+			<li>12 Laser slots, 12 Generator slots</li>
+			<li>225k HP, 360 Speed</li>
+			<li> Full Set effect: Pilots owning a full set of Enigma drone designs and a Mirage P.E.T. designs will enjoy a special ship animation in the 3D version.</li>
+		</ul>
+		Available in Sun-Burst Orange (default), Hot-Fusion Red (option), Cool Mint (option), the Mimesis lets you get in, hide amongst the enemy and get out of harsh situations easily.]]></item>
+	<item name="breakingNewsFooter_shipExpoMimesis"><![CDATA[Available <a href="/indexInternal.es?action=internalDock&tpl=internalDockShips">now</a>!]]></item>
+
+	<item name="breakingNewsTitle_MasqueSaleCustomSet"><![CDATA[Best friends forever!]]></item>
+	<item name="breakingNewsTeaser_MasqueSaleCustomSet"><![CDATA[P.E.T. and Drone design sets available now]]></item>
+	<item name="breakingNewsContent_MasqueSaleCustomSet"><![CDATA[Greetings, pilots!<br /><br />Tastes may vary, but no-one turns down the <a href="/indexInternal.es?action=internalDock&tpl=internalDockCustomization"> well-rounded appearance and utility of a full set of drones</a> paired with their the matching P.E.T. design.<br /><br />As announced during the M.A.S.Q.U.E. SpaceTech Summit, the tiger-orange <strong>Mirage P.E.T. design and Enigma drone design</strong> and the candy-apple red <strong> Chimera P.E.T. and Phantom drone designs</strong> are now available for purchase!<br /><br />Both sets contain 10 drone designs along with the accompanying P.E.T. design.]]></item>
+	<item name="breakingNewsFooter_MasqueSaleCustomSet"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockCustomization">Candy-Apple Red Triangles or Tiger-Orange H-shapes – which will you choose?</a>]]></item>
+
+<!--End of Ship and Design sales-->
+<!-- ========================== -->
+<!--Booty Box Refreshes-->
+
+	<item name="breakingNewsTitle_BlackBooty"><![CDATA[Back in Black!]]></item>
+	<item name="breakingNewsTeaser_BlackBooty"><![CDATA[Limited Offer: Obsidian Booty Boxes with LF-4, Surgeons, Seprom, Booty Keys and more]]></item>
+	<item name="breakingNewsContent_BlackBooty"><![CDATA[All new Obsidian Booty Boxes, filled with spectacular loot, can be opened with matching (craftable) keys:
+			<ul>
+				<li>Ammo: EMP-01</li>
+				<li>Ammo: UBR-100</li>
+				<li>Ammo: UCB-100</li>
+				<li>Booster: DMG-B01</li>
+				<li>Booster: SREG-B01</li>
+				<li>Design: Chimera P.E.T. (blaze)</li>
+				<li>Design: Havoc Drone</li>
+				<li>Design: Phantom Drone (blaze)</li>
+				<li>Extra: CLO4k (10 charges)</li>
+				<li>Extra: Green Booty Keys</li>
+				<li>Extra: Lance Drone Formation</li>
+				<li>Extra: Log Disks</li>
+				<li>Extra: Micro Transistor</li>
+				<li>Extra: Seprom</li>
+				<li>Laser: LF-4</li>
+				<li>Laser: Scatter Laser SL-03</li>
+				<li>Ship: G-Surgeon</li>
+				<li>Ship: Tartarus</li>
+			</ul>
+		You can discover Obsidian Booty Boxes on all normal maps.<br /><br />Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available during the event.]]></item>
+	<item name="breakingNewsFooter_BlackBooty"><![CDATA[Or, grab packs of 5, 12 and 25 keys from the shop, and take full advantage of this fabulous offer.]]></item>
+
+	<item name="breakingNewsTitle_BlackBootyUpdate"><![CDATA[Obsidian is the New Black!]]></item>
+	<item name="breakingNewsTeaser_BlackBootyUpdate"><![CDATA[Limited Offer: Updated Obsidian Booty Boxes with LF-4, Goliath-X packages, Drone formations, Boosters and more]]></item>
+	<item name="breakingNewsContent_BlackBootyUpdate"><![CDATA[Updated Obsidian Booty Boxes, filled with spectacular loot, can be opened with matching (craftable) keys:
+		<ul>
+			<li>EMP-01, UBR-100 and UCB-100 ammo</li>
+			<li>CD-B01, DMG-B01 and SREG-B01 boosters</li>
+			<li>Goliath-X, Blaze Spectrum and Chimera P.E.T. designs</li>
+			<li>Goliath-X, Havoc and Blace Spectrum drone designs</li>
+			<li>Goliath-X and Tartarus ships</li>
+			<li>Zeus drones</li>
+			<li>Laser: LF-4</li>
+			<li>Surgeon, Solace and Venom designs</li>
+			<li>Drill Drone Formation</li>
+			<li>Extra: Green Booty Keys, Log Disks, Seprom</li>
+		</ul>
+	You can discover Obsidian Booty Boxes on all normal maps.<br /><br />
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />
+	To craft 1 key you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available during the event.
+	]]></item>
+	<item name="breakingNewsFooter_BlackBootyUpdate"><![CDATA[Or, get the new Premium and Platinum packs with up to 135 keys from the shop, and take full advantage of this fabulous offer.]]></item>
+
+	<item name="breakingNewsTitle_obsidianMarch"><![CDATA[Back in Black, All-New Loot!]]></item>
+	<item name="breakingNewsTeaser_obsidianMarch"><![CDATA[All-New Ore Pack!]]></item>
+	<item name="breakingNewsContent_obsidianMarch"><![CDATA[The techs are still delivering outstanding quality in the Obsidian Booty boxes. Now, the Obsidian Booty Box has a chance of containing the rare ores Kyhalon, Tetrathrin and Bifenon; so eager pilots have a chance to upgrade their LF-4’s faster!
+	You will find the Obsidian Boxes on all normal maps from X-2 to X-8, including Pirate maps so it’s high time you got on crafting those keys!
+	Availability: 24.03 – 27.03 
+	<ul>
+	<li>Full Loot List Available in Your Forum</li>
+	<li>English Loot List - http://www.bigpoint.com/darkorbit/board/threads/obsidian-booty-boxes-faq.116850/</li>
+	</ul>
+	<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available during the event. Alternatively, packs of 5, 12, and 25 keys are available in the shop.
+	]]></item>
+	<item name="breakingNewsFooter_obsidianMarch"><![CDATA[Come to the dark side]]></item>
+
+	<item name="breakingNewsTitle_BlackBooty1701"><![CDATA[Obsidian is the New Black!]]></item>
+	<item name="breakingNewsTeaser_BlackBooty1701"><![CDATA[Limited Offer: Updated Obsidian Booty Boxes with LF-4, Goliath-X packages, Drone formations, Boosters and more]]></item>
+	<item name="breakingNewsContent_BlackBooty1701"><![CDATA[Updated Obsidian Booty Boxes, filled with spectacular loot, can be opened with matching (craftable) keys:
+		<ul>
+			<li>EMP-01, UBR-100 and UCB-100 ammo</li>
+			<li>CD-B01, DMG-B01 and SREG-B01 boosters</li>
+			<li>Surgeon, Goliath-X, Spectrum and Tartarus ships</li>
+			<li>Spectrum Drone and P.E.T. designs (Blaze)</li>
+			<li>Random Goliath-X Drone and P.E.T. designs (Legend, Ocean, Poison, Sandstorm)</li>
+			<li>Apis and Zeus drones, Havoc drone design</li>
+			<li>Laser: LF-4</li>
+			<li>Surgeon, Solace and Venom designs – including the new Cicada and Locust designs for the Surgeon</li>
+			<li>Drill Drone Formation</li>
+			<li>Extra: Green Booty Keys, Log Disks, Seprom</li>
+		</ul>
+		You can discover Obsidian Booty Boxes on all normal maps.<br /><br />
+		Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />
+		To craft 1 key you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+		Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available during the event.]]></item>
+	<item name="breakingNewsFooter_BlackBooty1701"><![CDATA[Or, get the new Premium and Platinum packs with up to 135 keys from the shop, and take full advantage of this fabulous offer.]]></item>	
+
+	<item name="breakingNewsTitle_obsidianFebruary"><![CDATA[Rise with the Inferno]]></item>
+	<item name="breakingNewsTeaser_obsidianFebruary"><![CDATA[New flaming hot loot in the Obsidian boxes!]]></item>
+	<item name="breakingNewsContent_obsidianFebruary"><![CDATA[You want more, the techs can give you more with a brand new set of Inferno designs in the Obsidian Booty Box.
+		This fire and brimstone skin makes your ship burn with the fire of a Red Giant. Creating a fearsome sight for your foes as you burst from the night sky.
+		The Inferno designs are available in Ambassador, Pusat, Lightning, Sentinel, Spectrum and Venom.
+		All new Obsidian Booty Boxes, filled with spectacular loot, can be opened with matching (craftable) keys:
+		<ul>
+			<li>Ammo: EMP-01</li>
+			<li>Ammo: UBR-100</li>
+			<li>Ammo: UCB-100</li>
+			<li>Booster: DMG-B01</li>
+			<li>Booster: SREG-B01</li>
+			<li>Design: Chimera P.E.T. (blaze)</li>
+			<li>Design: Havoc Drone</li>
+			<li>Design: Phantom Drone (blaze)</li>
+			<li>Extra: CLO4k (10 charges)</li>
+			<li>Extra: Green Booty Keys</li>
+			<li>Extra: Lance Drone Formation</li>
+			<li>Extra: Log Disks</li>
+			<li>Extra: Micro Transistor</li>
+			<li>Extra: Seprom</li>
+			<li>Laser: LF-4</li>
+			<li>Laser: Scatter Laser SL-03</li>
+			<li>Ship: G-Surgeon</li>
+			<li>Ship: Tartarus</li>
+			<li>Design: Ambassador (Inferno) </li>
+			<li>Design: Pusat (Inferno) </li>
+			<li>Design: Lightning (Inferno) </li>
+			<li>Design: Sentinel (Inferno) </li>
+			<li>Design: Spectrum (Inferno) </li>
+			<li>Design: Venom (Inferno) </li>
+			</ul>
+		You can discover Obsidian Booty Boxes on all normal maps.<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available during the event. Or, grab packs of 5, 12 and 25 keys from the shop, and take full advantage of this fabulous offer.]]></item>
+	<item name="breakingNewsFooter_obsidianFebruary"><![CDATA[Start a fire in space!]]></item>
+	
+<item name="breakingNewsTitle_obsidianApril"><![CDATA[Back in Black, All-New Skins! ]]></item>
+<item name="breakingNewsTeaser_obsidianApril"><![CDATA[All-New Rare Skins Package!]]></item>
+<item name="breakingNewsContent_obsidianApril"><![CDATA[The techs are still delivering outstanding quality in the Obsidian Booty boxes, with an all-new Rare and Legendary Skin packages, including Lava designs for the three newest craftable ships: Mimesis, Cyborg, and Hammerclaw.<br /><br />You will find the Obsidian Boxes on all normal maps from X-2 to X-8, including Pirate maps so it’s high time you got on crafting those keys!<br /><br />Availability: 11.04 – 13.04 
+<ul>
+<li>Full Loot List Available in Your Forum</li>
+<li>English Loot List - <a href="http://www.bigpoint.com/darkorbit/board/threads/obsidian-booty-boxes-faq.116850/">http://darkorb.it/...</a></li>
+</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrap), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br />Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available during the event. Alternatively, key packages are available in the shop.]]></item>
+<item name="breakingNewsFooter_obsidianApril"><![CDATA[Unlock the darkness!]]></item>
+
+<item name="breakingNewsTitle_rbUpdateJune2017"><![CDATA[Red and Blue Booty Box Update!]]></item>
+<item name="breakingNewsTeaser_rbUpdateJune2017"><![CDATA[Four new P.E.T. Designs]]></item>
+<item name="breakingNewsContent_rbUpdateJune2017"><![CDATA[<p>Great news, Pilots!</p>
+<p>We've added even more content to the Red and Blue Booty Boxes, feature the usual highly sought items, but adding the Argon Mirage, Argon Cyborg, Argon Hammerclaw and Legend Mirage P.E.T Designs. Another awesome enhancement!</p>
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>
+<p><strong>Red</strong></p>
+<ul>
+<li>10 Scrap</li>
+<li>5 Aurus</li>
+<li>3 Schism</li>
+</ul>
+<p><strong>Blue</strong></p>
+<ul>
+<li>20 Scrap</li>
+<li>10 Aurus</li>
+<li>5 Schism</li>
+</ul>
+<p>The full list of box contents can be found on your forum.</p>
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>]]></item>
+<item name="breakingNewsFooter_rbUpdateJune2017"><![CDATA[Snag some now]]></item>
+
+<item name="breakingNewsTitle_obsidianJune2017"><![CDATA[Obsidian Update]]></item>
+<item name="breakingNewsTeaser_obsidianJune2017"><![CDATA[Six New Ship Designs]]></item>
+<item name="breakingNewsContent_obsidianJune2017"><![CDATA[There's even more to find in Obsidian Booty Boxes. Each filled with spectacular loot and opened with matching (craftable) keys. The six new ship designs are: 
+		<ul>
+			<li>Venom and Solace in Borealis and Poison Designs</li>
+			<li>The rarer Argon Venom and Solace Designs</li>
+		</ul>
+	You can discover Obsidian Booty Boxes on all normal maps.<br /><br />
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />
+	To craft 1 key you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>
+<item name="breakingNewsFooter_obsidianJune2017"><![CDATA[Get Back in Black]]></item>
+
+<item name="breakingNewsTitle_apocBoxJuly2017"><![CDATA[A Fresh Apocalypse!]]></item>
+<item name="breakingNewsTeaser_apocBoxJuly2017"><![CDATA[All New Drone Designs]]></item>
+<item name="breakingNewsContent_apocBoxJuly2017"><![CDATA[We’re delighted to inform you the Apocalypse Box has been refreshed. With all new drone designs!
+Fine pilots will recognize the opportunities every Apocalypse Box contains. With Poison Enigma, Ocean Enigma, Argon Enigma, Argon Hammerclaw and Argon Cyborg drones now available!
+Whether you buy your way to an opportunity or craft the keys yourself. The opportunity is there for the taking! 
+<ul>
+<li>Full Loot List Available in Your Forum</li>
+<li>Keys can be crafted, or purchased in the shop under extras </li>
+</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br />Note: The Assembly recipe, the Apocalypse Booty Boxes, and the Schism drops are only available during the event. Alternatively, packs of 5 to 155 keys are available in the shop.]]></item>
+<item name="breakingNewsFooter_apocBoxJuly2017"><![CDATA[Join the Revolution!]]></item>
+
+<item name="breakingNewsTitle_obsidianAugust2017"><![CDATA[An Obsidian Upgrade]]></item>
+<item name="breakingNewsTeaser_obsidianAugust2017"><![CDATA[Get Back to Black]]></item>
+<item name="breakingNewsContent_obsidianAugust2017"><![CDATA[The Obsidian Booty Boxes have been updated! Each filled with spectacular loot and opened with matching (craftable) microchips. It's an unbeatable opportunity to pick up a Mimesis ship and its designs: 
+		<ul>
+		    <li>Four new Mimesis designs: Poison, Argon, Ocean and Legend!</li>
+			<li>A free Mimesis ship with the purchase of the 71 or 155 microchip packs!</li>
+			<li>Already own the Mimesis? Get a Uridium bonus with the 71 or 155 packs!</li>
+		</ul>
+	You can discover Obsidian Booty Boxes on all normal maps.<br /><br />
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />
+	To craft 1 microchip you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>
+<item name="breakingNewsFooter_obsidianAugust2017"><![CDATA[Refreshed and Enhanced!]]></item>
+
+<item name="breakingNewsTitle_rbAugust2017"><![CDATA[Refreshing Changes for Red and Blue]]></item>
+<item name="breakingNewsTeaser_rbAugust2017"><![CDATA[Enhancing Chance and Quality]]></item>
+<item name="breakingNewsContent_rbAugust2017"><![CDATA[<p>Pilots! We've enhanced the quality of the Red and Blue Booty Boxes</p>
+<p>We've refreshed the Red and Blue Booty Boxes and enhanced the chances of getting the classic ship skins and the general rewards in both. Meaning more relevant content for your exploration and battles across space.With a better chance to get some of these highly saught after items you'd better get crafting those keys, or pick some more up from the shop!</p>
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>
+<p><strong>Red</strong></p>
+<ul>
+<li>10 Scrap</li>
+<li>5 Aurus</li>
+<li>3 Schism</li>
+</ul>
+<p><strong>Blue</strong></p>
+<ul>
+<li>20 Scrap</li>
+<li>10 Aurus</li>
+<li>5 Schism</li>
+</ul>
+<p>The full list of box contents can be found on your forum.</p>
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>]]></item>
+<item name="breakingNewsFooter_rbAugust2017"><![CDATA[What will you find?]]></item>
+
+<item name="breakingNewsTitle_apocBoxSept2017"><![CDATA[A Beautiful Apocalypse]]></item>
+<item name="breakingNewsTeaser_apocBoxSept2017"><![CDATA[Delightful Drones]]></item>
+<item name="breakingNewsContent_apocBoxSept2017"><![CDATA[Give your drones a delightful new look when you unveil one of the awesome drone designs you can find in the September Apocalypse Box. So better go hunting for the boxes and the key components.
+		<ul>
+		    <li>Legend G-Champion and Legend Enigma Drone Designs</li>
+			<li>Lava Cyborg, Lava Enigma, Lava Hammerclaw, Argon G-Champion and Lava G-Champion Drone Designs</li>
+			<li>Silver G-Champion Drone Design</li>
+		</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br /> Alternatively, packs of 5 to 155 keys are available in the shop.<p>The full list of box contents can be found on your forum.</p>]]></item>
+<item name="breakingNewsFooter_apocBoxSept2017"><![CDATA[Get a New Style]]></item>
+
+<item name="breakingNewsTitle_obsidianSept2017"><![CDATA[September's Obsidian Update]]></item>
+<item name="breakingNewsTeaser_obsidianSept2017"><![CDATA[Bet on Black!]]></item>
+<item name="breakingNewsContent_obsidianSept2017"><![CDATA[What surprises do the Obsidian Booty Boxes have this month? Gain the usual treasures by opening with matching (craftable) microchips. With a chance to win the following new prizes:
+		<ul>
+		    <li>Legend G-Champion Design</li>
+			<li>Lava G-Champion Design</li>
+			<li>Argon G-Champion Design</li>
+		</ul>
+	You can discover Obsidian Booty Boxes on all normal maps.<br /><br />
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />
+	To craft 1 microchip you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>
+<item name="breakingNewsFooter_obsidianSept2017"><![CDATA[Hunt them down. Now!]]></item>
+
+<item name="breakingNewsTitle_rbSept2017"><![CDATA[Red and Blue Rejuvenation]]></item>
+<item name="breakingNewsTeaser_rbSept2017"><![CDATA[Promising P.E.T.s]]></item>
+<item name="breakingNewsContent_rbSept2017"><![CDATA[Bring the P.E.T. home when you grab any Red or Blue Booty Boxes in September. With great P.E.T. Designs for you to gain when you crack open one of these crates! You could gain:
+		<ul>
+		    <li>G-Champion Legend P.E.T. Design</li>
+			<li>Lava G-Champion P.E.T. Design</li>
+			<li>Argon G-Champion P.E.T. Design</li>
+<li>Silver G-Champion P.E.T. Design</li>
+		</ul>
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>
+<p><strong>Red</strong></p>
+<ul>
+<li>10 Scrap</li>
+<li>5 Aurus</li>
+<li>3 Schism</li>
+</ul>
+<p><strong>Blue</strong></p>
+<ul>
+<li>20 Scrap</li>
+<li>10 Aurus</li>
+<li>5 Schism</li>
+</ul>
+<p>The full list of box contents can be found on your forum.</p>
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>]]></item>
+<item name="breakingNewsFooter_rbSept2017"><![CDATA[Walking the dog!]]></item>
+
+<item name="breakingNewsTitle_obsidianOct2017"><![CDATA[Score Sentinels Skins with Obsidian]]></item>
+<item name="breakingNewsTeaser_obsidianOct2017"><![CDATA[A slew of Sentinels]]></item>
+<item name="breakingNewsContent_obsidianOct2017"><![CDATA[This month’s Obsidian Box has the sense of the sentinel, with three new Sentinel skins to win. You gain a selection of treasures when you open an Obsidian Box with the matching microchips. With a chance to win the following new prizes:
+		<ul>
+		    <li>Lava Sentinel Design</li>
+			<li>Argon Sentinel Design</li>
+			<li>Legend Sentinel Design</li>
+		</ul>
+	You can discover Obsidian Booty Boxes on all normal maps and you can craft the Microchips too!<br /><br />
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />
+	To craft 1 microchip you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>
+<item name="breakingNewsFooter_obsidianOct2017"><![CDATA[Get Obsidian Now!]]></item>
+
+<item name="breakingNewsTitle_apocBoxOct2017"><![CDATA[Sentinels of the Apocalypse]]></item>
+<item name="breakingNewsTeaser_apocBoxOct2017"><![CDATA[Drone Skin Delight]]></item>
+<item name="breakingNewsContent_apocBoxOct2017"><![CDATA[With October, we’ve added some guardian skins to the Apocalypse Box. So now’s your chance to get three all-new Sentinel drone skins when you open a box. With craftable keys what’s stopping you going to get some!
+		<ul>
+		    <li>Lave Drone Sentinel</li>
+			<li>Argon Drone Sentinel</li>
+			<li>Legend Drone Sentinel</li>
+		</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br /> Alternatively, packs of 5 to 155 keys are available in the shop.<p>The full list of box contents can be found on your forum.</p>]]></item>
+<item name="breakingNewsFooter_apocBoxOct2017"><![CDATA[Delight in Drones]]></item>
+
+<item name="breakingNewsTitle_rbOct2017"><![CDATA[A Red and Blue Refresh]]></item>
+<item name="breakingNewsTeaser_rbOct2017"><![CDATA[Please the P.E.T.s]]></item>
+<item name="breakingNewsContent_rbOct2017"><![CDATA[Get a chance to win all new Sentinel P.E.T. skins when you open the Red and Blue Booty Boxes. With all the great opportunities to get great stuff and chances to win:
+		<ul>
+		    <li>Lava P.E.T. Sentinel</li>
+			<li>Argon P.E.T. Sentinel</li>
+			<li>Legend P.E.T. Sentinel</li>
+		</ul>
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>
+<p><strong>Red</strong></p>
+<ul>
+<li>10 Scrap</li>
+<li>5 Aurus</li>
+<li>3 Schism</li>
+</ul>
+<p><strong>Blue</strong></p>
+<ul>
+<li>20 Scrap</li>
+<li>10 Aurus</li>
+<li>5 Schism</li>
+</ul>
+<p>The full list of box contents can be found on your forum.</p>
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>]]></item>
+<item name="breakingNewsFooter_rbOct2017"><![CDATA[Good Luck!]]></item>
+
+<item name="breakingNewsTitle_apocBoxNov2017"><![CDATA[Discover Drone Designs]]></item>
+<item name="breakingNewsTeaser_apocBoxNov2017"><![CDATA[Desire those Drones]]></item>
+<item name="breakingNewsContent_apocBoxNov2017"><![CDATA[Give 'em a fresh look. The Apoc Box has a fresh set of Diminisher Drone Designs to win, as well as all the usual designs. Now including: 
+		<ul>
+		    <li>Argon Diminisher Drone Design</li>
+			<li>Lava Diminisher Drone Design</li>
+			<li>Legend Diminisher Drone Design</li>
+		</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br /> Alternatively, packs of 5 to 155 keys are available in the shop.<p>The full list of box contents can be found on your forum.</p>]]></item>
+<item name="breakingNewsFooter_apocBoxNov2017"><![CDATA[Delightful Diminishers]]></item>
+
+<item name="breakingNewsTitle_apocBoxDec2017"><![CDATA[Drone Dividend ]]></item>
+<item name="breakingNewsTeaser_apocBoxDec2017"><![CDATA[Apocalypse Alert! ]]></item>
+<item name="breakingNewsContent_apocBoxDec2017"><![CDATA[Bring in the season with the all-new Apoc Box, now with the added Goliath-X Designs. A set of classic skins for this premium vessel. As well as all the usual designs the Apoc Box also holds:
+		<ul>
+		    <li>Argon Goliath-X Drone Design</li>
+			<li>Lava Goliath-X Drone Design</li>
+			<li>Legend Goliath-X Drone Design</li>
+		</ul>
+<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br /> Alternatively, packs of 5 to 155 keys are available in the shop.<p>The full list of box contents can be found on your forum. ]]></item>
+<item name="breakingNewsFooter_apocBoxDec2017"><![CDATA[Grand Goliaths! ]]></item>
+
+<item name="breakingNewsTitle_obsidianNov2017"><![CDATA[Pick Obsidian]]></item>			
+<item name="breakingNewsTeaser_obsidianNov2017"><![CDATA[Diminish the Odds]]></item>			
+<item name="breakingNewsContent_obsidianNov2017"><![CDATA[Be one with the times with some tasty treats, as the Obsidian Box adds all-new Diminisher skins.  Each box contains a treat. With a chance to win the following new prizes:			
+		<ul>	
+			    <li>Lava Diminisher Ship Design</li>
+			    <li>Argon Diminisher Ship Design</li>
+			    <li>Legend Diminisher Ship Design</li>
+		</ul>	
+	You can discover Obsidian Booty Boxes on all normal maps and you can craft the Microchips too!<br /><br />		
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />	
+To craft 1 microchip you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>	
+<item name="breakingNewsFooter_obsidianNov2017"><![CDATA[Sweet Obsidian]]></item>			
+			
+<item name="breakingNewsTitle_rbNov2017"><![CDATA[Better By Far!]]></item>			
+<item name="breakingNewsTeaser_rbNov2017"><![CDATA[Super P.E.T. Skins]]></item>			
+<item name="breakingNewsContent_rbNov2017"><![CDATA[Be first to get one of the amazing Diminisher P.E.T. skins from  Red and Blue Booty. Each box giving a great opportunity to grab great goodies:			
+		<ul>	
+			    <li>Lava Diminisher P.E.T. Designs</li>
+			    <li>Argon Diminisher P.E.T. Designs</li>
+			    <li>Legend Diminisher P.E.T. Designs</li>
+		</ul>	
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>			
+<p><strong>Red</strong></p>			
+<ul>			
+<li>10 Scrap</li>			
+<li>5 Aurus</li>			
+<li>3 Schism</li>			
+</ul>			
+<p><strong>Blue</strong></p>			
+<ul>			
+<li>20 Scrap</li>			
+<li>10 Aurus</li>			
+<li>5 Schism</li>			
+</ul>			
+<p>The full list of box contents can be found on your forum.</p>			
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>			
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>]]></item>			
+<item name="breakingNewsFooter_rbNov2017"><![CDATA[Grab the Best!]]></item>			
+			
+<item name="breakingNewsTitle_obsidianDec2017"><![CDATA[Time for Obsidian]]></item>			
+<item name="breakingNewsTeaser_obsidianDec2017"><![CDATA[Damned Good Designs]]></item>			
+<item name="breakingNewsContent_obsidianDec2017"><![CDATA[This season the Obsidian Box reveals some Goliath-X goodness, as the Obsidian Box adds classic new skins.  Each box contains a treat. With a chance to win the following new prizes:			
+		<ul>	
+			    <li>Legend Tartarus Ship Design</li>
+			    <li>Argon Goliath-X Ship Design</li>
+			    <li>Lava Mimesis Ship Design</li>
+		</ul>	
+	You can discover Obsidian Booty Boxes on all normal maps and you can craft the Microchips too!<br /><br />		
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />		
+	To craft 1 microchip you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>
+<item name="breakingNewsFooter_obsidianDec2017"><![CDATA[Black Sheep are Better!]]></item>			
+			
+<item name="breakingNewsTitle_rbDec2017"><![CDATA[The Petting Place]]></item>			
+<item name="breakingNewsTeaser_rbDec2017"><![CDATA[Produce for P.E.T.s]]></item>			
+<item name="breakingNewsContent_rbDec2017"><![CDATA[With a chance to win the amazing Goliath-X P.E.T. skins, Red and Blue Booty are the place to go. Each box has a chance to win a skin or other super surprises!			
+		<ul>	
+			    <li>Lava Diminisher and Goliath-X P.E.T. Designs</li>
+			    <li>Argon Diminisher and Goliath-X P.E.T. Designs</li>
+			    <li>Legend Diminisher and Goliath-X P.E.T. Designs</li>
+		</ul>	
+<p>The Booty Boxes can be found on the maps and Red and Blue keys can be crafted in the assembly using the following items:</p>			
+<p><strong>Red</strong></p>			
+<ul>			
+<li>10 Scrap</li>			
+<li>5 Aurus</li>			
+<li>3 Schism</li>			
+</ul>			
+<p><strong>Blue</strong></p>			
+<ul>			
+<li>20 Scrap</li>			
+<li>10 Aurus</li>			
+<li>5 Schism</li>			
+</ul>			
+<p>The full list of box contents can be found on your forum.</p>			
+<p>Scrap can be found from Saimon and Mordon, Aurus can be found from all pirate NPC and Schism in GG rewards.</p>			
+<p>But also, you can buy packs of various amounts of keys in the Shop, under Extras.</p>]]></item>			
+<item name="breakingNewsFooter_rbDec2017"><![CDATA[Better by Far]]></item>			
+
+<item name="breakingNewsTitle_apocBoxJan2018"><![CDATA[Drone Desires]]></item>
+<item name="breakingNewsTeaser_apocBoxJan2018"><![CDATA[Another Apocalypse]]></item>
+<item name="breakingNewsContent_apocBoxJan2018"><![CDATA[Celebrate the New Year with a classic set of Drone Desigsn in the Apoc Box. With many legend and rare designs to get!<br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft 1 key you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br /> Alternatively, packs of 5 to 155 keys are available in the shop.<p>The full list of box contents can be found on your forum.]]></item>
+<item name="breakingNewsFooter_apocBoxJan2018"><![CDATA[Get lucky!]]></item>
+
+<item name="breakingNewsTitle_rbJan2018"><![CDATA[Classic Red and Blue]]></item>
+<item name="breakingNewsTeaser_rbJan2018"><![CDATA[P.E.T. Treats]]></item>
+<item name="breakingNewsContent_rbJan2018"><![CDATA[Get in the New Year spirit, with a chance to gain a rare or legendary P.E.T. Design with Red and Blue Booty! Each one giving you a chance to win a new skin or other great rewards.<br /><br /><br /><br />Crafting materials are available as drops from Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />To craft <strong>1 Red key</strong> you need 10 Scrap, 5 Aurus and 3 Schism.<br /><br /> <br /><br />To craft <strong>1 Blue key</strong> you need 20 Scrap, 10 Aurus and 5 Schism.<br /><br /> Alternatively, packs of keys are available in the shop, under Extras.<p>The full list of box contents can be found on your forum.]]></item>
+<item name="breakingNewsFooter_rbJan2018"><![CDATA[Classic Designs]]></item>
+
+<item name="breakingNewsTitle_obsidianJan2018"><![CDATA[Obsidian Designs]]></item>
+<item name="breakingNewsTeaser_obsidianJan2018"><![CDATA[Engaging Skins]]></item>
+<item name="breakingNewsContent_obsidianJan2018"><![CDATA[With the New Year we've got some classic designs in the Obsidian Box. With a selection of other great prizes to win too.<br /><br />You can discover Obsidian Booty Boxes on all normal maps and you can craft the Microchips too!<br /><br />		
+	Crafting materials are available as drops from all types of Saimon and Mordon (Scrapium), Pirate NPCs from Interceptors to Battle Rays (Aurus) and guaranteed rewards for all GGs (Schism).<br /><br />		
+	To craft 1 microchip you need 20 Scrapium, 10 Aurus and 5 Schism.<br /><br />
+	Note: The Assembly recipe, the Obsidian Booty Boxes and the Schism drops are only available for a limited period so hunt them down now!]]></item>
+<item name="breakingNewsFooter_obsidianJan2018"><![CDATA[A different guise!]]></item>
+
+
+<!--End of Booty Box Refreshes-->
+<!-- =================== -->
+<!--Reworked Sale BNs-->
+
+<item name="breakingNewsTitle_newGgWknd1"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+<item name="breakingNewsTeaser_newGgWknd1"><![CDATA[Exciting Galaxy Gate action with even more rewards!]]></item>
+<item name="breakingNewsContent_newGgWknd1"><![CDATA[Our techs have found a way to conjure up extra rewards from 4 different Galaxy Gates. It only lasts for 24 hours and they are never quite sure exactly what the extra rewards will be until some brave pilots complete the gates and report back.<br /><br />
+Do you have what it takes to complete one of these gates, and help our researchers find ways to grant even better rewards?  You have until midnight tonight!<br /><br />
+<ul>
+<li><strong>Delta Gate: Ship Design Package</strong></li>
+<li><strong>Epsilon Gate: Collector's Joy - Chimera and Phantom</strong></li>
+<li><strong>Streuner Gate: Goliath Surprise Pack</strong></li>
+<li><strong>Lambda Gate: Collector's Joy - Mirage and Enigma</strong></li>
+</ul>
+<strong>Package Contents</strong>
+You have a chance to win <strong>one</strong> of the following rewards from the corresponding package:
+<ul>
+<li><strong>Ship Design Package</strong>: One LF-4 or 10,000 UCB-100</li>
+<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+<li><strong>Collector's Joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+<li><strong>Collector's Joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange drone designs</li>
+<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that should you already own one of these, you will not receive a duplicate identical design.) </li>
+</ul>]]></item>
+<item name="breakingNewsFooter_newGgWknd1"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Get the most out of Galaxy Gates!</a>.]]></item>
+
+<item name="breakingNewsTitle_newGgWknd2"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+<item name="breakingNewsTeaser_newGgWknd2"><![CDATA[Exciting Galaxy Gate action with even more rewards!]]></item>
+<item name="breakingNewsContent_newGgWknd2"><![CDATA[Our techs have found a way to conjure up extra rewards from 4 different Galaxy Gates. It only lasts for 24 hours and they are never quite sure exactly what the extra rewards will be until some brave pilots complete the gates and report back.<br /><br />
+Do you have what it takes to complete one of these gates, and help our researchers find ways to grant even better rewards?  You have until midnight tonight!<br /><br />
+<ul>
+<li><strong>Delta Gate: Goliath Surprise Pack</strong></li>
+<li><strong>Epsilon Gate: Awesome Drones</strong></li>
+<li><strong>Streuner Gate: Ship Design Package</strong></li>
+<li><strong>Lambda Gate: Collector's Joy - Chimera and Phantom</strong></li>
+</ul>
+<strong>Package Contents</strong>
+You have a chance to win <strong>one</strong> of the following rewards from the corresponding package:
+<ul>
+<li><strong>Ship Design Package</strong>: One LF-4 or 10,000 UCB-100</li>
+<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+<li><strong>Collector's Joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+<li><strong>Collector's Joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange drone designs</li>
+<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that if you already own one of these, you will not receive a duplicate identical design.) </li>
+</ul>]]></item>
+<item name="breakingNewsFooter_newGgWknd2"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Get the most out of Galaxy Gates!</a>.]]></item>
+
+<item name="breakingNewsTitle_newGgWknd3"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+<item name="breakingNewsTeaser_newGgWknd3"><![CDATA[Exciting Galaxy Gate action with even more rewards!]]></item>
+<item name="breakingNewsContent_newGgWknd3"><![CDATA[Our techs have found a way to conjure up extra rewards from 4 different Galaxy Gates. It only lasts for 24 hours and they are never quite sure exactly what the extra rewards will be until some brave pilots complete the gates and report back.<br /><br />
+Do you have what it takes to complete one of these gates, and help our researchers find ways to grant even better rewards?  You have until midnight tonight!<br /><br />
+<ul>
+<li><strong>Delta Gate: Awesome Drones</strong></li>
+<li><strong>Epsilon Gate: Goliath Surprise Pack</strong></li>
+<li><strong>Streuner Gate: Collector's Joy - Chimera and Phantom</strong></li>
+<li><strong>Lambda Gate: Collector's Joy - Mirage and Enigma</strong></li>
+</ul>
+<strong>Package Contents</strong>
+You have a chance to win <strong>one</strong> of the following rewards from the corresponding package:
+<ul>
+<li><strong>Ship Design Package</strong>: One LF-4 or 10,000 UCB-100</li>
+<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+<li><strong>Collector's Joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+<li><strong>Collector's Joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange drone designs</li>
+<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that if you already own one of these, you will not receive a duplicate identical design.) </li>
+</ul>]]></item>
+<item name="breakingNewsFooter_newGgWknd3"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Get the most out of Galaxy Gates!</a>.]]></item>
+
+<item name="breakingNewsTitle_newGgWknd4"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Galaxy Gate Special Rewards Weekend!</a>]]></item>
+<item name="breakingNewsTeaser_newGgWknd4"><![CDATA[Exciting Galaxy Gate action with even more rewards!]]></item>
+<item name="breakingNewsContent_newGgWknd4"><![CDATA[Our techs have found a way to conjure up extra rewards from 4 different Galaxy Gates. It only lasts for 24 hours and they are never quite sure exactly what the extra rewards will be until some brave pilots complete the gates and report back.<br /><br />
+Do you have what it takes to complete one of these gates, and help our researchers find ways to grant even better rewards?  You have until midnight tonight!<br /><br />
+<ul>
+<li><strong>Delta Gate: Collector's Joy</strong> - Chimera and Phantom</li>
+<li><strong>Epsilon Gate: Collector's Joy</strong> - Mirage and Enigma</li>
+<li><strong>Streuner Gate: Awesome Drones</strong></li>
+<li><strong>Lambda Gate: Collector's Joy</strong> - Chimera and Phantom</li>
+</ul>
+<strong>Package Contents</strong>
+You have a chance to win <strong>one</strong> of the following rewards from the corresponding package:
+<ul>
+<li><strong>Ship Design Package</strong>: One LF-4 or 10,000 UCB-100</li>
+<li><strong>Awesome Drones</strong>: Havoc, Hercules, Elite Demon, or Silver Demon drone design</li>
+<li><strong>Collector's Joy - Chimera and Phantom</strong>: One Chimera or Phantom drone design (in either red, orange or green), or a pack of 10 Red Phantom + 1 Red Chimera designs</li>
+<li><strong>Collector's Joy - Mirage and Enigma</strong>: One Mirage or Enigma drone design (in either red, orange or green), or a pack of 10 Orange Enigma + 1 Orange drone designs</li>
+<li><strong>Goliath Surprise Pack</strong>: One Centaur, Peacemaker, Sovereign, Vanquisher, or Surgeon Goliath design. (Please keep in mind that if you already own one of these, you will not receive a duplicate identical design.) </li>
+</ul>]]></item>
+<item name="breakingNewsFooter_newGgWknd4"><![CDATA[<a href="/indexInternal.es??action=internalDock&tpl=internalGalaxyGates">Get the most out of Galaxy Gates!</a>.]]></item>
+
+<item name="breakingNewsTitle_newGgDblRewards"><![CDATA[<b>Double Rewards for all Galaxy Gates</b>]]></item>
+<item name="breakingNewsTeaser_newGgDblRewards"><![CDATA[Double up your reward for completing any GG today!]]></item>
+<item name="breakingNewsContent_newGgDblRewards"><![CDATA[Our techs have unlocked a way to get more than ever upon completion of any Galaxy Gate. The window is limited, so it only lasts until midnight. Take advantage, complete some gates, and double your loot right now!]]></item>
+<item name="breakingNewsFooter_newGgDblRewards"><![CDATA[Rewards are great, doubling them is even better!]]></item>
+
+<item name="breakingNewsTitle_newBestSubs"><![CDATA[<b>Discounted Premium and Bonus Box Doublers All Day</b>]]></item>
+<item name="breakingNewsTeaser_newBestSubs"><![CDATA[HUGE savings if you purchase today! ]]></item>
+<item name="breakingNewsContent_newBestSubs"><![CDATA[Amazing deals on Premium packages and Bonus Box Doublers for a limited time. Bring your game to the next level and visit the shop right now to see which deal is right for you!]]></item>
+<item name="breakingNewsFooter_newBestSubs"><![CDATA[Visit the shop to learn more about the Premium perks!]]></item>
+
+<item name="breakingNewsTitle_newXsr"><![CDATA[You vs. The Galaxy]]></item>
+<item name="breakingNewsTeaser_newXsr"><![CDATA[Big Battles and Epic Missions await in Refractions!]]></item>
+<item name="breakingNewsContent_newXsr"><![CDATA[P G Harris (PhD) has discovered a way to stabilize the newly discovered region of space called Refractions. Journey inside to engage pilots from every corner of the galaxy in brutal combat or demonstrate your skill in some epic missions. 
+Look for the Triangular logo in the game to test your skills! 
+<ul>
+<li>Engage pilots from every server on a neutral field</li>
+<li>Quests are now permanently available</li>
+</ul>]]></item>
+<item name="breakingNewsFooter_newXsr"><![CDATA[Consult your local forum for a full FAQ. Teach the universe to fear your name.]]></item>
+
+<item name="breakingNewsTitle_newSocialChannels"><![CDATA[Join the Extended DarkOrbit Universe!]]></item>
+<item name="breakingNewsTeaser_newSocialChannels"><![CDATA[Interact with pilots from all over the globe!]]></item>
+<item name="breakingNewsContent_newSocialChannels"><![CDATA[Join the ranks of our extensive network of pilots and get first access to all things DO. Jump on our Discord server for a chance to chat live with other players and members of the development team. 
+<ul>
+<li><b>Discord -</b><a href="https://discord.gg/TBdPjur">One of us, one of us</a></li>
+<li><b>Facebook -</b><a href=" https://www.facebook.com/darkorbit/ ">Join Now</a></li>
+<li><b>YouTube -</b><a href="https://www.youtube.com/channel/UCsg9mtaQa9KI9RAg3B3BhYA ">Hit subscribe</a></li>
+<li><b>Twitter -</b><a href="https://twitter.com/darkorbit?lang=en">@darkorbit</a></li>
+<li><b>Twitch -</b><a href="https://www.twitch.tv/darkorbit">Live Streams</a></li>
+</ul>]]></item>
+<item name="breakingNewsFooter_newSocialChannels"><![CDATA[Don’t forget to also check out your local forum. See you in Orbit!]]></item>
+
+<!--End of Reworked Sale BNs-->
+<!-- =================== -->
+<!--Unsorted and Miscellaneous-->
+
+<item name="breakingNewsTitle_permPremiumAdvantages"><![CDATA[All the Essentials in one Premium Pack]]></item>
+<item name="breakingNewsTeaser_permPremiumAdvantages"><![CDATA[Be Premium! Essential for ambitious pilots looking to triumph over all of deep space!]]></item>
+<item name="breakingNewsContent_permPremiumAdvantages"><![CDATA[Greetings, pilots!<br /><br />Do the next step in your space pilot career and join the exclusive circle of Premium subscribers.<br /><br />
+	[DEEPLINK]Upgrade your account to Premium[/DEEPLINK] status to take advantage of these incredible perks:<br /><br />
+	<ul>
+	<il>Free ship repairs anywhere!</il>
+	<il>Free P.E.T. repairs!</il>
+	<il>50% off drone repairs!</il>
+	<il>50% shorter rocket reload time!</il>
+	<il>5% off all Uridium items!</il>
+	<il>5-second logout!</il>
+	<il>+100% repair robot efficiency!</il>
+	<il>Automatic resource refining!</il>
+	<il>Access to all radar CPU advantages!</il>
+	<il>500 extra units of cargo space!</il>
+	<il>2 additional Action Bars!</il>
+	</ul>]]></item>
+<item name="breakingNewsFooter_permPremiumAdvantages"><![CDATA[Your DarkOrbit Team]]></item>
+
+<item name="breakingNewsTitle_seasonMarch2016"><![CDATA[UBA Season Start]]></item>
+<item name="breakingNewsTeaser_seasonMarch2016"><![CDATA[New Season – New Challenges – New Rewards]]></item>
+<item name="breakingNewsContent_seasonMarch2016"><![CDATA[Greetings, pilots!<br /><br />
+	Today the latest UBA season has started!
+	Join the challenge and defeat as many enemies in the UBA PvP arena and place yourself amongst the top 3 ranked players to win these valuable prizes:
+	<ol>
+	<li>1st Place</li>
+	<ul>
+	<li>10 Blue Skull drone designs</li>
+	<li>10 Red Skull drone designs</li>
+	<li>10 Green Skull drone designs</li>
+	</ul>
+	<li>2nd Place</li>
+	<ul>
+	<li>5 Blue Skull drone designs</li>
+	<li>5 Red Skull drone designs</li>
+	<li>5 Green Skull drone designs</li>
+	</ul>
+	<li>3rd Place</li>
+	<ul>
+	<li>2 Blue Skull drone designs</li>
+	<li>2 Red Skull drone designs</li>
+	<li>2 Green Skull drone designs</li>
+	</ul>
+	</ol>
+	For more information on the UBA seasons, the awarded titles and the regular prizes for place 1-50, please check the <a href="http://www.bigpoint.com/darkorbit/board/threads/105632/">UBA Seasons FAQ on the DarkOrbit Forums</a>.]]></item>
+<item name="breakingNewsFooter_seasonMarch2016"><![CDATA[Good Hunting, Pilot!]]></item>
+
+<item name="breakingNewsTitle_MasqueSaleRBBooty"><![CDATA[Red and Blue Booty Key Sale]]></item>
+<item name="breakingNewsTeaser_MasqueSaleRBBooty"><![CDATA[<a href="/indexInternal.es?action=internalDock&tpl=internalDockSpecials">Save <strong>30%</strong> on your Booty Key purchase now</a>]]></item>
+<item name="breakingNewsContent_MasqueSaleRBBooty"><![CDATA[Greetings, pilots!<br /><br />
+	Today you can save big.<br /><br />
+	<a href="/indexInternal.es?action=internalDock&tpl=internalDockSpecials">Get all regular and XL Red <strong>and</strong> Blue Booty Key packages for 30% less</a>.]]></item>
+<item name="breakingNewsFooter_MasqueSaleRBBooty"><![CDATA[Check out the offers in the Shop now.]]></item>
+
+<item name="breakingNewsTitle_priceIncreaseSales"><![CDATA[Get Ready for Action!]]></item>
+<item name="breakingNewsTeaser_priceIncreaseSales"><![CDATA[Special package sale from September 13th to 15th 2016]]></item>
+<item name="breakingNewsContent_priceIncreaseSales"><![CDATA[Attention Space Pilots!<br /><br />Battling hordes of vicious enemies quickly drains your ammunition and depletes your defenses. Give yourself the fighting edge, with our selection of excellent packs.<br /><br />Available now! 
+	<strong>Parasite Pack</strong>
+			<ul>
+				<li>2000x PIB-100</li>
+				<li>2000x RSB-75</li>
+				<li>2x DMG-BO2</li>
+				<li>20x ACM-1</li>
+			</ul>
+		<strong>Anti-Poison Pack</strong>
+			<ul>
+				<li>2x ANTI-Z1XL</li>
+				<li>2x SHD-BO2</li>
+				<li>100x EMP-01</li>
+				<li>2x CLO4K</li>
+			</ul>
+		<strong>Poison Pack</strong>
+			<ul>
+				<li>40x R-IC3</li>
+				<li>40x DCR-250</li>
+				<li>100x SLM-01</li>
+				<li>20x IM-01</li>
+				<li>2x CLO4K-XL</li>
+			</ul>
+		<strong>Deluxe Pack</strong>
+			<ul>
+				<li>10000x PIB-100</li>
+				<li>200x DCR-250</li>
+				<li>200x R-IC3</li>
+				<li>200x IM-01</li>
+				<li>4x CLO4K-XL</li>
+				<li>20x ANTI-Z1X1</li>
+				<li>100x EMP-01</li>
+			</ul>
+		<strong>Level-up Booster pack</strong>
+			<ul>
+				<li>1x 50% Honor booster - 10 hours</li>
+				<li>1x 50% Exp booster - 10 hours</li>
+			</ul>
+		<strong>Level-up Booster pack Pro</strong>
+			<ul>
+				<li>1x 50% Honor booster - 24 hours</li>
+				<li>1x 50% Exp booster - 24 hours</li>
+				<li>1x Honor booster 01 - 10 hours</li>
+				<li>1x Honor booster 02 - 10 hours</li>
+				<li>1x Exp booster 01 - 10 hours</li>
+				<li>1x Exp booster 02 - 10 hours</li>
+			</ul>
+		<strong>Level-up Booster pack Deluxe</strong>
+			<ul>
+				<li>1x 50% Honor booster - 24 hours</li>
+				<li>1x 50% Exp booster - 24 hours</li>
+				<li>1x Honor booster 01 - 10 hours</li>
+				<li>1x Honor booster 02 - 10 hours</li>
+				<li>1x Exp booster 01 - 10 hours</li>
+				<li>1x Exp booster 02 - 10 hours</li>
+				<li>1 week Advantage pack</li>
+			</ul>
+	Fight valiantly!]]></item>
+<item name="breakingNewsFooter_priceIncreaseSales"><![CDATA[Offer available on Russian Instances 1-6 only.]]></item>
+
+<item name="breakingNewsTitle_HitacAssault"><![CDATA[Hitac Assault]]></item>
+<item name="breakingNewsTeaser_HitacAssault"><![CDATA[Evict Aliens!]]></item>
+<item name="breakingNewsContent_HitacAssault"><![CDATA[The Hitac return to human space and the alien hordes seem to have come on their heels. Causing chaos to human space. Convince them all to move on and make way for humanity. Through direct action or with a selection of challenging missions for HULL.<br /><br />An epic challenge awaits!]]></item>
+<item name="breakingNewsFooter_HitacAssault"><![CDATA[Hitac where it hurts!]]></item>
+
+<item name="breakingNewsTitle_newBootyKeyPackages"><![CDATA[Bountiful Booty Boxes]]></item>
+<item name="breakingNewsTeaser_newBootyKeyPackages"><![CDATA[Ten times the Booty!]]></item>
+<item name="breakingNewsContent_newBootyKeyPackages"><![CDATA[You love finding Booty Boxes! So we’ve permanently increased the number across all maps by up to 1000%.<br /><br />That means ten times the booty and ample opportunities to get more illustrious loot.<br /><br />What about the keys? Well, we’re also adding bumper packs of keys with massive reductions of 75 to 80% against the regular basic package.
+	<ul>
+		<li>Green booty keys now available in packs of 1,320 and 5,000 keys</li>
+		<li>Red booty keys are made available in chunks of 300 and 1,000 keys</li>
+		<li>Blue booty keys will be offered with 200 and 660 keys per package</li>
+		<li>M.A.S.Q.U.E. keys can be purchased in packs of 1,320 and 5,000 keys</li>
+	</ul>]]></item>
+<item name="breakingNewsFooter_newBootyKeyPackages"><![CDATA[<strong>Note</strong>: Red, blue and M.A.S.Q.U.E. key packages will be on offer during the corresponding events.]]></item>
+
+<item name="breakingNewsTitle_newHardwarePackages"><![CDATA[Hunger for Hardware? Great New Packs Added!]]></item>
+<item name="breakingNewsTeaser_newHardwarePackages"><![CDATA[New “Engineers” packs fulfil all your crafting desires.]]></item>
+<item name="breakingNewsContent_newHardwarePackages"><![CDATA[Assembly manufacture is where it’s at! As more recipes are added, collecting resources has become the new recreation of all the finest pilots. To honor this desire we’ve added some valuable new Hardware packs to the payment section.<br /><br />In addition to the existing “Component” and the “Starter Hardware” package, we now offer: <br /><br /><strong>The “A1 Engineers” Pack</strong>
+	<ul>
+		<li>High-Frequency Cable x15</li>
+		<li>Nano Case x10</li>
+		<li>Prismatic Socket x10</li>
+		<li>Nano Condenser x8</li>
+		<li>Hybrid Processor x6</li>
+		<li>Micro-transistors x6</li>
+	</ul>
+		<strong>The “Ace Engineers” Pack</strong>
+	<ul>
+		<li>High-Frequency Cable x30</li>
+		<li>Nano Case x15</li>
+		<li>Prismatic Socket x15</li>
+		<li>Nano Condenser x15</li>
+		<li>Hybrid Processor x15</li>
+		<li>Micro-transistors x15</li>
+	</ul>]]></item>
+<item name="breakingNewsFooter_newHardwarePackages"><![CDATA[Happy Crafting!]]></item>
+
+<item name="breakingNewsTitle_UBAMatch2016"><![CDATA[Ultimate Battle Arena – Matchmaking Update]]></item>
+<item name="breakingNewsTeaser_UBAMatch2016"><![CDATA[We’ve tweaked the Ultimate Battle Arena Matchmaking so you can fight more fairly!]]></item>
+<item name="breakingNewsContent_UBAMatch2016"><![CDATA[Greetings Ace Pilots!<br /><br />We’ve tweaked the Ultimate Battle Arena (UBA) Matchmaking so you can fight more fairly!<br /><br />Now the equipment installed in your ships slots plays a significant role in deciding who you'll be matched against. <br /><br />The system also reduces the chance of being matched against the same opponent, multiple times in a row. Giving you a diverse array of different opponents to challenge you in the UBA.]]></item>
+<item name="breakingNewsFooter_UBAMatch2016"><![CDATA[Show the others who’s the boss of the arena!]]></item>
+
+<item name="breakingNewsTitle_priceIncrease2017"><![CDATA[Powerful Vibes]]></item>
+<item name="breakingNewsTeaser_priceIncrease2017"><![CDATA[What a rush!]]></item>
+<item name="breakingNewsContent_priceIncrease2017"><![CDATA[Hey Pilots!<br /><br />Some excellent packs have come onto the market for a limited time, with a fine selection of resources for those who want to get an edge!. Choose between the Advantage Power Pack, Shroud Power Pack and Rising Power Pack and make your enemies float home.<br /><br />Get them all, before the offer ends!]]></item>
+<item name="breakingNewsFooter_priceIncrease2017"><![CDATA[Your DarkOrbit Team]]></item>
+
+<item name="breakingNewsTitle_februarySales_MS1"><![CDATA[The Fine Art of Design]]></item>
+<item name="breakingNewsTeaser_februarySales_MS1"><![CDATA[Excellent savings on design packs for three ships!]]></item>
+<item name="breakingNewsContent_februarySales_MS1"><![CDATA[The first sales pack for February is now live!<br /><br />The techs have tooled together some awesome design packs for the Venom, Solace and Aegis Elite. Giving your ship a fine new look for an excellent price. <br /><br />For owners of the Venom, you can get the Blaze, Arctic and Ocean designs; the Solace has the Blaze and Ocean designs and the Aegis Elite contains Ocean, Blaze and Poison, for ship, P.E.T. and 10 Drones.<br /><br />On offer now:
+	<ul>
+		<li>Venom - Blaze, Artic, and Ocean Design Packs</li>
+		<li>Solace - Blaze and Ocean Design Packs</li>
+		<li>Aegis Elite - Ocean, Blaze, and Poison</li>
+	</ul>]]></item>
+<item name="breakingNewsFooter_februarySales_MS1"><![CDATA[Looking for a change in style, then look no further than the fine art of design!]]></item>
+
+<item name="breakingNewsTitle_februarySales_MS2"><![CDATA[Dynamic Developments Rejuvenate Classics]]></item>
+<item name="breakingNewsTeaser_februarySales_MS2"><![CDATA[Introducing new hardened versions of two classics!]]></item>
+<item name="breakingNewsContent_februarySales_MS2"><![CDATA[Breaking News from Ganymede Construction Yards!<br /><br />Let us present to you:<br /><br />
+<strong>The Yamato Ronin</strong> <em>Be the lone warrior in the pack!</em>
+Fitted with:
+	<ul>
+		<li>260 Speed</li>
+		<li>200,000 HP</li>
+		<li>8 Laser slots</li>
+		<li>12 Generator slots</li>
+		<li>2 Extra slots</li>
+		<li>Travel Mode Skill</li>
+	</ul>
+<strong>The Defcom Raven</strong> <em>Swoop down upon your prey!</em>
+Fitted with:
+	<ul>
+		<li>340 Speed</li>
+		<li>187,500 HP</li>
+		<li>12 Laser slots</li>
+		<li>8 Generator slots</li>
+		<li>2 Extra slots</li>
+		<li>Ultimate Cloak skill</li>
+	</ul>
+But that’s not all!<br /><br />There’s also Spectrum and Pusat Design Packs available, for owners of those ships. With Blaze, Ocean and Poison deigns for your ship, P.E.T. and 10 Drones.<br /><br />On offer now:
+	<ul>
+		<li>Yamato Ronin</li>
+		<li>Defcom Raven</li>
+		<li>Spectrum and Pusat Design Packs for Ship, P.E.T, and Drones – Blaze, Ocean, and Poison</li>
+	</ul>
+]]></item>
+<item name="breakingNewsFooter_februarySales_MS2"><![CDATA[There’s never been a better time to fly!]]></item>
+
+<item name="breakingNewsTitle_hatchingOut"><![CDATA[Hatching Out]]></item>
+<item name="breakingNewsTeaser_hatchingOut"><![CDATA[Beware the HITAC!]]></item>
+<item name="breakingNewsContent_hatchingOut"><![CDATA[An infection is spreading. It’s targeting mankind.
+	Uncover the root of the infection, craft powerful new vessels, and prepare for the coming war! 
+
+	During this event, infected HITACSs will be flying around different maps and spawn I-Eggs. Pilots, you must stop the outbreak, and help the research by collecting these I-Eggs and the items hidden within. You will be handsomely rewarded for your efforts, including the rare ores needed to craft the powerful new Enhanced LF4’s!
+
+	This event will also mark the unveiling of the Mimesis, G-Cyborg and Hammerclaw! Three very different ships to engage the sharpest pilots in the fleet!
+	Prepare for action!
+
+	<strong>The summary</strong>
+	<ul>
+	<li>Full FAQ Available in Your Forum</li>
+	<li>New Daily and Weekly Chained Quests with Level Brackets</li>
+	<li>BIfenon, Kyhalon, Tetrathrin, and LF-4’s in Rewards Pool</li>
+	<li>3 New Craftable Ships </li>
+	<li>New Story Line That Will Play Out Over Multiple Events</li>
+	<li>Introduction of a New Event Progress Window</li>
+</UL>]]></item>
+<item name="breakingNewsFooter_hatchingOut"><![CDATA[A sign of things to come?]]></item>
+
+<item name="breakingNewsTitle_ubaFeb2017"><![CDATA[Ultimate Battle Arena is Back!]]></item>
+<item name="breakingNewsTeaser_ubaFeb2017"><![CDATA[Can you become the Arena Champion?]]></item>
+<item name="breakingNewsContent_ubaFeb2017"><![CDATA[It's time to test yourself in the Ultimate Battle Arena. Engage in furious 1 v 1 matches in order to gain Arena points, and earn a spot in the top 50 to be eligible for rewards at the end of the season. The rewards pool has been updated to include the rare ores needed to craft the new powerful Enhanced LF-4s. For a full FAQ, and updated rewards list, please visit your local forum. Do you have what it takes to hold the Arena Gold Title?
+
+	This season will run from 10.03 – 31.03
+
+	<strong>The summary</strong>
+	<ul>
+	<li>Full FAQ Available in Your Forum</li>
+	<li>BIfenon, Kyhalon, and Tetrathrin in Rewards Pool</li>
+	</UL>]]></item>
+<item name="breakingNewsFooter_ubaFeb2017"><![CDATA[Fortune favors the bold!]]></item>
+
+<item name="breakingNewsTitle_easterBonus2017"><![CDATA[Happy Easter Gift!]]></item>
+<item name="breakingNewsTeaser_easterBonus2017"><![CDATA[Easter login bonus and more!]]></item>
+<item name="breakingNewsContent_easterBonus2017"><![CDATA[The DarkOrbit team would like to wish every pilot a happy Easter weekend! To thank you for your support, we have set up a login bonus that was booked as soon as you signed in.<br /><br />The package consists of 1 week of premium membership, 500 ACM Mines, and 5,000 Xenomit. On top of this, we have activated a one-time payment discount code for 15% off one purchase. Use the code EASTER17 at checkout to take advantage.<br /><br />Login bonus and Discount code valid from 13.04 – 17.04
+<ul>
+<li>Discount Code EASTER17</li>
+</ul>]]></item>
+<item name="breakingNewsFooter_easterBonus2017"><![CDATA[Happy gaming!!]]></item>
+
+<item name="breakingNewsTitle_pirateHunt2017"><![CDATA[Pirate Hunt]]></item>
+<item name="breakingNewsTeaser_pirateHunt2017"><![CDATA[Kill Pirates for Booty!]]></item>
+<item name="breakingNewsContent_pirateHunt2017"><![CDATA[As the edges of humanity begin to crumble, pirates raid our outposts.<br /><br />Arm yourself and challenge them in deadly combat to become a Pirate Hunt destroyer! Aiding your clan, supporting humanity and wiping the scum from the face of the galaxy. With Premium membership, enhanced LF-4’s and more as rewards.<br /><br />Time to fight!]]></item>
+<item name="breakingNewsFooter_pirateHunt2017"><![CDATA[Defend Humanity!]]></item>
+
+<item name="breakingNewsTitle_permanentQuarantineZone"><![CDATA[Permanent Quarantine Zone]]></item>
+<item name="breakingNewsTeaser_permanentQuarantineZone"><![CDATA[Challenge the Enemy!]]></item>
+<item name="breakingNewsContent_permanentQuarantineZone"><![CDATA[Pilots, sources have confirmed that the rift to the Quarantine Zone has stabilized, making further infection a permanent threat. It’s time to fight to save humanity!<br /><br />With boosters that only drain in gameplay time, additional rewards and a potential jackpot for those defeating the Gygerthrall Overlord it’s time to get back in the action!]]></item>
+<item name="breakingNewsFooter_permanentQuarantineZone"><![CDATA[Confine the Infection!]]></item>
+
+<item name="breakingNewsTitle_spartanDrone"><![CDATA[The Spartan Drones Have Arrived]]></item>
+<item name="breakingNewsTeaser_spartanDrone"><![CDATA[Craft Yours Today! ]]></item>
+<item name="breakingNewsContent_spartanDrone"><![CDATA[The techs continue to make advances, and have now found a way to assemble a powerful new drone. The Spartan drone can be built using Hercules and Havoc designs combined with Schism, and will give you a boost to damage, shield, and HP.
+<ul>
+<li>Full FAQ available in your local forum</li>
+<li>Spartan blueprint available via completion of the Kronos Gate</li>
+<li>Increased drop chance of Havoc drones in the Zeta Gate</li>
+<li>Increased drop chance of Hercules drones in the Kappa Gate</li>
+<li>The Spartan blueprint is available only after collection, and stays in your Assembly permanently</li>
+</ul><br />]]></item>
+<item name="breakingNewsFooter_spartanDrone"><![CDATA[Bow down before no enemy!]]></item>
+
+<item name="breakingNewsTitle_bonusCalendarMay2017"><![CDATA[Solar Calendar Bonanza!]]></item>
+<item name="breakingNewsTeaser_bonusCalendarMay2017"><![CDATA[Booty Bonanza!]]></item>
+<item name="breakingNewsContent_bonusCalendarMay2017"><![CDATA[Open each door on the Solar Calendar and receive a selection of exceptional booty, including Indoctrine Oil and Tetrathrin.<br /><br />Login daily, open a new window and find out what prize you’ve received. Miss a day and you’ll miss that days prize, so better come back daily and grab what’s on offer.]]></item>
+<item name="breakingNewsFooter_bonusCalendarMay2017"><![CDATA[A Daily Prize!]]></item>
+
+<item name="breakingNewsTitle_bonusCalendarMay2017Tr"><![CDATA[2017 Ramazan Ayı Takvimi]]></item>
+<item name="breakingNewsTeaser_bonusCalendarMay2017Tr"><![CDATA[Ramazan bereketiyle geldi. 24 gün boyunca çeşitli  hediye ekipman ve malzemelerin  yer alacağı  Ramazan ayına özel takvim sizlerle.]]></item>
+<item name="breakingNewsContent_bonusCalendarMay2017Tr"><![CDATA[Güneş Takvimindeki her bir kapıyı aç ve Indoctrine Oil, Tetrathrin ve bir HiperPlazmoit LF-4 dahil çeşitli, olağanüstü ganimetleri kazan. <br /><br />Her gün oyuna gir, yeni bir pencere aç ve hangi ödülü kazandığını öğren. Bir günü kaçırırsan o günün ödülünü de kaçıracaksın; bu yüzden her gün uğrayarak kampanyadan yararlanman senin için iyi olur.]]></item>
+<item name="breakingNewsFooter_bonusCalendarMay2017Tr"><![CDATA[Tüm oyuncularımıza Hayırlı Ramazanlar diliyoruz.]]></item>
+
+<item name="breakingNewsTitle_vortexTerror2017"><![CDATA[Vortex of Terror]]></item>
+<item name="breakingNewsTeaser_vortexTerror2017"><![CDATA[Battle your Terrors!]]></item>
+<item name="breakingNewsContent_vortexTerror2017"><![CDATA[Pilot, are you up to a challenge? As the Vortex of Terror has opened and humanity is under threat!<br/><br />Optimize your experience by undertaking missions for Nyx, enter the vicious Vortex of Terror and battle the enemies within, as the Revenant Slender seek to enter human realms to feast on their soul energy.<br/><br />Are you ready to take on the nightmare realm? We bet you are!]]></item>
+<item name="breakingNewsFooter_vortexTerror2017"><![CDATA[Enter the Maelstrom!]]></item>
+
+
+
+
+<!--End of Unsorted and Miscellaneous-->
+<!-- =============================== -->
+
+<item name="breakingNewsTitle_dummyNews"><![CDATA[TODO]]></item>
+<item name="breakingNewsTeaser_dummyNews"><![CDATA[TODO]]></item>
+<item name="breakingNewsContent_dummyNews"><![CDATA[TODO]]></item>
+<item name="breakingNewsFooter_dummyNews"><![CDATA[TODO]]></item>
+
+</resource>
+
+	<!-- 	#################################################
+			# 												#
+			# Please mind the categories mentioned at the	#
+			# top of this file.	All texts should be added	#
+			# to their specific	category 					#
+			#												#
+			#################################################
+	-->

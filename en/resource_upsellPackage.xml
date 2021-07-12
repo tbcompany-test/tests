@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="upsell_head_super_deal"><![CDATA[AWESOME DEAL!]]></item>
+ <item name="upsell_head_special_offer"><![CDATA[SPECIAL OFFER!]]></item>
+ <item name="upsell_head_limited_offer"><![CDATA[LIMITED OFFER!]]></item>
+ <item name="upsell_head_big_bargain"><![CDATA[EXPLOSIVE OFFER!]]></item>
+ <item name="upsell_head_exclusive_offer"><![CDATA[EXCLUSIVE OFFER!]]></item>
+ <item name="upsell_head_price_blowout"><![CDATA[BLOWOUT PRICE!]]></item>
+ <item name="upsell_caption_1"><![CDATA[Your bargain power pack!]]></item>
+ <item name="upsell_caption_2"><![CDATA[The Uridium Plus Pack for a low, low price!]]></item>
+ <item name="upsell_caption_3"><![CDATA[Your exclusive pack at a blowout price!]]></item>
+ <item name="upsell_caption_4"><![CDATA[Special pack - special price!]]></item>
+ <item name="upsell_caption_5"><![CDATA[The ultimate power packs at a cut-rate price]]></item>
+ <item name="upsell_call_pre_1"><![CDATA[Don't pass up this offer to boost your account!]]></item>
+ <item name="upsell_hint_1"><![CDATA[Exclusive offer here and now only - not for sale on a regular basis!]]></item>
+ <item name="upsell_hint_2"><![CDATA[Exclusive offer here and now only - not for sale on a regular basis!]]></item>
+ <item name="upsell_call_claim_10000_1"><![CDATA[Score 10,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_15000_1"><![CDATA[Score 15,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_25000_1"><![CDATA[Score 25,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_30000_1"><![CDATA[Score 30,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_40000_1"><![CDATA[Score 40,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_75000_1"><![CDATA[Score 75,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_150000_1"><![CDATA[Score 150,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_330000_1"><![CDATA[Score 330,000 Uridium for your account plus <span class="highlight_uridium_plus">the following on top:</span>]]></item>
+ <item name="upsell_call_claim_EUR_sub"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for %AMOUNT% cents and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_USD_sub"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for %AMOUNT% cents and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_GBP_sub"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for %AMOUNT% pence and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_EUR"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for €%AMOUNT% and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_USD"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for $%AMOUNT% and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_GBP"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for £%AMOUNT% and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_EUR_full"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for €%AMOUNT% and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_USD_full"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for $%AMOUNT% and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_claim_GBP_full"><![CDATA[<b>A Loyalty Pack loaded with exclusive items just for you:</b> To express our gratitude for your loyal service, we’ve prepared you an exclusive offer. Buy Uridium now for £%AMOUNT% and reap the following just rewards - some of which can't be bought and are in excess of %URIDIUM% Uridium.]]></item>
+ <item name="upsell_call_hint_hh_mhh"><![CDATA[<b>Oh and did we mention: This offer also applies during Happy and Mega Happy Hours!*</b>]]></item>
+ <item name="upsell_call_footer_1"><![CDATA[*(Only the Uridium purchased is subject to the HH and MHH bonus, the items offered are not multiplied.)]]></item>
+ <item name="upsell_call_claim_75000_2"><![CDATA[75,000 Uridium at a rock-bottom price – <span class="highlight_uridium_plus">exclusively for you!</span>]]></item>
+ <item name="upsell_call_claim_150000_2"><![CDATA[150,000 Uridium at a rock-bottom price – <span class="highlight_uridium_plus">exclusively for you!</span>
+]]></item>
+ <item name="upsell_call_claim_330000_2"><![CDATA[330,000 Uridium at a rock-bottom price – <span class="highlight_uridium_plus">exclusively for you!</span>
+]]></item>
+ <item name="upsell_call_claim_660000_2"><![CDATA[660,000 Uridium at a rock-bottom price – <span class="highlight_uridium_plus">exclusively for you!</span>
+]]></item>
+ <item name="upsell_link_button_get_now"><![CDATA[Act now!]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_750"><![CDATA[750 MCB-50 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_1250"><![CDATA[1,250 MCB-50 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_2500"><![CDATA[2,500 MCB-50 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_5000"><![CDATA[5,000 MCB-50 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1000"><![CDATA[1,000 rounds of UCB 100 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1250"><![CDATA[1,250 rounds of UCB 100 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1500"><![CDATA[1,500 rounds of UCB 100 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_2000"><![CDATA[2,000 rounds of UCB 100 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_2500"><![CDATA[2,500 rounds of UCB 100 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_1000"><![CDATA[1,000 rounds of RSB 75 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_2500"><![CDATA[2,500 rounds of RSB 75 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_6000"><![CDATA[6,000 rounds of RSB 75 ammo]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_100"><![CDATA[100 PLT 2021 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_200"><![CDATA[200 PLT 2021 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_250"><![CDATA[250 PLT 2021 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_500"><![CDATA[500 PLT 2021 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_750"><![CDATA[750 PLT 2021 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_1500"><![CDATA[1,500 PLT 2021 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocketlauncher_hstrm-01_150"><![CDATA[150 UBR-100 Hellstorm rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_rocketlauncher_hstrm-01_400"><![CDATA[400 UBR-100 Hellstorm rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_120"><![CDATA[120 DD-M devastation mines with direct damage effect
+]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_200"><![CDATA[200 DD-M devastation mines with direct damage effect
+]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_300"><![CDATA[300 DD-M devastation mines with direct damage effect
+]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_sabm-01_200"><![CDATA[200 SAB-M shield mines]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_empm-01_200"><![CDATA[200 EMP-M uncloaking mines]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_pld-8_300"><![CDATA[300 PLD-8 rockets]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_10"><![CDATA[10 EMP bursts]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_25"><![CDATA[25 EMP bursts]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_60"><![CDATA[60 EMP bursts]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_150"><![CDATA[150 EMP bursts]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_250"><![CDATA[250 EMP bursts]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_300"><![CDATA[300 EMP bursts]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_5"><![CDATA[5 repair credits]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_10"><![CDATA[10 repair credits]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_20"><![CDATA[20 repair credits]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_45"><![CDATA[45 repair credits]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_65"><![CDATA[65 repair credits]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_50"><![CDATA[50 free Advanced Jump CPU jumps]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_100"><![CDATA[100 free Advanced Jump CPU jumps]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_150"><![CDATA[150 free Advanced Jump CPU jumps]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_10"><![CDATA[10 extra energy charges]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_15"><![CDATA[15 extra energy charges]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_50"><![CDATA[50 extra energy charges]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_100"><![CDATA[100 extra energy charges]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_100"><![CDATA[100 log-disks]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_250"><![CDATA[250 log-disks]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_500"><![CDATA[500 log-disks]]></item>
+ <item name="upsell_item-description_1_booster_ep50_1d"><![CDATA[50% more EP booster rewards for one whole day]]></item>
+ <item name="upsell_item-description_1_booster_ep50_2d"><![CDATA[50% more EP booster rewards for two whole days]]></item>
+ <item name="upsell_item-description_1_booster_ep50_3d"><![CDATA[50% more EP booster rewards for three whole days]]></item>
+ <item name="upsell_item-description_1_booster_ep50_4d"><![CDATA[50% more EP booster rewards for four whole days]]></item>
+ <item name="upsell_item-description_1_booster_ep50_5d"><![CDATA[50% more EP booster rewards for five whole days]]></item>
+ <item name="upsell_item-description_1_equipment_extra_cpu_cl04k-xl_4"><![CDATA[4 XL cloaking CPUs (incl. 200 cloakings)]]></item>
+ <item name="upsell_item-description_1_equipment_extra_cpu_cl04k-xl_8"><![CDATA[8 XL cloaking CPUs (incl. 400 cloakings)]]></item>
+ <item name="upsell_item-description_1_premium_1w"><![CDATA[1 week of free Premium advantages]]></item>
+ <item name="upsell_item-description_1_premium_2w"><![CDATA[2 weeks of free Premium advantages]]></item>
+ <item name="upsell_item-description_1_premium_1m"><![CDATA[1 month of free Premium advantages]]></item>
+ <item name="upsell_item-description_1_premium_2m"><![CDATA[2 months of free Premium advantages]]></item>
+ <item name="upsell_offer_exception"><![CDATA[The bonus from Happy Hours, Mega Happy Hours and other bonus events does not apply to this special offer.]]></item>
+</resource>

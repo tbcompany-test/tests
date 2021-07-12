@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language key="dev">
+ <category name="">
+  <item name="btn_label_start"><![CDATA[INICIO]]></item>
+  <item name="btn_label_claim"><![CDATA[RECLAMAR]]></item>
+  <item name="btn_label_loading"><![CDATA[CARGANDO]]></item>
+  <item name="btn_label_loadstarsystem"><![CDATA[CARGANDO SISTEMA ESTELAR]]></item>
+  <item name="login_bonus_panel_title"><![CDATA[BONO DE CONEXIÓN DIARIO]]></item>
+  <item name="login_bonus_item_headline"><![CDATA[Día %VALUE%]]></item>
+  <item name="login_bonus_button_get_premium"><![CDATA[Consigue una cuenta PREMIUM]]></item>
+  <item name="login_bonus_item_headline_premium"><![CDATA[Con la cuenta PREMIUM también te llevas:]]></item>
+  <item name="login_bonus_item_premium_buybutton"><![CDATA[Comprar PREMIUM ahora]]></item>
+  <item name="login_bonus_calendar_expires"><![CDATA[El calendario se reinicia en %VALUE%]]></item>
+  <item name="login_bonus_tooltip_info_premiumitem"><![CDATA[¡Para llevarte el regalo Premium del 25º día de recompensas, debes tener la cuenta PREMIUM activa antes de aceptar la recompensa habitual del día!]]></item>
+  <item name="login_bonus_tooltip_info_items"><![CDATA[Consigue tu recompensa diaria. ¡No te preocupes! Si no entras un día, no perderás tu progreso hasta que se reinicie el calendario.]]></item>
+  <item name="login_bonus_tooltip_info_premiumitem_deactivated"><![CDATA[Debes tener la cuenta PREMIUM activa antes de reclamar la recompensa.]]></item>
+  <item name="login_booster_time_info"><![CDATA[h]]></item>
+  <item name="login_reward_amount_info"><![CDATA[x%VALUE%]]></item>
+  <item name="login_time_day_short"><![CDATA[d]]></item>
+  <item name="login_time_hour_short"><![CDATA[h]]></item>
+  <item name="login_time_minute_short"><![CDATA[m]]></item>
+ </category>
+</language>

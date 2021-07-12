@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="login_serverlist_hint"><![CDATA[Please select the server you'd like to use to play:]]></item>
+ <item name="footer_support"><![CDATA[Support]]></item>
+ <item name="abortInstanceSelection"><![CDATA[Cancel]]></item>
+</resource>

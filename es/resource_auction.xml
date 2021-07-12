@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="auction_bid_invalid"><![CDATA[Puja inválida]]></item>
+ <item name="auction_bid_credits_to_little"><![CDATA[No tienes suficientes créditos para esta puja.]]></item>
+ <item name="auction_bid_minBid_not_reached"><![CDATA[Tu puja es demasiado baja. Debe ser al menos %MINIMUM_BID% créditos más alta que la puja anterior.]]></item>
+ <item name="auction_bid_saved"><![CDATA[Puja emitida]]></item>
+ <item name="auction_item_package"><![CDATA[(%AMOUNT% unidades)]]></item>
+ <item name="auction_my_bid"><![CDATA[Mi puja:]]></item>
+ <item name="auction_error_generic"><![CDATA[Ha ocurrido un error. Por favor, inténtalo de nuevo.]]></item>
+ <item name="auction_quantityManager_laser"><![CDATA[<span id="auction_amount">%AMOUNT%</span> disparos láser<br>= <span id="auction_price">%PRICE%</span> uridium]]></item>
+ <item name="auction_quantityManager_rocket"><![CDATA[<span id="auction_amount">%AMOUNT%</span> misiles<br>= <span id="auction_price">%PRICE%</span> uridium]]></item>
+ <item name="auction_quantityManager_mine"><![CDATA[<span id="auction_amount">%AMOUNT%</span> minas<br>= <span id="auction_price">%PRICE%</span> uridium]]></item>
+ <item name="auction_quantityManager_logfile"><![CDATA[<span id="auction_amount">%AMOUNT%</span> ficheros<br>= <span id="auction_price">%PRICE%</span> uridium]]></item>
+ <item name="auction_quantityManager_ore"><![CDATA[<span id="auction_amount">%AMOUNT%</span> minerales<br>= <span id="auction_price">%PRICE%</span> uridium]]></item>
+ <item name="auction_buy_amount_invalid"><![CDATA[Cantidad inválida]]></item>
+ <item name="auction_book_back_money"><![CDATA[Devolución de puja de subasta (%ITEMNAME%)]]></item>
+ <item name="auction_filter"><![CDATA[Filtro]]></item>
+ <item name="auction_filter_battery"><![CDATA[Baterías]]></item>
+ <item name="auction_filter_rocket"><![CDATA[Misiles y minas]]></item>
+ <item name="auction_filter_generator"><![CDATA[Generadores]]></item>
+ <item name="auction_filter_extra"><![CDATA[Extras]]></item>
+ <item name="auction_filter_weapon"><![CDATA[Armas]]></item>
+ <item name="auction_filter_ship"><![CDATA[Naves]]></item>
+ <item name="auction_filter_booster"><![CDATA[Potenciadores]]></item>
+ <item name="auction_filter_shipdesign"><![CDATA[Diseños de nave]]></item>
+ <item name="auction_filter_module"><![CDATA[Módulos]]></item>
+ <item name="auction_filter_special"><![CDATA[Especial]]></item>
+ <item name="auction_filter_history"><![CDATA[Seleccionar subasta]]></item>
+ <item name="auction_title"><![CDATA[CASA DE SUBASTAS]]></item>
+ <item name="auction_type_hour"><![CDATA[CADA HORA]]></item>
+ <item name="auction_type_day"><![CDATA[DIARIA]]></item>
+ <item name="auction_type_week"><![CDATA[SEMANAL]]></item>
+ <item name="auction_current"><![CDATA[SUBASTA]]></item>
+ <item name="auction_mybids"><![CDATA[MIS PUJAS]]></item>
+ <item name="auction_history"><![CDATA[HISTORIAL]]></item>
+ <item name="auction_countdown"><![CDATA[La subasta termina en]]></item>
+ <item name="auction_choose"><![CDATA[Seleccionar subasta]]></item>
+ <item name="auction_winner"><![CDATA[Ganador]]></item>
+ <item name="auction_price"><![CDATA[Precio]]></item>
+ <item name="auction_place_bid"><![CDATA[PUJAR]]></item>
+ <item name="auction_buy_instant"><![CDATA[COMPRAR YA]]></item>
+ <item name="auction_buy_instant_invalid"><![CDATA[Objeto no disponible para la compra inmediata.]]></item>
+ <item name="auction_ttip_bid"><![CDATA[Hacer una puja]]></item>
+ <item name="auction_ttip_bid_disabled"><![CDATA[Selecciona un objeto antes de hacer la puja.]]></item>
+ <item name="auction_ttip_buy"><![CDATA[Comprar inmediatamente por uridium]]></item>
+ <item name="auction_ttip_buy_disabled"><![CDATA[Selecciona un objeto primero.]]></item>
+ <item name="auction_ttip_buy_permitted"><![CDATA[Por este objeto solo se puede pujar.]]></item>
+ <item name="auction_item_name"><![CDATA[Nombre del objeto]]></item>
+ <item name="auction_item_type"><![CDATA[Tipo]]></item>
+ <item name="auction_item_highest"><![CDATA[Mejor postor]]></item>
+ <item name="auction_item_current"><![CDATA[Puja]]></item>
+ <item name="auction_item_yours"><![CDATA[Tu puja]]></item>
+ <item name="auction_item_instant"><![CDATA[Com. ya]]></item>
+ <item name="auction_item_winner"><![CDATA[Comprador]]></item>
+ <item name="auction_bid_low"><![CDATA[Tu puja ha sido demasiado baja.]]></item>
+ <item name="auction_bid_nobids"><![CDATA[No has hecho ninguna puja aún.]]></item>
+ <item name="auction_bid_captcha"><![CDATA[Introduce el código captcha correctamente antes de hacer una puja.]]></item>
+ <item name="auction_bid_toofast"><![CDATA[Atención: has pujado demasiado rápido por demasiados objetos.]]></item>
+ <item name="auction_bid_characters"><![CDATA[Por favor, introduce sólo cifras.]]></item>
+ <item name="auction_enable_mail"><![CDATA[Activar email de confirmación.]]></item>
+ <item name="auction_disable_mail"><![CDATA[Desactivar email de confirmación.]]></item>
+ <item name="auction_mail_label"><![CDATA[Email de confirmación]]></item>
+</resource>

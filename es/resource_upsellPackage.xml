@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="upsell_head_super_deal"><![CDATA[¡SUPEROFERTA!]]></item>
+ <item name="upsell_head_special_offer"><![CDATA[¡OFERTA ESPECIAL!]]></item>
+ <item name="upsell_head_limited_offer"><![CDATA[¡OFERTA LIMITADA!]]></item>
+ <item name="upsell_head_big_bargain"><![CDATA[¡OFERTA EXPLOSIVA!]]></item>
+ <item name="upsell_head_exclusive_offer"><![CDATA[¡OFERTA EXCLUSIVA!]]></item>
+ <item name="upsell_head_price_blowout"><![CDATA[¡OFERTÓN!]]></item>
+ <item name="upsell_caption_1"><![CDATA[¡El mejor paquete al mejor precio!]]></item>
+ <item name="upsell_caption_2"><![CDATA[¡Tu paquete de uridium al mejor precio!]]></item>
+ <item name="upsell_caption_3"><![CDATA[¡Tu paquete exclusivo a precio de ganga!]]></item>
+ <item name="upsell_caption_4"><![CDATA[¡Un paquete especial a un precio aún más especial!]]></item>
+ <item name="upsell_caption_5"><![CDATA[Un paquete con una oferta increíble.]]></item>
+ <item name="upsell_call_pre_1"><![CDATA[¡Aprovecha la oportunidad y rellena tu cuenta virtual!]]></item>
+ <item name="upsell_hint_1"><![CDATA[Nota: ¡Solo aquí! ¡No disponible en ningún otro lugar!]]></item>
+ <item name="upsell_hint_2"><![CDATA[¡Solo aquí y ahora! ¡No disponible en ningún otro lugar!]]></item>
+ <item name="upsell_call_claim_10000_1"><![CDATA[Hazte con 10.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_15000_1"><![CDATA[Hazte ahora con 15.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_25000_1"><![CDATA[Hazte con 25.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_30000_1"><![CDATA[Hazte ahora con 30.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_40000_1"><![CDATA[Hazte ahora con 40.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_75000_1"><![CDATA[Hazte ahora con 75.000 unid. de uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_150000_1"><![CDATA[Hazte ahora con 150.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_330000_1"><![CDATA[Hazte ahora con 330.000 uridium y recibirás <span class="highlight_uridium_plus">también gratis:</span>]]></item>
+ <item name="upsell_call_claim_EUR_sub"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT% cént. y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_USD_sub"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT% cént. y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_GBP_sub"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT% peniques y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_EUR"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT%&nbsp;€ y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_USD"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT%&nbsp;$ y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_GBP"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT%&nbsp;£ y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_EUR_full"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT%&nbsp;€ y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_USD_full"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT%&nbsp;$ y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_claim_GBP_full"><![CDATA[<b>Tu paquete de fidelidad con objetos exclusivos:</b> Como agradecimiento por tu fidelidad, hemos preparado un paquete bono exclusivo solo para ti. Hazte con uridium por %AMOUNT%&nbsp;£ y consigue objetos con un valor de %URIDIUM% uridium como bono extra. Algunos de estos objetos solo se pueden conseguir aquí.]]></item>
+ <item name="upsell_call_hint_hh_mhh"><![CDATA[<b>Nota: ¡Durante la HH o MHH, ahora obtendrás más uridium en la compra!*</b>]]></item>
+ <item name="upsell_call_footer_1"><![CDATA[*Si realizas una compra durante la HappyHour o la MegaHappyHour, recibirás más uridium de lo normal. Sin embargo, de los objetos de regalo por tu fidelidad, se te entregará solamente la cantidad indicada.]]></item>
+ <item name="upsell_call_claim_75000_2"><![CDATA[75.000 uridium a un precio sensacional... <span class="highlight_uridium_plus">¡Solo para ti!</span>]]></item>
+ <item name="upsell_call_claim_150000_2"><![CDATA[150.000 uridium a un precio sensacional... <span class="highlight_uridium_plus">¡Solo para ti!</span>]]></item>
+ <item name="upsell_call_claim_330000_2"><![CDATA[330.000 uridium a un precio sensacional... <span class="highlight_uridium_plus">¡Solo para ti!</span>]]></item>
+ <item name="upsell_call_claim_660000_2"><![CDATA[660.000 uridium a un precio sensacional... <span class="highlight_uridium_plus">¡Solo para ti!</span>]]></item>
+ <item name="upsell_link_button_get_now"><![CDATA[¡Aprovecha la oportunidad ahora!]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_750"><![CDATA[750 balas MCB-50]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_1250"><![CDATA[1250 balas MCB-50]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_2500"><![CDATA[2500 balas MCB-50]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_5000"><![CDATA[5000 balas MCB-50]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1000"><![CDATA[1000 balas UCB 100]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1250"><![CDATA[1250 balas UCB 100]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1500"><![CDATA[1500 balas UCB 100]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_2000"><![CDATA[2000 balas UCB 100]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_2500"><![CDATA[2500 balas UCB 100]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_1000"><![CDATA[1000 balas RSB 75]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_2500"><![CDATA[2500 balas RSB 75]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_6000"><![CDATA[6000 balas RSB 75]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_100"><![CDATA[100 misiles PLT 2021]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_200"><![CDATA[200 misiles PLT 2021]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_250"><![CDATA[250 misiles PLT 2021]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_500"><![CDATA[500 misiles PLT 2021]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_750"><![CDATA[750 misiles PLT 2021]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_1500"><![CDATA[1500 misiles PLT 2021]]></item>
+ <item name="upsell_item-description_1_ammunition_rocketlauncher_hstrm-01_150"><![CDATA[150 misiles Hellstorm UBR-100]]></item>
+ <item name="upsell_item-description_1_ammunition_rocketlauncher_hstrm-01_400"><![CDATA[400 misiles Hellstorm UBR-100]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_120"><![CDATA[120 minas destructoras de daño directo DD-M]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_200"><![CDATA[200 minas destructoras de daño directo DD-M]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_300"><![CDATA[300 minas destructoras de daño directo DD-M]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_sabm-01_200"><![CDATA[200 minas antiescudo SAB-M]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_empm-01_200"><![CDATA[200 minas anticamuflaje EMP-M]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_pld-8_300"><![CDATA[300 misiles PLD-8]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_10"><![CDATA[10 PEM Ráfaga]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_25"><![CDATA[25 PEM Ráfaga]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_60"><![CDATA[60 PEM Ráfaga]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_150"><![CDATA[150 PEM Ráfaga]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_250"><![CDATA[250 PEM Ráfaga]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_300"><![CDATA[300 PEM Ráfaga]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_5"><![CDATA[5 bonos de reparación]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_10"><![CDATA[10 bonos de reparación]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_20"><![CDATA[20 bonos de reparación]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_45"><![CDATA[45 bonos de reparación]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_65"><![CDATA[65 bonos de reparación]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_50"><![CDATA[50 teleportaciones con la CPU de teleportación avanzada gratis]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_100"><![CDATA[100 teleportaciones con la CPU de teleportación avanzada gratis]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_150"><![CDATA[150 teleportaciones con la CPU de teleportación avanzada gratis]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_10"><![CDATA[10 unid. de energía extra]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_15"><![CDATA[15 unid. de energía extra]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_50"><![CDATA[50 unid. de energía extra]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_100"><![CDATA[100 unid. de energía extra]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_100"><![CDATA[100 ficheros]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_250"><![CDATA[250 ficheros]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_500"><![CDATA[500 ficheros]]></item>
+ <item name="upsell_item-description_1_booster_ep50_1d"><![CDATA[Un día con un 50% más de PE con el potenciador de PE]]></item>
+ <item name="upsell_item-description_1_booster_ep50_2d"><![CDATA[Dos días con un 50% más de PE con el potenciador de PE]]></item>
+ <item name="upsell_item-description_1_booster_ep50_3d"><![CDATA[Tres días con un 50% más de PE con el potenciador de PE]]></item>
+ <item name="upsell_item-description_1_booster_ep50_4d"><![CDATA[Cuatro días con un 50% más de PE con el potenciador de PE]]></item>
+ <item name="upsell_item-description_1_booster_ep50_5d"><![CDATA[Cinco días con un 50% más de PE con el potenciador de PE]]></item>
+ <item name="upsell_item-description_1_equipment_extra_cpu_cl04k-xl_4"><![CDATA[4 CPU de camuflaje XL con un total de 200 camuflajes]]></item>
+ <item name="upsell_item-description_1_equipment_extra_cpu_cl04k-xl_8"><![CDATA[8 CPU de camuflaje XL con un total de 400 camuflajes]]></item>
+ <item name="upsell_item-description_1_premium_1w"><![CDATA[1 semana con todas las ventajas Premium gratis]]></item>
+ <item name="upsell_item-description_1_premium_2w"><![CDATA[2 semanas con todas las ventajas Premium gratis]]></item>
+ <item name="upsell_item-description_1_premium_1m"><![CDATA[1 mes con todas las ventajas Premium gratis]]></item>
+ <item name="upsell_item-description_1_premium_2m"><![CDATA[2 meses con todas las ventajas Premium gratis]]></item>
+ <item name="upsell_offer_exception"><![CDATA[Las ventajas de otras promociones (por ejemplo: Happy Hour/Mega Happy Hour) no influyen en esta oferta especial.]]></item>
+</resource>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="payment_starter_packs_headline"><![CDATA[Paquete de principiante]]></item>
+ <item name="payment_starter_packs_headline_new"><![CDATA[Kits de principiante]]></item>
+ <item name="payment_starter_packs_text"><![CDATA[¿Siempre te acribillan por todas partes? ¡Aprovecha esta oportunidad y muestra lo que vales!]]></item>
+ <item name="payment_premium_members_headline"><![CDATA[Miembro Premium]]></item>
+ <item name="payment_premium_members_text"><![CDATA[Indispensable para los pilotos más ambiciosos. ¡Somete al universo!]]></item>
+ <item name="payment_advantage_packs_headline"><![CDATA[Paquetes ventaja]]></item>
+ <item name="payment_advantage_packs_headline_new"><![CDATA[Paquetes ahorro]]></item>
+ <item name="payment_advantage_packs_text"><![CDATA[Más rápido, más duro, más eficaz... ¡Nadie te hará sombra!]]></item>
+ <item name="payment_equipment_packs_headline"><![CDATA[Equipamiento]]></item>
+ <item name="payment_deal_packs_headline"><![CDATA[Las mejores ofertas]]></item>
+ <item name="payment_equipment_packs_text"><![CDATA[¡Fuego a discreción! ¡Dales un buen merecido a tus adversarios con tus potentes armas y tus escudos protectores más duros que el acero!]]></item>
+ <item name="payment_get_uridium"><![CDATA[Consigue uridium]]></item>
+ <item name="payment_earn_uridium"><![CDATA[Cash for action]]></item>
+ <item name="payment_lottery_text_title"><![CDATA[LOTERÍA DE CÁPSULAS]]></item>
+ <item name="payment_lottery_text_description"><![CDATA[Las cápsulas se reciben de tres formas. O bien destruyes a un NPC HITAC o vences a sus subordinados (Minion) o recoges piezas del puzle de letras. Asimismo, si lo deseas, también puedes comprar cápsulas en el área de pagos.
+En la página de URIDIUM, puedes transformar las cápsulas en boletos para ambos sorteos. Haz clic en el botón que hay bajo el transformador. Si quieres convertir más de una cápsula en boleto, puedes aumentar la cantidad en el menú correspondiente.]]></item>
+ <item name="payment_lottery_text_remaincapsules"><![CDATA[Cápsulas restantes]]></item>
+ <item name="payment_lottery_button_payment"><![CDATA[Comprar más cápsulas]]></item>
+ <item name="payment_lottery_text_sunconverter"><![CDATA[Transformador solar]]></item>
+ <item name="payment_lottery_text_moonconverter"><![CDATA[Transformador lunar]]></item>
+ <item name="payment_lottery_text_frostconverter"><![CDATA[Transformador glacial]]></item>
+ <item name="payment_lottery_text_hitacconverter"><![CDATA[Transformador de cápsulas]]></item>
+ <item name="payment_lottery_text_converter"><![CDATA[Transformador de cápsulas]]></item>
+ <item name="payment_lottery_text_convert"><![CDATA[Transformar]]></item>
+ <item name="payment_lottery_select_defaulttext"><![CDATA[Seleccionar cantidad]]></item>
+ <item name="payment_lottery_text_log_head"><![CDATA[Registro de recompensas inmediatas]]></item>
+ <item name="payment_lottery_text_log_description"><![CDATA[También disponible en el diario]]></item>
+ <item name="payment_lottery_text_log_text_capsules"><![CDATA[%amount% cápsulas transformadas]]></item>
+ <item name="payment_lottery_text_disclaimer"><![CDATA[Condiciones de participación: Los trabajadores de Bigpoint, así como sus socios y familiares, quedan excluidos del concurso. En caso de incumplimiento de estas condiciones de participación, Bigpoint se reserva el derecho a descalificar o suspender a los infractores. Del mismo modo, los jugadores que empleen herramientas de software u otros medios con el objetivo de conseguir una ventaja injusta también serán descalificados.  Si se diera el caso, se les podría privar posteriormente de los premios o reclamar su devolución.<br>Además, informamos que los jugadores que se encuentran en Italia, Brasil y algunos Estados de Norteamérica no pueden participar en concursos con premios reales.]]></item>
+ <item name="payment_lottery_text_dialog_nocapsules"><![CDATA[No tienes ninguna cápsula que transformar. En el área de pagos, puedes adquirir más: %LINK_START%Comprar más cápsulas%LINK_END%]]></item>
+ <item name="payment_lottery_tooltip_moonconverter"><![CDATA[En el transformador lunar puedes transformar las cápsulas en boletos para la lotería de objetos de juego.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter"><![CDATA[En el transformador glacial puedes convertir las cápsulas en boletos de lotería para ganar premios magníficos en el juego.]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter"><![CDATA[En el transformador puedes convertir las cápsulas en boletos de lotería para ganar premios magníficos en el juego.]]></item>
+ <item name="payment_lottery_tooltip_sunconverter"><![CDATA[En el transformador solar puedes transformar las cápsulas en boletos para la lotería externa de premios reales.]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country"><![CDATA[Lamentablemente, en el país donde te encuentras no se puede participar en la lotería externa.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_sunconverter"><![CDATA[Has transformado tu(s) cápsula(s) correctamente en el transformador solar.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_moonconverter"><![CDATA[Has transformado tu(s) cápsula(s) correctamente en el transformador lunar.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_frostconverter"><![CDATA[Has transformado tu(s) cápsula(s) correctamente en el transformador glacial.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_hitacconverter"><![CDATA[Has transformado tu(s) cápsula(s) correctamente en el transformador.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header"><![CDATA[Premios de lotería del transformador solar]]></item>
+ <item name="partnerPromo _popup_prizes_antec_teaser"><![CDATA[TEASER]]></item>
+ <item name="partnerPromo _popup_prizes_antec_content"><![CDATA[¡Gana grandes premios en el transformador solar! Al convertir tus cápsulas en boletos de lotería en el transformador solar, tienes la oportunidad única de ganar un <span class="breakingNewsHighlightBlue"><b>portátil delgado para juegos SCHENKER S413</b></span>. Además sorteamos más de 50 otros premios magníficos de hardware de ROCCAT™. Atención: el sorteo se aplica en toda la galaxia, no en cada servidor por separado. (Las imágenes son ilustrativas y pueden no coincidir con los productos)]]></item>
+ <item name="partnerPromo _popup_prizes_antec_footer"><![CDATA[FOOTER]]></item>
+ <item name="payment_lottery_tooltip_sunconverter_default"><![CDATA[En el transformador solar puedes canjear las cápsulas por boletos para la lotería.]]></item>
+ <item name="payment_lottery_tooltip_moonconverter_default"><![CDATA[En el transformador lunar puedes transformar las cápsulas en boletos para la lotería de grandes objetos de juego como 1 millón de uridium o un paquete láser LF4.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter_default"><![CDATA[Convierte tus cápsulas en boletos para la lotería de Hitac en el transformador glacial. ¡Te esperan premios fantásticos, como un Ice Portal, nuevos diseños de nave árticos, paquetes de láseres LF-4, un millón de uridium y muchos más!]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter_default"><![CDATA[Convierte tus cápsulas en boletos para la lotería de Hitac en el transformador. ¡Te esperan premios fantásticos, como armas Magmadrill LF-4, paquetes de láseres LF-4, infiltraceite, aspectos Inferno y un mes Premium!]]></item>
+ <item name="payment_lottery_text_description_default"><![CDATA[Las cápsulas se reciben de tres formas. Destruye la nave nodriza "HITAC 2.0" o derrota a sus subordinados y consigue fragmentos para el puzle de letras. Asimismo, si lo deseas, también puedes comprar cápsulas en el área de pagos. En la página "Uridium" podrás transformar tus cápsulas en boletos para los sorteos solar y lunar. Haz clic en el botón que hay bajo el transformador. Si quieres convertir más de una cápsula en boleto, puedes aumentar la cantidad en el menú correspondiente.]]></item>
+ <item name="payment_lottery_text_description_frostevent"><![CDATA[Hay tres formas de conseguir cápsulas: destruyendo la nave nodriza Frost Hitac, derrotando a sus subordinados para formar la palabra del acontecimiento con las letras que llevan o, si eliges la trayectoria de vuelo más sencilla, ¡comprándolas en la tienda! En la página de uridium, puedes echar las cápsulas en el transformador glacial para recibir boletos de lotería a cambio. Solo tienes que hacer clic en el botón bajo el transformador. Si quieres echar más de una cápsula a la vez, aumenta esa cifra en el menú correspondiente.]]></item>
+ <item name="payment_lottery_text_description_hitacevent"><![CDATA[Hay tres formas de conseguir cápsulas: destruyendo la nave nodriza Hitac, derrotando a sus subordinados para formar la palabra del acontecimiento con las letras que llevan o, si eliges la trayectoria de vuelo más sencilla, ¡comprándolas en la tienda! En la página de uridium puedes echar las cápsulas en el transformador para recibir boletos de lotería a cambio. Solo tienes que hacer clic en el botón bajo el transformador. Si quieres echar más de una cápsula a la vez, aumenta esa cifra en el menú correspondiente.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header_default"><![CDATA[Premios de la lotería]]></item>
+ <item name="partnerPromo_popup_prizes_content_default"><![CDATA[<b>¡Gana fantásticos premios en el transformador solar!</b><br><br>
+Canjea tus cápsulas por boletos para la lotería en el transformador solar y podrás ganar estupendos dispositivos de hardware informático:<br><br>
+<ul>
+<li>1 portátil delgado para juegos SCHENKER S413</li>
+<li>5 teclados ROCCAT™ Ryos MK Glow</li>
+<li>5 ratones ROCCAT™ Kone XTD</li>
+<li>5 cascos ROCCAT™ Kave 5.1</li>
+<li>20 teclados ROCCAT™ Isku</li>
+<li>20 ratones ROCCAT™ Kone Pure</li>
+<li>... y muchos más</li>
+	</ul>	
+<br><br>
+<b>Atención:</b> el sorteo se aplica en toda la galaxia, no en cada servidor por separado (las imágenes son ilustrativas y pueden no coincidir con los productos).<br><br><br>
+<b>¡Gana fantásticos premios en el transformador lunar!</b><br><br>
+Canjea tus cápsulas por boletos para la lotería en el transformador lunar y podrás ganar estupendos premios para el juego en cada servidor:<br><br>
+<ul>
+		<li>1 lote de un millón de uridium</li>
+		<li>1 lote de 30 láseres LF4 completamente mejorados</li>
+		<li>2 lotes de 10 láseres LF4 completamente mejorados</li>
+		<li>5 lotes de 5 láseres LF4 completamente mejorados</li>
+		<li>1 lote de 30 generadores de escudo SG3N-B02 completamente mejorados</li>
+		<li>2 lotes de 10 generadores de escudo SG3N-B02 completamente mejorados</li>
+		<li>5 lotes de 5 generadores de escudo SG3N-B02 completamente mejorados</li>
+		<li>5 lotes de 50.000 unidades de munición láser UCB-100</li>
+		<li>20 lotes de 100.000 uridium</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_darkorbit"><![CDATA[<b>¡Gana fantásticos premios en el transformador solar!</b><br><br>
+Canjea tus cápsulas por boletos para la lotería en el transformador solar y podrás ganar bonos fantásticos canjeables en una de las tiendas online más importantes:<br><br>
+<ul>
+<li>1 bono valorado en 1500€</li>
+<li>3 bonos valorados en 350€</li>
+<li>11 bonos valorados en 150€</li>
+</ul>
+<br><br>
+<b>Atención:</b> el sorteo se aplica en toda la galaxia, no en cada servidor por separado (las imágenes son ilustrativas y pueden no coincidir con los productos).<br><br><br>
+<b>¡Gana fantásticos premios en el transformador lunar!</b><br><br>
+Canjea tus cápsulas por boletos para la lotería en el transformador lunar y podrás ganar estupendos premios para el juego en cada servidor:<br><br>
+<ul>
+		<li>1 lote de un millón de uridium</li>
+		<li>1 lote de 30 láseres LF4 completamente mejorados</li>
+		<li>2 lotes de 10 láseres LF4 completamente mejorados</li>
+		<li>5 lotes de 5 láseres LF4 completamente mejorados</li>
+		<li>1 lote de 30 generadores de escudo SG3N-B02 completamente mejorados</li>
+		<li>2 lotes de 10 generadores de escudo SG3N-B02 completamente mejorados</li>
+		<li>5 lotes de 5 generadores de escudo SG3N-B02 completamente mejorados</li>
+		<li>5 lotes de 50.000 unidades de munición láser UCB-100</li>
+		<li>20 lotes de 100.000 uridium</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_frost"><![CDATA[<b>¡Gana fantásticos premios en el transformador glacial!</b><br><br>
+Canjea tus cápsulas por boletos para la lotería en el transformador glacial y podrás ganar premios astronómicos! Se pueden ganar los siguientes lotes en cada uno de los servidores:<br><br>
+<ul>
+<li>1 lote de 1 millón de uridium</li>
+<li>20 lotes de 100 000 uridium</li>
+<li>1 lote de 30 láseres LF-4 mejorados al máximo</li>
+<li>2 lotes de 10 láseres LF-4 mejorados al máximo</li>
+<li>5 lotes de 5 láseres LF-4 mejorados al máximo</li>
+<li>1 lote de 30 generadores de escudo SG3N-B02 mejorados al máximo</li>
+<li>2 lotes de 10 generadores de escudo SG3N-B02 mejorados al máximo</li>
+<li>5 lotes de 5 generadores de escudo SG3N-B02 mejorados al máximo</li>
+<li>5 lotes de 50 000 unidades de munición láser UCB-100</li>
+<li>10 lotes de 1 Arctic Spectrum</li>
+<li>10 lotes de 1 Arctic Sentinel </li>
+<li>10 lotes de 1 Arctic Venom</li>
+<li>10 lotes de 1 Arctic Nostromo Ambassador</li>
+<li>10 lotes de 1 Arctic Pusat</li>
+<li>10 lotes de 1 Arctic Vengeance Lightning</li>
+<li>10 lotes de 1 Ice Portal</li>
+</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_hitac"><![CDATA[<b>¡Gana grandes premios con el transformador de cápsulas!</b><br><br> Al canjear tus cápsulas por boletos de lotería con el transformador de cápsulas podrás conseguir premios astronómicos como los siguientes (cada uno en su respectivo servidor):<br><br> <ul> <li>1 premio de 30 LF-4 Magmadrill.</li> <li>2 premios de 10 LF-4 Magmadrill.</li> <li>5 premios de 5 LF-4 Magmadrill.</li> <li>1 premio de 30 LF-4 nivel 16.</li> <li>2 premios de 10 LF-4 nivel 16.</li> <li>5 premios de 5 LF-4 nivel 16.</li> <li>3 premios de 1350 infiltraceites.</li> <li>20 premios de 450 infiltraceites.</li> <li>20 premios de 1 mes Premium.</li> <li>5 premios de un conjunto Inferno al completo.</li> </ul>]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country_default"><![CDATA[Lo sentimos, pero no puedes participar en la lotería de premios reales desde tu país.]]></item>
+ <item name="payment_to_banking"><![CDATA[Al área de pagos]]></item>
+ <item name="payment_to_banking_upper"><![CDATA[AL ÁREA DE PAGOS]]></item>
+ <item name="payment_to_deals"><![CDATA[A LAS OFERTAS]]></item>
+ <item name="subscription_uridium_start_xl_history"><![CDATA[Te has suscrito al paquete ventaja de uridium XL]]></item>
+ <item name="subscription_rebate_start_xl_history"><![CDATA[Te has suscrito al paquete ventaja descuento XL]]></item>
+ <item name="subscription_double_start_xl_history"><![CDATA[Te has suscrito al paquete ventaja duplicador XL]]></item>
+ <item name="subscription_uridium_start_normal_history"><![CDATA[Te has suscrito al paquete ventaja de uridium]]></item>
+ <item name="subscription_rebate_start_normal_history"><![CDATA[Te has suscrito al paquete ventaja descuento]]></item>
+ <item name="subscription_double_start_normal_history"><![CDATA[Te has suscrito al paquete ventaja duplicador]]></item>
+ <item name="subscription_uridium_ends_xl_history"><![CDATA[Se ha cancelado la suscripción al paquete ventaja de uridium XL]]></item>
+ <item name="subscription_rebate_ends_xl_history"><![CDATA[Se ha cancelado la suscripción al paquete ventaja descuento XL]]></item>
+ <item name="subscription_double_ends_xl_history"><![CDATA[Se ha cancelado la suscripción al paquete duplicador XL]]></item>
+ <item name="subscription_uridium_ends_normal_history"><![CDATA[Se ha cancelado la suscripción al paquete ventaja de uridium]]></item>
+ <item name="subscription_rebate_ends_normal_history"><![CDATA[Se ha cancelado la suscripción al paquete ventaja descuento]]></item>
+ <item name="subscription_double_ends_normal_history"><![CDATA[Se ha cancelado la suscripción al paquete duplicador]]></item>
+ <item name="subscription_uridium_booking_history"><![CDATA[Bono de uridium adquirido]]></item>
+ <item name="subscription_rebate_booking_history"><![CDATA[Bono descuento prolongado automáticamente]]></item>
+ <item name="subscription_double_booking_history"><![CDATA[Bono duplicador adquirido]]></item>
+ <item name="payment_hl_1_new"><![CDATA[Paquete ventaja duplicador:]]></item>
+ <item name="payment_teaser_1_new"><![CDATA[Con este bono te beneficias del doble por cada caja bono que acumules durante tu juego, ¡así el botín obtenido con cada caja bono se te abonará por duplicado!]]></item>
+ <item name="payment_hl_2_new"><![CDATA[Paquete ventaja de uridium:]]></item>
+ <item name="payment_teaser_2_new"><![CDATA[Se acabaron los números rojos: <br />¡Cada semana te transferimos 10.000 uridium a tu cuenta!]]></item>
+ <item name="payment_hl_3_new"><![CDATA[Paquete ventaja descuento:]]></item>
+ <item name="payment_teaser_3_new"><![CDATA[Este paquete ventaja te convierte en un cazador de gangas: ¡Por cada artículo que compres con uridium obtienes un 25% de descuento!]]></item>
+ <item name="payment_hl_4_new"><![CDATA[Kits de principiante - Vengeance, Leonov y Goliath:]]></item>
+ <item name="payment_teaser_4_new"><![CDATA[¿Eres nuevo en DarkOrbit y buscas una ganga? ¡Aprovéchate y ahorra hasta un 30%!]]></item>
+ <item name="payment_hl_5_new"><![CDATA[Paquetes ahorro - Aspirante, Profesional y Élite:]]></item>
+ <item name="payment_teaser_5_new"><![CDATA[¿Eres un ahorrador y calculas hasta el último céntimo? ¡Aprovéchate y ahorra hasta un 50%!]]></item>
+ <item name="abo_uridium_new"><![CDATA[Uridium Bonus credit]]></item>
+ <item name="promo_pepsi_text_top"><![CDATA[Please enter your promotional code:]]></item>
+ <item name="promo_pepsi_success"><![CDATA[Code successfully redeemed!]]></item>
+ <item name="promo_pepsi_error_1"><![CDATA[An error occurred.<br />Please try again later!]]></item>
+ <item name="promo_pepsi_error_2"><![CDATA[An error occurred.<br />Your account is now locked for 1 hour. Please try again later!]]></item>
+ <item name="promo_pepsi_error_504"><![CDATA[An error occurred.<br />You have entered multiple invalid codes. The system is now temporarily locked!]]></item>
+ <item name="promo_pepsi_error_509"><![CDATA[An error occurred.<br />The code you entered is not valid!]]></item>
+ <item name="promo_pepsi_error_510"><![CDATA[An error occurred.<br />The code you entered has already been redeemed!]]></item>
+ <item name="promo_pepsi_package_redeemed"><![CDATA[Pepsi Promo Package redeemed!]]></item>
+ <item name="preroll_watched"><![CDATA[¡Recibe una recompensa por ver un anuncio!]]></item>
+ <item name="preroll_csi"><![CDATA[¡Has recibido un bono por participar en la encuesta!]]></item>
+ <item name="preroll_payment_link"><![CDATA[¡Elimina la publicidad a cambio de un pequeño pago!]]></item>
+ <item name="preroll_hint"><![CDATA[¡Ve el anuncio entero y recibirás 100 uridium cuando acabe!]]></item>
+ <item name="galaxyGate_cinema_watched"><![CDATA[¡Has recibido energía extra por ir al cine!]]></item>
+ <item name="payment_targeted_deal_text"><![CDATA[¡Llévate este ofertón ahora!]]></item>
+</resource>

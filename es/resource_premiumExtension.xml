@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="premium_extension_call_claim_1month_EUR"><![CDATA[¡Amplía tu afiliación Premium durante 1 mes
+por tan solo %AMOUNT%&nbsp;€! Reparaciones gratuitas, ventajas temporales, ayudas automáticas... ¡disfruta de ellas!<br>
+        <br>
+SOLO AQUÍ Y AHORA: ¡Tus ventajas Premium a un precio de risa!]]></item>
+ <item name="premium_extension_call_claim_1month_USD"><![CDATA[¡Amplía tu afiliación Premium durante 1 mes
+por tan solo %AMOUNT%&nbsp;$! Reparaciones gratuitas, ventajas temporales, ayudas automáticas... ¡disfruta de ellas!<br>
+        <br>
+SOLO AQUÍ Y AHORA: ¡Tus ventajas Premium a un precio de risa!]]></item>
+ <item name="premium_extension_call_claim_1month_GBP"><![CDATA[¡Amplía tu afiliación Premium durante 1 mes
+por tan solo %AMOUNT%&nbsp;£! Reparaciones gratuitas, ventajas temporales, ayudas automáticas... ¡disfruta de ellas!<br>
+        <br>
+SOLO AQUÍ Y AHORA: ¡Tus ventajas Premium a un precio de risa!]]></item>
+ <item name="premium_extension_1month_benefit1"><![CDATA[<strong>Disfruta de ventajas en los precios y de descuentos</strong>]]></item>
+ <item name="premium_extension_1month_benefit2"><![CDATA[<strong>Reparaciones de nave y P.E.T. gratuitas</strong>]]></item>
+ <item name="premium_extension_1month_benefit3"><![CDATA[<strong>Ventajas temporales y más capacidad de carga</strong>]]></item>
+ <item name="premium_extension_1month_benefit4"><![CDATA[<strong>Autorefinamiento de materias primas y mucho más</strong>]]></item>
+</resource>

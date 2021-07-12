@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="labor_xtm_test_key"><![CDATA[XTM Test Key in the file laborres.xml]]></item>
+ <item name="labor_rohstoffe"><![CDATA[MATERIAS PRIMAS]]></item>
+ <item name="labor_intro"><![CDATA[Con arrastrar y soltar puedes equipar rápidamente tus artículos: Arrastra la materia prima sobre el artículo deseado.]]></item>
+ <item name="labor_prometid"><![CDATA[PROMETID]]></item>
+ <item name="labor_duranium"><![CDATA[DURANIUM]]></item>
+ <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
+ <item name="labor_items"><![CDATA[EQUIPAR OBJETOS]]></item>
+ <item name="labor_laser"><![CDATA[LÁSER]]></item>
+ <item name="labor_raketen"><![CDATA[MISILES]]></item>
+ <item name="labor_antrieb"><![CDATA[MOTOR]]></item>
+ <item name="labor_schild"><![CDATA[ESCUDO]]></item>
+ <item name="labor_txt_a"><![CDATA[Aumenta la fuerza del disparo en un 15%]]></item>
+ <item name="labor_txt_b"><![CDATA[Aumenta el rendimiento en un 10%]]></item>
+ <item name="labor_txt_c"><![CDATA[Aumenta un 30% la fuerza de disparo o un 20% el rendimiento.]]></item>
+ <item name="alert_head"><![CDATA[ACTUALIZAR PROMERIUM]]></item>
+ <item name="alert_txt"><![CDATA[Si se hace una actualización con estas materias primas, se perderán las actualizacions efectuadas hasta ahora.]]></item>
+ <item name="alert_line"><![CDATA[ATENCIÓN]]></item>
+ <item name="alert_upd"><![CDATA[ACTUALIZAR]]></item>
+ <item name="alert_abo"><![CDATA[CANCELAR]]></item>
+</resource>

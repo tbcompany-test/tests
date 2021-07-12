@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="standalone_headline_update"><![CDATA[Client Update]]></item>
+ <item name="standalone_headline_faction"><![CDATA[Firmenwahl]]></item>
+ <item name="standalone_headline_offers"><![CDATA[Deal of the day]]></item>
+ <item name="standalone_text_or"><![CDATA[or]]></item>
+ <item name="standalone_text_greeting"><![CDATA[Hi, %USER%]]></item>
+ <item name="standalone_text_update"><![CDATA[A new client version has been released, the update is required to play<br />Please wait until the installation of the update is finished.]]></item>
+ <item name="standalone_text_updateProgress"><![CDATA[DOWNLOADED %DONE% of %ALL%]]></item>
+ <item name="standalone_text_callMMO"><![CDATA[Trete dem Kolonialapparat bei!]]></item>
+ <item name="standalone_text_callEIC"><![CDATA[In Ehre und Herrlichkeit!]]></item>
+ <item name="standalone_text_callVRU"><![CDATA[Fortschritt durch Wissen!]]></item>
+ <item name="standalone_text_fullMMO"><![CDATA[Mars Mining Operations]]></item>
+ <item name="standalone_text_fullEIC"><![CDATA[Earth Industries Corporations]]></item>
+ <item name="standalone_text_fullVRU"><![CDATA[Venus Resources Unlimited]]></item>
+ <item name="standalone_label_selectServer"><![CDATA[Choose server]]></item>
+ <item name="standalone_label_selectShip"><![CDATA[Schiff wählen]]></item>
+ <item name="standalone_link_createAccount"><![CDATA[erstelle einen Account]]></item>
+ <item name="standalone_link_goBack"><![CDATA[Back]]></item>
+ <item name="standalone_link_proceed"><![CDATA[Fortfahren]]></item>
+ <item name="standalone_link_cancel"><![CDATA[Cancel]]></item>
+ <item name="standalone_link_join"><![CDATA[Connect]]></item>
+ <item name="standalone_link_start"><![CDATA[Start]]></item>
+ <item name="standalone_link_confirm"><![CDATA[Confirm]]></item>
+ <item name="standalone_link_close"><![CDATA[exit]]></item>
+ <item name="standalone_warn_externalLink"><![CDATA[Achtung: Der Link wird in deinem Browser geöffnet.]]></item>
+ <item name="standalone_error_linkRequiresLogin"><![CDATA[Du musst eingeloggt sein, um diesen Link öffnen zu können.]]></item>
+</resource>

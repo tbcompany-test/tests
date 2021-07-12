@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="premium_extension_call_claim_1month_EUR"><![CDATA[Extend your premium advantages for one additional month for the incredibly low price of only %AMOUNT%&nbsp;€! Free repairs, time advantages, automatic helpers... use your privileges!<br>
+        <br>
+ONLY HERE AND NOW: Your premium advantages at an incredibly low price!]]></item>
+ <item name="premium_extension_call_claim_1month_USD"><![CDATA[Extend your premium advantages for one additional month for the incredibly low price of only %AMOUNT%&nbsp;$! Free repairs, time advantages, automatic helpers... use your privileges!<br>
+        <br>
+ONLY HERE AND NOW: Your premium advantages at an incredibly low price!]]></item>
+ <item name="premium_extension_call_claim_1month_GBP"><![CDATA[Extend your premium advantages for one additional month for the incredibly low price of only %AMOUNT%&nbsp;£!  Free repairs, time advantages, automatic helpers... use your privileges!<br>
+        <br>
+ONLY HERE AND NOW: Your premium advantages at an incredibly low price!]]></item>
+ <item name="premium_extension_1month_benefit1"><![CDATA[<strong>Use price advantages and rebates</strong>]]></item>
+ <item name="premium_extension_1month_benefit2"><![CDATA[<strong>Free spaceship and P.E.T. repairs</strong>]]></item>
+ <item name="premium_extension_1month_benefit3"><![CDATA[<strong>Time advantages and more loading capacities</strong>]]></item>
+ <item name="premium_extension_1month_benefit4"><![CDATA[<strong>Automatic resource refining and much, much more</strong>]]></item>
+</resource>

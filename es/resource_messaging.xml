@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="messaging_subNav_inbox"><![CDATA[RECIBIDOS]]></item>
+ <item name="messaging_subNav_inbox_long"><![CDATA[Recibidos]]></item>
+ <item name="messaging_subNav_outbox"><![CDATA[ENVIADOS]]></item>
+ <item name="messaging_subNav_outbox_long"><![CDATA[Enviados]]></item>
+ <item name="messaging_subNav_contacts"><![CDATA[CONTACTOS]]></item>
+ <item name="messaging_subNav_contacts_long"><![CDATA[Contactos]]></item>
+ <item name="messaging_subNav_notes"><![CDATA[NOTAS]]></item>
+ <item name="messaging_subNav_notes_long"><![CDATA[Notas]]></item>
+ <item name="messaging_common_sysMessageSender"><![CDATA[DarkOrbit]]></item>
+ <item name="messaging_common_auctionSender"><![CDATA[Subasta interplanetaria]]></item>
+ <item name="messaging_common_clan"><![CDATA[Clan:]]></item>
+ <item name="messaging_common_selectAll"><![CDATA[Todos]]></item>
+ <item name="messaging_common_newMessage"><![CDATA[Mensaje nuevo]]></item>
+ <item name="messaging_common_newMessage_long"><![CDATA[Redactar nuevo mensaje]]></item>
+ <item name="messaging_common_okayBtn"><![CDATA[OK]]></item>
+ <item name="messaging_common_confirmBtn"><![CDATA[OK]]></item>
+ <item name="messaging_common_abortBtn"><![CDATA[Cancelar]]></item>
+ <item name="messaging_common_pageInfo"><![CDATA[%start%-%end% de %total%]]></item>
+ <item name="messaging_common_save"><![CDATA[Guardar]]></item>
+ <item name="messaging_common_reply"><![CDATA[Responder]]></item>
+ <item name="messaging_common_forward"><![CDATA[Reenviar]]></item>
+ <item name="messaging_common_replyAll"><![CDATA[Responder a todos]]></item>
+ <item name="messaging_common_saveAsNote"><![CDATA[Guardar como nota]]></item>
+ <item name="messaging_common_blacklist"><![CDATA[Lista negra]]></item>
+ <item name="messaging_common_blacklist_long"><![CDATA[Abrir lista negra]]></item>
+ <item name="messaging_common_newNote"><![CDATA[Nueva nota]]></item>
+ <item name="messaging_common_newNote_long"><![CDATA[Crear nota nueva]]></item>
+ <item name="messaging_filter_all"><![CDATA[Todos]]></item>
+ <item name="messaging_filter_unread"><![CDATA[No leídos]]></item>
+ <item name="messaging_filter_clan"><![CDATA[Clan]]></item>
+ <item name="messaging_filter_system"><![CDATA[Sistema]]></item>
+ <item name="messaging_filter_auction"><![CDATA[Subasta]]></item>
+ <item name="messaging_filter_info"><![CDATA[Info]]></item>
+ <item name="messaging_folderView_recipients"><![CDATA[Para:]]></item>
+ <item name="messaging_folderView_userWrote"><![CDATA[%username% escribió:]]></item>
+ <item name="messaging_contacts_sendAnInvite"><![CDATA[te ha enviado una invitación...]]></item>
+ <item name="messaging_contacts_confirm"><![CDATA[Aceptar]]></item>
+ <item name="messaging_contacts_decline"><![CDATA[Rechazar]]></item>
+ <item name="messaging_tooltip_mailStatusAnswered"><![CDATA[Mensajes respondidos]]></item>
+ <item name="messaging_tooltip_mailStatusRead"><![CDATA[Mensajes leídos]]></item>
+ <item name="messaging_tooltip_mailStatusUnread"><![CDATA[Mensajes sin leer]]></item>
+ <item name="messaging_tooltip_messageDelete"><![CDATA[Borrar mensaje]]></item>
+ <item name="messaging_tooltip_addToBlacklist"><![CDATA[Agregar remitente a la lista negra]]></item>
+ <item name="messaging_tooltip_selectAll"><![CDATA[Seleccionar todos]]></item>
+ <item name="messaging_tooltip_deleteSelected"><![CDATA[Borrar seleccionados]]></item>
+ <item name="messaging_tooltip_noteForward"><![CDATA[Reenviar nota]]></item>
+ <item name="messaging_tooltip_noteDelete"><![CDATA[Borrar nota]]></item>
+ <item name="messaging_tooltip_friendCancel"><![CDATA[Cancelar amistad]]></item>
+ <item name="messaging_tooltip_sendMessage"><![CDATA[Enviar mensaje]]></item>
+ <item name="messaging_tooltip_blockAllNotifications"><![CDATA[Bloquea automáticamente todas las invitaciones.]]></item>
+ <item name="messaging_notes_premiumBlocked"><![CDATA[No es visible porque se ha sobrepasado el límite de notas.]]></item>
+ <item name="messaging_msgWrite_replyAcronym"><![CDATA[Re:]]></item>
+ <item name="messaging_msgWrite_search"><![CDATA[Buscar]]></item>
+ <item name="messaging_msgWrite_contacts"><![CDATA[Contactos]]></item>
+ <item name="messaging_msgWrite_recipients"><![CDATA[Para:]]></item>
+ <item name="messaging_msgWrite_subject"><![CDATA[Asunto:]]></item>
+ <item name="messaging_msgWrite_sendMessage"><![CDATA[Enviar mensaje]]></item>
+ <item name="messaging_msgWrite_cancel"><![CDATA[Cancelar]]></item>
+ <item name="messaging_msgWrite_messageToClan"><![CDATA[Mensaje al clan]]></item>
+ <item name="messaging_help_title"><![CDATA[Ayuda]]></item>
+ <item name="messaging_help_inbox_h"><![CDATA[Recibidos]]></item>
+ <item name="messaging_help_inbox_p"><![CDATA[En "Recibidos" encontrarás todos los mensajes que te han enviado. Ahí podrás leerlos, responderlos o borrarlos. Selecciona en el menú desplegable arriba a la izquierda los mensajes que quieres que se te muestren. Haz clic en "Nuevo mensaje" para escribir a tus amigos.
+<br /><br />Los mensajes se guardan como máximo durante 14 días y luego el sistema los borra automáticamente. Si quieres guardar un mensaje durante más tiempo, podrás guardarlo como nota.]]></item>
+ <item name="messaging_help_compose_h"><![CDATA[Redactar nuevo mensaje]]></item>
+ <item name="messaging_help_compose_p"><![CDATA[Para enviar un mensaje a otro jugador, introduce el alias deseado en el campo de búsqueda de arriba a la izquierda. Si el jugador existe en un servidor, podrás añadirlo con el botón de "más" a la lista de destinatarios. Si has guardado amigos en tu lista de contactos, puedes agregarlos directamente también como destinatarios. 
+<br /><br />Para evitar el spam, se permite un máximo de 5 destinatarios por cada mensaje. Excepción: Mensajes de clan que contienen a todos los miembros del clan.]]></item>
+ <item name="messaging_help_sent_h"><![CDATA[Mensajes enviados]]></item>
+ <item name="messaging_help_sent_p"><![CDATA[En "Enviados" encontrarás todos los mensajes que hayas enviado a otros jugadores. Si quieres, también puedes borrarlos. No obstante, si lo que deseas es mantenerlos, guárdalos como nota.]]></item>
+ <item name="messaging_help_contacts_h"><![CDATA[Contactos]]></item>
+ <item name="messaging_help_contacts_p"><![CDATA[En "Contactos" puedes guardar a los compañeros y amigos a los que más escribas para no tener que buscarlos cada vez que quieras enviarles un mensaje. Los miembros del clan se añaden a la lista de contactos automáticamente.<br /><br />En la lista puedes guardar un número de contactos ilimitado. Para ello, tienes varias posibilidades:<br /><br />
+<ol>
+<li>Visita la página del perfil del jugador deseado y envíale una solicitud de amistad.</li> 
+<li>Introduce su alias en la ventana de búsqueda de la pestaña de "Contactos" y agrégalo a la lista de contactos haciendo clic en el símbolo de más.</li>
+<li>En cuanto hagas clic en el nombre del jugador, se abrirá el menú del piloto. Haz clic en el símbolo de la carta para enviarle un mensaje.</li>	
+</ol>]]></item>
+ <item name="messaging_help_notes_h"><![CDATA[Notas]]></item>
+ <item name="messaging_help_notes_p"><![CDATA[Aquí puedes crear notas sobre otros jugadores o acontecimientos importantes. Además, podrás guardar los mensajes que quieras conservar. Los mensajes de "Recibidos" se borran después de 14 días, pero si los guardas como nota los mantendrás de forma permanente.<br /><br />Advertencia: Puedes guardar un máximo de 10 notas, pero si eres jugador Premium ese número aumentará hasta 50.]]></item>
+ <item name="messaging_errorLayer_system_title"><![CDATA[Error desconocido]]></item>
+ <item name="messaging_errorLayer_system_text"><![CDATA[Se ha producido un error desconocido. Haz clic en "OK" para reiniciar el sistema de mensajes.]]></item>
+ <item name="messaging_errorLayer_blocked_title"><![CDATA[Error]]></item>
+ <item name="messaging_errorLayer_blocked_text"><![CDATA[El destinatario no quiere recibir mensajes.]]></item>
+ <item name="messaging_errorLayer_spam_title"><![CDATA[Spam]]></item>
+ <item name="messaging_errorLayer_spam_text"><![CDATA[Tu cuenta de mensajes se ha bloqueado y no puedes enviar mensajes. Para desbloquearla, contacta con el soporte.]]></item>
+ <item name="messaging_errorLayer_blacklisted_title"><![CDATA[Lista negra]]></item>
+ <item name="messaging_errorLayer_blacklisted_text"><![CDATA[El destinatario te ha agregado a la lista negra. No puedes enviarle ningún mensaje.]]></item>
+ <item name="messaging_errorLayer_subjectTooShort_title"><![CDATA[Asunto demasiado corto]]></item>
+ <item name="messaging_errorLayer_subjectTooShort_text"><![CDATA[El asunto introducido es demasiado corto, debe tener al menos tres caracteres.]]></item>
+ <item name="messaging_errorLayer_subjectTooLong_title"><![CDATA[Asunto demasiado largo]]></item>
+ <item name="messaging_errorLayer_subjectTooLong_text"><![CDATA[El asunto introducido es demasiado largo, debe tener un máximo de 50 caracteres.]]></item>
+ <item name="messaging_errorLayer_bodyTooShort_title"><![CDATA[Mensaje demasiado corto]]></item>
+ <item name="messaging_errorLayer_bodyTooShort_text"><![CDATA[El mensaje introducido es demasiado corto, ¡tiene que tener al menos 5 caracteres!]]></item>
+ <item name="messaging_errorLayer_wrongCaptcha_title"><![CDATA[Código incorrecto]]></item>
+ <item name="messaging_errorLayer_wrongCaptcha_text"><![CDATA[El código introducido es incorrecto.]]></item>
+ <item name="messaging_errorLayer_maxUnknownUser_title"><![CDATA[Demasiados destinatarios]]></item>
+ <item name="messaging_errorLayer_maxUnknownUser_text"><![CDATA[No se puede enviar tu mensaje porque más de diez de los destinatarios no están ni en tus contactos ni en tu clan.]]></item>
+ <item name="messaging_errorLayer_bodyTooLong_title"><![CDATA[Mensaje demasiado largo]]></item>
+ <item name="messaging_errorLayer_bodyTooLong_text"><![CDATA[El mensaje introducido es demasiado largo, ¡tiene que tener un máximo de 5000 caracteres!]]></item>
+ <item name="messaging_errorLayer_noRecipient_title"><![CDATA[Ningún destinatario]]></item>
+ <item name="messaging_errorLayer_noRecipient_text"><![CDATA[Ningún destinatario disponible.]]></item>
+ <item name="messaging_errorLayer_tooManyRecipients_title"><![CDATA[Demasiados destinatarios]]></item>
+ <item name="messaging_errorLayer_tooManyRecipients_text"><![CDATA[El número de destinatarios está limitado a 5.]]></item>
+ <item name="messaging_errorLayer_addOfClanWhileRecipients_title"><![CDATA[Añadir destinatario]]></item>
+ <item name="messaging_errorLayer_addOfClanWhileRecipients_text"><![CDATA[Ya hay destinatarios disponibles. Solo puedes enviar un mensaje a un máximo de 5 jugadores o a todo el clan.]]></item>
+ <item name="messaging_errorLayer_replyNoRecipientSwitch_title"><![CDATA[No se puede editar el destinatario]]></item>
+ <item name="messaging_errorLayer_replyNoRecipientSwitch_text"><![CDATA[Al responder a un mensaje no se puede editar el destinatario.]]></item>
+ <item name="messaging_errorLayer_notesLimitReached_title"><![CDATA[Límite de notas alcanzado]]></item>
+ <item name="messaging_errorLayer_notesLimitReached_text"><![CDATA[Has alcanzado el límite de %notesLimit% notas. Para poder crear una nueva, tendrás que borrar alguna.]]></item>
+ <item name="messaging_errorLayer_restrictionUnknownUser_title"><![CDATA[Error]]></item>
+ <item name="messaging_errorLayer_restrictionUnknownUser_text"><![CDATA[El mensaje no se ha enviado. En el nivel %userlevel% solo puedes enviar %maxMessages% mensaje(s) como máximo a usuarios que no están en tu lista de contactos o en tu clan. Esta restricción se pone a cero cada 24 horas.]]></item>
+ <item name="messaging_confirmLayer_contactRequestDecline_title"><![CDATA[Rechazar solicitud de amistad]]></item>
+ <item name="messaging_confirmLayer_contactRequestDecline_text"><![CDATA[¿Quieres rechazar la solicitud de amistad?]]></item>
+ <item name="messaging_confirmLayer_contactCancelInvitation_title"><![CDATA[Retirar solicitud de contacto]]></item>
+ <item name="messaging_confirmLayer_contactCancelInvitation_text"><![CDATA[¿Seguro que quieres retirar la solicitud de contacto?]]></item>
+ <item name="messaging_successLayer_deleteDeclinedInvitation_title"><![CDATA[Tu solicitud de contacto]]></item>
+ <item name="messaging_successLayer_deleteDeclinedInvitation_text"><![CDATA[Se ha eliminado la solicitud de contacto rechazada.]]></item>
+ <item name="messaging_confirmLayer_contactDelete_title"><![CDATA[Cancelar amistad]]></item>
+ <item name="messaging_confirmLayer_contactDelete_text"><![CDATA[¿Quieres cancelar la amistad?]]></item>
+ <item name="messaging_confirmLayer_noteDelete_title"><![CDATA[Borrar nota]]></item>
+ <item name="messaging_confirmLayer_noteDelete_text"><![CDATA[¿Quieres borrar la nota?]]></item>
+ <item name="messaging_confirmLayer_messageDelete_title"><![CDATA[Borrar mensaje]]></item>
+ <item name="messaging_confirmLayer_messageDelete_text"><![CDATA[¿Quieres borrar el mensaje?]]></item>
+ <item name="messaging_confirmLayer_addToBlacklist_title"><![CDATA[Agregar a la lista negra]]></item>
+ <item name="messaging_confirmLayer_addToBlacklist_text"><![CDATA[¿Quieres agregar a %username% a la lista negra? Si lo haces, no podrá enviarte más mensajes.]]></item>
+ <item name="messaging_confirmLayer_blackListDelete_title"><![CDATA[Eliminar de la lista negra]]></item>
+ <item name="messaging_confirmLayer_blackListDelete_text"><![CDATA[¿Quieres eliminar a %username% de la lista negra? Si lo haces, podrá volver a enviarte mensajes.]]></item>
+ <item name="messaging_confirmLayer_messageMultiDelete_title"><![CDATA[Borrar mensajes]]></item>
+ <item name="messaging_confirmLayer_messageMultiDelete_text"><![CDATA[¿Quieres borrar los mensajes seleccionados?]]></item>
+ <item name="messaging_confirmLayer_blockAllInvites_title"><![CDATA[Solicitudes de contacto]]></item>
+ <item name="messaging_confirmLayer_blockAllInvites_text"><![CDATA[¿Seguro que quieres bloquear todas las solicitudes de contacto? Se rechazarán todas las solicitudes que sigan pendientes y se retirarán todas las invitaciones que hayas enviado.]]></item>
+ <item name="messaging_successLayer_contactRequestAccepted_title"><![CDATA[Solicitud de amistad aceptada]]></item>
+ <item name="messaging_successLayer_contactRequestAccepted_text"><![CDATA[La solicitud de amistad se ha aceptado correctamente.]]></item>
+ <item name="messaging_successLayer_noteSaved_title"><![CDATA[Nota guardada]]></item>
+ <item name="messaging_successLayer_noteSaved_text"><![CDATA[La nota se ha guardado correctamente.]]></item>
+ <item name="messaging_successLayer_messageSavedAsNote_title"><![CDATA[Guardado como nota]]></item>
+ <item name="messaging_successLayer_messageSavedAsNote_text"><![CDATA[El mensaje se ha guardado como nota correctamente.]]></item>
+ <item name="messaging_successLayer_messageSent_title"><![CDATA[Mensaje enviado]]></item>
+ <item name="messaging_successLayer_messageSent_text"><![CDATA[El mensaje se ha enviado correctamente]]></item>
+ <item name="messaging_successLayer_unblockAllInvites_title"><![CDATA[Solicitudes de contacto]]></item>
+ <item name="messaging_successLayer_blockAllInvites_text"><![CDATA[Has bloqueado todas las invitaciones.]]></item>
+ <item name="messaging_successLayer_unblockAllInvites_text"><![CDATA[Puedes volver a recibir invitaciones.]]></item>
+ <item name="messaging_label_blockAllInvitation"><![CDATA[Bloquear todas las invitaciones]]></item>
+ <item name="messaging_label_yourInviteIsPending"><![CDATA[Tu invitación todavía no ha sido respondida.]]></item>
+ <item name="messaging_label_yourInviteWasDeclined"><![CDATA[Tu invitación ha sido rechazada.]]></item>
+ <item name="messaging_label_cancelYourInvite"><![CDATA[Retirar]]></item>
+ <item name="messaging_label_deleteYourInvite"><![CDATA[Eliminar]]></item>
+ <item name="messaging_systemMessage_1_subject"><![CDATA[¡Bienvenido al sistema de mensajes de DarkOrbit!]]></item>
+ <item name="messaging_systemMessage_1_body"><![CDATA[Hola, piloto espacial:<br />
+<br />
+Hoy queremos presentarte nuestra nueva actualización de DarkOrbit: ¡El sistema de mensajes! El antiguo sistema de mensajes interno de los clanes se ha renovado por completo y se le han añadido nuevas funciones.<br />
+<br />
+Novedades:<br />
+<br />
+<ul>
+<li>Un método de envío de mensajes a varios jugadores rápido y cómodo.</li>
+<li>Vista de mensajes ordenada y compacta.</li>
+<li>Los emails se guardan durante dos semanas y luego el sistema los borra automáticamente o pueden guardarse de forma permanente como nota.</li>
+<li>Acceso a tu lista de amigos y envío cómodo de mensajes a ellos (en principio, los amigos solo pueden agregarse a través de su página de perfil).</li>
+<li>Útil sistema de notas que te permite guardar hasta 10 mensajes o notas creadas de forma permanente. Si eres jugador Premium, puedes guardar hasta 50 notas.</li>
+<li>Una lista negra que te permite bloquear mensajes de jugadores no deseados.</li>
+</ul>
+<br />
+Advertimos que no se tolerarán los mensajes con contenido pornográfico, racista o publicitario y que el incumplimiento de las normas se penalizará de acuerdo a nuestras CGC.<br /><br />
+Si tienes alguna pregunta o necesitas más información, échale un vistazo a nuestras F.A.Q. del foro.<br />
+<br />
+¡Que te diviertas con el nuevo sistema de mensajes!<br /><br />
+Tu equipo de DarkOrbit]]></item>
+ <item name="messaging_systemMessage_2_subject"><![CDATA[Bienvenida a %FACTION%]]></item>
+ <item name="messaging_systemMessage_2_body"><![CDATA[Recluta, ¡te damos la bienvenida a %FACTION%!
+<br /><br />
+¡Has hecho bien al elegir nuestra empresa! Necesitamos pilotos espaciales jóvenes y entusiastas... ¡y tú eres uno de los más destacados de la academia de vuelo! Con tu ayuda, podremos dejar atrás a las otras empresas.
+<br /><br />
+¿Quieres despegar ya? Entonces haz clic en el botón de inicio: Aparecerás directamente en el mapa espacial y comenzará tu aventura.
+<br /><br />
+Tienes suerte, ya que tenemos la <strong>misión de principiante</strong> apropiada para ti. Entrena tus habilidades de piloto, recoge tu primer equipamiento y comienza a hacerte un nombre en la historia del universo.
+<br /><br />
+Al principio, recibirás un par de misiones más sencillas para poner a prueba tus habilidades. Así te irás convirtiendo poco a poco en un piloto espacial experimentado. Si completas esas misiones con éxito, recibirás como recompensa equipamiento adicional. <strong>Vuelve a la estación y entra en el hangar</strong> para equiparlo en tu nave. En el apartado de <strong>equipamiento</strong> encontrarás una serie de ranuras vacías que podrás llenar con tus nuevos objetos. Al completar todas las misiones de principiante con éxito, encontrarás en el apartado de <strong>misiones de la página principal</strong> nuevas misiones y retos.
+<br /><br />
+Dado que eres un nuevo recluta, tu empresa quiere echarte un pequeño cable: Con <strong>2 semanas de ventajas Premium totalmente gratis</strong> disfrutarás de reparaciones de nave gratuitas, tiempos de carga de misiles reducidos y precios en Uridium más asequibles, entre otras cosas. 
+<br /><br />
+¡Te deseamos un buen vuelo en la galaxia de DarkOrbit!]]></item>
+ <item name="messaging_systemMessage_3_subject"><![CDATA[Paquete de apoyo]]></item>
+ <item name="messaging_systemMessage_3_body"><![CDATA[¡Enhorabuena, piloto espacial!
+<br /><br />
+Has demostrado que tienes lo que hay que tener y has colmado a tu empresa de gloria. Para apoyarte en tu batalla contra los alienígenas y las otras empresas, los directivos de tu compañía te envían este paquete de apoyo. Para canjearlo y recibir los objetos, haz clic en este enlace: %LINK%
+<br /><br />
+<ul>
+<li><strong>1 duplicador de transacciones</strong>
+<br />
+Si compras Uridium en la página del Uridium de tu cuenta, recibirás automáticamente en esa transacción la cantidad que compres duplicada. Por ejemplo, si compras 30&nbsp;000 unidades de Uridium, se te abonará un total de 60&nbsp;000.*
+</li>
+<li><strong>10&nbsp;000 unidades de Uridium</strong>
+<br />
+Con 10&nbsp;000 unidades de la moneda Premium de DarkObit, podrás hacerte con nuevo equipamiento, reparar la nave o los VANTS, o mejorar tus objetos.
+</li>
+<li><strong>2 láseres LF3</strong>
+<br />
+Dos láseres élite como estos harán que tus habilidades ofensivas aumenten como nunca. Equípalos en tu nave y disfruta de su increíble potencia de fuego.
+</li>
+<li><strong>5000 unid. de munición MCB-50</strong>
+<br />
+Una pequeña ayuda para tus correrías por el espacio: con 5000 unidades de la munición élite MCB-50, la lucha contra los alienígenas y los jugadores enemigos te resultará pan comido.
+</li>
+<li><strong>150 misiles PLT-3030</strong>
+Los misiles PLT-3030 son letales para algunos alienígenas, lo cual no quiere decir que los jugadores enemigos se diviertan mucho con ellos.
+</li>
+</ul>
+<br />
+¡Sigue así y llegarás muy lejos, piloto!
+<br /><br />
+La dirección
+<br />
+*No es canjeable durante otras ofertas especiales de tiempo limitado como la Happy Hour. Con las promociones de fútbol, el multiplicador solo es válido para la cantidad designada, no para los bonos de gol.]]></item>
+ <item name="messaging_systemMessage_3_link"><![CDATA[CLIC AQUÍ]]></item>
+ <item name="messaging_systemMessage_3_success"><![CDATA[¡Los objetos se han abonado en tu cuenta!]]></item>
+ <item name="messaging_systemMessage_3_error"><![CDATA[Los objetos ya se han abonado en tu cuenta. El enlace ya no es válido.]]></item>
+ <item name="messaging_systemMessage_4_subject"><![CDATA[Oferta única]]></item>
+ <item name="messaging_systemMessage_4_body"><![CDATA[Hola, piloto espacial:
+<br /><br />
+Tu empresa está al tanto de tu buen servicio y de las duras batallas que has librado en su nombre. Por ello, la dirección ha decidido enviarte una oferta especial única: si compras Uridium ahora por 1,99 €, recibirás el cuádruple, es decir, en lugar de los 5000 Uridium que corresponderían, te abonaremos en esta transacción un total de 20&nbsp;000 unidades de Uridium.
+<br /><br />
+Con esa cantidad podrás, por ejemplo, comprar valiosos objetos para tu nave o invertir en algunos potenciadores.
+<br /><br />
+Haz clic aquí para aceptar la oferta: %LINK%
+<br /><br />
+¡Sigue así y llegarás muy lejos, piloto!
+<br /><br />
+La dirección]]></item>
+ <item name="messaging_systemMessage_4_link"><![CDATA[CLIC AQUÍ]]></item>
+ <item name="messaging_systemMessage_4_success"><![CDATA[¿Quieres cambiar a la oferta?]]></item>
+ <item name="messaging_systemMessage_4_error"><![CDATA[La oferta ya se ha adquirido. El enlace ya no es válido.]]></item>
+ <item name="messaging_systemMessage_5_subject"><![CDATA[Oleadas de alienígenas]]></item>
+ <item name="messaging_systemMessage_5_body"><![CDATA[Hola, piloto espacial:
+<br /><br />
+Nos queda mucho que descubrir en el espacio y hay innumerables frentes de batalla abiertos. Las puertas galácticas es uno de ellos, en el que te enfrentarás a oleadas de alienígenas a los que tendrás que plantarles cara si quieres recibir una jugosa recompensa final. 
+<br /><br />
+Para larzarte a esta nueva aventura a través de una puerta galáctica, necesitarás piezas para construirla. Estas piezas las recibirás en el materializador. 
+<br /><br />
+Tu empresa también está interesada en que mejores tus habilidades de batalla en las puertas galácticas y te va a proporcionar 50 unidades de energía extra completamente gratis. Recibirás esta energía extra en forma de bonos, que te permitirán utilizar el materializador una vez con cada uno.
+<br /><br />
+Haz clic en este enlace y accederás directamente al materializador de las puertas galácticas: %LINK%
+<br /><br />
+¡Sigue así y llegarás muy lejos, piloto!
+<br /><br />
+La dirección]]></item>
+ <item name="messaging_systemMessage_5_link"><![CDATA[CLIC AQUÍ]]></item>
+ <item name="messaging_systemMessage_5_success"><![CDATA[¡Se te han abonado 50 unidades de energía extra!]]></item>
+ <item name="messaging_systemMessage_5_error"><![CDATA[Los objetos ya se han abonado en tu cuenta. El enlace ya no es válido.]]></item>
+ <item name="messaging_systemMessage_6_subject"><![CDATA[¡Prolonga todas las ventajas Premium durante un mes con esta oferta!]]></item>
+ <item name="messaging_systemMessage_6_body"><![CDATA[Hola, piloto espacial:
+<br /><br />
+Para facilitarte el inicio de tu carrera como piloto, tu empresa te regaló 2 semanas de ventajas Premium tras unirte a ellos. Estas ventajas Premium, como la reparación gratuita de la nave, se agotarán dentro de poco.
+<br /><br />
+No obstante, tu empresa quiere seguir disfrutando de tus servicios y ha decidido ofrecerte una oferta única: ¡disfruta de todas las ventajas Premium durante un mes más a precio de ganga!
+<br /><br />
+Esta oferta tiene una limitación temporal. Échale un vistazo aquí: %LINK%
+<br /><br />
+¡Sigue así y llegarás muy lejos, piloto!
+<br /><br />
+La dirección]]></item>
+ <item name="messaging_systemMessage_6_link"><![CDATA[CLIC AQUÍ]]></item>
+ <item name="messaging_systemMessage_6_success"><![CDATA[¿Quieres cambiar a la oferta?]]></item>
+ <item name="messaging_systemMessage_6_error"><![CDATA[La oferta ya se ha adquirido. El enlace ya no es válido.]]></item>
+ <item name="messaging_follow_us"><![CDATA[SÍGUENOS:]]></item>
+ <item name="messaging_informationtag_frauprotection"><![CDATA[El equipo de DarkOrbit nunca te va a preguntar por tu contraseña u otros datos de usuario, ni te va a pedir que te registres en otra página.]]></item>
+ <item name="messaging_systemMessage_7_subject"><![CDATA[Los campeones del Solar Clash 2012]]></item>
+ <item name="messaging_systemMessage_7_body"><![CDATA[¡Hola, piloto espacial!
+    <br /><br />
+El Solar Clash 2012 ha sido todo un éxito y la junta directiva quiere presentar a los ganadores:
+<br /><br />
+1° puesto: %WINNER1%<br />
+2° puesto: %WINNER2%<br />
+3° puesto: %WINNER3%
+<br /><br />
+¡Buen trabajo!
+    <br /><br />
+La junta directiva]]></item>
+ <item name="messaging_systemMessage_8_subject"><![CDATA[¡Importante! Actualización de Flash Player]]></item>
+ <item name="messaging_systemMessage_8_body"><![CDATA[Hola, piloto espacial:
+<br /><br />
+Como experto piloto, sabrás que hay que estar al día con lo que pasa en el universo. Nosotros también lo sabemos, y por ello DarkOrbit se pasará a la versión de Flash Player 11 coincidiendo con su aniversario el 11 de diciembre.
+<br /><br />
+¡Con ella podrás jugar a DarkOrbit a pantalla completa y se optimizará el rendimiento, con una serie de funciones que te permitirán a ti y a DarkOrbit maximizar la diversión en la galaxia!
+<br /><br />
+¡No olvides actualizar tu versión de Flash Player para poder jugar a DarkOrbit como nunca habías imaginado! ¡Prepárate para el futuro!
+<br /><br />
+Sigue el enlace que te dirigirá a la nueva versión de Flash Player: <a href="http://get.adobe.com/flashplayer/" target="_blank">Descargar Flash Player</a>
+<br /><br />
+¡Buen trabajo en equipo, piloto!
+<br /><br />
+La dirección]]></item>
+ <item name="messaging_systemMessage_9_subject"><![CDATA[Umfrage]]></item>
+ <item name="messaging_systemMessage_9_body"><![CDATA[Hallo Space-Pilot,
+<br /><br />
+    hilf uns, Darkorbit zu verbessern und sichere Dir die Chance auf 10.000 Uridium!
+    Alles was Du tun musst ist, an unserer kurzen Umfrage teilzunehmen.
+    Klicke dazu folgenden Link: %SURVEYLINK%
+<br /><br />
+Auf gute Zusammenarbeit, Pilot!
+<br /><br />
+Der Firmenvorstand]]></item>
+ <item name="messaging_systemMessage_10_subject"><![CDATA[Rápido y seguro: ¡cambia de servidor en un pispás!]]></item>
+ <item name="messaging_systemMessage_10_body"><![CDATA[Hola, piloto espacial:
+<br /><br />
+Cambiar de servidor nunca fue tan fácil: a partir de ahora, podrás cambiar de servidor de DarkOrbit <span class="breakingNewsHighlightBlue"><b>sin necesidad de estar conectándote y desconectándote</b></span>. Haz clic en la selección de servidor de la esquina superior izquierda de la página web (junto al botón de "Inicio") y <span class="breakingNewsHighlightBlue"><b>cambia de servidor a la velocidad de la luz</b></span>. ¡Registro seguro garantizado! Se acabó el andar de aquí para allá: ahora podrás cambiar de servidor cuando y donde quieras. 
+<br /><br />
+¡Que comience la colaboración, piloto!
+<br /><br />
+La dirección]]></item>
+ <item name="messaging_systemMessage_11_subject"><![CDATA[Un gesto de agradecimiento de Razer]]></item>
+ <item name="messaging_systemMessage_11_body"><![CDATA[Hola, piloto especial:
+<br /><br />
+Muchas gracias por participar en la Jackpot Arena, esperamos que te hayas divertido. Como agradecimiento, nuestros amigos de Razer (http://www.razerzone.com) tienen una oferta especial para ti.
+<br /><br />
+¡Haz una compra por un importe superior al mínimo y consigue gratis una bufanda de Razer! Elige tu enlace y tu código a continuación (el código será válido hasta el 14 de abril de 2013).
+<br /><br />
+EE. UU.: %%LINK1%% <span style="font-weight:bold">JACKPOTARENAUS</span>: a partir de 79 US $<br />
+Canadá: %%LINK2%% <span style="font-weight:bold">JACKPOTARENACA</span>: a partir de 79 CA $<br />
+Europa: %%LINK3%% <span style="font-weight:bold">JACKPOTARENAEU</span>: a partir de 79 €<br />
+Reino Unido: %%LINK4%% <span style="font-weight:bold">JACKPOTARENAGB</span>: a partir de 69 £<br />
+<br /><br />
+Sin pilotos como tú, la Jackpot Arena no sería lo mismo. ¡Hasta la próxima!
+<br /><br />
+La dirección]]></item>
+ <item name="messaging_systemMessage_12_subject"><![CDATA[Uso de bots detectado]]></item>
+ <item name="messaging_systemMessage_12_body"><![CDATA[Hola, piloto espacial:
+<br /><br />
+Se ha bloqueado tu cuenta de DarkOrbit en todos los servidores durante los próximos 3 días porque has sido identificado como usuario de bots. Además, tu perfil de piloto se ha reseteado y se han eliminado todas las mejoras que tuvieran tus láseres LF4 y tus generadores de escudo SG3N-BO2.
+<br /><br />
+El uso de bots está terminantemente prohibido en las condiciones de uso de DarkOrbit que aceptaste al registrarte. En caso de que se repitiera esta mala práctica, tu cuenta quedararía <strong>bloqueada de manera irrevocable</strong>. 
+<br /><br />
+Tu equipo de DarkOrbit]]></item>
+ <item name="messaging_systemMessage_13_subject"><![CDATA[Nombre de piloto modificado]]></item>
+ <item name="messaging_systemMessage_13_body"><![CDATA[Hola, piloto espacial:
+<br><br>
+Tu nombre de piloto actual en este servidor es <strong>%%NEWPILOTNAME%%</strong>. El nombre de tu cuenta sigue siendo el mismo.
+<br><br>
+El cambio se ha llevado a cabo porque en este servidor ya hay un piloto con el mismo nombre. Si quieres modificar tu nombre de piloto, utiliza la opción "EDITAR PERFIL" en el perfil de piloto o este enlace: <a href="%%PILOTSHEETLINK%%">editar perfil</a>. 
+<br><br>
+Tu equipo de DarkOrbit]]></item>
+ <item name="messaging_clanMessage_acceptApply_subject"><![CDATA[Tu solicitud para entrar en el clan %%CLANTAG%% ha sido aceptada.]]></item>
+ <item name="messaging_clanMessage_acceptApply_body"><![CDATA[Hola, %%USERNAME%%:
+<br /><br />
+El clan %%CLANNAME%% ha aceptado tu solicitud.
+<br /><br />
+¡Que comience la colaboración, piloto!]]></item>
+ <item name="messaging_clanMessage_declineApply_subject"><![CDATA[Tu solicitud para entrar en el clan %%CLANTAG%% ha sido rechazada.]]></item>
+ <item name="messaging_clanMessage_declineApply_body"><![CDATA[Hola, %%USERNAME%%:
+<br /><br />
+El clan %%CLANNAME%% ha rechazado tu solicitud.
+<br /><br />
+¡Buena suerte, piloto!]]></item>
+ <item name="messaging_reCaptcha_msg_headline"><![CDATA[Recaptcha]]></item>
+ <item name="messaging_reCaptcha_msg_infotext"><![CDATA[Introduce las palabras que ves abajo. Esta ventana aparece porque uno o más de los destinatarios no están ni en tus contactos ni en tu clan.]]></item>
+ <item name="messaging_reCaptcha_msg_button_send"><![CDATA[Enviar]]></item>
+ <item name="messaging_reCaptcha_msg_button_cancel"><![CDATA[Cancelar]]></item>
+ <item name="messaging_systemMessage_14_subject"><![CDATA[Indemnización por bloqueo de cuenta]]></item>
+ <item name="messaging_systemMessage_14_body"><![CDATA[Hola, %USERNAME%:
+<br><br>
+Queremos pedirte disculpas por el bloqueo de tu cuenta debido a un error en un script. Hemos vuelto a desbloquear inmediatamente tu cuenta y todas las demás que se han visto afectadas y te hemos abonado los siguientes objetos a modo de pequeña indemnización:
+<br><br>
+<li>Un mes Premium para tu cuenta, con todos los bonos y ventajas correspondientes.</li>
+<li>Una Puerta Hades gratuita (si ya tienes una Puerta Hades en este momento, en su lugar recibes 500 unidades de energía extra).</li>
+<li>Un potenciador de daños DMG-01 con una duración de 48 horas.</li>
+<li>1.000 baterías UCB-100, con las que tus láseres causan daños cuatro veces mayores.</li>
+<br>Esperamos que te diviertas y triunfes en DarkOrbit en el futuro a pesar de estos contratiempos.
+<br><br>
+Tu equipo de DarkOrbit]]></item>
+ <item name="msg_event_reward_arenaseason_subject"><![CDATA[Temporada de la Ultimate Battle Arena]]></item>
+ <item name="msg_event_reward_arenaseason_booked"><![CDATA[Hola, %USERNAME%:
+<br /><br />
+¡Enhorabuena! ¡Has sido uno de los mejores jugadores de la Ultimate Battle Arena esta temporada! Verás tus recompensas cuando accedas al juego. ¡De momento, disfruta de la admiración y la envidia de los otros pilotos, pero atento a quienes te podrían desbancar!
+        <br /><br />
+Tu equipo de DarkOrbit]]></item>
+ <item name="msg_event_reward_arenaseason_deleted"><![CDATA[Hola, %USERNAME%:
+<br /><br />
+Lamentamos tener que decirte que ya no eres el campeón de la Ultimate Battle Arena. ¡Es hora de recuperar el título!
+        <br /><br />
+Tu equipo de DarkOrbit]]></item>
+ <item name="messaging_auctionMessage_1_subject"><![CDATA[Han superado tu puja.]]></item>
+ <item name="messaging_auctionMessage_1_body"><![CDATA[Hola, %USERNAME%:
+<br><br>
+Tu puja por %ITEMNAME% (%SHORTITEMNAME%) ha sido superada. Se te han devuelto los créditos.
+<br><br>
+Tu equipo de DarkOrbit]]></item>
+ <item name="messaging_auctionMessage_2_subject"><![CDATA[Has comprado un objeto.]]></item>
+ <item name="messaging_auctionMessage_2_body"><![CDATA[Hola, %USERNAME%:
+<br><br>
+¡Enhorabuena! Has ganado la subasta por el objeto %ITEMNAME% (%SHORTITEMNAME%) por %AMOUNT% créditos.
+<br><br>
+Tu equipo de DarkOrbit]]></item>
+</resource>
