@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="labor_xtm_test_key"><![CDATA[XTM Test Key in the file laborres.xml]]></item>
+ <item name="labor_rohstoffe"><![CDATA[SUROWCE]]></item>
+ <item name="labor_intro"><![CDATA[Metodą "złap i puść" możesz szybko ulepszyć swoje przedmioty: po prostu przeciągnij surowiec na wybrany przedmiot.]]></item>
+ <item name="labor_prometid"><![CDATA[PROMETID]]></item>
+ <item name="labor_duranium"><![CDATA[DURANIUM]]></item>
+ <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
+ <item name="labor_items"><![CDATA[WYPOSAŻ PRZEDMIOTY]]></item>
+ <item name="labor_laser"><![CDATA[LASER]]></item>
+ <item name="labor_raketen"><![CDATA[RAKIETY]]></item>
+ <item name="labor_antrieb"><![CDATA[NAPĘD]]></item>
+ <item name="labor_schild"><![CDATA[OSŁONA]]></item>
+ <item name="labor_txt_a"><![CDATA[Zwiększa siłę strzału o 15%]]></item>
+ <item name="labor_txt_b"><![CDATA[Zwiększa moc o 10%]]></item>
+ <item name="labor_txt_c"><![CDATA[Zwiększa siłę strzału o 30% lub moc o 20%]]></item>
+ <item name="alert_head"><![CDATA[AKTUALIZACJA PROMERIUM]]></item>
+ <item name="alert_txt"><![CDATA[Podczas aktualizacji tym surowcem tracisz ulepszenia wykonane do tej pory.]]></item>
+ <item name="alert_line"><![CDATA[UWAGA]]></item>
+ <item name="alert_upd"><![CDATA[AKTUALIZACJA]]></item>
+ <item name="alert_abo"><![CDATA[PRZERWIJ]]></item>
+</resource>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="clan_hl_clan_gruenden"><![CDATA[Załóż klan]]></item>
+ <item name="clan_hl_mitteilung_versenden"><![CDATA[Wyślij wiadomość]]></item>
+ <item name="clan_hl_open_requests"><![CDATA[Nieopracowane zapytania]]></item>
+ <item name="clan_hl_diplo_antrag"><![CDATA[Wniosek dyplomatyczny]]></item>
+ <item name="clan_hl_diplo_beantragen"><![CDATA[Złóż wniosek dyplomatyczny]]></item>
+ <item name="clan_hl_anfragen"><![CDATA[Zapytania]]></item>
+ <item name="clan_hl_clan_diplomatie"><![CDATA[Dyplomacja klanu]]></item>
+ <item name="clan_hl_bewerbung"><![CDATA[Podanie]]></item>
+ <item name="clan_hl_clan_mitglieder"><![CDATA[Członkowie klanu]]></item>
+ <item name="clan_hl_steuersatz"><![CDATA[Stawka podatkowa]]></item>
+ <item name="clan_hl_clanrechte"><![CDATA[Prawa klanu]]></item>
+ <item name="clan_hl_claninformationen"><![CDATA[Informacje o klanie]]></item>
+ <item name="clan_hl_clan_info"><![CDATA[Info o klanie]]></item>
+ <item name="clan_hl_systemnachricht"><![CDATA[Wiadomość systemowa]]></item>
+ <item name="clan_hl_auszahlungen"><![CDATA[Wypłaty]]></item>
+ <item name="clan_hl_transaktionen"><![CDATA[Transakcje]]></item>
+ <item name="clan_hl_clan_konto"><![CDATA[Konto klanu]]></item>
+ <item name="clan_hl_postfach"><![CDATA[Skrzynka pocztowa]]></item>
+ <item name="clan_hl_bewerbungen"><![CDATA[Podania]]></item>
+ <item name="clan_hl_mitglieder"><![CDATA[Członkowie]]></item>
+ <item name="clan_hl_clan_logo"><![CDATA[Logo klanu]]></item>
+ <item name="clan_hl_clan_suche"><![CDATA[Szukanie klanu]]></item>
+ <item name="clan_hl_clan_news"><![CDATA[Nowości klanu]]></item>
+ <item name="clan_hl_clan_text"><![CDATA[Tekst klanu]]></item>
+ <item name="clan_hl_claninformation"><![CDATA[Informacje o klanie]]></item>
+ <item name="clan_hl_clan"><![CDATA[Klan]]></item>
+ <item name="clan_hl_clan_bewerbung"><![CDATA[Podanie o przyjęcie do klanu]]></item>
+ <item name="clan_hl_steuern_aendern"><![CDATA[Zmień stawkę podatkową]]></item>
+ <item name="clan_hl_firmendetails"><![CDATA[Szczegóły o firmie]]></item>
+ <item name="clan_message_error_payout_userMaxWeekly_reached"><![CDATA[Osiągnięto tygodniowy limit wypłat dla tego użytkownika.]]></item>
+ <item name="clan_message_error_payout_userMax_reached"><![CDATA[Kwota przekracza limit tygodniowej wypłaty dla tego użytkownika. Maksymalna wypłata: %AMOUNT% %CURRENCY%]]></item>
+ <item name="clan_message_error_payout_clanMax_reached"><![CDATA[Niewystarczające fundusze!]]></item>
+ <item name="clan_message_payout_maxAmount"><![CDATA[(maks. %AMOUNT% %CURRENCY%)]]></item>
+</resource>

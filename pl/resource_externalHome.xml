@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="login_serverlist_hint"><![CDATA[Wybierz poniżej serwer, na którym chcesz teraz grać:]]></item>
+ <item name="footer_support"><![CDATA[Pomoc techniczna]]></item>
+ <item name="abortInstanceSelection"><![CDATA[przerwij]]></item>
+</resource>

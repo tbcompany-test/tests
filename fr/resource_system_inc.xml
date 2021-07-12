@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="title"><![CDATA[www.DarkOrbit.com]]></item>
+ <item name="meta_content_language"><![CDATA[at, de, ch, fr]]></item>
+ <item name="meta_language"><![CDATA[deutsch, de, at, ch]]></item>
+ <item name="meta_content_type"><![CDATA[text/html; charset=utf-8]]></item>
+ <item name="meta_author"><![CDATA[Bigpoint GmbH]]></item>
+ <item name="meta_publisher"><![CDATA[Bigpoint GmbH]]></item>
+ <item name="meta_revisit_after"><![CDATA[10 jours]]></item>
+ <item name="meta_page_topic"><![CDATA[Loisirs, divertissement]]></item>
+ <item name="meta_reply_to"><![CDATA[webmaster.fr@darkorbit.com]]></item>
+ <item name="meta_distribution"><![CDATA[global]]></item>
+ <item name="meta_company"><![CDATA[Bigpoint GmbH]]></item>
+ <item name="meta_httpContentType"><![CDATA[text/html; charset=utf-8]]></item>
+ <item name="start_google"><![CDATA[Des combats en temps réels vous attendent sur DarkOrbit, le jeu multijoueur en ligne. Vous pourrez vivre des combats palpitants au fin fond de l'univers et ce contre de courageux pilotes de l'espace. Vous et vos adversaires immergerez dans cette aventure virtuelle en 3D, où stratégie et actions sont les maîtres mots. Alors n'attendez plus, inscrivez-vous gratuitement au jeu en ligne DarkOrbit et partez à la conquête de l'univers. Le jeu en ligne DarkOrbit est sans obligation d'achat.]]></item>
+ <item name="happy_hour_headline"><![CDATA[Happy Hour sur DarkOrbit !]]></item>
+ <item name="an"><![CDATA[À]]></item>
+ <item name="am"><![CDATA[le]]></item>
+ <item name="von"><![CDATA[De]]></item>
+ <item name="ok"><![CDATA[OK]]></item>
+ <item name="an_alle"><![CDATA[À tous]]></item>
+ <item name="versenden"><![CDATA[Expédier]]></item>
+ <item name="re"><![CDATA[Re]]></item>
+ <item name="auswaehlen"><![CDATA[Veuillez sélectionner]]></item>
+ <item name="schliessen"><![CDATA[Fermer]]></item>
+ <item name="abbrechen"><![CDATA[Fermer]]></item>
+ <item name="abschicken"><![CDATA[Envoyer]]></item>
+ <item name="beenden"><![CDATA[Finir]]></item>
+ <item name="kontostand"><![CDATA[Solde de compte]]></item>
+ <item name="bitte_warten"><![CDATA[Veuillez patienter]]></item>
+ <item name="annehmen"><![CDATA[Accepter]]></item>
+ <item name="ablehnen"><![CDATA[Refuser]]></item>
+ <item name="reason"><![CDATA[Raison]]></item>
+ <item name="system"><![CDATA[Système]]></item>
+ <item name="zurueck"><![CDATA[Retour]]></item>
+ <item name="eu_west"><![CDATA[EUROPE (OUEST)]]></item>
+ <item name="eu_east"><![CDATA[EUROPE (EST)]]></item>
+ <item name="us_west"><![CDATA[AMÉRIQUE (OUEST)]]></item>
+ <item name="us_east"><![CDATA[AMÉRIQUE (EST)]]></item>
+ <item name="asia"><![CDATA[ASIA]]></item>
+ <item name="test"><![CDATA[SERVEURS DE TEST]]></item>
+ <item name="day"><![CDATA[Jour]]></item>
+ <item name="day_short"><![CDATA[j]]></item>
+ <item name="hour"><![CDATA[Heure]]></item>
+ <item name="hour_short"><![CDATA[h]]></item>
+ <item name="minute"><![CDATA[Minute]]></item>
+ <item name="minute_short"><![CDATA[m]]></item>
+ <item name="second"><![CDATA[Seconde]]></item>
+ <item name="second_short"><![CDATA[s]]></item>
+ <item name="nicht_vergeben"><![CDATA[libre]]></item>
+ <item name="error_unknown"><![CDATA[Une erreur s'est produite.]]></item>
+ <item name="agbLink"><![CDATA[http://www.bigpoint.com/agb/fr/agb.pdf]]></item>
+ <item name="helpLink"><![CDATA[http://help.bigpoint.com/?project=darkorbit&lang=fr]]></item>
+ <item name="portalLink"><![CDATA[http://www.bigpoint.fr/]]></item>
+ <item name="portalLink2"><![CDATA[http://www.bigpoint.fr/]]></item>
+ <item name="soccerNation1"><![CDATA[France]]></item>
+ <item name="soccerNation2"><![CDATA[Danemark]]></item>
+ <item name="fraction0_name"><![CDATA[(Firme ennemie)]]></item>
+ <item name="fraction0_name_short"><![CDATA[(Firme ennemie)]]></item>
+ <item name="fraction1_name"><![CDATA[Mars Mining Operations]]></item>
+ <item name="fraction1_name_short"><![CDATA[MMO]]></item>
+ <item name="fraction2_name"><![CDATA[Earth Industries Corporation]]></item>
+ <item name="fraction2_name_short"><![CDATA[EIC]]></item>
+ <item name="fraction3_name"><![CDATA[Venus Resources Unlimited]]></item>
+ <item name="fraction3_name_short"><![CDATA[VRU]]></item>
+ <item name="firmChange_notavailable"><![CDATA[Changement de firme impossible.]]></item>
+ <item name="firmChange_done"><![CDATA[Changement de firme accompli.]]></item>
+ <item name="not_enough_uridium"><![CDATA[Vous n'avez pas assez d'Uridium pour cela.]]></item>
+ <item name="not_enough_credits"><![CDATA[Not enough Credits available.]]></item>
+ <item name="instance_location"><![CDATA[Site du serveur:]]></item>
+ <item name="instance_lang"><![CDATA[Langue :]]></item>
+ <item name="instance_location_title_22"><![CDATA[Europe globale]]></item>
+ <item name="instance_location_value_22"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_45"><![CDATA[Allemagne]]></item>
+ <item name="instance_location_value_45"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_46"><![CDATA[Grande-Bretagne]]></item>
+ <item name="instance_location_value_46"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_47"><![CDATA[USA (Est)]]></item>
+ <item name="instance_location_value_47"><![CDATA[USA]]></item>
+ <item name="instance_location_title_48"><![CDATA[France]]></item>
+ <item name="instance_location_value_48"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_49"><![CDATA[Italie]]></item>
+ <item name="instance_location_value_49"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_68"><![CDATA[Russie]]></item>
+ <item name="instance_location_value_68"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_69"><![CDATA[Amérique globale]]></item>
+ <item name="instance_location_value_69"><![CDATA[USA]]></item>
+ <item name="instance_location_title_87"><![CDATA[Pologne]]></item>
+ <item name="instance_location_value_87"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_88"><![CDATA[Turquie]]></item>
+ <item name="instance_location_value_88"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_89"><![CDATA[Espagne]]></item>
+ <item name="instance_location_value_89"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_90"><![CDATA[Scandinavie]]></item>
+ <item name="instance_location_value_90"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_145"><![CDATA[USA (Ouest)]]></item>
+ <item name="instance_location_value_145"><![CDATA[USA]]></item>
+ <item name="instance_location_title_151"><![CDATA[Allemagne 2]]></item>
+ <item name="instance_location_value_151"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_150"><![CDATA[France 2]]></item>
+ <item name="instance_location_value_150"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_152"><![CDATA[Turquie 2]]></item>
+ <item name="instance_location_value_152"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_161"><![CDATA[Russie 2]]></item>
+ <item name="instance_location_value_161"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_168"><![CDATA[Scandinavie 2]]></item>
+ <item name="instance_location_value_168"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_175"><![CDATA[Serveur de test 1]]></item>
+ <item name="instance_location_value_175"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_182"><![CDATA[Europe globale 2]]></item>
+ <item name="instance_location_value_182"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_209"><![CDATA[République tchèque]]></item>
+ <item name="instance_location_value_209"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_210"><![CDATA[Turquie 3]]></item>
+ <item name="instance_location_value_210"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_232"><![CDATA[Pologne 2]]></item>
+ <item name="instance_location_value_232"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_254"><![CDATA[Allemagne 3]]></item>
+ <item name="instance_location_value_254"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_255"><![CDATA[Russie 3]]></item>
+ <item name="instance_location_value_255"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_257"><![CDATA[Amérique globale 2]]></item>
+ <item name="instance_location_value_257"><![CDATA[USA]]></item>
+ <item name="instance_location_title_277"><![CDATA[Europe globale 3]]></item>
+ <item name="instance_location_value_277"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_278"><![CDATA[Italie 2]]></item>
+ <item name="instance_location_value_278"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_279"><![CDATA[Espagne 2]]></item>
+ <item name="instance_location_value_279"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_305"><![CDATA[Amérique globale 4]]></item>
+ <item name="instance_location_value_305"><![CDATA[USA]]></item>
+ <item name="instance_location_title_316"><![CDATA[Garena]]></item>
+ <item name="instance_location_value_316"><![CDATA[Asie]]></item>
+ <item name="instance_location_title_387"><![CDATA[Turquie 4]]></item>
+ <item name="instance_location_value_387"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_388"><![CDATA[Russie 4]]></item>
+ <item name="instance_location_value_388"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_389"><![CDATA[USA (Est) 2]]></item>
+ <item name="instance_location_value_389"><![CDATA[USA]]></item>
+ <item name="instance_location_title_390"><![CDATA[Europe Globale 4]]></item>
+ <item name="instance_location_value_390"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_391"><![CDATA[France 3]]></item>
+ <item name="instance_location_value_391"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_392"><![CDATA[Allemagne 4]]></item>
+ <item name="instance_location_value_392"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_502"><![CDATA[Europe globale 5]]></item>
+ <item name="instance_location_value_502"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_503"><![CDATA[Amérique globale 3]]></item>
+ <item name="instance_location_value_503"><![CDATA[USA]]></item>
+ <item name="instance_location_title_563"><![CDATA[Espagne 3]]></item>
+ <item name="instance_location_value_563"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_572"><![CDATA[Italie 3]]></item>
+ <item name="instance_location_value_572"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_573"><![CDATA[République tchèque 2]]></item>
+ <item name="instance_location_value_573"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_574"><![CDATA[Russie 5]]></item>
+ <item name="instance_location_value_574"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_576"><![CDATA[France 4]]></item>
+ <item name="instance_location_value_576"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_577"><![CDATA[Turquie 5]]></item>
+ <item name="instance_location_value_577"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_578"><![CDATA[Pologne 3]]></item>
+ <item name="instance_location_value_578"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_579"><![CDATA[USA (est) 3]]></item>
+ <item name="instance_location_value_579"><![CDATA[USA]]></item>
+ <item name="instance_location_title_639"><![CDATA[Brésil 1]]></item>
+ <item name="instance_location_value_639"><![CDATA[USA]]></item>
+ <item name="instance_location_title_669"><![CDATA[Hongrie 1]]></item>
+ <item name="instance_location_value_669"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_670"><![CDATA[Russie 6]]></item>
+ <item name="instance_location_value_670"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_671"><![CDATA[Turquie 6]]></item>
+ <item name="instance_location_value_671"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_672"><![CDATA[Allemagne 5]]></item>
+ <item name="instance_location_value_672"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_673"><![CDATA[Europe globale 6]]></item>
+ <item name="instance_location_value_673"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_674"><![CDATA[Grande-Bretagne 2]]></item>
+ <item name="instance_location_value_674"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_679"><![CDATA[Serveur de test 2]]></item>
+ <item name="instance_location_value_679"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_726"><![CDATA[Allemagne 6]]></item>
+ <item name="instance_location_value_726"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_727"><![CDATA[Europe globale 7]]></item>
+ <item name="instance_location_value_727"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_728"><![CDATA[Amérique globale 5]]></item>
+ <item name="instance_location_value_728"><![CDATA[USA]]></item>
+ <item name="instance_location_title_755"><![CDATA[Mexique 1]]></item>
+ <item name="instance_location_value_755"><![CDATA[USA]]></item>
+ <item name="instance_location_title_787"><![CDATA[Espagne 4]]></item>
+ <item name="instance_location_value_787"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_828"><![CDATA[Allemagne 7]]></item>
+ <item name="instance_location_value_828"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_881"><![CDATA[République tchèque 3]]></item>
+ <item name="instance_location_value_881"><![CDATA[EUR]]></item>
+ <item name="instance_location_title_912"><![CDATA[Brésil 2]]></item>
+ <item name="instance_location_value_912"><![CDATA[USA]]></item>
+ <item name="instance_location_title_1103"><![CDATA[Testserver 3]]></item>
+ <item name="instance_location_value_1103"><![CDATA[EU]]></item>
+ <item name="instance_location_title_1123"><![CDATA[Serveur de test 4]]></item>
+ <item name="instance_location_value_1123"><![CDATA[EU]]></item>
+ <item name="instance_location_title_1199"><![CDATA[Serveur de test 5]]></item>
+ <item name="instance_location_value_1199"><![CDATA[EU]]></item>
+ <item name="instance_location_title_1218"><![CDATA[Asie globale]]></item>
+ <item name="instance_location_value_1218"><![CDATA[Asiatique]]></item>
+ <item name="rang_0"><![CDATA[Aucun grade]]></item>
+ <item name="rang_1"><![CDATA[Pilote 1ère classe]]></item>
+ <item name="rang_2"><![CDATA[Caporal]]></item>
+ <item name="rang_3"><![CDATA[Caporal-chef]]></item>
+ <item name="rang_4"><![CDATA[Sergent]]></item>
+ <item name="rang_5"><![CDATA[Sergent-chef]]></item>
+ <item name="rang_6"><![CDATA[Adjudant]]></item>
+ <item name="rang_7"><![CDATA[Adjudant-chef]]></item>
+ <item name="rang_8"><![CDATA[Major]]></item>
+ <item name="rang_9"><![CDATA[Sous-lieutenant]]></item>
+ <item name="rang_10"><![CDATA[Lieutenant]]></item>
+ <item name="rang_11"><![CDATA[Capitaine]]></item>
+ <item name="rang_12"><![CDATA[Capitaine d'escadron]]></item>
+ <item name="rang_13"><![CDATA[Commandant]]></item>
+ <item name="rang_14"><![CDATA[Commandant d'escadron]]></item>
+ <item name="rang_15"><![CDATA[Lieutenant-colonel]]></item>
+ <item name="rang_16"><![CDATA[Colonel]]></item>
+ <item name="rang_17"><![CDATA[Général de brigade]]></item>
+ <item name="rang_18"><![CDATA[Général de division]]></item>
+ <item name="rang_19"><![CDATA[Général de corps d'armée]]></item>
+ <item name="rang_20"><![CDATA[Général d’armée]]></item>
+ <item name="rang_21"><![CDATA[Maréchal]]></item>
+ <item name="rank"><![CDATA[Grade]]></item>
+ <item name="ranks"><![CDATA[Grades]]></item>
+ <item name="rank_next"><![CDATA[Vous accédez prochainement au grade de :]]></item>
+ <item name="rank_up"><![CDATA[Félicitations ! Vous avez accédé à un nouveau grade. Vous êtes maintenant :]]></item>
+ <item name="rank_down"><![CDATA[Vous avez été déclassé. Votre nouveau grade :]]></item>
+ <item name="advent_star_std_special"><![CDATA[Étoile de l'Avent collectée]]></item>
+ <item name="advent_star_small_special"><![CDATA[Petite étoile de l'Avent collectée]]></item>
+ <item name="advent_star_giant_special"><![CDATA[Grande étoile de l'Avent collectée]]></item>
+ <item name="xmas_star_std_special"><![CDATA[Étoile de Noël collectée]]></item>
+ <item name="xmas_star_small_special"><![CDATA[Petite étoile de Noël collectée]]></item>
+ <item name="xmas_star_giant_special"><![CDATA[Grande étoile de Noël collectée]]></item>
+ <item name="drone_not_repair"><![CDATA[Le drone n'a pas besoin d'être réparé.]]></item>
+ <item name="drone_error"><![CDATA[Une erreur est survenue.]]></item>
+ <item name="drone_noTarget"><![CDATA[Aucune cible n'a été sélectionnée.]]></item>
+ <item name="drone_itemToCargo"><![CDATA[L'article a été déplacé dans le dépôt.]]></item>
+ <item name="drone_itemToDrone"><![CDATA[Les drones ont été équipés.]]></item>
+ <item name="drone_itemToShip"><![CDATA[Le vaisseau a été équipé.]]></item>
+ <item name="drone_slotCPUinUse"><![CDATA[Erreur : CPU Slot n'est pas libre en ce moment.]]></item>
+ <item name="drone_slotCPUinPreset"><![CDATA[Erreur : le CPU-Emplacement ne peut pas être vendu s'il est déjà utilisé dans l'une des configurations.]]></item>
+ <item name="drone_specialAlreadyOnBoard"><![CDATA[Vous avez déjà un Extra de ce type à bord.]]></item>
+ <item name="drone_notEnoughSpace"><![CDATA[Il n'y a pas de place sur le drone.]]></item>
+ <item name="drone_notAllowed"><![CDATA[Vous ne pouvez pas équiper les drones de cet objet.]]></item>
+ <item name="drone_maxOnShip"><![CDATA[Vous avez atteint le nombre max. autorisé à bord.]]></item>
+ <item name="drone_onlyShieldgen"><![CDATA[Les drones peuvent uniquement être équipés de générateurs de boucliers.]]></item>
+ <item name="drone_warning"><![CDATA[Attention : il se peut que l'un ou plusieurs de vos drones aient été endommagés durant l'attaque. Dans ce cas, vous pouvez le/les réparer dans le Hangar sous la rubrique Équipement.]]></item>
+ <item name="drone_notDamaged"><![CDATA[Votre/vos drone(s) n'a/ont pas été endommagé(s) lors de l'attaque.]]></item>
+ <item name="error_thirdConfigActive"><![CDATA[Erreur : le CPU-Configuration est actuellement en cours d'utilisation.]]></item>
+ <item name="equipmentclient_update_equipment"><![CDATA[Équipement actualisé.]]></item>
+ <item name="equipmentclient_item_delete_from_drone"><![CDATA[Objet retiré du drone.]]></item>
+ <item name="equipmentclient_update_drone_success"><![CDATA[Vos drones ont été équipés.]]></item>
+ <item name="equipmentclient_move_generator_to_cargo"><![CDATA[Générateur déplacé dans l'entrepôt.]]></item>
+ <item name="equipmentclient_design_changed"><![CDATA[Design de vaisseau permuté.]]></item>
+ <item name="equipmentclient_design_error_generic"><![CDATA[Une erreur est survenue, veuillez réessayer ultérieurement...]]></item>
+ <item name="equipmentclient_design_not_available"><![CDATA[Ce design de vaisseau n'est pas disponible.]]></item>
+ <item name="supportmail_address"><![CDATA[support.fr@darkorbit.com]]></item>
+ <item name="supportmail_headline"><![CDATA[Veuillez ne pas effacer ces informations]]></item>
+ <item name="supportmail_uid"><![CDATA[ID-utilisateur]]></item>
+ <item name="supportmail_vid"><![CDATA[ID de processus]]></item>
+ <item name="supportmail_group"><![CDATA[Groupe de produits]]></item>
+ <item name="supportmail_type"><![CDATA[Mode de paiement]]></item>
+ <item name="supportmail_text"><![CDATA[En cas de problèmes, n'hésitez pas à envoyer un e-mail directement au support.]]></item>
+ <item name="mail_signup"><![CDATA[Inscription à DarkOrbit.com]]></item>
+ <item name="mail_password_recover"><![CDATA[Mot de passe oublié]]></item>
+ <item name="pw_forgot_info"><![CDATA[Ici vous pouvez modifier les données utilisateur se trouvant sur DarkOrbit.]]></item>
+ <item name="success_change_userData"><![CDATA[Vos données d'utilisateur viennent d'être modifiées.]]></item>
+ <item name="secure_quest"><![CDATA[Contrôle de sécurité]]></item>
+ <item name="change_name"><![CDATA[Nom]]></item>
+ <item name="change_mail"><![CDATA[Adresse e-mail]]></item>
+ <item name="change_pass1"><![CDATA[Nouveau mot de passe]]></item>
+ <item name="change_pass2"><![CDATA[Confirmer mot de passe]]></item>
+ <item name="change_passOld"><![CDATA[Ancien mot de passe]]></item>
+ <item name="err_no_userData"><![CDATA[Vous n'avez pas entré de données à modifier.]]></item>
+ <item name="pay_artikel"><![CDATA[Choix d'articles]]></item>
+ <item name="pay_system"><![CDATA[Mode de paiement]]></item>
+ <item name="pay_userData"><![CDATA[Données de l'utilisateur]]></item>
+ <item name="pay_amount"><![CDATA[Quantité]]></item>
+ <item name="pay_runtime"><![CDATA[Durée]]></item>
+ <item name="pay_sort"><![CDATA[Type de paiement]]></item>
+ <item name="payment_transfer_real_virtuel"><![CDATA[Uridium échangé contre des Crédits.]]></item>
+ <item name="payment_ok"><![CDATA[Le processus de paiement a été effectué avec succès.]]></item>
+ <item name="payment_cj3.1"><![CDATA[Veuillez vérifier vos données]]></item>
+ <item name="payment_cj3.2"><![CDATA[Veuillez vérifier votre numéro de compte]]></item>
+ <item name="payment_cj3.3"><![CDATA[Veuillez indiquer le titulaire du compte]]></item>
+ <item name="payment_cj3.4"><![CDATA[Veuillez vérifier votre code banque]]></item>
+ <item name="payment_cj3.5"><![CDATA[Veuillez indiquer le nom de la banque]]></item>
+ <item name="payment_cj3.6"><![CDATA[Veuillez vérifier le numéro de carte bancaire]]></item>
+ <item name="payment_cj3.7"><![CDATA[Veuillez indiquer le titulaire de la carte de crédit]]></item>
+ <item name="payment_cj3.8"><![CDATA[Veuillez vérifier la date d'expiration de votre carte]]></item>
+ <item name="payment_cj3.9"><![CDATA[Veuillez vérifier les chiffres de sécurité (les 3 chiffres) derrière la carte bancaire]]></item>
+ <item name="payment_cj3.10"><![CDATA[Veuillez indiquer votre nom]]></item>
+ <item name="payment_cj3.11"><![CDATA[Veuillez indiquer votre adresse]]></item>
+ <item name="payment_cj3.12"><![CDATA[Veuillez indiquer votre code postal]]></item>
+ <item name="payment_cj3.13"><![CDATA[Veuillez indiquer votre commune de résidence]]></item>
+ <item name="payment_cj3.14"><![CDATA[Veuillez indiquer votre pays]]></item>
+ <item name="payment_cj3.15"><![CDATA[Veuillez indiquer votre adresse e-mail]]></item>
+ <item name="payment_cj4.1"><![CDATA[La connexion à votre banque a été bloquée]]></item>
+ <item name="payment_cj4.3"><![CDATA[Votre compte est bloqué]]></item>
+ <item name="payment_cj4.5"><![CDATA[Vous ne pouvez effectuer un achat que toutes les 60 secondes. Veuillez patienter quelques instants, puis réessayez.]]></item>
+ <item name="payment_cj4.6"><![CDATA[La limite d'achats a été atteinte pour aujourd'hui.]]></item>
+ <item name="payment_cj4.7"><![CDATA[Il y a une annulation, veuillez vous adresser à notre support au numéro suivant : +49 (0)1805 - 75 77 01]]></item>
+ <item name="payment_call"><![CDATA[Achat d'Uridium par téléphone]]></item>
+ <item name="payment_sms"><![CDATA[Achat d'Uridium par SMS]]></item>
+ <item name="payment_abo_storno"><![CDATA[Votre achat a été annulé. Veuillez contacter votre opérateur.]]></item>
+ <item name="payment_abo_fehler"><![CDATA[Erreur de connexion : veuillez patienter quelques instants puis réessayer.]]></item>
+ <item name="gameAPI_bank"><![CDATA[Banking]]></item>
+ <item name="gameAPI_admin"><![CDATA[Crédit Administrateur]]></item>
+ <item name="aktion_doppelBanking"><![CDATA[Crédit Double-Banking]]></item>
+ <item name="aktion_happyHour"><![CDATA[Crédit Happy Hour]]></item>
+ <item name="aktion_systembonus"><![CDATA[Bonus Système]]></item>
+ <item name="aktion_system_back"><![CDATA[Contre-passation Système]]></item>
+ <item name="abo_uridium"><![CDATA[Crédit Pack Fidélité]]></item>
+ <item name="aktion_ostern"><![CDATA[Crédit action de Pâques]]></item>
+ <item name="aktion_onlinestar"><![CDATA[OnlineStar 2007]]></item>
+ <item name="lost_invisible_egg"><![CDATA[Un œuf d'extraterrestre a détruit votre camouflage.]]></item>
+ <item name="lost_invisible_attack"><![CDATA[Votre attaque a désactivé votre camouflage.]]></item>
+ <item name="abo_landingpage"><![CDATA[Félicitations pilote ! Vous vous êtes jusqu'à présent battu avec courage. Votre firme a décidé de mettre quelques avantages à votre disposition pour vous faciliter la vie. N'hésitez plus et profitez sans attendre de ce Pack Avantage exceptionnel. À chaque boîte Bonus que vous récoltez dans l'espace, vous recevrez le double de son contenu, des remises sur les armes, les munitions et l'équipement ou un virement régulier d'Uridium sur votre compte virtuel. Ce Pack Avantage est le tremplin assuré de votre carrière de pilote !]]></item>
+ <item name="payment_muliply_headline"><![CDATA[Vous avez récupéré un multiplicateur de gains !]]></item>
+ <item name="payment_muliply_text"><![CDATA[Lors de votre prochaine transaction d'Uridium, vous recevrez XXX fois le montant payé.]]></item>
+ <item name="payment_multiply_terms"><![CDATA[Non utilisable lors des évènements spéciaux tels que les Happy hours. Lors des évènements footballistiques, le multiplicateur de gain ne fonctionne que sur le montant alloué et non sur les éventuels bonus buts.]]></item>
+ <item name="payment_hl_1"><![CDATA[Pack Avantage Double Gain :]]></item>
+ <item name="payment_teaser_1"><![CDATA[Cet avantage vous permet de profiter un maximum des boîtes bonus, puisqu'à chaque fois que vous en ramassez une, son contenu se voit doublé !]]></item>
+ <item name="payment_hl_2"><![CDATA[Pack Avantage Fidélité :]]></item>
+ <item name="payment_teaser_2"><![CDATA[Le bonus fidélité approvisionne votre compte :<br />Chaque semaine, nous virons 10 000 Uridium sur votre compte pour que vos finances restent à flot !]]></item>
+ <item name="payment_hl_3"><![CDATA[Pack Avantage Réduction :]]></item>
+ <item name="payment_teaser_3"><![CDATA[Ce pack avantage fait de vous un traqueur de bonnes affaires : vous recevez 25 % de réduction sur tous les objets que vous achetez avec de l'Uridium !]]></item>
+ <item name="payment_hl_4"><![CDATA[Packs novices - Revenge, Strike et Soldier]]></item>
+ <item name="payment_teaser_4"><![CDATA[Nouveau sur DarkOrbit et à la recherche d'une bonne affaire ? Alors sautez sur l'occasion et économisez jusqu'à 30 % !]]></item>
+ <item name="payment_hl_5"><![CDATA[Packs Éco - Challenger, Pro et Élite]]></item>
+ <item name="payment_teaser_5"><![CDATA[Vous êtes plutôt fourmi que cigale ? Alors sautez sur l'occasion et économisez jusqu'à 50 % !]]></item>
+ <item name="err_username_missing"><![CDATA[Veuillez saisir un pseudonyme.]]></item>
+ <item name="err_username_invalid"><![CDATA[Le pseudonyme doit uniquement être composé de lettres, de chiffres, de points, du signe moins et doit contenir au minimum 4 caractères. Les crochets et les espaces devant et derrière le pseudonyme ne sont pas acceptés.]]></item>
+ <item name="err_user_change_blocked"><![CDATA[Vous ne pouvez changer votre nom qu'une fois toutes les 24 heures.]]></item>
+ <item name="err_username_taken"><![CDATA[Ce pseudonyme est déjà utilisé.]]></item>
+ <item name="err_password_missing"><![CDATA[Veuillez indiquer un mot de passe.]]></item>
+ <item name="err_password_mismatch"><![CDATA[La confirmation de votre mot de passe ne correspond pas au premier mot de passe.]]></item>
+ <item name="err_password_old"><![CDATA[Votre mot de passe est incorrect.]]></item>
+ <item name="err_password_short"><![CDATA[Votre mot de passe doit contenir au moins 4 caractères.]]></item>
+ <item name="err_password"><![CDATA[La confirmation du mot de passe est erronée. Attention : votre mot de passe doit contenir au moins 4 caractères.]]></item>
+ <item name="err_email_missing"><![CDATA[Veuillez indiquer votre adresse e-mail.]]></item>
+ <item name="err_email_invalid"><![CDATA[Cette adresse e-mail est invalide.]]></item>
+ <item name="err_email_taken"><![CDATA[Quelqu'un est déjà inscrit avec cette adresse e-mail.]]></item>
+ <item name="err_missing_data"><![CDATA[Tous les champs ne sont pas remplis.]]></item>
+ <item name="err_missing_agb"><![CDATA[Veuillez accepter les les conditions générales.]]></item>
+ <item name="err_aboCancel"><![CDATA[Une erreur est survenue, veuillez réessayer dans quelques minutes.]]></item>
+ <item name="err_missing_birthday"><![CDATA[Date de naissance manquante ou incorrecte]]></item>
+ <item name="err_support"><![CDATA[Une erreur est survenue, veuillez réessayer dans quelques minutes.]]></item>
+ <item name="err_useraccount_stopped"><![CDATA[Votre compte à l'ID %id% a été bloqué. Veuillez contacter le support.]]></item>
+ <item name="err_no_cookies"><![CDATA[Afin de pouvoir jouer à DarkOrbit, vous devez activer les Cookies.]]></item>
+ <item name="err_no_gold"><![CDATA[Malheureusement vous n'avez pas assez de Crédits pour cela]]></item>
+ <item name="err_no_pearls"><![CDATA[Malheureusement vous n'avez pas assez d'Uridium pour cela]]></item>
+ <item name="err_no_ship"><![CDATA[Vous ne pouvez pas acheter ce vaisseau spatial.]]></item>
+ <item name="err_eventitem_not_available"><![CDATA[Cet article n'est disponible que pendant certains événements.]]></item>
+ <item name="change_pearls"><![CDATA[Uridium échangé contre des Crédits]]></item>
+ <item name="abo_cancel"><![CDATA[Annulation du pack Avantage]]></item>
+ <item name="err_account_deleted"><![CDATA[Votre compte a été supprimé. Effectuez une nouvelle inscription si vous désirez de nouveau participer au jeu.]]></item>
+ <item name="err_account_storno"><![CDATA[Votre compte a été bloqué. Vous avez toujours des impayés.]]></item>
+ <item name="err_user_pass"><![CDATA[La combinaison entre le pseudonyme et le mot de passe est inconnue.]]></item>
+ <item name="err_missing_fsk"><![CDATA[Veuillez noter l'âge minimum requis.]]></item>
+ <item name="err_unknown_memberID"><![CDATA[ID inconnu.]]></item>
+ <item name="err_account_exist"><![CDATA[Un compte est déjà disponible.]]></item>
+ <item name="err_err_bad"><![CDATA[Une erreur est survenue. Veuillez contacter l'équipe de support : support.fr@darkorbit.com]]></item>
+ <item name="err_username_or_pass"><![CDATA[Nom d'utilisateur ou mot de passe incorrect]]></item>
+ <item name="err_missing_datenschutz"><![CDATA[Veuillez accepter les Conditions de protection des données.]]></item>
+ <item name="err_birthday_mismatch"><![CDATA[Vous devez avoir plus de 16 ans pour pouvoir jouer à DarkOrbit.]]></item>
+ <item name="err_SSO-User_not_found"><![CDATA[Le pseudonyme ou le mot de passe est incorrect.]]></item>
+ <item name="err_username_toShort"><![CDATA[Le pseudonyme choisi est trop court. (4-20 caractères)]]></item>
+ <item name="err_username_toLong"><![CDATA[Le pseudonyme choisi est trop long. (4-20 caractères)]]></item>
+ <item name="err_username_invalid2"><![CDATA[Le pseudonyme choisi contient des signes non-autorisés]]></item>
+ <item name="err_username_toLongPro7"><![CDATA[Le pseudonyme choisi est trop long. (4-12 caractères)]]></item>
+ <item name="err_password_toLong"><![CDATA[Le mot de passe ne doit pas dépasser 20 caractères.]]></item>
+ <item name="err_password_toShort"><![CDATA[Le mot de passe doit contenir au minimum 6 caractères.]]></item>
+ <item name="err_password_not_match"><![CDATA[Votre mot de passe est incorrect (contrôle-sécurité).]]></item>
+ <item name="err_password_invalid_signs"><![CDATA[Votre mot de passe contient des signes non-autorisés.]]></item>
+ <item name="err_select_clan"><![CDATA[Veuillez choisir un clan auquel vous aimeriez appartenir.]]></item>
+ <item name="err_temporary"><![CDATA[Attention : une erreur est survenue. Veuillez réitérer la manipulation ou bien contactez le support à l'adresse suivante : support.fr@darkorbit.com]]></item>
+ <item name="err_check_old_pw"><![CDATA[Veuillez saisir votre ancien mot de passe.]]></item>
+ <item name="err_username_blacklist"><![CDATA[Ce pseudo n'est pas autorisé.]]></item>
+ <item name="clan"><![CDATA[Clan]]></item>
+ <item name="clan_build"><![CDATA[Fonder clan]]></item>
+ <item name="clan_leader"><![CDATA[Chef]]></item>
+ <item name="clan_intro1"><![CDATA[Un clan permet de regrouper plusieurs joueurs afin d'effectuer des missions difficiles, des raids contre des adversaires. Vous pouvez soit rejoindre un clan existant ou bien créer votre propre clan.]]></item>
+ <item name="clan_intro2"><![CDATA[Dans le menu déroulant, veuillez sélectionner un clan auquel vous aimeriez appartenir.]]></item>
+ <item name="clan_intro3"><![CDATA[Frais d'admission :]]></item>
+ <item name="clan_intro4"><![CDATA[Vous pouvez entrer un petit texte en guise de présentation, afin que le clan dispose de quelques infos vous concernant.]]></item>
+ <item name="clan_select"><![CDATA[choisir clan]]></item>
+ <item name="clan_candidature"><![CDATA[Texte de candidature]]></item>
+ <item name="clan_but_abschicken"><![CDATA[Envoyer]]></item>
+ <item name="clan_but_erstellen"><![CDATA[créer clan]]></item>
+ <item name="clan_but_editieren"><![CDATA[éditer]]></item>
+ <item name="clan_but_hinzufuegen"><![CDATA[ajouter]]></item>
+ <item name="clan_but_suchen"><![CDATA[rechercher]]></item>
+ <item name="clan_but_info"><![CDATA[info]]></item>
+ <item name="clan_but_melden"><![CDATA[annoncer contenu]]></item>
+ <item name="clan_but_rang_verwalten"><![CDATA[Gérer les grades]]></item>
+ <item name="clan_but_bearbeiten"><![CDATA[modifier]]></item>
+ <item name="clan_but_einsehen"><![CDATA[voir]]></item>
+ <item name="clan_but_lesen"><![CDATA[lire]]></item>
+ <item name="clan_but_loeschen"><![CDATA[supprimer]]></item>
+ <item name="clan_but_loeschen_all"><![CDATA[tout effacer]]></item>
+ <item name="clan_but_clan_loeschen"><![CDATA[supprimer clan]]></item>
+ <item name="clan_but_neue_nachricht"><![CDATA[écrire nouveau message]]></item>
+ <item name="clan_but_offene_anfragen"><![CDATA[demandes ouvertes]]></item>
+ <item name="clan_but_antworten"><![CDATA[répondre]]></item>
+ <item name="clan_but_steuern_aendern"><![CDATA[modifier l'imposition]]></item>
+ <item name="clan_but_auszahlen"><![CDATA[transférer]]></item>
+ <item name="clan_but_neuer_rang"><![CDATA[Nouveau grade]]></item>
+ <item name="clan_but_mitglied_loeschen"><![CDATA[renvoyer membre du clan]]></item>
+ <item name="clan_but_offene_bewerbungen"><![CDATA[candidatures encore ouvertes]]></item>
+ <item name="clan_but_beenden"><![CDATA[terminer]]></item>
+ <item name="clan_but_delete_my_rank"><![CDATA[Renoncer au grade]]></item>
+ <item name="clan_but_leave_clan"><![CDATA[quitter le clan]]></item>
+ <item name="clan_but_clanliste"><![CDATA[liste complète]]></item>
+ <item name="clan_clanname"><![CDATA[Nom du clan :]]></item>
+ <item name="clan_clantag"><![CDATA[Tag du clan :]]></item>
+ <item name="clan_clantext"><![CDATA[Texte du clan :]]></item>
+ <item name="clan_beitritt"><![CDATA[Adhésion]]></item>
+ <item name="clan_firma"><![CDATA[Firme]]></item>
+ <item name="clan_level"><![CDATA[Niveau]]></item>
+ <item name="clan_betreff"><![CDATA[Objet]]></item>
+ <item name="clan_position"><![CDATA[Place]]></item>
+ <item name="clan_funktion"><![CDATA[Fonction]]></item>
+ <item name="clan_grund"><![CDATA[Raison]]></item>
+ <item name="clan_pro_tag"><![CDATA[par jour]]></item>
+ <item name="clan_einnahmen"><![CDATA[Recettes/jour]]></item>
+ <item name="clan_betrag"><![CDATA[Montant]]></item>
+ <item name="clan_10_percent"><![CDATA[10 % de la somme sont retenus par le système en tant que frais.]]></item>
+ <item name="clan_mitglied_waehlen"><![CDATA[Sélectionner membre]]></item>
+ <item name="clan_name"><![CDATA[Nom du clan]]></item>
+ <item name="clan_tag"><![CDATA[Tag de clan]]></item>
+ <item name="clan_gruendung"><![CDATA[Date de création]]></item>
+ <item name="clan_anzahl_mitglieder"><![CDATA[Membres]]></item>
+ <item name="clan_allianz"><![CDATA[Alliance]]></item>
+ <item name="clan_rang"><![CDATA[Grade]]></item>
+ <item name="clan_hp"><![CDATA[Page d'accueil du clan]]></item>
+ <item name="clan_ts"><![CDATA[Adresse Teamspeak]]></item>
+ <item name="clan_firmenzugehoerigkeit"><![CDATA[Appartenance à la firme]]></item>
+ <item name="clan_alle"><![CDATA[Tous]]></item>
+ <item name="clan_bild_allgemein"><![CDATA[Ici vous avez la possibilité de télécharger votre logo. Veuillez simplement respecter les règles suivantes]]></item>
+ <item name="clan_bildinfo_1"><![CDATA[seulement des images JPG ou GIF]]></item>
+ <item name="clan_bildinfo_2"><![CDATA[taille max. 15 Ko]]></item>
+ <item name="clan_bildinfo_3"><![CDATA[pas de symboles interdits]]></item>
+ <item name="clan_bildinfo_4"><![CDATA[pas d'images choquantes]]></item>
+ <item name="clan_bildinfo_5"><![CDATA[animations GIF autorisées]]></item>
+ <item name="clan_inaktive_user"><![CDATA[* Utilisateur inactif depuis 4 semaines]]></item>
+ <item name="clan_steuersatz"><![CDATA[Taux d'imposition]]></item>
+ <item name="clan_steuersatz_descr"><![CDATA[Le taux d'imposition détermine combien les membres du clan doivent verser quotidiennement dans la caisse.]]></item>
+ <item name="clan_new_rank_insert"><![CDATA[Un nouveau grade vient d'être créé : XXX.]]></item>
+ <item name="clan_no_ranks"><![CDATA[Aucun grade n'a encore été attribué.]]></item>
+ <item name="clan_insert_rankname"><![CDATA[Saisir le nom du grade]]></item>
+ <item name="clan_reason"><![CDATA[Justification]]></item>
+ <item name="clan_form"><![CDATA[Forme]]></item>
+ <item name="clan_datum"><![CDATA[Date]]></item>
+ <item name="clan_aktion"><![CDATA[Action]]></item>
+ <item name="clan_open"><![CDATA[En attente]]></item>
+ <item name="clan_declined"><![CDATA[refusé]]></item>
+ <item name="clan_leave_clan_sure"><![CDATA[Voulez-vous vraiment quitter ce clan ?]]></item>
+ <item name="clan_leave_clan_success"><![CDATA[Vous avez quitté le clan.]]></item>
+ <item name="clan_delete_my_rank_sure"><![CDATA[Voulez-vous vraiment renoncer à votre grade ?]]></item>
+ <item name="clan_"><![CDATA[Voulez-vous vraiment renvoyer cet utilisateur ?]]></item>
+ <item name="clan_change_leader"><![CDATA[Abandonner la direction]]></item>
+ <item name="clan_delete_clan_sure"><![CDATA[Voulez-vous vraiment supprimer ce clan ?]]></item>
+ <item name="clan_delete_my_rank_success"><![CDATA[Vous avez renoncé à votre grade.]]></item>
+ <item name="err_clan_maxRank"><![CDATA[Vous avez atteint le nombre max. de grades (XXX).]]></item>
+ <item name="err_clan_no_rank"><![CDATA[Ce grade n'est pas disponible]]></item>
+ <item name="err_clan_no_change_rank"><![CDATA[Le grade du joueur n'a pas pu être modifié.]]></item>
+ <item name="err_clan_noClanID"><![CDATA[Veuillez choisir un clan.]]></item>
+ <item name="err_clan_noRights"><![CDATA[Vous n'avez pas les droits pour effectuer cette manipulation.]]></item>
+ <item name="err_clan_rankExist"><![CDATA[Ce grade existe déjà dans le clan.]]></item>
+ <item name="err_clan_rankNotAllowed"><![CDATA[Ce grade n'est pas autorisé dans le clan :<br />XXX.]]></item>
+ <item name="err_clan_emptyRankNotAllowed"><![CDATA[Vous n'avez pas indiqué de rang. <br /> Veuillez choisir un rang de clan.]]></item>
+ <item name="err_clan_user_not_in_clan"><![CDATA[Cet utilisateur n'est pas membre de votre clan.]]></item>
+ <item name="err_clan_you_are_leader"><![CDATA[Vous êtes déjà chef.]]></item>
+ <item name="err_clan_no_diploRequest"><![CDATA[Cette demande diplomatique n'existe pas.]]></item>
+ <item name="err_clan_diploRequest_exist"><![CDATA[Il existe déjà une demande de ce clan.]]></item>
+ <item name="err_clan_firmchange_closeQuest"><![CDATA[Pour pouvoir changer de firme, vous devez tout d'abord terminer toutes les missions en cours.]]></item>
+ <item name="clan_newDiploOffer"><![CDATA[Votre demande diplomatique vient d'être envoyée.]]></item>
+ <item name="clan_no_transaction"><![CDATA[Encore aucune transaction effectuée]]></item>
+ <item name="success_clan_change_rank"><![CDATA[Le grade du joueur vient d'être modifié.]]></item>
+ <item name="success_clan_edit_rank"><![CDATA[Les grades des joueurs viennent d'être modifiés.]]></item>
+ <item name="success_clan_payout"><![CDATA[Le paiement vient d'être effectué.]]></item>
+ <item name="success_clan_changeLeader"><![CDATA[Vous avez transmis votre fonction de chef]]></item>
+ <item name="success_clan_change_descr"><![CDATA[Description du clan modifiée.]]></item>
+ <item name="success_war_is_closed"><![CDATA[Terminer la guerre.]]></item>
+ <item name="success_delete_apply"><![CDATA[Candidature effacée.]]></item>
+ <item name="diplo_status0"><![CDATA[Terminer guerre]]></item>
+ <item name="diplo_status1"><![CDATA[Alliance]]></item>
+ <item name="diplo_status2"><![CDATA[Pacte de non-agression]]></item>
+ <item name="diplo_status3"><![CDATA[Guerre]]></item>
+ <item name="diplo_stop_war"><![CDATA[Terminer guerre]]></item>
+ <item name="clan_noNewDiplo"><![CDATA[Aucune demande pour le moment...]]></item>
+ <item name="clan_noDiplo"><![CDATA[Aucune relation diplomatique pour le moment...]]></item>
+ <item name="diplo_hl_bewerbungstext"><![CDATA[Texte]]></item>
+ <item name="diplo_diplo"><![CDATA[Diplomatie]]></item>
+ <item name="diplo_not_available"><![CDATA[Indisponible]]></item>
+ <item name="diplo_open"><![CDATA[En attente...]]></item>
+ <item name="diplo_declined"><![CDATA[refusé]]></item>
+ <item name="err_diplo_isRunning"><![CDATA[Vous avez déjà une relation diplomatique avec ce clan.<br />Statut actuel :<strong>XXX</strong>]]></item>
+ <item name="err_diplo_applyIsRunning"><![CDATA[Vous avez déjà fait une demande diplomatique auprès de ce clan.]]></item>
+ <item name="diplo_end_success"><![CDATA[Les relations diplomatiques ont été annulées.]]></item>
+ <item name="err_diplo_not_with_own_clan"><![CDATA[Vous ne pouvez pas mener de relations diplomatiques avec votre propre clan.]]></item>
+ <item name="err_diplo_default"><![CDATA[Une erreur est survenue. Veuillez contacter le support.]]></item>
+ <item name="err_diplo_war_is_running"><![CDATA[Vous êtes déjà en guerre contre ce clan.]]></item>
+ <item name="diplo_new_deny"><![CDATA[Vous avez refusé la demande diplomatique du clan XXX.]]></item>
+ <item name="diplo_new_allow"><![CDATA[Vous avez accepté la demande diplomatique du clan XXX.<br /> Nouveau statut : YYY]]></item>
+ <item name="diplo_reply_deny"><![CDATA[La demande diplomatique envoyée au clan XXX a été refusée.]]></item>
+ <item name="diplo_reply_allow"><![CDATA[La demande diplomatique envoyée au clan XXX a été acceptée. Nouveau statut : YYY]]></item>
+ <item name="diplo_end"><![CDATA[Le clan <strong>XXX</strong> vient de rompre la relation diplomatique <strong>YYY</strong> avec votre clan.]]></item>
+ <item name="diplo_request_delete"><![CDATA[Votre demande diplomatique a été retirée.]]></item>
+ <item name="diplo_declare_war"><![CDATA[Vous avez déclaré la guerre au clan %clanname%.]]></item>
+ <item name="diplo_declare_war_info"><![CDATA[Le clan %clanname% a déclaré la guerre à votre clan.]]></item>
+ <item name="diplo_declare_war_info2"><![CDATA[Votre clan a déclaré la guerre au clan %clanname%.]]></item>
+ <item name="diplo_stop_war_msg"><![CDATA[Le clan %clanname% a mis fin à la guerre contre votre clan.]]></item>
+ <item name="diplo_stop_war_msg2"><![CDATA[Votre clan a mis fin à la guerre contre le clan %clanname%.]]></item>
+ <item name="info_clan_changeLeader"><![CDATA[Attention : dès maintenant, le nouveau chef de clan est : %username%]]></item>
+ <item name="success_clan_left"><![CDATA[L'utilisateur %username% a quitté le clan.]]></item>
+ <item name="clan_rankinfo1"><![CDATA[Écrire une circulaire]]></item>
+ <item name="clan_rankinfo2"><![CDATA[Voir candidature et traiter]]></item>
+ <item name="clan_rankinfo3"><![CDATA[Renvoyer membres]]></item>
+ <item name="clan_rankinfo4"><![CDATA[Éditer les grades]]></item>
+ <item name="clan_rankinfo5"><![CDATA[Diplomatie : voir les demandes, tisser des liens diplomatiques]]></item>
+ <item name="clan_rankinfo6"><![CDATA[Diplomatie : rompre les alliances]]></item>
+ <item name="clan_rankinfo7"><![CDATA[Diplomatie : déclarer la guerre à d'autres clans]]></item>
+ <item name="clan_rankinfo8"><![CDATA[Envisager un paiement de la caisse du clan]]></item>
+ <item name="clan_rankinfo9"><![CDATA[modifier l'imposition]]></item>
+ <item name="clan_rankinfo10"><![CDATA[Écrire une News pour le clan]]></item>
+ <item name="clan_rankinfo11"><![CDATA[Gérer les modules de station de combat]]></item>
+ <item name="clan_rankinfo12"><![CDATA[Activer/désactiver le déflecteur de station de combat]]></item>
+ <item name="clan_rankinfo13"><![CDATA[Construire une station de combat]]></item>
+ <item name="clan_text_found"><![CDATA[Le coût de la création du clan est de XXX. Après la création, en cliquant sur gestion, puis sur Info-Clan, vous pouvez télécharger un logo, augmenter les impôts, gérer les membres, etc.]]></item>
+ <item name="clan_info_1"><![CDATA[Tag/nom de clan :]]></item>
+ <item name="clan_info_2"><![CDATA[Date de création :]]></item>
+ <item name="clan_info_3"><![CDATA[Chef du clan :]]></item>
+ <item name="clan_info_4"><![CDATA[Membres :]]></item>
+ <item name="clan_info_5"><![CDATA[Grade :]]></item>
+ <item name="clan_info_6"><![CDATA[Appartenance à la firme :]]></item>
+ <item name="clan_info_7"><![CDATA[Taux d'imposition :]]></item>
+ <item name="clan_info_8"><![CDATA[Page d'accueil du clan :]]></item>
+ <item name="clan_info_9"><![CDATA[Adresse Teamspeak :]]></item>
+ <item name="clan_no_entry"><![CDATA[toujours aucun message...]]></item>
+ <item name="err_clantag_illegal"><![CDATA[Veuillez utiliser seulement des lettres et des chiffres pour l'abréviation de votre clan.]]></item>
+ <item name="pic_gilde"><![CDATA[Ici vous avez la possibilité de télécharger un logo pour votre clan.<br>Prêtez attention aux règles suivantes :]]></item>
+ <item name="gilde_tax"><![CDATA[Taxes du clan]]></item>
+ <item name="clan_tax_back"><![CDATA[Contre passation des taxes du clan]]></item>
+ <item name="err_user_in_clan"><![CDATA[Vous faites déjà partie d'un clan. Vous ne pouvez donc ni adhérer à un nouveau clan, ni en créer un !]]></item>
+ <item name="err_guest_user_no_clan"><![CDATA[Vous ne pouvez pas fonder de clan car vous vous ne vous êtes pas encore inscrit.]]></item>
+ <item name="err_guest_user_no_clan_apply"><![CDATA[Vous ne pouvez pas poser votre candidature auprès d'un clan car vous ne vous êtes pas encore inscrit.]]></item>
+ <item name="err_clan_password_wrong"><![CDATA[Les codes d'accès pour votre clan sont incorrects !]]></item>
+ <item name="err_clan_apply"><![CDATA[Vous avez une candidature en cours pour ce clan !]]></item>
+ <item name="err_clan_apply_send"><![CDATA[Votre candidature a été envoyée au chef du clan !]]></item>
+ <item name="err_clan_no_accept_apply"><![CDATA[Ce clan n'accepte pas de nouvelles candidatures pour l'instant !]]></item>
+ <item name="err_clan_no_money"><![CDATA[Votre clan n'a malheureusement pas assez de Crédits pour cela !]]></item>
+ <item name="err_clan_no_access"><![CDATA[Vous n'avez pas le droit d'effectuer ces modifications dans le clan !]]></item>
+ <item name="err_clan_wrong_format"><![CDATA[Veuillez vérifier le format de votre image. Formats autorisés : JPG et GIF.]]></item>
+ <item name="err_clan_image_too_big"><![CDATA[Votre image est trop grande. Maximum : 15 KB.]]></item>
+ <item name="err_clan_no_user"><![CDATA[Veuillez choisir un membre du clan !]]></item>
+ <item name="clan_err_wrong_value"><![CDATA[Montant invalide !]]></item>
+ <item name="err_no_clanname"><![CDATA[Veuillez choisir un nom pour votre clan !]]></item>
+ <item name="clan_payout"><![CDATA[Paiement effectué par votre clan.]]></item>
+ <item name="clan_tax"><![CDATA[Taxes du clan]]></item>
+ <item name="clan_tax_toClan"><![CDATA[Paiement des taxes par :]]></item>
+ <item name="clan_tax_fromUser"><![CDATA[Paiement des taxes au clan :]]></item>
+ <item name="clan_user_in_clan"><![CDATA[Cet utilisateur fait maintenant partie d'un autre clan !]]></item>
+ <item name="clan_not_your_clan"><![CDATA[Il ne s'agit pas de votre clan !]]></item>
+ <item name="clan_found"><![CDATA[Clan fondé :]]></item>
+ <item name="clan_add"><![CDATA[Adhésion au clan :]]></item>
+ <item name="err_clan_full"><![CDATA[Ce clan est malheureusement complet et ne peut plus accepter de nouveaux membres]]></item>
+ <item name="err_clan_in_board"><![CDATA[Ce membre est déjà représenté au conseil !]]></item>
+ <item name="clan_pact_send"><![CDATA[Demande d'alliance/de pacte de non agression envoyée !]]></item>
+ <item name="clan_pact_accept"><![CDATA[Demande d'alliance/de pacte de non agression acceptée !]]></item>
+ <item name="clan_pact_decline"><![CDATA[Demande d'alliance/de pacte de non agression refusée !]]></item>
+ <item name="clan_pact_break"><![CDATA[Demande d'alliance/de pacte de non agression annulée !]]></item>
+ <item name="clan_pact_war_break"><![CDATA[La déclaration de guerre a été retirée !]]></item>
+ <item name="clan_user_leave"><![CDATA[Vous avez quitté le clan.]]></item>
+ <item name="err_clan_noleave"><![CDATA[En tant que chef du clan, vous ne pouvez pas quitter le clan.]]></item>
+ <item name="err_clan_decline"><![CDATA[Cet utilisateur a été refusé :]]></item>
+ <item name="err_clan_exist"><![CDATA[Ce nom est déjà utilisé, veuillez en choisir un autre.]]></item>
+ <item name="err_clantag_exist"><![CDATA[Cette abréviation est déjà utilisée, veuillez en choisir une autre.]]></item>
+ <item name="clan_kick"><![CDATA[Le clan XXX vous a renvoyé.]]></item>
+ <item name="clan_self_kick"><![CDATA[Vous avez quitté le clan XXX.]]></item>
+ <item name="clan_remove_member"><![CDATA[Le membre a été supprimé !]]></item>
+ <item name="clan_changed_board"><![CDATA[Le conseil a été modifié !]]></item>
+ <item name="clan_changed_clanLeader"><![CDATA[Le chef a été changé !]]></item>
+ <item name="clan_changed_tax"><![CDATA[La taxe du clan a été modifiée !]]></item>
+ <item name="clan_toUser_accept"><![CDATA[Le clan XXX a accepté votre candidature !]]></item>
+ <item name="clan_toUser_decline"><![CDATA[Le clan XXX a refusé votre candidature !]]></item>
+ <item name="clan_msg_delete"><![CDATA[Le message a été effacé.]]></item>
+ <item name="clan_msg_all_delete"><![CDATA[Votre message a été effacé.]]></item>
+ <item name="clan_msg_send"><![CDATA[Votre message a été envoyé]]></item>
+ <item name="clan_delete"><![CDATA[Le clan XXX a été dissout par son chef YYY.]]></item>
+ <item name="clan_user_2dayblock"><![CDATA[Vous avez récemment quitté un clan. Vous devez attendre 48 heures avant de pouvoir adhérer à ou fonder un nouveau clan.]]></item>
+ <item name="err_clannameChange2Days"><![CDATA[Le nom/TAG de clan pourra être changé au plus tôt dans 48 heures.]]></item>
+ <item name="clan_pact_battle_to"><![CDATA[Le clan XXX a rompu le pacte de non agression ou son alliance !]]></item>
+ <item name="clan_pact_battle_from"><![CDATA[Le membre XXX a rompu le pacte de non agression ou son alliance avec le clan YYY]]></item>
+ <item name="err_clan_in_war"><![CDATA[Votre clan est en guerre contre ce clan !]]></item>
+ <item name="err_clan_in_pact"><![CDATA[Votre clan a signé un pacte de non agressions ou une alliance avec ce clan !]]></item>
+ <item name="err_clan_wait_pact"><![CDATA[Votre clan a envoyé et/ou a reçu une demande d'alliance ou de pacte de non agression de ce clan !]]></item>
+ <item name="err_presse_noClan"><![CDATA[Ce compte visiteur ne peut pas entrer dans un clan. Pour utiliser cette fonction, vous devez créer votre propre compte. Merci beaucoup.]]></item>
+ <item name="guild_tax"><![CDATA[Taxe de clan]]></item>
+ <item name="err_clan_other_fractionID"><![CDATA[Attention : tous les membres du clan ne font pas partie de la firme XXX. Pour changer l'appartenance de la firme du clan, tous les membres doivent appartenir à la même firme.]]></item>
+ <item name="success_change_data"><![CDATA[Les données ont été modifiées.]]></item>
+ <item name="battleTeaser"><![CDATA[<p style="text-align:center"><b style=font-size:14px>Dimanche, c'est la grande bataille du Jackpot !</b></p><br>
+
+                                <strong>Début :</strong><br />
+
+                                <ul>
+
+                                    <li>14:00-14:10 *: tous les participants entrent sur la carte. Protection contre les attaques pour tout le monde !</li>
+
+                                    <li>Tous les participants sont présents : la bataille peut commencer !</li>
+
+                                </ul>
+
+<br />
+
+<strong>Déroulement :</strong><br />
+
+<ul>
+
+<li>Il existe plusieurs cartes accueillant jusqu'à 500 joueurs choisis au hasard.</li>
+
+                                    <li>Les pilotes éliminés par leurs adversaires seront immédiatement disqualifiés.</li>
+
+                                    <li>Lorsqu'il ne restera plus que 500 joueurs sur toutes les cartes, un message apparaîtra, et ces joueurs seront transférés sur la carte finale.</li>
+
+                                    <li>S'il n'y a toujours aucun gagnant à 17h30, la zone de radiations commence à s'étendre lentement vers le centre, jusqu'à occuper toute la carte de finale en décimant sans pitié les participants restants.</li>
+
+                                </ul>
+
+                                <br />
+
+                                <strong>Fin :</strong><br />
+
+                                <ul>
+
+                                    <li>18:00* : fin de la bataille du Jackpot sur la carte finale.</li>
+
+                                    <li>Le dernier survivant sera élu vainqueur. En cas d'égalité, le vainqueur sera tiré au sort.</li>
+
+                                </ul>
+
+                                <br />
+
+                                <strong>Règles :</strong><br />
+
+                                <ul>
+
+                                    <li>%disclaimer_winnings%</li>
+
+                                    <li>Cette participation est gratuite et basée sur le volontariat.</li>
+
+                                    <li>ATTENTION : seuls les joueurs majeurs peuvent participer !</li>
+
+                                </ul>
+
+                                <br />
+
+                                %Timezone_Def%]]></item>
+ <item name="jackpot_winnings_euro"><![CDATA[Le vainqueur reçoit le montant du Jackpot en euros.]]></item>
+ <item name="jackpot_win_EURO"><![CDATA[Le vainqueur reçoit le montant du Jackpot en euros.]]></item>
+ <item name="jackpotPopup"><![CDATA[Oui, j'ai au moins 18 ans et souhaite participer à la bataille du Jackpot mensuelle.]]></item>
+ <item name="battleTeaser_test"><![CDATA[<p style="text-align:center"><b style=font-size:14px>Une bataille du jackpot test aura lieu jeudi !</b></p><br>
+
+<strong>Début</strong><br />
+
+<ul>
+
+<li>De 14h00 à 14h10, heure GMT, tous les joueurs entrent dans la carte de la bataille. Protection contre les attaques pour tout le monde !</li>
+
+                                    <li>Tous les participants sont présents : la bataille peut commencer !</li>
+
+                                </ul>
+
+                                <br />
+
+                                <strong>Déroulement</strong><br />
+
+                                <ul>
+
+                                    <li>Plusieurs cartes de bataille de quart-de-finale sont disponibles, dans lesquelles pourront évoluer jusqu'à 500 joueurs sélectionnés aléatoirement.</li>
+
+                                    <li>Les pilotes éliminés par leurs adversaires seront immédiatement disqualifiés.</li>
+
+									<li>Les pilotes survivants seront transportés, après notification, sur l'une des cartes de demi-finale.</li>
+
+                                    <li>Lorsqu'il ne restera plus que 500 joueurs sur toutes les cartes, un message apparaîtra, et ces joueurs seront transférés sur la carte finale.</li>
+
+                                </ul>
+
+                                <br />
+
+                                <strong>Fin</strong><br />
+
+                                <ul>
+
+                                    <li>Le dernier vaisseau survivant sera déclaré vainqueur ; si plusieurs pilotes ont survécu, le vainqueur sera tiré au hasard parmi eux.</li>
+
+									<li>Ceci est un test, il est donc possible que la bataille soit interrompue avant qu'il ne reste qu'un seul survivant.</li>
+
+                                </ul>
+
+                                <br />
+
+                                <strong>Règles</strong><br />
+
+                                <ul>
+
+                                    <li>Test ! Le vainqueur n'obtiendra aucune récompense.</li>
+
+                                    <li>La participation à cette action est libre et gratuite.</li>
+
+                                </ul>
+
+<br />]]></item>
+ <item name="jackpotPopup_test"><![CDATA[Oui, je désire participer à la bataille test.]]></item>
+ <item name="user_id"><![CDATA[ID utilisateur]]></item>
+ <item name="user_first_name"><![CDATA[Prénom]]></item>
+ <item name="user_last_name"><![CDATA[Nom]]></item>
+ <item name="aktion_tore"><![CDATA[La France vous fait gagner de l'Uridium...]]></item>
+ <item name="aktion_bettingGame_x1"><![CDATA[Bonus pronostics : montant doublé]]></item>
+ <item name="aktion_bettingGame_x2"><![CDATA[Bonus pronostics : montant triplé]]></item>
+ <item name="aktion_bettingGame_x3"><![CDATA[Bonus pronostics : montant quadruplé]]></item>
+ <item name="aktion_superbowl"><![CDATA[Bonus Superbowl]]></item>
+ <item name="aktion_event"><![CDATA[Bonus événement]]></item>
+ <item name="repair_ship_back"><![CDATA[Réparation gratuite.]]></item>
+ <item name="bug_quest"><![CDATA[Recréditation après l'utilisation d'un bug.]]></item>
+ <item name="bug_quest_ep"><![CDATA[Recréditation de PE après l'utilisation d'un bug.]]></item>
+ <item name="newsText"><![CDATA[Bienvenue, PILOTE DE L'ESPACE !<br> Vous êtes sur le point de vous embarquer pour une aventure inédite aux confins de l'univers. Montrez ce que vous avez appris à l'Académie.<br>  <br>Vous avez des questions ou des problèmes, adressez vous à]]></item>
+ <item name="newsText_1"><![CDATA[Bienvenue, PILOTE DE L'ESPACE !<br> Vous êtes sur le point de vous embarquer pour une aventure inédite aux confins de l'univers. Il est temps d'appliquer le savoir que vous avez accumulé à l'Académie.<br><br>Si vous avez des questions ou des problèmes, veuillez cliquer %LINK_START%ici%LINK_END%.]]></item>
+ <item name="press_headline"><![CDATA[Presse/Compte des invités]]></item>
+ <item name="press_text"><![CDATA[Ce compte vous procure un premier aperçu du jeu. Attention : le compte sera remis à zéro tous les jours. Êtes-vous prêt à vos immerger dans le jeu ? Inscrivez-vous et contactez-nous pour plus de précisions.]]></item>
+ <item name="mega_happy_hour_text"><![CDATA[<b>MÉGA HAPPY HOUR SUR DARKORBIT</b><br><br>Quels combats acharnés avez-vous mené, pilote !<br>
+
+    L'heure est venue de se reposer et de reprendre des forces !<br>Nous vous invitons à la méga happy hour. Elle commence maintenant et se termine
+
+à la fin de la prochaine heure pile.<br><br>Achetez de l'Uridium maintenant et encaissez 3 unités pour le prix d'1 (valable avec tous les moyens de paiement, sauf virement bancaire). Par exemple, recevez 90 000 au lieu de 30 000 Uridium !<br><br>Soyez remonté à bloc pour votre prochaine bataille !]]></item>
+ <item name="signUpStory"><![CDATA[Depuis des siècles, trois firmes puissantes se mènent un combat acharné pour l'obtention exclusive de matières premières.<br><br>Leurs batailles sont légendaires vous ont été déjà bien souvent contées durant votre formation de pilote de l'espace.<br><br>La conquête, la découverte de mondes inconnus et l'observation de phénomènes étranges vous fascinent depuis toujours : c'est plus fort que vous maintenant, votre devez répondre à votre vocation ! Votre formation à l'Académie, vous l'avez réussie en sortant major de votre promotion.<br><br>Et maintenant, le moment tant attendu est arrivé ! En tant que jeune pilote de l'espace, votre firme vous envoie au plus profond de l'univers à la recherche des matières premières dont elle a besoin pour s'imposer dans cette guerre !]]></item>
+ <item name="helpsite"><![CDATA[2327]]></item>
+ <item name="help_1"><![CDATA[BIENVENUE, PILOTE DE L'ESPACE !<BR>VOTRE VOYAGE AU PLUS PROFOND DE L'UNIVERS PEUT COMMENCER.<BR><BR>ICI VOUS TROUVEREZ QUELQUES TRUCS ET ASTUCES :<BR><BR>1. VOTRE FIRME MET UN VAISSEAU A VOTRE DISPOSITION DONT VOUS TROUVEREZ LA DESCRIPTION DANS LE HANGAR.<BR>2. CLIQUEZ SUR DÉPART ET EXPLOREZ LA GALAXIE : COLLECTEZ DES MATIÈRES PREMIÈRES.<BR>3. ÉCHANGEZ-LES MATIÈRES CONTRE DES CRÉDITS A LA STATION SPATIALE<BR>4. DANS LE HANGAR VOUS POUVEZ ÉQUIPER VOTRE VAISSEAU AVEC DES ARMES, DES BOUCLIERS, ETC.<BR>5. PROFITEZ DES CAPACITÉS DE VOTRE FIRME : HANGAR, COMMERCE, LABORATOIRE... ET FAITES CARRIÈRE !]]></item>
+ <item name="help_2"><![CDATA[DANS LE HANGAR VOUS TROUVEREZ UN APERÇU DE VOTRE VAISSEAU, AINSI QUE TOUTES LES INFORMATIONS NÉCESSAIRES À UN PILOTE DE L'ESPACE DE VOTRE RANG.<BR><BR>SI VOTRE VAISSEAU EST DÉTRUIT DANS UNE BATAILLE, VOUS POUVEZ LE FAIRE RÉPARER ICI.<BR><BR>VOUS POUVEZ ÉGALEMENT VOUS PROCURER UN AUTRE VAISSEAU SPATIAL EN CLIQUANT SUR LES DIFFÉRENTS LIENS DE LA PAGE. VOUS Y TROUVEREZ ÉGALEMENT UN VASTE CHOIX D'ARMES, DE GÉNÉRATEURS, MUNITIONS LASER, ETC.]]></item>
+ <item name="help_3"><![CDATA[VOTRE VAISSEAU SPATIAL A BESOIN DU MEILLEUR ÉQUIPEMENT ?<BR><BR>PROCUREZ-LE VOUS ICI !<BR><BR>ACHETEZ VOTRE ÉQUIPEMENT AUX ENCHÈRES AVEC DES CRÉDITS À UN PRIX ABORDABLE OU ACHETEZ-LE IMMÉDIATEMENT AVEC DE L'URIDIUM<BR><BR>- PAYEZ EN URIDIUM ET L'ÉQUIPEMENT EST À VOUS !]]></item>
+ <item name="help_4"><![CDATA[DANS LE LABORATOIRE, VOUS POUVEZ FAIRE DES RECHERCHES UTILES À VOTRE SUCCÈS<BR><BR>CAR LES MATIÈRES PREMIÈRES ENRICHIES PRÉSENTENT DE NOMBREUX AVANTAGES POUR VOTRE VAISSEAU SPATIAL. <BR><BR>VOUS POUVEZ UTILISER LES MATIÈRES ENRICHIES POUR AUGMENTER L'EFFICACITÉ DE VOTRE ÉQUIPEMENT A BORD - POUR CELA, CLIQUEZ SUR AMÉLIROATION À GAUCHE DANS LA BARRE DE MENU, ET FAITES GLISSER LES MATIÈRES PREMIÈRES CHOISIES VERS VOTRE VAISSEAU.]]></item>
+ <item name="help_5"><![CDATA[L'UNION FAIT LA FORCE !<BR><BR>VOUS POUVEZ VOUS UNIR AVEC D'AUTRES PILOTES POUR FAIRE AVANCER VOTRE FIRME PLUS RAPIDEMENT.<BR><BR>ICI VOUS POUVEZ ADHÉRER À UN CLAN OU FONDER LE VÔTRE.<BR><BR>VOUS ÊTES DÉJÀ MEMBRE ?<BR>ICI VOUS POUVEZ VOIR LES MEMBRES DE VOTRE CLAN, GÉRER VOTRE CLAN ET ÉCRIRE ET RECEVOIR DES MESSAGES.]]></item>
+ <item name="help_6"><![CDATA[DANS DARKORBIT, VOUS POUVEZ ACHETER L'ÉQUIPEMENT NÉCESSAIRE POUR VOTRE VAISSEAU AVEC DES CRÉDITS OU DE L'URIDIUM.<BR><BR>VOUS POUVEZ ÉCHANGER VOTRE URIDIUM CONTRE DES CRÉDITS À TOUT MOMENT.<BR><BR>VOTRE COMPTE EST DÉJÀ VIDE ?<BR>DANS CE CAS APPROVISIONNEZ-LE TOUT SIMPLEMENT ICI<BR><BR>OU DEVENEZ MEMBRE PREMIUM ET PROFITEZ DE NOMBREUX AVANTAGES !]]></item>
+ <item name="help_7"><![CDATA[EN TANT QUE PILOTE INEXPÉRIMENTÉ VOUS DEVEZ RÉUSSIR DES MISSIONS AFIN D'ACQUÉRIR L'EXPÉRIENCE NÉCESSAIRE.<BR><BR>VOTRE FIRME VOUS PROPOSE PLUSIEURS MISSIONS QUI VOUS PERMETTRONT D'ACQUÉRIR DES CRÉDITS ET DES POINTS D'EXPÉRIENCE.<BR>AVEC LES CRÉDITS, VOUS ÉQUIPEZ VOTRE VAISSEAU SPATIAL, LES POINTS D'EXPÉRIENCE VOUS PERMETTENT D'ACCÉDER GRADUELLEMENT AUX DIFFÉRENTS NIVEAUX.<BR><BR>LE PROCHAIN NIVEAU VOUS PROPOSERA DE NOUVELLES MISSIONS QUI METTRONT VOS TALENTS DE PILOTE À L'ÉPREUVE.<BR><BR>ALLEZ DÉCOUVRIR DES SECTEURS INEXPLORÉS !]]></item>
+ <item name="help_8"><![CDATA[UTILISEZ LE SKYLAB POUR PLUS DE MATIÈRES PREMIÈRES DE MEILLEURE QUALITÉ !<br /> <br />1. CONSTRUISEZ LE COLLECTEUR STANDARD : EXTRACTION DE PROMETIUM, ENDURIUM, TERBIUM !<br />  2. ARMEZ VOTRE MODÈLE DE BASE ET VOTRE MODÈLE SOLAIRE : PLUS DE POUVOIR ET DE MEILLEURES UPGRADES !<br />3. VOUS POUVEZ EXTRAIRE VOS MATIÈRES PREMIÈRES : LE MODULE DE TRANSPORT VOUS PERMET DE FAIRE LA NAVETTE ENTRE LE VAISSEAU ET SKYLAB !<br /> 4. AMÉLIOREZ VOS ARMES GRÂCE À LA NOUVELLE MATIÈRE PREMIÈRE SEPROM : FORCE D'ATTAQUE PLEINE PUISSANCE !]]></item>
+ <item name="credit_headline"><![CDATA[Achetez maintenant - payez plus tard !]]></item>
+ <item name="credit_slogan"><![CDATA[Une avance d'Uridium ! Rien de plus simple : échangez facilement, rapidement et sans coût supplémentaire des euros contre de l'Uridium !]]></item>
+ <item name="credit_numb1"><![CDATA[1.]]></item>
+ <item name="credit_point1"><![CDATA[Choisissez : Uridium pour 10 euros, 25 euros ou bien 49 euros sur votre compte virtuel !]]></item>
+ <item name="credit_numb2"><![CDATA[2.]]></item>
+ <item name="credit_point2"><![CDATA[Nous vous transférons directement 30 000 Uridium (10 euros), 75 000 Uridium (25 euros) ou bien 150 000 Uridium (49 euros) sur votre compte de jeu virtuel - disponible immédiatement !]]></item>
+ <item name="credit_numb3"><![CDATA[3.]]></item>
+ <item name="credit_point3"><![CDATA[Vous payez l'Uridium 7 jours plus tard !]]></item>
+ <item name="credit_tip"><![CDATA[Grâce à cette avance, vous avez toujours des liquidités disponibles !]]></item>
+ <item name="credit_choose"><![CDATA[Acheter maintenant]]></item>
+ <item name="credit_condition"><![CDATA[Lorsque le délai est dépassé, le compte sera bloqué jusqu'à la réception du paiement.]]></item>
+ <item name="credit_acclaim"><![CDATA[Oui, je suis d'accord avec ces conditions.]]></item>
+ <item name="credit_pleaseWait"><![CDATA[Veuillez patienter...]]></item>
+ <item name="credit_abort"><![CDATA[Annuler]]></item>
+ <item name="credit_confirm"><![CDATA[Confirmer]]></item>
+ <item name="fame_eigene_statistik"><![CDATA[Statistiques personnelles]]></item>
+ <item name="fame_dailyRank"><![CDATA[Votre grade du jour]]></item>
+ <item name="fame_die_firmen"><![CDATA[Les firmes]]></item>
+ <item name="fame_clans"><![CDATA[Clans]]></item>
+ <item name="fame_user_ranking"><![CDATA[Classement Meilleur Utilisateur]]></item>
+ <item name="fame_erfahrung"><![CDATA[Expérience]]></item>
+ <item name="fame_ehre"><![CDATA[Honneur]]></item>
+ <item name="fame_destroyed_ships"><![CDATA[Vaisseaux détruits]]></item>
+ <item name="fame_destroyed_aliens"><![CDATA[Extraterrestres détruits]]></item>
+ <item name="fame_titel"><![CDATA[Aperçu des titres]]></item>
+ <item name="fame_summerGamesRanking"><![CDATA[Classement jeux d'été]]></item>
+ <item name="fame_summerGamesMedals"><![CDATA[Palmarès des médailles des jeux d'été]]></item>
+ <item name="fame_summerGames2Overall"><![CDATA[Jeux d'été II classement général]]></item>
+ <item name="fame_summerGames2Today"><![CDATA[Jeux d'été II classement du jour]]></item>
+ <item name="fame_summerGames2Yesterday"><![CDATA[Jeux d'été II classement d'hier]]></item>
+ <item name="fame_spaceball"><![CDATA[Spaceball]]></item>
+ <item name="fame_galaxyGatesTime1"><![CDATA[GG - Meilleurs temps portail Alpha]]></item>
+ <item name="fame_galaxyGatesTime2"><![CDATA[GG - Meilleurs temps portail Beta]]></item>
+ <item name="fame_galaxyGatesTime3"><![CDATA[GG - Meilleurs temps portail Gamma]]></item>
+ <item name="fame_galaxyGatesTime4"><![CDATA[GG - Meilleurs temps portail Y3]]></item>
+ <item name="fame_galaxyGatesTime5"><![CDATA[GG - Meilleurs temps portail Delta]]></item>
+ <item name="fame_galaxyGatesTime8"><![CDATA[GG - Meilleurs temps portail Epsilon]]></item>
+ <item name="fame_galaxyGatesTime9"><![CDATA[GG - Meilleurs temps portail Zêta]]></item>
+ <item name="fame_galaxyGatesTime10"><![CDATA[GG - Meilleurs temps portail Kappa]]></item>
+ <item name="fame_galaxyGatesTime11"><![CDATA[GG - Meilleurs temps portail Lambda]]></item>
+ <item name="fame_galaxyGatesTime12"><![CDATA[GG - Meilleurs temps portail Chronos]]></item>
+ <item name="fame_galaxyGatesCount1"><![CDATA[GG - Nombre portails Alpha]]></item>
+ <item name="fame_galaxyGatesCount2"><![CDATA[GG - Nombre portails Beta]]></item>
+ <item name="fame_galaxyGatesCount3"><![CDATA[GG - Nombre portails Gamma]]></item>
+ <item name="fame_galaxyGatesCount4"><![CDATA[GG - Nombre portail Y3]]></item>
+ <item name="fame_galaxyGatesCount5"><![CDATA[GG - Nombre portails Delta]]></item>
+ <item name="fame_galaxyGatesCount8"><![CDATA[GG - Nombre portails Epsilon]]></item>
+ <item name="fame_galaxyGatesCount9"><![CDATA[GG - Nombre portails Zêta]]></item>
+ <item name="fame_galaxyGatesCount10"><![CDATA[GG - Nombre portails Kappa]]></item>
+ <item name="fame_galaxyGatesCount11"><![CDATA[GG - Nombre portails Lambda]]></item>
+ <item name="fame_galaxyGatesCount12"><![CDATA[GG - Nombre portails Chronos]]></item>
+ <item name="fame_invasion"><![CDATA[Classement Invasion]]></item>
+ <item name="fame_capture_the_beacon_matches"><![CDATA[Capture the Beacon - Rounds]]></item>
+ <item name="fame_capture_the_beacon_users"><![CDATA[Capture the Beacon - Joueurs]]></item>
+ <item name="fame_capture_the_beacon_stats"><![CDATA[Capture the Beacon - Statistiques]]></item>
+ <item name="fame_pvpBountyHuntDaily"><![CDATA[Chasse à la prime - Classement du jour]]></item>
+ <item name="fame_pvpBountyHuntOverall"><![CDATA[Chasse à la prime - Classement global]]></item>
+ <item name="halloffame_hl_pers"><![CDATA[Statistiques personnelles]]></item>
+ <item name="halloffame_hl_dailyRank"><![CDATA[Votre grade du jour]]></item>
+ <item name="halloffame_hl_firma"><![CDATA[Les firmes]]></item>
+ <item name="halloffame_hl_clans"><![CDATA[Clans]]></item>
+ <item name="halloffame_hl_top_user"><![CDATA[Classement Meilleur Utilisateur]]></item>
+ <item name="halloffame_hl_erfahrung"><![CDATA[Expérience]]></item>
+ <item name="halloffame_hl_ehre"><![CDATA[Honneur]]></item>
+ <item name="halloffame_hl_ships"><![CDATA[Vaisseaux détruits]]></item>
+ <item name="halloffame_hl_aliens"><![CDATA[Extraterrestres éliminés]]></item>
+ <item name="halloffame_hl_titeluebersicht"><![CDATA[Aperçu titre]]></item>
+ <item name="halloffame_hl_summerGamesRanking"><![CDATA[Classement jeux d'été]]></item>
+ <item name="halloffame_hl_summerGamesMedals"><![CDATA[Palmarès des médailles des jeux d'été]]></item>
+ <item name="halloffame_hl_summerGames2Overall"><![CDATA[Jeux d'été II classement général]]></item>
+ <item name="halloffame_hl_summerGames2Today"><![CDATA[Jeux d'été II classement du jour]]></item>
+ <item name="halloffame_hl_summerGames2Yesterday"><![CDATA[Jeux d'été II classement d'hier]]></item>
+ <item name="halloffame_hl_yourMedals"><![CDATA[Vos médailles]]></item>
+ <item name="halloffame_hl_spaceball"><![CDATA[Spaceball]]></item>
+ <item name="halloffame_hl_galaxyGatesTime1"><![CDATA[GG - Meilleurs temps portail Alpha]]></item>
+ <item name="halloffame_hl_galaxyGatesTime2"><![CDATA[GG - Meilleurs temps portail Beta]]></item>
+ <item name="halloffame_hl_galaxyGatesTime3"><![CDATA[GG - Meilleurs temps portail Gamma]]></item>
+ <item name="halloffame_hl_galaxyGatesTime4"><![CDATA[GG - Meilleurs temps portail Y3]]></item>
+ <item name="halloffame_hl_galaxyGatesTime5"><![CDATA[GG - Meilleurs temps portail Delta]]></item>
+ <item name="halloffame_hl_galaxyGatesTime8"><![CDATA[GG - Meilleurs temps portail Epsilon]]></item>
+ <item name="halloffame_hl_galaxyGatesTime9"><![CDATA[GG - Meilleurs temps portail Zêta]]></item>
+ <item name="halloffame_hl_galaxyGatesTime10"><![CDATA[GG - Meilleurs temps portail Kappa]]></item>
+ <item name="halloffame_hl_galaxyGatesTime11"><![CDATA[GG - Meilleurs temps portail Lambda]]></item>
+ <item name="halloffame_hl_galaxyGatesTime12"><![CDATA[GG - Meilleurs temps portail Chronos]]></item>
+ <item name="halloffame_hl_galaxyGatesCount1"><![CDATA[GG - Nombre portail Alpha]]></item>
+ <item name="halloffame_hl_galaxyGatesCount2"><![CDATA[GG - Nombre portails Beta]]></item>
+ <item name="halloffame_hl_galaxyGatesCount3"><![CDATA[GG - Nombre portails Gamma]]></item>
+ <item name="halloffame_hl_galaxyGatesCount4"><![CDATA[GG - Nombre portail Y3]]></item>
+ <item name="halloffame_hl_galaxyGatesCount5"><![CDATA[GG - Nombre portails Delta]]></item>
+ <item name="halloffame_hl_galaxyGatesCount8"><![CDATA[GG - Nombre portails Epsilon]]></item>
+ <item name="halloffame_hl_galaxyGatesCount9"><![CDATA[GG - Nombre portails Zêta]]></item>
+ <item name="halloffame_hl_galaxyGatesCount10"><![CDATA[GG - Nombre portails Kappa]]></item>
+ <item name="halloffame_hl_galaxyGatesCount11"><![CDATA[GG - Nombre portails Lambda]]></item>
+ <item name="halloffame_hl_galaxyGatesCount12"><![CDATA[GG - Nombre portails Chronos]]></item>
+ <item name="halloffame_hl_TDMCompanyOverallRanking"><![CDATA[TDM - Classement total firmes]]></item>
+ <item name="halloffame_hl_TDMUserOverallRanking"><![CDATA[TDM - Classement total joueurs]]></item>
+ <item name="halloffame_hl_TDMUserDailyRanking"><![CDATA[TDM - Classement quotidien joueurs]]></item>
+ <item name="halloffame_medal_hitpoints"><![CDATA[%hitpoints% points de vie]]></item>
+ <item name="halloffame_medal_kills"><![CDATA[%kills% Destructions]]></item>
+ <item name="halloffame_medal"><![CDATA[Médaille]]></item>
+ <item name="halloffame_summergames"><![CDATA[Jeux d'été]]></item>
+ <item name="halloffame_hl_invasion"><![CDATA[Classement Invasion]]></item>
+ <item name="halloffame_h1_pvpBountyHuntDaily"><![CDATA[Chasse à la prime - Classement du jour]]></item>
+ <item name="halloffame_h1_pvpBountyHuntOverall"><![CDATA[Chasse à la prime - Classement global]]></item>
+ <item name="halloffame_h1_july4thSmall"><![CDATA[4 juillet - Petit feu d'artifice]]></item>
+ <item name="halloffame_h1_july4thMedium"><![CDATA[4 juillet - Feu d'artifice moyen]]></item>
+ <item name="halloffame_h1_july4thLarge"><![CDATA[4 juillet - Grand feu d'artifice]]></item>
+ <item name="halloffame_points"><![CDATA[Points :]]></item>
+ <item name="halloffame_h1_npcHunt"><![CDATA[Chasse aux NPCs]]></item>
+ <item name="halloffame_h1_npcHuntRanking"><![CDATA[Classement de chasse aux NPCs]]></item>
+ <item name="halloffame_h1_npcHuntUserRankLordakia"><![CDATA[Chasse aux NPCs Lordakia - classement joueurs]]></item>
+ <item name="halloffame_h1_npcHuntUserRankMordon"><![CDATA[Chasse aux NPCs Mordon - classement joueurs]]></item>
+ <item name="halloffame_h1_npcHuntUserRankSaimon"><![CDATA[Chasse aux NPCs Saimon - classement joueurs]]></item>
+ <item name="halloffame_h1_npcHuntClanRankLordakia"><![CDATA[Chasse aux NPCs Lordakia - classement clans]]></item>
+ <item name="halloffame_h1_npcHuntClanRankMordon"><![CDATA[Chasse aux NPCs Mordon - classement clans]]></item>
+ <item name="halloffame_h1_npcHuntClanRankSaimon"><![CDATA[Chasse aux NPCs Saimon - classement clans]]></item>
+ <item name="halloffame_h1_npcHuntFactionRankLordakia"><![CDATA[Chasse aux NPCs - classement de firmes]]></item>
+ <item name="halloffame_h1_npcHuntFactionLordakia"><![CDATA[Chasse aux NPCs Lordakia]]></item>
+ <item name="halloffame_h1_npcHuntFactionMordon"><![CDATA[Chasse aux NPCs Mordon]]></item>
+ <item name="halloffame_h1_npcHuntFactionSaimon"><![CDATA[Chasse aux NPCs Saimon]]></item>
+ <item name="halloffame_h1_SpaceFootball"><![CDATA[Football spatial]]></item>
+ <item name="halloffame_h1_FootballTDM"><![CDATA[TDM de foot]]></item>
+ <item name="halloffame_h1_LvlFootballGate"><![CDATA[Portail football de niveau]]></item>
+ <item name="halloffame_h1_Euro2012Factions"><![CDATA[Classement de firme Coupe de l'espace 2012]]></item>
+ <item name="halloffame_h1_SolarClash2012"><![CDATA[Solar Clash 2012 - Classement général]]></item>
+ <item name="halloffame_h1_OrbitRace"><![CDATA[Orbit Race]]></item>
+ <item name="halloffame_h1_TargetShooting"><![CDATA[Tir sur Cibles]]></item>
+ <item name="halloffame_h1_CollectionMarathon"><![CDATA[Marathon de collecte]]></item>
+ <item name="halloffame_h1_Triathlon"><![CDATA[Triathlon]]></item>
+ <item name="halloffame_h1_SolarClashGate"><![CDATA[Portail de classement]]></item>
+ <item name="halloffame_h1_ClanBattleStation"><![CDATA[Station de combat du clan]]></item>
+ <item name="invasion_title"><![CDATA[Invasion]]></item>
+ <item name="invasion_waves"><![CDATA[Séries d'attaques]]></item>
+ <item name="invasion_points"><![CDATA[Points]]></item>
+ <item name="invasion_level"><![CDATA[Niveau]]></item>
+ <item name="ctb_points"><![CDATA[Points]]></item>
+ <item name="ctb_time_with_beacon"><![CDATA[Durée de transport de balise]]></item>
+ <item name="ctb_beacon_holder_kills"><![CDATA[Porteur de balise éliminé]]></item>
+ <item name="ctb_pickups_of_beacon"><![CDATA[Balise capturée]]></item>
+ <item name="ctb_company_vs_company"><![CDATA[%COMPANY_1% contre %COMPANY_2%]]></item>
+ <item name="prize_EP"><![CDATA[XXX % de PE en plus.]]></item>
+ <item name="prize_SELL_ORE"><![CDATA[XXX % de plus lors de la vente de minerais.]]></item>
+ <item name="prize_MORE_BONUS"><![CDATA[XXX % de plus dans les boîtes bonus.]]></item>
+ <item name="prize_HONOUR"><![CDATA[XXX % d'honneur en plus]]></item>
+ <item name="prize_CREDITS"><![CDATA[XXX % de Crédits en plus]]></item>
+ <item name="prize_URIDIUM"><![CDATA[XXX % d'Uridium en plus]]></item>
+ <item name="prize_no_winner"><![CDATA[Aucun gagnant]]></item>
+ <item name="prize_records"><![CDATA[Records :]]></item>
+ <item name="prize_total_winings"><![CDATA[Total victoires :]]></item>
+ <item name="spaceball"><![CDATA[Spaceball]]></item>
+ <item name="live"><![CDATA[LIVE]]></item>
+ <item name="preis"><![CDATA[Prix :]]></item>
+ <item name="akt_results"><![CDATA[Résultats<br />actuels]]></item>
+ <item name="capture_the_beacon"><![CDATA[Capture the Beacon]]></item>
+ <item name="capture_the_beacon_short"><![CDATA[CTB]]></item>
+ <item name="ctb_match_reward"><![CDATA[Gain pour ce round :]]></item>
+ <item name="ctb_daily_reward"><![CDATA[Prix du jour :]]></item>
+ <item name="ctb_score"><![CDATA[Score :]]></item>
+ <item name="ctb_last_matches_scores"><![CDATA[Derniers rounds :]]></item>
+ <item name="ctb_next_match_time"><![CDATA[Prochain round :]]></item>
+ <item name="ctb_next_matches_times"><![CDATA[Les prochains rounds :]]></item>
+ <item name="ctb_current_time"><![CDATA[Heure DarkOrbit actuelle :]]></item>
+ <item name="bot_using_penalty"><![CDATA[Punition pour utilisation de Bot]]></item>
+ <item name="bot_using_suspension"><![CDATA[Clôture pour cause d'utilisation Bot]]></item>
+ <item name="bot_explanation"><![CDATA[L'utilisation de bots et de scripts de votre part a mené à la suspension de votre compte ou a une autre sanction. Pour plus de détails à ce sujet, veuillez vous adresser au support.]]></item>
+ <item name="team_deathmatch"><![CDATA[Team Deathmatch]]></item>
+ <item name="team_deathmatch_short"><![CDATA[TDM]]></item>
+ <item name="infiltration"><![CDATA[Infiltration]]></item>
+ <item name="infiltration_short"><![CDATA[Inf]]></item>
+ <item name="meta_title_eurocup_2012"><![CDATA[Darkorbit | Combattez pour la Coupe de l'Espace 2012 !]]></item>
+ <item name="meta_descr_eurocup_2012"><![CDATA[La Coupe de l'Espace 2012 est le spectacle de foot ultime dans DarkOrbit ! Battez-vous pour rapporter le titre de champion à votre firme ! Engagez-vous !]]></item>
+ <item name="calendar_head"><![CDATA[Calendrier de l'hiver de DarkOrbit]]></item>
+ <item name="calendar_popup_success_headline"><![CDATA[Joyeuses fêtes d'hiver !]]></item>
+ <item name="calendar_popup_success_subheading"><![CDATA[Vos cadeaux :]]></item>
+ <item name="calendar_popup_notyet_headline"><![CDATA[Vous ne pouvez pas encore ouvrir ce cadeau !]]></item>
+ <item name="calendar_popup_notyet_subheading"><![CDATA[La date du jour doit coïncider avec la porte du calendrier.]]></item>
+ <item name="calendar_popup_toolate_headline"><![CDATA[Vous ne pouvez pas ouvrir cette porte !]]></item>
+ <item name="calendar_popup_toolate_subheading"><![CDATA[La date de cette porte est déjà passée.]]></item>
+ <item name="calendar_text_top"><![CDATA[Jusqu'au 24 décembre, ouvrez une porte du calendrier de l'hiver par jour. Ne laissez pas filer les jours, car une fois que la date est dépassée, les portes restent fermées !]]></item>
+ <item name="calendar_frost_text_top"><![CDATA[Obtenez une récompense quotidienne en ouvrant la porte du jour du Calendrier Hivernal. N'oubliez pas de revenir chaque jour ouvrir la porte, car si vous en manquez une, celle-ci sera scellée. Cette offre dure du 1er au 24 janvier 2017 !]]></item>
+ <item name="calendar_dailylogin_reminder"><![CDATA[Le bonus de connexion normal reste disponible chaque jour. En voici la fenêtre : <a id="calendar_login_link">cliquez ici</a>.]]></item>
+ <item name="calendar_dailylogin_link_alt"><![CDATA[Bonus de connexion]]></item>
+ <item name="calendar_spring_popup_success_headline"><![CDATA[Célébrez le soleil !]]></item>
+ <item name="calendar_spring_head"><![CDATA[Calendrier solaire]]></item>
+ <item name="calendar_spring_text_top"><![CDATA[Quelles surprises peut bien receler le calendrier solaire ? Connectez-vous tous les jours pour toutes les récupérer, car si vous oubliez une journée, vous passerez à côté de la récompense associée !]]></item>
+</resource>

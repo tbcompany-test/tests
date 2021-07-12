@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="recurring_rocket_SAR_headline"><![CDATA[<span class="bn_headline">Kurzzeitig
+            verfügbar: Brandneue Hellstorm-Raketen</span>]]></item>
+ <item name="recurring_rocket_SAR_teaser"><![CDATA[<div class="bn_teaser">Gute Nachrichten,
+            Space-Piloten!</div><br />]]></item>
+ <item name="recurring_rocket_SAR_content"><![CDATA[<div class="bn_text">Diese Piraten-Beute ist immer
+            wieder für Überraschungen gut! Jetzt wurde von einigen Piloten schon wieder ein echtes Wunderwerk
+            der Waffentechnologie darin gefunden: <span class="bn_highlight"><b>die Hellstorm-SAR-Raketen!</span></b>
+            Wir haben die Technologie genau studiert und diese äußerst kleinen, aber enorm effektiven
+            Hellstorm-SAR-Raketen nachgebaut.
+            <br /><br />
+            <div class="bn_teaser"><b>Klein und effektiv: Schildabsorbierende Hellstorm-Raketen</b></div><br />
+            Die Hellstorm-SAR-Raketen <span class="bn_highlight"><b>absorbieren die Schildkraft des
+            Gegners</span></b> und übertragen sie auf das eigene Schiff ... gleichzeitig sind diese Raketen
+            so kompakt, dass sie sogar in den Rocketlauncher passen. Eine echte Meisterleistung!
+            <br /><br /></div>]]></item>
+ <item name="recurring_rocketSAR_footer"><![CDATA[<div class="bn_footer">Haut rein, Piloten,
+            holt Euch die Hellstorm-Raketen und macht Euren Gegnern die Hölle heiß!<br />
+            <br />
+            Euer DarkOrbit-Team</div>]]></item>
+ <item name="recurring_rocket_SAR_withPayment_headline"><![CDATA[<span class="bn_headline">Kurzzeitig
+        verfügbar: Brandneue Hellstorm-Raketen</span>]]></item>
+ <item name="recurring_rocket_SAR_withPayment_teaser"><![CDATA[<div class="bn_teaser">Great news,
+        Space Pilots!</div><br />]]></item>
+ <item name="recurring_rocket_SAR_withPayment_content"><![CDATA[<div class="bn_text">Diese Piraten-Beute ist immer
+        wieder für Überraschungen gut! Jetzt wurde von einigen Piloten schon wieder ein echtes Wunderwerk
+        der Waffentechnologie darin gefunden: <span class="bn_highlight"><b>die Hellstorm-SAR-Raketen!</span></b>
+        Wir haben die Technologie genau studiert und diese äußerst kleinen, aber enorm effektiven
+        Hellstorm-SAR-Raketen nachgebaut.
+        <br /><br />
+        <div class="bn_teaser"><b>Klein und effektiv: Schildabsorbierende Hellstorm-Raketen</b></div><br />
+        Die Hellstorm-SAR-Raketen <span class="bn_highlight"><b>absorbieren die Schildkraft des
+        Gegners</span></b> und übertragen sie auf das eigene Schiff ... gleichzeitig sind diese Raketen
+        so kompakt, dass sie sogar in den Rocketlauncher passen. Eine echte Meisterleistung!
+        <br /><br />
+        <div class="bn_teaser"><b>Nur kurzzeitig im Payment verfügbar!</b></div><br />
+        Die Hellstorm-SAR-Raketen in der Piraten-Beute sind äußerst rar und nur mit viel Glück zu finden.
+        Clevere Space-Piloten nutzen die Gunst der Stunde und holen sie sich direkt im Payment. Der Clou:
+        Es gibt sogar eine dauerhaft verfügbare <span class="bn_highlight"><b>Version für Credits im
+        Shop</span></b>!
+        <br /><br />
+        </div>]]></item>
+ <item name="recurring_rocketSAR_withPayment_footer"><![CDATA[<div class="bn_footer">Haut rein, Piloten,
+        holt Euch die Hellstorm-Raketen und macht Euren Gegnern die Hölle heiß!<br />
+        <br />
+        Euer DarkOrbit-Team</div>]]></item>
+ <item name="event_influence_mmo_title"><![CDATA[Discours de Morgus Petterson]]></item>
+ <item name="event_influence_mmo_text"><![CDATA[Je ne le dis pas souvent, mais je suis très fier de faire partie de MMO !<br /> <br />Je travaille dur, je gagne bien ma vie, j'apprécie mon temps libre et je bénéficie du soutien et de la gouvernance de mes pairs. Je ne suis pas jugé par des snobs comme EIC, qui pensent que la valeur d'une personne se mesure à la qualité de ses vêtements. Je n'ai pas à participer à des expériences génétiques ou extraterrestres, ni à envoyer mes enfants dans des garderies communautaires stériles, comme c'est la coutume chez VRU. Aidez-nous à montrer à l'univers que MMO propose ce qu'il y a de mieux !<br /> <br />Nous avons commencé à prendre conscience de l'Influence que nous gagnons, et elle nous aidera à acquérir la confiance des civils, à recruter des soldats et, avec un peu de chance, à rallier de nouveaux membres.<br /> <br />Pirates, hors-la-loi, mineurs, colonies indépendantes et aventuriers galactiques sont nos alliés naturels et ils rejoindront MMO dès que nous serons suffisamment influents. Peut-être qu'un jour nous parviendrons à unir toute l'humanité, de la même manière que Willem Cuper a uni tous les Martiens !<br /> <br />]]></item>
+ <item name="event_influence_eic_title"><![CDATA[Discours de Reginald Crowley]]></item>
+ <item name="event_influence_eic_text"><![CDATA[J'espère que, tout comme moi, vous êtes fier d'appartenir à une organisation aussi ancienne et aussi bienveillante qu'EIC — une organisation qui a libéré l'humanité des contraintes du travail et qui a permis d'utiliser notre énergie et notre savoir pour des activités plus agréables, comme la conquête des étoiles.<br /> <br />Nous n'avons pas besoin de travailler un sol aride ou de dépouiller nos prochains, comme le font les Martiens, ni de subir la corruption extraterrestre qui menace notre espèce, comme c'est le cas chez VRU. Nous devons nous élever au-dessus de ces deux compagnies !<br /> <br />Nous avons commencé à prendre conscience de l'Influence exercée par toutes les compagnies, et cette Influence est cruciale pour conserver la confiance des civils, recruter des soldats ou rallier à notre cause les membres les plus brillants de l'humanité.<br /> <br />Ensemble, nous pourrons peut-être protéger toute la race humaine des dangers qui rôdent dans l'espace profond et rétablir la gloire de la planète Terre !<br /> <br />]]></item>
+ <item name="event_influence_vru_title"><![CDATA[Discours de Vanessa Arkadium]]></item>
+ <item name="event_influence_vru_text"><![CDATA[Je l'ai déjà dit et je le répète : VRU est véritablement la meilleure organisation de toute l'histoire de l'humanité !<br /> <br /> Je vis protégé par le soutien du Cercle Intérieur dans tout ce que je fais, tous les jours, de ma naissance à ma mort. J'ai la liberté de suivre ma propre voie.<br /> <br />Je plains les pauvres Martiens, confinés sur une planète hostile gouvernée par une compagnie sanguinaire. J'éprouve de la pitié pour les terriens, coincés sur leur caillou vide de toute ressource et gouverné par une élite qui les vampirise.<br /> <br />Nous pouvons à nouveau donner de l'espoir à ces vies brisées, en étendant notre Influence. Cela leur redonnera espoir et réconfort, tout en nous permettant de recruter de nouveaux alliés et de nouvelles troupes pour nos armées.<br /> <br />Notre potentiel n'a pas de limites, notre voyage ne fait que commencer et, ensemble, nous rendrons parfaite la race humaine !<br /> <br />]]></item>
+ <item name="event_influence_2015_01_mmo_title"><![CDATA[Discours de Morgus Petterson]]></item>
+ <item name="event_influence_2015_01_mmo_text"><![CDATA[Frelons ! Cela fait un moment que je n'ai pas vu vos dards en action. Notre Influence sur la galaxie est en train de se réduire. Nous devons arrêter de nous comporter comme des terriens feignants et trop bien nourris  !<br /><br />J'ai besoin de l'aide de chacun d'entre vous, pour que nous puissions augmenter notre influence. Cela nous donnera également meilleure image, ce qui plaira aux civils et se traduira par une hausse du recrutement des troupes. Et qui sait, peut-être que des membres des autres compagnies feront défection pour venir nous rejoindre !<br /><br />De plus, j'ai une proposition à vous faire : vous allez pouvoir améliorer vos talents car vous allez tous participer à un safari ! Un bienfaiteur anonyme, certainement plus riche que malin, propose de gagner de la gloire, de l'honneur et plein d'argent, ainsi que des ressources pour la compagnie... et pour vous. Si vous êtes intéressé, venez me voir au QG pour plus d'informations.<br /><br />Frelons ! Soyez vigilants, soyez affamés et, ensemble, nous pourrons rallier toute notre espèce sous la bannière de MMO ! Pour la gloire de Mars !<br /><br />]]></item>
+ <item name="event_influence_2015_01_eic_title"><![CDATA[Discours de Reginald Crowley]]></item>
+ <item name="event_influence_2015_01_eic_text"><![CDATA[Scorpions, je suis au regret de devoir vous annoncer que le niveau d'Influence galactique de EIC subit une forte baisse. Nous devons résoudre ce problème  immédiatement, si nous ne voulons pas qu'EIC perdre sa réputation de guide lumineux de l'humanité.<br /><br />Il est fortement conseillé à chacun d'entre vous de faire de son mieux pour mettre fin à cette érosion. L'Influence, c'est quelque chose de critique pour maintenir la confiance avec la population civile, et pour recruter de nouvelles troupes. C'est également notre seul moyen de nous assurer que les humains les plus talentueux rejoignent nos rangs et viennent travailler pour EIC !<br /><br /> Mais assez parlé : je vais vous offrir une possibilité incroyable de montrer vos talents. Un très riche bienfaiteur anonyme vient d'organiser une compétition de type Safari, comme dans l'ancien temps. Le vainqueur touchera des récompenses qui dépasseront ses rêves de fortune et de gloire les plus fous. Lui et sa compagnie gagneront des crédits et des ressources, ainsi qu'un regain d'Influence. Venez me voir au QG pour plus d'informations !<br /><br />Et n'oubliez pas, mes chers Scorpions, de garder en tête notre objectif ultime : unir tous les humains sous notre fière bannière. Ensemble, nous ferons en sorte que la Terre occupe  le rang qui lui est dû : être le centre de l'humanité !<br />]]></item>
+ <item name="event_influence_2015_01_vru_title"><![CDATA[Discours de Vanessa Arkadium]]></item>
+ <item name="event_influence_2015_01_vru_text"><![CDATA[J'appelle tous les Cobras - je réclame votre attention ! Je viens de recevoir nos dernières études de marché et les chiffres ne sont pas en notre faveur : notre Influence diminue grandement à travers tout le système solaire. Nous ne pouvons pas continuer dans cette voie ! Le futur de l'espèce humaine est en jeu !<br /><br />Le Cercle Intérieur encourage chacun à rectifier cela. Si EIC ou MMO prennent le pouvoir, l'humanité sera plongée dans un âge de ténèbres spirituelles et scientifiques. Plus nous avons d'Influence, plus nous maintenons la confiance de nos concitoyens du Cercle Intérieur, et plus nous recevons de candidatures de personnes souhaitant rejoindre nos troupes de combat. Seule VRU est capable de montrer à l'humanité la voie vers la Lumière de la Vérité, et d'éloigner notre espèce des errements des autres compagnies !<br /><br />Pour vous aider, j'ai une drôle d'offre à vous faire : un multimilliardaire excentrique vient d'organiser une compétition faisant penser à un safari, qui couvrira de gloire et de marchandises les gagnants, tout en apportant un regain d'Influence à leurs employeurs ! Si vous êtes intéressé, venez me voir au QG et je vous expliquerai tout cela en détail.<br /><br />N'oubliez pas, Cobras : ensemble, l'impossible devient possible ! Ensemble, nous pourrons être les guides qui aideront l'humanité à devenir une espèce parfaite !<br /><br />]]></item>
+ <item name="event_influence_title"><![CDATA[Classement Influence]]></item>
+ <item name="event_influence_characterSpeech"><![CDATA[Discours du Commandant]]></item>
+ <item name="event_influenceBattle_action_npcKill"><![CDATA[Extraterrestres tués]]></item>
+ <item name="event_influenceBattle_action_enemyFactionPlayerKill"><![CDATA[Pilotes tués]]></item>
+ <item name="event_influenceBattle_action_questFinished"><![CDATA[Missions terminées]]></item>
+ <item name="event_influenceBattle_action_teamDeathMatchWin"><![CDATA[Deathmatches en équipe (TDM) gagnés]]></item>
+ <item name="event_influenceBattle_action_sectorControlMatchWin"><![CDATA[Contrôle du secteur remportés]]></item>
+ <item name="event_influenceBattle_action_captureTheBeaconScorePoint"><![CDATA[Points Capture the Beacon]]></item>
+ <item name="event_influenceBattle_action_galaxyGateAlphaDone"><![CDATA[Portails Alpha terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateBetaDone"><![CDATA[Portails Beta terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateGammaDone"><![CDATA[Portails Gamma terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateDeltaDone"><![CDATA[Portails Delta terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateEpsilonDone"><![CDATA[Portails Epsilon terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateZetaDone"><![CDATA[Portails Zeta terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateKappaDone"><![CDATA[Portails Kappa terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateLambdaDone"><![CDATA[Portails Lambda terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateKronosDone"><![CDATA[Portails Kronos terminés]]></item>
+ <item name="event_influenceBattle_action_galaxyGateHadesDone"><![CDATA[Portails Hadès terminés]]></item>
+</resource>

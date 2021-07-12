@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language key="dev">
+ <category name="">
+  <item name="btn_label_start"><![CDATA[START]]></item>
+  <item name="btn_label_claim"><![CDATA[ODBIERZ]]></item>
+  <item name="btn_label_loading"><![CDATA[ŁADOWANIE]]></item>
+  <item name="btn_label_loadstarsystem"><![CDATA[ŁADUJĘ GWIEZDNY SYSTEM]]></item>
+  <item name="login_bonus_panel_title"><![CDATA[BONUS ZA CODZIENNE LOGOWANIE]]></item>
+  <item name="login_bonus_item_headline"><![CDATA[Dzień %VALUE%]]></item>
+  <item name="login_bonus_button_get_premium"><![CDATA[Zdobądź PREMIUM]]></item>
+  <item name="login_bonus_item_headline_premium"><![CDATA[Dzięki PREMIUM zdobywasz także:]]></item>
+  <item name="login_bonus_item_premium_buybutton"><![CDATA[Kup PREMIUM]]></item>
+  <item name="login_bonus_calendar_expires"><![CDATA[Kalendarz zostanie wyzerowany za %VALUE%]]></item>
+  <item name="login_bonus_tooltip_info_premiumitem"><![CDATA[Aby zdobyć nagrodę Premium, MUSISZ posiadać aktywne konto PREMIUM przed zaakceptowaniem standardowej nagrody za 25 logowań!]]></item>
+  <item name="login_bonus_tooltip_info_items"><![CDATA[Zdobądź swoją nagrodę dnia. Nie martw się! Jeżeli przegapisz dzień, nie stracisz swoich postępów aż do momentu wyzerowania kalendarza.]]></item>
+  <item name="login_bonus_tooltip_info_premiumitem_deactivated"><![CDATA[Aby odebrać tę nagrodę, musisz posiadać aktywne konto PREMIUM.]]></item>
+  <item name="login_booster_time_info"><![CDATA[h]]></item>
+  <item name="login_reward_amount_info"><![CDATA[x %VALUE%]]></item>
+  <item name="login_time_day_short"><![CDATA[d]]></item>
+  <item name="login_time_hour_short"><![CDATA[h]]></item>
+  <item name="login_time_minute_short"><![CDATA[m]]></item>
+ </category>
+</language>

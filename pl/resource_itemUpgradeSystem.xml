@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="itemUpgrSyst_upgrDescr_left_head"><![CDATA[Krok 1]]></item>
+ <item name="itemUpgrSyst_upgrDescr_left_text"><![CDATA[Wybierz przedmiot, który chcesz ulepszyć.]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_lasers"><![CDATA[Laser]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_rocketLaunchers"><![CDATA[Wyrzutnia rakietowa]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_shieldGenerators"><![CDATA[Generatory osłony]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_drones"><![CDATA[Drony]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_modules"><![CDATA[Moduły]]></item>
+ <item name="itemUpgrSyst_selectItem_level"><![CDATA[Poziom]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_head"><![CDATA[Krok 2]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_text"><![CDATA[Zdecyduj,
+ile wzmacniaczy ulepszania chcesz użyć w procesie ulepszania.
+    Każdy wzmacniacz zwiększa Twoje szanse podczas próby ulepszania o
+<span class="highlight">5%</span>.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_choose"><![CDATA[W kroku 1 wybierz przedmiot, który chcesz ulepszyć.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_head"><![CDATA[Krok 3]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_text"><![CDATA[Po wybraniu przedmiotu, który chcesz ulepszyć
+i liczby wzmacniaczy ulepszania, które chcesz użyć, możesz rozpocząć próbę ulepszenia.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_vouchers"><![CDATA[Kupony na ulepszenie:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_probability"><![CDATA[Szanse na sukces:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_costs"><![CDATA[Łączne koszty ulepszenia:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_damage"><![CDATA[Szkody:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_shield"><![CDATA[Bonus osłony:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_damageShield"><![CDATA[Bonus szkód/osłony:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_defm-1"><![CDATA[Bonus deflektora:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_dmgm-1"><![CDATA[Bonus hitpoints/powielacza:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_honm-1"><![CDATA[Bonus hitpoints/powielacza:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_hulm-1"><![CDATA[Bonus hitpoints:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-hr"><![CDATA[Bonus hitpoints/szkód:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-lr"><![CDATA[Bonus hitpoints/szkód:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-mr"><![CDATA[Bonus hitpoints/szkód:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ram-la"><![CDATA[Bonus hitpoints/szkód:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ram-ma"><![CDATA[Bonus hitpoints/szkód:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_repm-1"><![CDATA[Bonus hitpoints/naprawy:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_xpm-1"><![CDATA[Bonus hitpoints/powielacza:]]></item>
+ <item name="itemUpgrSyst_right_upgradeButton"><![CDATA[Ulepszenie]]></item>
+ <item name="itemUpgrSyst_right_upgrade_start_upper"><![CDATA[ROZPOCZNIJ ULEPSZENIE]]></item>
+ <item name="itemUpgrSyst_right_upgrade_attempt_start_upper"><![CDATA[ROZPOCZNIJ PRÓBĘ]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_headProgress"><![CDATA[Postęp procesu ulepszania]]></item>
+ <item name="itemUpgrSyst_right_progressButton"><![CDATA[Postęp]]></item>
+ <item name="itemUpgrSyst_right_upgradeLogButton"><![CDATA[Dziennik ulepszania]]></item>
+ <item name="itemUpgrSyst_right_upgradeCollectAllButton"><![CDATA[Zbierz wszystko]]></item>
+ <item name="itemUpgrSyst_right_upgradeFinishAllButton"><![CDATA[Zakończ wszystkie]]></item>
+ <item name="itemUpgrSyst_right_upgradeListInfo"><![CDATA[Próba ulepszenia: ukończone %PERCENT%%]]></item>
+ <item name="itemUpgrSyst_right_upgraded"><![CDATA[Ulepszenie z poziomu %LEVEL_OLD% do poziomu %LEVEL_NEW%]]></item>
+ <item name="itemUpgrSyst_right_not_upgraded"><![CDATA[Próba ulepszenia nie powiodła się]]></item>
+ <item name="itemUpgrSyst_history_update_module_success"><![CDATA[Proces ulepszania modułu do poziomu %NEW_LEVEL% powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_module_fail"><![CDATA[Proces ulepszania modułu do poziomu %NEW_LEVEL% nie powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_laser_success"><![CDATA[Proces ulepszania lasera do poziomu %NEW_LEVEL% powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_laser_fail"><![CDATA[Proces ulepszania lasera do poziomu %NEW_LEVEL% nie powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_shieldgenerator_success"><![CDATA[Proces ulepszania generatora do poziomu %NEW_LEVEL% powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_shieldgenerator_fail"><![CDATA[Proces ulepszania generatora do poziomu %NEW_LEVEL% nie powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_rocketlauncher_success"><![CDATA[Proces ulepszania wyrzutni rakiet do poziomu %NEW_LEVEL% powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_rocketlauncher_fail"><![CDATA[Proces ulepszania wyrzutni rakiet do poziomu %NEW_LEVEL% nie powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_drone_success"><![CDATA[Proces ulepszania drona do poziomu %NEW_LEVEL% powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_drone_fail"><![CDATA[Proces ulepszania drona do poziomu %NEW_LEVEL% nie powiódł się.]]></item>
+ <item name="itemUpgrSyst_history_update_complete_all"><![CDATA[Przeprowadzone ulepszenia przedmiotu (udane: %AMOUNT_SUCCESS%, nieudane: %AMOUNT_FAIL%).]]></item>
+ <item name="itemUpgrSyst_balance_update_module"><![CDATA[Próba ulepszenia modułu do poziomu %NEW_LEVEL% rozpoczęta.]]></item>
+ <item name="itemUpgrSyst_balance_update_laser"><![CDATA[Rozpoczęto próbę ulepszenia lasera do poziomu %NEW_LEVEL%.]]></item>
+ <item name="itemUpgrSyst_balance_update_shieldgenerator"><![CDATA[Rozpoczęto próbę ulepszenia generatora do poziomu %NEW_LEVEL%.]]></item>
+ <item name="itemUpgrSyst_balance_update_rocketlauncher"><![CDATA[Rozpoczęto próbę ulepszenia wyrzutni rakiet do poziomu %NEW_LEVEL%.]]></item>
+ <item name="itemUpgrSyst_balance_update_drone"><![CDATA[Rozpoczęto próbę ulepszenia drona do poziomu %NEW_LEVEL%.]]></item>
+ <item name="itemUpgrSyst_help"><![CDATA[Używając systemu ulepszania, możesz dodać do swoich laserów,
+generatorów osłony, wyrzutni rakiet i dronów stały bonus. <br></br>Wszystkie przedmioty możesz ulepszyć maksymalnie do 15
+poziomu. Każdy poziom i przedmiot musi być osobno ulepszony.<br><br>Nie ma gwarancji, że próba ulepszenia powiedzie się, chyba że wpłyniesz na proces
+ulepszania, używając wzmacniacza ulepszania. <br><br>Możesz zmieniać liczbę wzmacniaczy ulepszania w 2 kroku procesu ulepszania
+(zwiększając tym samym szanse na sukces nawet do 100%).]]></item>
+ <item name="itemUpgrSyst_attempt_start"><![CDATA[Rozpoczęto ulepszanie przedmiotu.]]></item>
+ <item name="itemUpgrSyst_attempt_start_fail_credits"><![CDATA[Masz za mało kredytów, aby ulepszyć ten przedmiot.]]></item>
+ <item name="itemUpgrSyst_attempt_start_fail_uridium"><![CDATA[Masz za mało uridium, aby ulepszyć ten przedmiot.]]></item>
+ <item name="itemUpgrSyst_attempt_success"><![CDATA[Ulepszanie przedmiotu powiodło się.]]></item>
+ <item name="itemUpgrSyst_attempt_fail"><![CDATA[Ulepszanie przedmiotu nie powiodło się.]]></item>
+ <item name="itemUpgrSyst_ready_click"><![CDATA[Gotowe. Kliknij tutaj.]]></item>
+ <item name="itemUpgrSyst_percent_value"><![CDATA[%VALUE%%]]></item>
+ <item name="itemUpgrSyst_minute_value"><![CDATA[%VALUE% min.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_maxUpgradeHint"><![CDATA[*Maks. poziom ulepszania: %MAX_LEVEL%]]></item>
+</resource>

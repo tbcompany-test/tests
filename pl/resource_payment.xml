@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="payment_starter_packs_headline"><![CDATA[Pakiety startowe]]></item>
+ <item name="payment_starter_packs_headline_new"><![CDATA[Pakiety startowe]]></item>
+ <item name="payment_starter_packs_text"><![CDATA[Znajdujesz się zawsze w krzyżowym ogniu? Skorzystaj z tej oferty... I odeprzyj każdy atak!]]></item>
+ <item name="payment_premium_members_headline"><![CDATA[Członkostwo Premium]]></item>
+ <item name="payment_premium_members_text"><![CDATA[Nieodzowne dla ambitnych pilotów. Podbij kosmos!]]></item>
+ <item name="payment_advantage_packs_headline"><![CDATA[Pakiety korzyści]]></item>
+ <item name="payment_advantage_packs_headline_new"><![CDATA[Pakiety oszczędnościowe]]></item>
+ <item name="payment_advantage_packs_text"><![CDATA[Szybciej, mocniej, efektywniej. Nikt nie będzie chciał z Tobą zadzierać!]]></item>
+ <item name="payment_equipment_packs_headline"><![CDATA[Pakiety wyposażenia]]></item>
+ <item name="payment_deal_packs_headline"><![CDATA[Najlepsze promocje]]></item>
+ <item name="payment_equipment_packs_text"><![CDATA[Ognia! Naucz swoich wrogów co to strach - z potężną bronią i osłonami twardymi jak stal.]]></item>
+ <item name="payment_get_uridium"><![CDATA[Zdobądź uridium]]></item>
+ <item name="payment_earn_uridium"><![CDATA[Cash for action]]></item>
+ <item name="payment_lottery_text_title"><![CDATA[LOTERIA KAPSUŁKOWA]]></item>
+ <item name="payment_lottery_text_description"><![CDATA[Kapsułki możesz zdobyć na trzy sposoby. Jeden sposób to zniszczenie NPC HITACa lub pokonanie jego minionów. Dzięki temu otrzymasz fragmenty układanki literowej. Jeśli chcesz, możesz nabyć nowe kapsułki również w dziale płatności. 
+Na stronie URIDUM możesz zamienić Twoje kapsułki na losy do obydwu losowań. Kliknij w tym celu na przycisk pod przetwornikiem. Jeśli chcesz przetworzyć więcej niż jedną kapsułkę na los, możesz podwyższyć ilość w odpowiednim menu.]]></item>
+ <item name="payment_lottery_text_remaincapsules"><![CDATA[Pozostałe kapsułki]]></item>
+ <item name="payment_lottery_button_payment"><![CDATA[Kup więcej kapsułek]]></item>
+ <item name="payment_lottery_text_sunconverter"><![CDATA[Przetwornik słoneczny]]></item>
+ <item name="payment_lottery_text_moonconverter"><![CDATA[Przetwornik księżycowy]]></item>
+ <item name="payment_lottery_text_frostconverter"><![CDATA[Konwerter mrozu]]></item>
+ <item name="payment_lottery_text_hitacconverter"><![CDATA[Konwerter kapsułek]]></item>
+ <item name="payment_lottery_text_converter"><![CDATA[Konwerter kapsułek]]></item>
+ <item name="payment_lottery_text_convert"><![CDATA[Wymień]]></item>
+ <item name="payment_lottery_select_defaulttext"><![CDATA[Wybierz ilość]]></item>
+ <item name="payment_lottery_text_log_head"><![CDATA[Dziennik natychmiastowych nagród]]></item>
+ <item name="payment_lottery_text_log_description"><![CDATA[Dostępne również w dzienniku]]></item>
+ <item name="payment_lottery_text_log_text_capsules"><![CDATA[%amount% przetworzonych kapsułek]]></item>
+ <item name="payment_lottery_text_disclaimer"><![CDATA[Zasady uczestnictwa: Pracownicy firmy Bigpoint, jak i ich partnerzy oraz krewni, są wykluczeni z uczestnictwa. W wypadku naruszenia postanowień Warunków uczestnictwa firma Bigpoint zastrzega sobie prawo do dyskwalifikacji albo zablokowania uczestnika konkursu. Osoby, które używają nielegalnych metod lub manipulują grą w jakikolwiek inny sposób w celu uzyskania korzyści, również zostaną zdyskwalifikowane. W podanych wyżej przypadkach organizator stwierdza nieważność decyzji o przyznaniu nagród.<br>Ponadto informujemy, że użytkownicy z Włoch, Brazylii oraz niektórych stanów w Stanach Zjednoczonych nie mogą brać udziału w loterii z nagrodami rzeczowymi.]]></item>
+ <item name="payment_lottery_text_dialog_nocapsules"><![CDATA[Nie posiadasz kapsułek do przetworzenia. W dziale płatności możesz uzupełnić zapasy: %LINK_START%Kup więcej kapsułek%LINK_END%]]></item>
+ <item name="payment_lottery_tooltip_moonconverter"><![CDATA[Konwerter Księżyca umożliwia wymianę kapsułek na losy loterii, dzięki którym masz szansę zdobyć wspaniałe nagrody w grze.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter"><![CDATA[Za pomocą konwertera mrozu można wymienić kapsułki na losy loterii i zdobyć szanse wygrania wspaniałych nagród w grze!]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter"><![CDATA[Za pomocą konwertera kapsułek można wymienić kapsułki na losy loterii i zdobyć szanse wygrania wspaniałych nagród w grze.]]></item>
+ <item name="payment_lottery_tooltip_sunconverter"><![CDATA[Konwerter Słońca umożliwia wymianę kapsułek na losy loterii partnerskiej, dzięki którym masz szansę zdobyć wspaniałe nagrody rzeczowe.]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country"><![CDATA[Uczestnictwo w loterii partnerskiej jest niedozwolone w Twoim kraju.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_sunconverter"><![CDATA[Udało Ci się wymienić kapsułkę (kapsułki) w konwerterze Słońca.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_moonconverter"><![CDATA[Udało Ci się wymienić kapsułkę (kapsułki) w konwerterze Księżyca.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_frostconverter"><![CDATA[Udało ci się wymienić kapsułki w konwerterze mrozu.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_hitacconverter"><![CDATA[Udało ci się pomyślnie wymienić kapsułki w konwerterze.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header"><![CDATA[Wygrane loterii (Konwerter Słońca)]]></item>
+ <item name="partnerPromo _popup_prizes_antec_teaser"><![CDATA[TEASER]]></item>
+ <item name="partnerPromo _popup_prizes_antec_content"><![CDATA[Zdobądź fantastyczne nagrody w konwerterze Słońca! Wymieniając kapsułki na losy loterii w konwerterze Słońca, masz jedyną w swoim rodzaju okazję wygrania wyjątkowego <span class="breakingNewsHighlightBlue"><b>notebooka do gier SCHENKER S413 Slim</b></span>. W losowaniu do zdobycia będzie również 50 innych atrakcyjnych nagród w postaci sprzętu komputerowego firmy ROCCAT™. Informujemy, że losowanie ma zastosowanie do całej gry DarkOrbit, a nie tylko określonego serwera (zdjęcia mogą różnić się od oryginału).]]></item>
+ <item name="partnerPromo _popup_prizes_antec_footer"><![CDATA[FOOTER]]></item>
+ <item name="payment_lottery_tooltip_sunconverter_default"><![CDATA[W Konwerterze Słońca możesz wymienić kapsułki na losy loterii!]]></item>
+ <item name="payment_lottery_tooltip_moonconverter_default"><![CDATA[W konwerterze Księżyca możesz przetwarzać kapsułki na losy loterii, oferującej do wygrania rewelacyjne przedmioty w grze jak np. 1 milion uridium lub pakiet laserów LF4.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter_default"><![CDATA[Wymień swoje kapsułki na losy loterii Hitac za pomocą konwertera mrozu. Czekają niezwykłe nagrody, w szczególności lodowy portal, nowe arktyczne designy statków, zestawy laserów LF-4, milion uridium i nie tylko!]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter_default"><![CDATA[Zamień kapsułki na losy w Loterii Hitac, dzięki konwerterowi kapsułek. Czekają cię wspaniałe nagrody, w tym Megadrill Lf-4, pakiety laserów LF-4, indoktrynol, barwa inferno i cały miesiąc premium!]]></item>
+ <item name="payment_lottery_text_description_default"><![CDATA[Kapsułki możesz zdobyć na trzy sposoby. Zniszcz statek-matkę "HITAC 2.0" lub pokonaj jego miniony i zdobądź fragmenty literowej układanki. Jeśli chcesz, możesz nabyć nowe kapsułki również w dziale płatności. Na stronie URIDIUM możesz zamienić swoje kapsułki na losy dla losowań loterii słonecznej i księżycowej. Kliknij w tym celu na przycisk pod konwerterem. Jeśli chcesz przetworzyć więcej niż jedną kapsułkę na los, możesz podwyższyć ilość w odpowiednim menu.]]></item>
+ <item name="payment_lottery_text_description_frostevent"><![CDATA[Istnieją trzy sposoby na zdobycie kapsułek: zniszczenie statku-matki Frost Hitac, pokonanie jednostek strażniczych i stworzenie słowa-klucza akcji z udostępnianych przez nich liter lub kupienie ich w sklepie! Na stronie uridium należy wrzucić kapsułki do konwertera mrozu, a w zamian można uzyskać losy loterii. Wystarczy kliknąć przycisk znajdujący się pod konwerterem. Jeżeli chcesz wymienić od razu więcej niż jedną kapsułkę, możesz zwiększyć liczbę w odpowiednim menu.]]></item>
+ <item name="payment_lottery_text_description_hitacevent"><![CDATA[Istnieją trzy sposoby uzyskania kapsułek: zniszczenie statku-matki Hitac, pokonanie minionów i zdobycie liter składających się na słowo kluczowe akcji albo zakupienie ich w naszym sklepie, co jest zdecydowanie najłatwiejszą opcją! Na stronie uridium można wrzucić kapsułki do konwertera, aby w zamian otrzymać losy loterii. Wystarczy kliknąć przycisk pod konwerterem. Jeżeli chcesz za jednym razem wymienić więcej niż jedną kapsułkę, możesz zwiększyć liczbę kapsułek w menu.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header_default"><![CDATA[Nagrody w loterii]]></item>
+ <item name="partnerPromo_popup_prizes_content_default"><![CDATA[<b>Wygraj super nagrody w konwerterze Słońca!</b><br><br>
+Wymień swoje kapsułki na losy loterii za pomocą konwertera Słońca i zdobądź następujący sprzęt do komputera PC:<br><br>
+<ul>
+<li>1 x notebook do gier SCHENKER S413 Slim</li>
+<li>5 x klawiatura ROCCATTM Ryos MK Glow</li>
+<li>5 x mysz ROCCATTM Kone XTD</li>
+<li>5 x zestaw słuchawki z mikrofonem ROCCATTM Kave 5.1</li>
+<li>20 x klawiatura ROCCATTM Isku</li>
+<li>20 x mysz ROCCATTM Kone Pure</li>
+<li>… i wiele więcej!</li>
+	</ul>	
+<br><br>
+<b>Uwaga:</b> Losowanie dotyczy całej orbity, a nie poszczególnych serwerów (rzeczywisty sprzęt może różnić się od przedstawionego na ilustracjach).<br><br><br>
+<b>Wygraj super nagrody w konwerterze Księżyca!</b><br><br>
+Jeżeli zamienisz swoje kapsułki w konwerterze Księżyca na losy loterii, masz szansę wygrania rewelacyjnych przedmiotów używanych w grze (na każdym serwerze):<br><br>
+<ul>
+		<li>1 x 1 milion uridium</li>
+		<li>1 x 30 w pełni udoskonalonych laserów LF4</li>
+		<li>2 x 10 w pełni udoskonalonych laserów LF4</li>
+		<li>5 x 5 w pełni udoskonalonych laserów LF4</li>
+		<li>1 x 30 w pełni udoskonalonych generatorów osłony SG3N-B02</li>
+		<li>2 x 10 w pełni udoskonalonych generatorów osłony SG3N-B02</li>
+		<li>5 x 5 w pełni udoskonalonych generatorów osłony SG3N-B02</li>
+		<li>5 x 50 000 sztuk amunicji laserowej UCB-100</li>
+		<li>20 x 100 000 uridium</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_darkorbit"><![CDATA[<b>Wygraj super nagrody w konwerterze Słońca!</b><br><br>Wymieniając kapsułki na losy loterii w konwerterze Słońca, masz szansę na wygranie cennych kuponów zakupowych do zrealizowania w kilku największych sklepach internetowych:<br><br> <ul> <li>1 x kupon o wartości 1500 Euro</li> <li>3 x kupon o wartości 350 Euro</li> <li>11 x kupon o wartości 150 Euro</li> </ul> <br><br> <b>Uwaga:</b> Zwycięzcy powyższej loterii zostaną rozlosowani spośród wszystkich użytkowników DarkOrbit, bez podziałów na serwery. (Rzeczywiste przedmioty mogą różnić się od przedstawionych na ilustracjach).<br><br><br>
+<b>Wygraj super nagrody w konwerterze Księżyca!</b><br><br>
+Jeżeli zamienisz swoje kapsułki w konwerterze Księżyca na losy loterii, masz na każdym serwerze szansę wygrania rewelacyjnych przedmiotów, używanych w grze:<br><br>
+<ul>
+		<li>1 x 1 milion uridium</li>
+		<li>1 x 30 w pełni udoskonalonych laserów LF4</li>
+		<li>2 x 10 w pełni udoskonalonych laserów LF4</li>
+		<li>5 x 5 w pełni udoskonalonych laserów LF4</li>
+		<li>1 x 30 w pełni udoskonalonych generatorów osłony SG3N-B02</li>
+		<li>2 x 10 w pełni udoskonalonych generatorów osłony SG3N-B02</li>
+		<li>5 x 5 w pełni udoskonalonych generatorów osłony SG3N-B02</li>
+		<li>5 x 50 000 sztuk amunicji laserowej UCB-100</li>
+		<li>20 x 100 000 uridium</li>
+	</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_frost"><![CDATA[<b>Wygrywaj wspaniałe nagrody z wykorzystaniem konwertera mrozu!</b><br><br>
+Wymieniając kapsułki na losy loterii za pomocą konwertera mrozu, masz szansę na zdobycie niesamowitych nagród! Na każdym serwerze można zdobyć następujące nagrody:<br><br>
+<ul>
+<li>1 x milion uridium</li>
+<li>20 x 100 000 uridium</li>
+<li>1 x 30 w pełni udoskonalony laser LF-4</li>
+<li>2 x 10 w pełni udoskonalony laser LF-4</li>
+<li>5 x 5 w pełni udoskonalony laser LF-4</li>
+<li>1 x 30 w pełni udoskonalony generator osłony SG3N-B02</li>
+<li>2 x 10 w pełni udoskonalony generator osłony SG3N-B02</li>
+<li>5 x 5 w pełni udoskonalony generator osłony SG3N-B02</li>
+<li>5 x 50 000 szt. amunicji laserowej UCB-100</li>
+<li>10 x 1 design Arctic Spectrum</li>
+<li>10 x 1 design Arctic Sentinel </li>
+<li>10 x 1 design Arctic Venom</li>
+<li>10 x 1 design Arctic Nostromo Ambassador</li>
+<li>10 x 1 design Arctic Pusat</li>
+<li>10 x 1 design Arctic Vengeance Lightning</li>
+<li>10 x 1 lodowy portal</li>
+</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_hitac"><![CDATA[<b>Zdobądź nagrody dzięki konwerterowi kapsułek!</b><br><br> Jeśli wymienisz kapsułki na losy loterii za pomocą konwertera kapsułek, będziesz mieć szansę na zdobycie niesamowitych nagród! Oto nagrody, które można zdobyć na każdym z serwerów:<br><br> <ul> <li>1 nagroda – 30 x LF-4 Magmadrill</li> <li>2 nagrody – 10 x LF-4 Magmadrill</li> <li>5 nagród – 5 x LF-4 Magmadrill</li> <li>1 nagroda – 30 x LF-4 Level 16</li> <li>2 nagrody – 10 x LF-4 Level 16</li> <li>5 nagród – 5 x LF-4 Level 16</li> <li>3 nagrody – 1350 indoktrynolu</li> <li>20 nagród – 450 indoktrynolu</li> <li>20 nagród – Premium za 1 miesiąc</li> <li>5 nagród – Pełen zestaw Inferno</li> </ul>]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country_default"><![CDATA[Udział w loterii z nagrodami rzeczowymi nie jest niestety dozwolony w Twoim kraju.]]></item>
+ <item name="payment_to_banking"><![CDATA[Dział płatności]]></item>
+ <item name="payment_to_banking_upper"><![CDATA[DZIAŁ PŁATNOŚCI]]></item>
+ <item name="payment_to_deals"><![CDATA[PRZEJDŹ DO OFERT]]></item>
+ <item name="subscription_uridium_start_xl_history"><![CDATA[Wykupiono abonament na pakiet korzyści - Uridium XL]]></item>
+ <item name="subscription_rebate_start_xl_history"><![CDATA[Wykupiono abonament na pakiet korzyści - Rabat XL]]></item>
+ <item name="subscription_double_start_xl_history"><![CDATA[Wykupiono abonament na pakiet korzyści - Podwajacz XL]]></item>
+ <item name="subscription_uridium_start_normal_history"><![CDATA[Wykupiono abonament na pakiet korzyści - Uridium]]></item>
+ <item name="subscription_rebate_start_normal_history"><![CDATA[Wykupiono abonament na pakiet korzyści - Rabat]]></item>
+ <item name="subscription_double_start_normal_history"><![CDATA[Wykupiono abonament na pakiet korzyści - Podwajacz]]></item>
+ <item name="subscription_uridium_ends_xl_history"><![CDATA[Zakończono abonament na pakiet korzyści - Uridium XL]]></item>
+ <item name="subscription_rebate_ends_xl_history"><![CDATA[Zakończono abonament na pakiet korzyści - Rabat XL]]></item>
+ <item name="subscription_double_ends_xl_history"><![CDATA[Zakończono abonament na pakiet korzyści - Podwajacz XL]]></item>
+ <item name="subscription_uridium_ends_normal_history"><![CDATA[Zakończono abonament na pakiet korzyści - Uridium]]></item>
+ <item name="subscription_rebate_ends_normal_history"><![CDATA[Zakończono abonament na pakiet korzyści - Rabat]]></item>
+ <item name="subscription_double_ends_normal_history"><![CDATA[Zakończono abonament na pakiet korzyści - Podwajacz]]></item>
+ <item name="subscription_uridium_booking_history"><![CDATA[Dopisano bonus - Uridium]]></item>
+ <item name="subscription_rebate_booking_history"><![CDATA[Subskrypcja została automatycznie odnowiona]]></item>
+ <item name="subscription_double_booking_history"><![CDATA[Dopisano bonus - Podwajacz]]></item>
+ <item name="payment_hl_1_new"><![CDATA[Pakiet korzyści - Podwajacz:]]></item>
+ <item name="payment_teaser_1_new"><![CDATA[Podwójna przyjemność z gry akcji: każda skrzynka bonusowa zostanie dwukrotnie dopisana do Twojego konta!]]></item>
+ <item name="payment_hl_2_new"><![CDATA[Pakiet korzyści - Uridium:]]></item>
+ <item name="payment_teaser_2_new"><![CDATA[Ty pękasz z dumy, a Twoi wrogowie z zazdrości: <br />przelejemy co tydzień 10 000 uridium na Twoje konto!]]></item>
+ <item name="payment_hl_3_new"><![CDATA[Pakiet korzyści - Rabat:]]></item>
+ <item name="payment_teaser_3_new"><![CDATA[Więcej luksusu za mniej pieniędzy: ten pakiet korzyści da Ci 25% bonusu na każdy zakup przedmiotów za uridium.]]></item>
+ <item name="payment_hl_4_new"><![CDATA[Pakiety startowe - Vengeance, Leonov i Goliath:]]></item>
+ <item name="payment_teaser_4_new"><![CDATA[Jesteś nowa/nowy w DarkOrbit? Skorzystaj teraz z okazji, zaoszczędź do 30% i zdominuj kosmos!]]></item>
+ <item name="payment_hl_5_new"><![CDATA[Pakiety startowe - Challenger, Pro i Elite:]]></item>
+ <item name="payment_teaser_5_new"><![CDATA[Masz węża w kieszeni i wszystko dokładnie przeliczasz? Skorzystaj więc z okazji i zaoszczędź 50% lub więcej!]]></item>
+ <item name="abo_uridium_new"><![CDATA[Uridium Bonus credit]]></item>
+ <item name="promo_pepsi_text_top"><![CDATA[Please enter your promotional code:]]></item>
+ <item name="promo_pepsi_success"><![CDATA[Code successfully redeemed!]]></item>
+ <item name="promo_pepsi_error_1"><![CDATA[An error occurred.<br />Please try again later!]]></item>
+ <item name="promo_pepsi_error_2"><![CDATA[An error occurred.<br />Your account is now locked for 1 hour. Please try again later!]]></item>
+ <item name="promo_pepsi_error_504"><![CDATA[An error occurred.<br />You have entered multiple invalid codes. The system is now temporarily locked!]]></item>
+ <item name="promo_pepsi_error_509"><![CDATA[An error occurred.<br />The code you entered is not valid!]]></item>
+ <item name="promo_pepsi_error_510"><![CDATA[An error occurred.<br />The code you entered has already been redeemed!]]></item>
+ <item name="promo_pepsi_package_redeemed"><![CDATA[Pepsi Promo Package redeemed!]]></item>
+ <item name="preroll_watched"><![CDATA[Obejrzyj krótką reklamę i zdobądź nagrodę!]]></item>
+ <item name="preroll_csi"><![CDATA[Otrzymano premię za uczestnictwo w ankiecie!]]></item>
+ <item name="preroll_payment_link"><![CDATA[Za miniopłatą koniec reklam!]]></item>
+ <item name="preroll_hint"><![CDATA[Obejrzyj tę reklamę do samego końca i odbierz 100 uridium!]]></item>
+ <item name="galaxyGate_cinema_watched"><![CDATA[Poszedłeś do kina i zdobyłeś dodatkową energię!]]></item>
+ <item name="payment_targeted_deal_text"><![CDATA[Skorzystaj teraz z tej doskonałej oferty!]]></item>
+</resource>

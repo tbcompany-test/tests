@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="labor_xtm_test_key"><![CDATA[XTM Test Key in the file laborres.xml]]></item>
+ <item name="labor_rohstoffe"><![CDATA[CRISTAUX]]></item>
+ <item name="labor_intro"><![CDATA[Améliorez votre équipement par cliquer-glisser : faites simplement glisser le cristal sur l'article souhaité !]]></item>
+ <item name="labor_prometid"><![CDATA[PROMETID]]></item>
+ <item name="labor_duranium"><![CDATA[DURANIUM]]></item>
+ <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
+ <item name="labor_items"><![CDATA[AMÉLIORER ARTICLES]]></item>
+ <item name="labor_laser"><![CDATA[LASER]]></item>
+ <item name="labor_raketen"><![CDATA[ROQUETTES]]></item>
+ <item name="labor_antrieb"><![CDATA[PROPULSEURS]]></item>
+ <item name="labor_schild"><![CDATA[BOUCLIER]]></item>
+ <item name="labor_txt_a"><![CDATA[Augmente la puissance de feu de 15 %]]></item>
+ <item name="labor_txt_b"><![CDATA[Augmente la performance de 10 %]]></item>
+ <item name="labor_txt_c"><![CDATA[Augmente la puissance de feu de 30 % ou la performance de 20 %]]></item>
+ <item name="alert_head"><![CDATA[PERFECTIONNEMENT PROMERIUM]]></item>
+ <item name="alert_txt"><![CDATA[Le perfectionnement de cette matière première provoque la perte des perfectionnements déjà effectués.]]></item>
+ <item name="alert_line"><![CDATA[ATTENTION]]></item>
+ <item name="alert_upd"><![CDATA[PERFECTIONNEMENT]]></item>
+ <item name="alert_abo"><![CDATA[ANNULER]]></item>
+</resource>
