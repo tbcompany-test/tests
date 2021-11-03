@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource>
     <item name="t1"><![CDATA[Proszę]]></item>
-    <item name="t2"><![CDATA[test pl]]></item>
+    <item name="t2"><![CDATA[prueba pl]]></item>
     <item name="t4"><![CDATA[proszę pl]]></item>
     <item name="t5"><![CDATA[testowanie test pl]]></item>
     <item name="t6"><![CDATA[Pl]]></item>
-    <item name="t7"><![CDATA[test pl]]></item>
+    <item name="t7"><![CDATA[prueba pl]]></item>
 </resource>
