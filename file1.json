@@ -1,5 +1,6 @@
 {
 	"name": "File one",
 	"description": "This is the content of the first file",
+	"next": "Some content that may be deleted in teh furure",
 	"letsserr": "Maybe this will force the merge"
 }
