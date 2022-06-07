@@ -1,9 +1,0 @@
-{
-	"name": "File three",
-	"description": "This is the content of the third file",
-<<<<<<< HEAD:source3 — kopia (10) — kopia — kopia.json
-=======
-	"next": "Some content that may be deleted in teh furure",
->>>>>>> f3a133a26a357efa6f600d00a9cf5875036a2009:target3 — kopia (10) — kopia — kopia.json
-	"letsserr": "Maybe this will force the merge"
-}
